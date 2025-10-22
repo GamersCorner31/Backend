@@ -16,7 +16,9 @@ async function scrapePage(page) {
   const pageData = [];
   $(".sale-list-item").each((i, el) => {
     const appname = $(el).find(".app-name").text().trim();
+     const appdev = $(el).find(".app-dev").text().trim();
     const appprice = $(el).find(".pricing .price-old").text().trim() || "Free";
+    const appdownloads = $(el).find(".app-meta .downloads").text().replace("star", "").trim();
     const apprating = $(el).find(".app-meta .rating").text().replace("star", "").trim();
     const appredirecturl = $(el).find(".sale-list-action .waves-effect").attr("href");
     let appurl = $(el).find(".app-icon img").attr("src");
@@ -28,8 +30,10 @@ async function scrapePage(page) {
 
     pageData.push({
       appname,
+      appdev,
       appprice,
       apprating,
+      appdownloads,
       appurl,
       appPlatform: "Playstore",
       appredirecturl,
