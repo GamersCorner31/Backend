@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Deals Tracker PRO: eBay Alerts",
+    "appdev": "MobileSoft4You",
+    "appprice": "$3.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/QL0s03tWQp5W6RYs7LmnC6bkFdZl1RI5dIvvJDCqKglVHtmUFON6BU2A9kozn8jDgWaf78m0tpCj3HaC5zbNS1nZ6UBU5KHRvAY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tomlocksapps.dealstracker.ebay.pro"
+  },
+  {
     "appname": "City Destructor HD",
     "appdev": "NODETRACK",
     "appprice": "$2.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
-  },
-  {
-    "appname": "Mind Games Pro",
-    "appdev": "Mindware Consulting, Inc",
-    "appprice": "$2.99",
-    "apprating": "4.9",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Kys2191JTQrb6fwCqcEKGDx2dQ2srf20JkJM4tIKlihK_Z83M6mh2XRB2pRPFqCpFN4OSi8yE4lCpYZaK8_XyOfAbV9nrywksQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=mindware.mindgamespro"
   }
 ]
