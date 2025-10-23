@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Accumulator PDF Mini",
+    "appdev": "Salemo Lines",
+    "appprice": "$4.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kXKfRWoMA_cyFoZdCklVD0oqrP2ABLc3y9yb4AqugM3tnkvPF2dL2b6HwDgeJz5BLQTvQ8s5QBSW9t8_gzTj0oUq2_fMWwB1FmKI0syGXmwCX3Md=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdf_creator_mini"
+  },
+  {
+    "appname": "Scan Text From Image English",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/I-fov68z4Je_woabuVceb3uwZp5WE2Jz-debMbHHdAc2W_81L8IHi6ktGQnvm0ZP0aCaEXFipCbf7cN6vaN2rFUIx9r1wJrfSRXTeonHaHiEN6BeOg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.scantextfromimage"
+  },
+  {
+    "appname": "Tech Quiz Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
+  },
+  {
+    "appname": "Avalar: Raid of Shadow Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
+  },
+  {
+    "appname": "Emoji Sudoku",
+    "appdev": "iberk.me",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/a4lfELb3WFLyg2uNwMK0lB-ZIF1Z2lwwRUO9S-b_YTMETrOszkeSrv6jskrej-ju-w3fKbLfDyPed7Vy2dVHfeCJimT3w3yPwMPs2-xyZA7ryvtp=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.emojistan.sudoku"
+  },
+  {
     "appname": "Love Stickers Pack - Cute Love",
     "appdev": "Yepil paid apps pro 2023",
     "appprice": "$25.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
-  },
-  {
-    "appname": "MathWarrior",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nUd3_0J_zV0wCH82xqk78uLl4NLOJltwZk1jE4i0LH81jm19zBxWvPT_TPIcEwuPqXuKGHJ1JT9hWbd4F3bVgqLzhj0VisxV4uDWswzLvTPIOBRFMQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mathwarrior"
-  },
-  {
-    "appname": "DinoRun4",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/p_MKL9T4SwMGY0I3LvUdsV2C5PjbbTyn-KO7wU_Bc3okv2MFCBTcBjQ1w7UpCX4P3DvEcvEA0DatBp3l2KOJ5uqUjyep2lOen4P7kiJD6YrshNvI1Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.dinorun4"
-  },
-  {
-    "appname": "Fortress2",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
-  },
-  {
-    "appname": "Mind Games Pro",
-    "appdev": "Mindware Consulting, Inc",
-    "appprice": "$2.99",
-    "apprating": "4.9",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Kys2191JTQrb6fwCqcEKGDx2dQ2srf20JkJM4tIKlihK_Z83M6mh2XRB2pRPFqCpFN4OSi8yE4lCpYZaK8_XyOfAbV9nrywksQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=mindware.mindgamespro"
-  },
-  {
-    "appname": "Eclipse Watch Face for Wear OS",
-    "appdev": "Prime Design",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/hPUXYl_VbJbMRK0OP3UL_9T3UPYkWbyqDBlyTE6SvfSm3NZg-nfG7Nv51zqPxGXsjMuN89Xgbn3fGi6xK4TjikhAk9ilKK9f8vRgtBbqRWbTLXIH=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.eclipse"
   }
 ]
