@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Zombie Age 2 Premium: Shooter",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.2",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
+  },
+  {
+    "appname": "Defense Zone 3 Ultra HD",
+    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
+  },
+  {
+    "appname": "PowerAudio Plus Music Player",
+    "appdev": "PowerAudio Team",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/QY1I3sEr3WNBtdX5lO_19jUIINRU3V-bpU-FYPRUNrSSTIr9YZ545FgrG-m9uAxBK1d1VNWSl8V8nwyeub14ccozJarTQ57lOSg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=power.amp.musicplayer.pi.audioplayer"
+  },
+  {
     "appname": "Accumulator PDF Mini",
     "appdev": "Salemo Lines",
     "appprice": "$4.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/f50XUVxKAWR4YoDf-kWMesBFWyY3Yh0yJwYYxb2Hl6jiRTM5UN5ucEGodq8V5uvQeyZ3AFD8VlQjxoHlpz-t3u8ATEOlDDUs9SAfukL-ay2_PYEO=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkyellow"
-  },
-  {
-    "appname": "Pixel Ring - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Zdbu3gYvFh7WZLNpQ5Izdulv6ZfS6Vl957410fUHqZjAeGOtmghJWIpKpG96lcbsGXSzzJTSurIAQQ9TfvF6JM9zmUVT9nRS4Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pixelring"
-  },
-  {
-    "appname": "FASTAR VIP - Rhythm Game",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
-  },
-  {
-    "appname": "You-R Circle Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
   }
 ]
