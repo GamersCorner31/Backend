@@ -1,5 +1,155 @@
 [
   {
+    "appname": "Rotation Control",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/0NtVKfd-lD7-H5a5ziXS_w2B3EdwVYIYm2PBqYgK1hfFOmOs9Wrh5lmcIfCFyIg0x4snG47V03-bU19BDznfd4HfRwtEWd3hnEw23V2xuPQQ-w1S=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
+  },
+  {
+    "appname": "Defense Zone HD",
+    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
+    "appprice": "$2.99",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
+  },
+  {
+    "appname": "OTO - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IuD34RF49RzYnJAQJwQ_KXWIWIc3jcAZsnYJSO7RbjcPCHpdGZGA8NqhdOufmQ392Dya5-Q95-TpCYdWNDUdYndKVQ_p5QgPUCkXlRFbqSew71NpOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.oto"
+  },
+  {
+    "appname": "Dungeon Shooter : Dark Temple",
+    "appdev": "IMCrazy",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
+  },
+  {
+    "appname": "Jewel Match",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
+  },
+  {
+    "appname": "Scroll Match3",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
+  },
+  {
+    "appname": "Swipe Break Out PvP P",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
+  },
+  {
+    "appname": "10x10 Merge Dice",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rw8ibzAdeio2gt1fXCoQzKraeb5-2O94Xq4HcY1RxUEDAJxjt3vm1r1mCBdsD2hRHUIA1e7dkQaveMV-2w-GwfpG5SkatsejUlkTFKzN2deV1hus=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mergedice10"
+  },
+  {
+    "appname": "Apart2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LhvEHG3ebHeW-UXj8XLbUyI02G9cJdDtoBbPQzaZVLtsBswFRGFWwu3zcosLruovKgCjL0ni11us6xi-_n-9--PUa1qrdlZABaGXWJltmwq3P6O-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.apart2"
+  },
+  {
+    "appname": "Lime - icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/324saQaa34CRtl0Hbffpu3x2LMbnLR2MEC0MkCNK3bLHljcARcp9DHvmGDElmrkkxhPUoZP0GPAuuwy582AFqVq3gl42-Jx5M2y9v3cAr2V2FGU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime"
+  },
+  {
+    "appname": "Paint Monster",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
+  },
+  {
+    "appname": "Balance Game",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/BORq8Z-iDlOVUb7BUt3JFaV-hN0k1Mi-gssPJUv_7BxzY0EuFulQZ6z9BPrEtLPI3CLL_uDCQ2r_99UOrkH8QETzNRU95icDs4utsYrhaMQOvXgE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
+  },
+  {
+    "appname": "Frog",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KIxTnb4WWhSCCkd7Ebzq2N_6MYKXeYje-9X0eLDJGmI0FJIAkIjKlCCRp0vUR_soPoXDADaWupzn3e8u-KmbhM91FXSCs1XaUBT0wYxzesA3eTHiGg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.frog"
+  },
+  {
+    "appname": "JumpHigh",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tlwqN46o2fkaFY3v0uM6iJ13BiJ36lSPbt7SIg60iiVT5Y6tbfRAo2sOPDZIPfDjkP4_wJhIE-RhMqAi6uOoje5GTxnbamzcxxSnpySwpSchEakb=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jumphigh"
+  },
+  {
+    "appname": "Sudus - Hexa Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/AYX722iw_8UiTNtVZVh8lZTycNLSu00Nd7tkkVf7m05KONqT-l2E32Ueq8fDNCuNtQeGNayra4JpTocTo8b6Qqk4s5eTFCU7QnQ1MCpqP0iOWmQu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.sudus.hexa.iconpack"
+  },
+  {
     "appname": "Zombie Age 2 Premium: Shooter",
     "appdev": "DIVMOB",
     "appprice": "$0.49",
@@ -248,155 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PTmWpIltCwa0MylcuHoKpcXInMfjk0yHuhXnMM0LiIpk4gAE9wGqY9MRR_679jygOdcLemja4nx1RT1VNUC2AcKgbToKK777gV36=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ng_labs.magicslate.pro"
-  },
-  {
-    "appname": "Brain Card Game - Xbar10n",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/L9wwXoXbFf_sbKyD1mO9O6opfq1hZwlJdVE_jy-7sFiVypgZFs6Z6BUhnF6U_1I8oDWULoEOcv_d5BbjM2w14kRWL1Yw6Iz0u50=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.isavasokur.xbar10n"
-  },
-  {
-    "appname": "Grow Spaceship VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
-  },
-  {
-    "appname": "PIXEL WORLD PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5yHvJx_PB8PdoAgx-r_5IQSYFderQU08_0tREf_iF1JRbTglb4Q9FxtD47lgW02RRnp2xzkaTeIHOM1XMzqENKR6252b7ovSb2rDloclW8S2RYw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelworldpro"
-  },
-  {
-    "appname": "Bulbs - A game of lights",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
-  },
-  {
-    "appname": "Speed Math - Mini Math Games",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
-  },
-  {
-    "appname": "Space Rush",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Crazy Calculator Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
-  },
-  {
-    "appname": "Emoji Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
-  },
-  {
-    "appname": "Block Blast - A Retro Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
-  },
-  {
-    "appname": "PIXEL SPORT PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
-  },
-  {
-    "appname": "Tap Rush - Reflex Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
-  },
-  {
-    "appname": "Trivia Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$4.49",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
-  },
-  {
-    "appname": "Spelling Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$3.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
-    "appname": "Lineblack - Yellow icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/f50XUVxKAWR4YoDf-kWMesBFWyY3Yh0yJwYYxb2Hl6jiRTM5UN5ucEGodq8V5uvQeyZ3AFD8VlQjxoHlpz-t3u8ATEOlDDUs9SAfukL-ay2_PYEO=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkyellow"
   }
 ]
