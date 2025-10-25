@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Goody Icon pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kVyHwfn1EArwmwQb0h3qB8YSCJGJIS_ctVBfujGSUycedI_ZcV1YNUoWNqlSVa9AtCSmq2om7r_yrKM-nBZgVLYt854bfYhjh2E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goody"
+  },
+  {
     "appname": "Rotation Control",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
-  },
-  {
-    "appname": "Magic Slate Pro",
-    "appdev": "ng-labs",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/PTmWpIltCwa0MylcuHoKpcXInMfjk0yHuhXnMM0LiIpk4gAE9wGqY9MRR_679jygOdcLemja4nx1RT1VNUC2AcKgbToKK777gV36=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ng_labs.magicslate.pro"
   }
 ]
