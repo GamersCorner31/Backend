@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Edge Side Bar - App Shortcuts",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ka8Pb5PV8qlrSpl6GxT49sgNEVhfnfdeBHKRbJfUt0Cx2t6_Uvhz463QEWFnFGPzngO6BGrB1bGab2T8uCQ0HRQPxa868v1WRMNjFkvmZrBC6f-5BA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplesidebar"
+  },
+  {
     "appname": "Fake call screen - Prank call",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
-  },
-  {
-    "appname": "Traffic Jam Cars Puzzle Legend",
-    "appdev": "MobGame Pte. Ltd.",
-    "appprice": "$4.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
   }
 ]
