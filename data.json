@@ -310,16 +310,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
   },
   {
-    "appname": "PowerAudio Plus Music Player",
-    "appdev": "PowerAudio Team",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/QY1I3sEr3WNBtdX5lO_19jUIINRU3V-bpU-FYPRUNrSSTIr9YZ545FgrG-m9uAxBK1d1VNWSl8V8nwyeub14ccozJarTQ57lOSg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=power.amp.musicplayer.pi.audioplayer"
-  },
-  {
     "appname": "Accumulator PDF Mini",
     "appdev": "Salemo Lines",
     "appprice": "$4.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
+  },
+  {
+    "appname": "Traffic Jam Cars Puzzle Legend",
+    "appdev": "MobGame Pte. Ltd.",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
   }
 ]
