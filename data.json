@@ -1,5 +1,25 @@
 [
   {
+    "appname": "QR & Barcode Scanner PRO",
+    "appdev": "Gamma Play",
+    "appprice": "$6.49",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/B6j0wfJe7nU16MX18kEAErfOxFCIbjR7Sl54WSFjvMK54li6lKSzj7zhZyUK7IVnBjPFTJ1oQHywAoQeQeypY8IiSmyvgHu8FyM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamma.scan2"
+  },
+  {
+    "appname": "Simple Quote Widget",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c9m_EMbQ3zwS-0y25VLNZvQ4B6LZvDSyeH6WGwR9V3F_hjVWVZidZ4VwrsTOPEXiPcULUZGAYLb-6fJzmCd-Q41OuGXHYR5vvsmL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
+  },
+  {
     "appname": "TripleFantasy Premium",
     "appdev": "Gameplete",
     "appprice": "$11.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/nPsCcAmEoIVXZkbDcPhyt4aJD8cHKjxDjVZENzmSZxbdsYzn5Id7-Ft3rSbqy-ZHtXRCehgswUWHQdxMvLmIgpetRETDrnYPqN7xxSNc1RCIzRAW=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.water.sort.color.puzzle.game.relax"
-  },
-  {
-    "appname": "Sudoku Puzzle - Premium",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/trpsyaWbQbb_w3yVznsQGScI3qL3i6Z1BC3kBon7bLOnRA8IsJZKd0EPFSEfKaGuolAfOim2fuT-q0k4QtbHhWZzzrbZkQhYVC8Fi6F6knBA9qE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=ava.sudoku.puzzle.solver.free"
-  },
-  {
-    "appname": "Widgets 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Vk9rdgt30nk0vNsTsEv9lkTSJUnajtqYC9FMLtbmhVSEp4kLvKyeZXba6Tv7KqUF4tYZ7Rg3SUSZCLULOCiGVmVF02kGhzhObiPHA7EoPdQKFulA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.widgets2"
   }
 ]
