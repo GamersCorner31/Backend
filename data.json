@@ -130,16 +130,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gozipgames.cell"
   },
   {
-    "appname": "Goody Icon pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kVyHwfn1EArwmwQb0h3qB8YSCJGJIS_ctVBfujGSUycedI_ZcV1YNUoWNqlSVa9AtCSmq2om7r_yrKM-nBZgVLYt854bfYhjh2E=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goody"
-  },
-  {
     "appname": "Rotation Control",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -370,16 +360,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
   },
   {
-    "appname": "Deals Tracker PRO: eBay Alerts",
-    "appdev": "MobileSoft4You",
-    "appprice": "$3.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/QL0s03tWQp5W6RYs7LmnC6bkFdZl1RI5dIvvJDCqKglVHtmUFON6BU2A9kozn8jDgWaf78m0tpCj3HaC5zbNS1nZ6UBU5KHRvAY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tomlocksapps.dealstracker.ebay.pro"
-  },
-  {
     "appname": "City Destructor HD",
     "appdev": "NODETRACK",
     "appprice": "$2.49",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
+  },
+  {
+    "appname": "Jewels Planet - Match 3 Jewels",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/crKHowElKrsEzLpjV0aPKrjx-CR32j01d9sJhg0gL34cYwXznoGMeIDtDwxtQ8tn4mrxGU2AOOAsWD0zHoxM90w8pgRI5QEKq8DOEK8j10fve6-Z3Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.JewelsLegend2023"
+  },
+  {
+    "appname": "Word Mania - Brainy Word Games",
+    "appdev": "Eggies",
+    "appprice": "$6.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
   }
 ]
