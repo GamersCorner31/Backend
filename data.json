@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Image crop & resize - imaCrop",
+    "appdev": "HARDCODED JOY S.R.L.",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QMH_Et3lKmsBWhYrVzqC_ySiP15_CBtiYMZci_4FRgIPWv1-qnKfqOG89o4i5cia0Pd3GD6tNdlKXbgZEmSMJzr9p4wy-ybOuUo3n02v4lFQm6sg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.imacrop"
+  },
+  {
+    "appname": "ToscaLine - Turqoise Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
+  },
+  {
+    "appname": "PipeMan",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5Cpr9PEeiPgQxNIyDuv5hh1tVVohSjdakHzAqDWFxZ8XTricBjHaII_8L0KkIJNsC7bmdSkcgepoU5IxmYxkEfPQ_M4wwGFOcSlkJJ0CaNuVGtY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.pipeman"
+  },
+  {
+    "appname": "Turqoise - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/KG8wMW4IjwOB9rqWG8pWnSiSTQ0nHetLYt5LUJ5MQOdH2HuaAYmgv9ofOhRJmw-Ywck_g0WT6DDDOMOPYGyZZINjJ6O7iloilIv5DJkaVilJM8W7GA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.tosca"
+  },
+  {
+    "appname": "Strawberry - Pink Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RXYrSjaysrOEuN35qLyjiM6j0glwI7ISI94CZaAhW6_6vYySQrXZy0SvuGQTlmIe04pabPqwlmMcyL7ZKbHc238CvmuUxs5NM-3pd6Ei3BqTc3w1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkpink"
+  },
+  {
     "appname": "Edge Side Bar - App Shortcuts",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/a4lfELb3WFLyg2uNwMK0lB-ZIF1Z2lwwRUO9S-b_YTMETrOszkeSrv6jskrej-ju-w3fKbLfDyPed7Vy2dVHfeCJimT3w3yPwMPs2-xyZA7ryvtp=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.emojistan.sudoku"
-  },
-  {
-    "appname": "Love Stickers Pack - Cute Love",
-    "appdev": "Yepil paid apps pro 2023",
-    "appprice": "$25.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
-  },
-  {
-    "appname": "City Destructor HD",
-    "appdev": "NODETRACK",
-    "appprice": "$2.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
-  },
-  {
-    "appname": "Traffic Jam Cars Puzzle Legend",
-    "appdev": "MobGame Pte. Ltd.",
-    "appprice": "$4.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
-  },
-  {
-    "appname": "Jewels Planet - Match 3 Jewels",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/crKHowElKrsEzLpjV0aPKrjx-CR32j01d9sJhg0gL34cYwXznoGMeIDtDwxtQ8tn4mrxGU2AOOAsWD0zHoxM90w8pgRI5QEKq8DOEK8j10fve6-Z3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.JewelsLegend2023"
-  },
-  {
-    "appname": "Word Mania - Brainy Word Games",
-    "appdev": "Eggies",
-    "appprice": "$6.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
   }
 ]
