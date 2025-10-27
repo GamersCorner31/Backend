@@ -350,16 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
   },
   {
-    "appname": "Accumulator PDF Mini",
-    "appdev": "Salemo Lines",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kXKfRWoMA_cyFoZdCklVD0oqrP2ABLc3y9yb4AqugM3tnkvPF2dL2b6HwDgeJz5BLQTvQ8s5QBSW9t8_gzTj0oUq2_fMWwB1FmKI0syGXmwCX3Md=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdf_creator_mini"
-  },
-  {
     "appname": "Scan Text From Image English",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/a4lfELb3WFLyg2uNwMK0lB-ZIF1Z2lwwRUO9S-b_YTMETrOszkeSrv6jskrej-ju-w3fKbLfDyPed7Vy2dVHfeCJimT3w3yPwMPs2-xyZA7ryvtp=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.emojistan.sudoku"
+  },
+  {
+    "appname": "Love Stickers Pack - Cute Love",
+    "appdev": "Yepil paid apps pro 2023",
+    "appprice": "$25.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
   }
 ]
