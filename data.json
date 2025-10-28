@@ -1,13 +1,23 @@
 [
   {
-    "appname": "Image crop & resize - imaCrop",
-    "appdev": "HARDCODED JOY S.R.L.",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/QMH_Et3lKmsBWhYrVzqC_ySiP15_CBtiYMZci_4FRgIPWv1-qnKfqOG89o4i5cia0Pd3GD6tNdlKXbgZEmSMJzr9p4wy-ybOuUo3n02v4lFQm6sg=s200-rp-e7",
+    "appname": "Iris Light Flat 3D Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.imacrop"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
+  },
+  {
+    "appname": "Jewels Charm: Match 3 Game Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
   },
   {
     "appname": "ToscaLine - Turqoise Icon Pack",
@@ -190,16 +200,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
   },
   {
-    "appname": "Defense Zone HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
-  },
-  {
     "appname": "OTO - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -340,16 +340,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
   },
   {
-    "appname": "Defense Zone 3 Ultra HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
-  },
-  {
     "appname": "Scan Text From Image English",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
+  },
+  {
+    "appname": "City Destructor HD",
+    "appdev": "NODETRACK",
+    "appprice": "$2.49",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
   }
 ]
