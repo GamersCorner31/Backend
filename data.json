@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Hive Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/93P8Rj2deAIbvicLs5hHClNqPCrKg0Zr4chXIHnYFwQnfCsPbxUHvpKo1gU5NaLTa5QKAWkxR839cJRTC_EghqMSv2b_t1C3CtexxIlghNrqLGw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.hive"
+  },
+  {
+    "appname": "Space Shooter: Galaxy Attack",
+    "appdev": "1SOFT",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
+  },
+  {
+    "appname": "Neo Monsters",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
+  },
+  {
     "appname": "Maths Puzzle: Maths Game Pro",
     "appdev": "Premium Quality Apps",
     "appprice": "$0.49",
@@ -280,16 +310,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
   },
   {
-    "appname": "QR & Barcode Scanner PRO",
-    "appdev": "Gamma Play",
-    "appprice": "$6.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/B6j0wfJe7nU16MX18kEAErfOxFCIbjR7Sl54WSFjvMK54li6lKSzj7zhZyUK7IVnBjPFTJ1oQHywAoQeQeypY8IiSmyvgHu8FyM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamma.scan2"
-  },
-  {
     "appname": "Simple Quote Widget",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "Jewel Match",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
-  },
-  {
-    "appname": "Scroll Match3",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
   }
 ]
