@@ -1,5 +1,95 @@
 [
   {
+    "appname": "Equalizer Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/IX7jt_3F69ETYf3lsmZFocubJCP8wn3UpUjyyDF8fvY7g4QjVW8Xl16Ke_wpuzXFFEkEmtKtgpJFUShF6qUTyRHoNElLp9swsiA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.music.pro"
+  },
+  {
+    "appname": "Equalizer FX Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/sGVbin5yC3GQt0O396oEwYPSl3VdWVJIzpPFCqCvZL6WrwgOpkEyjZqza9MIL_4D_Zc8E8MnS74tdcx8Bw3qJgUUZpi4TD6Q8eg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.musicplayer.theme.pro"
+  },
+  {
+    "appname": "Equalizer & Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/mzkaNeuSAiBxuyf-qE3q9RFYdXMyrXKB5ZjvlQEhyVWfm9225KgsJL1xqwLLrFMfDLNyAlSB0p2q8P741JnGK96qxCq5uSvcvPHE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=musicplayer.bassbooster.equalizer.pro"
+  },
+  {
+    "appname": "Equalizer Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/RkDzn1O-_TZ4l_SPLdHNUGAhKYAKytoOeByqv9tHbrvnZtgOrKns_Jx9Gp4_aAzHOdS1denQ16KKQ5Iuoeuf2CjdQ7mxAwbgADo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bass.booster.equalizer.pro"
+  },
+  {
+    "appname": "Equalizer - Bass Booster pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/gwF6c-Yk5h6Jey-TsgCO00TszbE1REarA13VAkg2mDue5w5V7y-rZqwS_pQhPe8SDQpLZe8Z-7AhiNL4NcFHcSYei5OsTteKykpt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.volume.pro"
+  },
+  {
+    "appname": "Rectangles PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6Mji3udpqDnp6zHnS9fzrd5eZDOJEPIbusdSXOIB2SWRQX90TJ1VMNShdTdAyilF-ktSeWQJ9ivpUV1E3ttXeixkzatLmH51Ag=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.rectangles"
+  },
+  {
+    "appname": "Volume Booster Max Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c1AGGrQE9q4dvfxnhlsJYIhm2VWM505o6Nnm2kfXoVGwka0I5emYFQaKoN1CNe5TMqSlffHig1jn2HnZtZfksX-J9OzQfaeBjCdjTanr-omWR6U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=volumebooster.volume.booster.pro"
+  },
+  {
+    "appname": "Equalizer - Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/bqfL-k2yhXdEj3fnF08vCZhAZpR1RPb5VRiG9fVBVWxPakwxnhDQhoQTsBHLNwk6p6YYHRiPhGFxd6CbhI8ZTHK2TdeuzS5gzXk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.eq.music.player.equalizer.pro"
+  },
+  {
+    "appname": "Sky Wings VIP : Pixel Fighters",
+    "appdev": "SHMUP Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
+  },
+  {
     "appname": "Hive Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
-  },
-  {
-    "appname": "Simple Quote Widget",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c9m_EMbQ3zwS-0y25VLNZvQ4B6LZvDSyeH6WGwR9V3F_hjVWVZidZ4VwrsTOPEXiPcULUZGAYLb-6fJzmCd-Q41OuGXHYR5vvsmL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
-  },
-  {
-    "appname": "TripleFantasy Premium",
-    "appdev": "Gameplete",
-    "appprice": "$11.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
-  },
-  {
-    "appname": "[VIP] Missile Dude RPG : idle",
-    "appdev": "Artifact Games",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "Stickman Legends Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Offline Password Manager",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
-  },
-  {
-    "appname": "Cell Clone Wars:Pro",
-    "appdev": "GOZIPGAMES",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qW3P6QdUfKlZjyCYOLK_37tJ5NBhKLtmBk2TfLIoOoHQ6Au_sYr0tKaOjj_ZF78YPOKHE9PaaGn1EUZJbzUvpSMcpDUGGVhYghVz2w6xWUF8eZYQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gozipgames.cell"
-  },
-  {
-    "appname": "Rotation Control",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/0NtVKfd-lD7-H5a5ziXS_w2B3EdwVYIYm2PBqYgK1hfFOmOs9Wrh5lmcIfCFyIg0x4snG47V03-bU19BDznfd4HfRwtEWd3hnEw23V2xuPQQ-w1S=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
-  },
-  {
-    "appname": "OTO - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IuD34RF49RzYnJAQJwQ_KXWIWIc3jcAZsnYJSO7RbjcPCHpdGZGA8NqhdOufmQ392Dya5-Q95-TpCYdWNDUdYndKVQ_p5QgPUCkXlRFbqSew71NpOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.oto"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
   }
 ]
