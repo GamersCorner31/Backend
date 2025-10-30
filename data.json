@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Wolf Face",
+    "appdev": "Prime Design",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/-jYB3rEnrqKRFgLQ7RyhjfUPwNIVsUXqixe0SXEFEi3ZUw5MEHb8Cl8OKHNBA5E8Jijyj0_EuKFwx_F-L-YB0JrJtJXQQX1BpPQvqmmSTfQyjgvZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.primedesign.wolfwatchface"
+  },
+  {
     "appname": "Equalizer Bass Booster Pro",
     "appdev": "WetcRun",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Warriors' Market Mayhem VIP :",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
   }
 ]
