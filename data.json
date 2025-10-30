@@ -1,5 +1,195 @@
 [
   {
+    "appname": "How much can I spend? Premium",
+    "appdev": "Alexander Y. Ivanov",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
+  },
+  {
+    "appname": "Bright LED Flashlight Pro",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
+  },
+  {
+    "appname": "VPN Pro - Secure VPN Premium",
+    "appdev": "AZTTY LLC",
+    "appprice": "$4.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
+  },
+  {
+    "appname": "Learn to Draw",
+    "appdev": "profigame.net",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/e1nyDtMFTuCFhiAF3FiVILXiBpCsVT2IfPP6Tq4BD2YhANduAykBVhWZr01AKpgCDpOyulF0ZxmZt-ybPO02fop3xLbTgPBU7_0OPVavsn_E_MV4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zeichnenlernen.at"
+  },
+  {
+    "appname": "Piano Time: Recording Notebook",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OqoWsDudEc_YDIoh23TnDPO2-NzbAJxaJ-Oh6XQF3trn6YH9TX5RfXahfK91mFpqvMgEQbXM3VqE-8a5-d7j1bI3q-r9DLXJyCNaopKFQSvU1iYl=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.piano88.at"
+  },
+  {
+    "appname": "Freeze Dance",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Dun_bs1aZvmAEriEoro9T9sFxto5NE-cMeU-MsrnHtuutPID4hylcJQpXLQ_-tq3nMbBCahmhbVsq72j6lm9r8GwJ0lEZ0A7EZp03zGgcWgNDS5ZFQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stop.at"
+  },
+  {
+    "appname": "Sudoku Pro",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/VUg4liBBZ1ezYLfbo7l-hC7aXcbjFauJub4oevYgBeSf_ayDSrRxLc5W2GMBn1NgfsqeVwYIwNt_O382PZuwcfAyj3zXwRt3Yh4gjUgII_MoKXq1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.suprofi"
+  },
+  {
+    "appname": "Number Blocks",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/iBMncr7-FK5nUcwGU5QEyotIFBBBI83-FAYt6Zv09X7b9Fk16MyJ39wU3kq0eFzH8XMrMGdJEaFmlkIt5GzjXRxeQVMSVgK9QrmFvErZpvoWAXk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zb.at"
+  },
+  {
+    "appname": "Animal Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
+  },
+  {
+    "appname": "Picture Rotation Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ViFbFhhy-oQcaW1YKh9k-5rLeMAwBQ9ykZ3g5yKC16KrWlWDQbb1P9euQQX2T5_AikSvkg6ybcFY_xNmMYBMPZPJRS6zaWdqpa0tKbgrz3yr_Qr-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.puzzlepro.at"
+  },
+  {
+    "appname": "Math Party, Multi Games",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
+  },
+  {
+    "appname": "Hobby Piano: Real Time Music",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Oldw9sgt9bd_D7RffJdqpWYDiheVxUopd5Z1LgZBv4dgQ6HmZOX3bDV3XNDZ_P7k5BZWHH6TSGPEeLy6cFEUebJEN7nKjc0dWtre5Ln88wn2pKQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.profipiano.at"
+  },
+  {
+    "appname": "Puzzle Blocks",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/gvZUungCr4apjp_-vVev9SjG8vE6MrLBTqxDyIJDW_3kNd_igXHn5mRRhW1MGuSj17UE_E_8hVniaDPW01z-Gf_1fevNurfYRHi8tA5g973KDrsu9Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pb.at"
+  },
+  {
+    "appname": "Dancing Animals",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
+  },
+  {
+    "appname": "Nature Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
+  },
+  {
+    "appname": "Find 10 Differences 120 Levels",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YcggZIz824mm0vsporotMVB4NjLfUapUeS_WonT99bAbhwrS70kUwUAOTGSyi3u0oS0Ity4rnt-qqiXDoX5hC3VA0koGwfIMmkdk4QoiUhWgyQ9ojA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.differences.at"
+  },
+  {
+    "appname": "Memory Game: Fruit",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lYy9f9EY1jLNDA6ZJiKhdiZ9tjHccHnhFLvP4x3QRx8k_iOlixBCdBjHykzuFJIJvR--_obyEwHwD6Loq8wNqjvlOKh-JvfGrBz9afU0jhxwg8Id=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.memof.at"
+  },
+  {
+    "appname": "Dino Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
+  },
+  {
+    "appname": "Nature Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/cgDhUl1iMjon2Avxexoesnp91ZMRhSwlS83YHyI9_xtkGfrl8lmPRM35E3lFBtL3KQLW-jBgtrnEqxMHGkq_Ib5a4ZtXi4LPOxqH4_cAQez5Lhpv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dppuzzle.at"
+  },
+  {
     "appname": "Wolf Face",
     "appdev": "Prime Design",
     "appprice": "$1.99",
@@ -208,195 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/3f4nOEYmJd1HtDfazDkJkdyEwYY_Cx8Vo8vwDTwFOujLYf1rQSm6eatALlg1m1FkazPMT4YE1egqc9rF3R5xL2iJR_EPG0GbzvTAYmxJeqNGY5c=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=music.mixer.dj.mixer.pro"
-  },
-  {
-    "appname": "DJ Music mixer - DJ Studio Pro",
-    "appdev": "KUCO Apps",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9ws7Im21YNbSDP_wYGDJ5KqwL3x06nq4dvwTeVeQSejDFMvpw_cWZ55vegwf29gt0FkVrNlsU7PGfWvt7bdad05VHzxA-JMaSn-GbKGRzr0thWc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.djmusicmixer.effects.pro"
-  },
-  {
-    "appname": "Bass Booster & Equalizer PRO",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/IY_5PY7wl3ONZ1k3rsQHcELNYf3nqNk8CsySABZp-mmjNxt3C27FH34_w8ouv9q-XBZ-qCjJVqxD9DJewbqO4TC1fbHzgkchG3_8nvrUU2f1-94=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.sound.effect.bass.virtrualizer.equalizer.pay"
-  },
-  {
-    "appname": "DJ Mix Studio - DJ Music Mixer",
-    "appdev": "Coocent",
-    "appprice": "$12.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/imZqRtUaw20eIAYl-MNwKWCVYobWtpkZXi4NdKRKfciyE7E_Tw9I0iz_gexb_J-p8_l8KKSAoT1eh1ec3BDVOyZFu42j0FMC3qoCEklrWEV8o0C1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.effects.pro"
-  },
-  {
-    "appname": "DJ Mixer - DJ Music Remix Pro",
-    "appdev": "Nuts Mobile Inc.",
-    "appprice": "$9.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/XJHSMGkoadFeqp_0zQ5gt1CmQopHCSCBi9QbH6HUOorurBx235aWZfR7Tz7XUDcvKosmSjyWXgQRUNLuWhED4Ln_wqQCpAGafMyDpdwytEkTW2k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.music.mixer.pro"
-  },
-  {
-    "appname": "Volume Booster & Sound Booster",
-    "appdev": "KX Camera Team",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/7aYbTTELqp8IDYUoDiq5C4aQcUOC0CR_dVlcXQiTiXcG0dCLsN-x8c3qdYx0am7u2m5Ln28IiX65ENTrE-LjMSVOWTB79zVPT00YwK9R1Wxmr3tFxg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.volumebooster.pro"
-  },
-  {
-    "appname": "Volume Booster - Loud Speaker",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/mct-kd78HbRf2zM3lphaxUIIF9qun8KxGcODo12BqWTz_yIRgMcBtx8fJfLCpZScTVZH91jT-IyFt4S1vtDdGfWUAqtbPYQKm3vZ31XThyKgG_Rp=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=volume.booster.sound.enhance.pro"
-  },
-  {
-    "appname": "Music Equalizer - Bass Booster",
-    "appdev": "KUCO Apps",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CuyfyHkVQmA2lUdjfkTTdnl83zHOI2XB3ZH6vAvTf5qnku7jHEGjfl14Cz7to6UsTIvREmstBYiMUdlHq2X0lZZpu8YGxUI4VOj_6minuoOuTwB9qA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.pay"
-  },
-  {
-    "appname": "Water Sort - Color Puzzle Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Iris Light Flat 3D Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
-  },
-  {
-    "appname": "ToscaLine - Turqoise Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
-  },
-  {
-    "appname": "PipeMan",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5Cpr9PEeiPgQxNIyDuv5hh1tVVohSjdakHzAqDWFxZ8XTricBjHaII_8L0KkIJNsC7bmdSkcgepoU5IxmYxkEfPQ_M4wwGFOcSlkJJ0CaNuVGtY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.pipeman"
-  },
-  {
-    "appname": "Turqoise - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/KG8wMW4IjwOB9rqWG8pWnSiSTQ0nHetLYt5LUJ5MQOdH2HuaAYmgv9ofOhRJmw-Ywck_g0WT6DDDOMOPYGyZZINjJ6O7iloilIv5DJkaVilJM8W7GA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.tosca"
-  },
-  {
-    "appname": "Strawberry - Pink Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RXYrSjaysrOEuN35qLyjiM6j0glwI7ISI94CZaAhW6_6vYySQrXZy0SvuGQTlmIe04pabPqwlmMcyL7ZKbHc238CvmuUxs5NM-3pd6Ei3BqTc3w1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkpink"
-  },
-  {
-    "appname": "Edge Side Bar - App Shortcuts",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ka8Pb5PV8qlrSpl6GxT49sgNEVhfnfdeBHKRbJfUt0Cx2t6_Uvhz463QEWFnFGPzngO6BGrB1bGab2T8uCQ0HRQPxa868v1WRMNjFkvmZrBC6f-5BA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplesidebar"
-  },
-  {
-    "appname": "Fake call screen - Prank call",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
-  },
-  {
-    "appname": "Clear Wave - Water Eject Pro",
-    "appdev": "Appchi",
-    "appprice": "$2.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
-  },
-  {
-    "appname": "QR Code Reader PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$5.99",
-    "apprating": "4.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/nN_f64sSkL7PldzLSNW3e3TMQb4ToWNtMaVrFT1PioqtVrjRRqbC2svdJuIkAgTBiQxdafZAgVbOKbLxNSD3WtmynZkkoxcphMQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.barcode.qrcode.scanner.reader.pro"
-  },
-  {
-    "appname": "Cooking Quest VIP : Food Wagon",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
   }
 ]
