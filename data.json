@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Squid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
+  },
+  {
+    "appname": "Traffix: Traffic Simulator",
+    "appdev": "Infinity Games, Lda",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
+  },
+  {
+    "appname": "Sound Meter & Noise Detector",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
+  },
+  {
+    "appname": "Matching Game2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
+  },
+  {
+    "appname": "Running Man",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
+  },
+  {
+    "appname": "Floreal Rosa Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/lkI3gRDNBEQv42F5CIFnrCi-P_mirbS1aae5rCa-8usCL2UGMwSrG-XNZEfUpKiAP60fFSjSD8oDq8s7MIvko_6ZfFvhe8GeW-CehOwsyuWteNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.florealrosa"
+  },
+  {
     "appname": "Brain Game - Find5x 4P",
     "appdev": "İlhami Savaş OKUR",
     "appprice": "$1.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/93P8Rj2deAIbvicLs5hHClNqPCrKg0Zr4chXIHnYFwQnfCsPbxUHvpKo1gU5NaLTa5QKAWkxR839cJRTC_EghqMSv2b_t1C3CtexxIlghNrqLGw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.hive"
-  },
-  {
-    "appname": "Space Shooter: Galaxy Attack",
-    "appdev": "1SOFT",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
-  },
-  {
-    "appname": "Neo Monsters",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
-  },
-  {
-    "appname": "Water Sort - Color Puzzle Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Iris Light Flat 3D Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
-  },
-  {
-    "appname": "ToscaLine - Turqoise Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
   }
 ]
