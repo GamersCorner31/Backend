@@ -150,16 +150,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
   },
   {
-    "appname": "Floreal Rosa Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/lkI3gRDNBEQv42F5CIFnrCi-P_mirbS1aae5rCa-8usCL2UGMwSrG-XNZEfUpKiAP60fFSjSD8oDq8s7MIvko_6ZfFvhe8GeW-CehOwsyuWteNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.florealrosa"
-  },
-  {
     "appname": "Brain Game - Find5x 4P",
     "appdev": "İlhami Savaş OKUR",
     "appprice": "$1.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/-jYB3rEnrqKRFgLQ7RyhjfUPwNIVsUXqixe0SXEFEi3ZUw5MEHb8Cl8OKHNBA5E8Jijyj0_EuKFwx_F-L-YB0JrJtJXQQX1BpPQvqmmSTfQyjgvZ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.primedesign.wolfwatchface"
+  },
+  {
+    "appname": "Sky Wings VIP : Pixel Fighters",
+    "appdev": "SHMUP Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
   }
 ]
