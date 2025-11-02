@@ -1,5 +1,25 @@
 [
   {
+    "appname": "ADWLauncher 1 EX",
+    "appdev": "AnderWeb",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/57KJ9NmPZicIsQoJGMHGQJiET8K_jUxOVdFsTxqi2J-5-ZrW3LNysrf0VV8eGCzkWw0lGSh_y4gjpKp0GeSaqS9Grum8J2AvtPk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=org.adwfreak.launcher"
+  },
+  {
+    "appname": "Quick Arc Launcher",
+    "appdev": "KEICE SOFT",
+    "appprice": "$2.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Ol70JxG3EagttMxnNAaWLfCVTSYwVuFF8R2wZSNKnGsMORc3u0jH2BQ28JE49-7WMx3fFmvx3KJ2ZCLYCbbK6uGmJP0NasWiN1-A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.keice.quicklauncher3"
+  },
+  {
     "appname": "Undead City: Survivor Premium",
     "appdev": "Unimob Global",
     "appprice": "$0.99",
@@ -200,16 +220,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
   },
   {
-    "appname": "Bright LED Flashlight Pro",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
-  },
-  {
     "appname": "VPN Pro - Secure VPN Premium",
     "appdev": "AZTTY LLC",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/-jYB3rEnrqKRFgLQ7RyhjfUPwNIVsUXqixe0SXEFEi3ZUw5MEHb8Cl8OKHNBA5E8Jijyj0_EuKFwx_F-L-YB0JrJtJXQQX1BpPQvqmmSTfQyjgvZ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.primedesign.wolfwatchface"
-  },
-  {
-    "appname": "Sky Wings VIP : Pixel Fighters",
-    "appdev": "SHMUP Games",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
   }
 ]
