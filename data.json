@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Irregular Verbs Test PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Zyui41frH9TMjEbLyrjlhZwIEzg8Y-LkVRV6HGiTByVspDcW-Hcb0fGbbuAJLvoNy7TivvyqKq1BglH2IQglnVxoscvVmxP4xw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.irregularverbs"
+  },
+  {
     "appname": "Contacts Widget - Speed Dial",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/gvZUungCr4apjp_-vVev9SjG8vE6MrLBTqxDyIJDW_3kNd_igXHn5mRRhW1MGuSj17UE_E_8hVniaDPW01z-Gf_1fevNurfYRHi8tA5g973KDrsu9Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pb.at"
-  },
-  {
-    "appname": "Dancing Animals",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
   }
 ]
