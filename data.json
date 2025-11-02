@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Contacts Widget - Speed Dial",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
+  },
+  {
+    "appname": "Add Frames to photos",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
+  },
+  {
+    "appname": "QR and Barcode Scanner PRO",
+    "appdev": "Apps360 Team",
+    "appprice": "$5.99",
+    "apprating": "4.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
+  },
+  {
+    "appname": "Full Battery Alarm",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
+  },
+  {
+    "appname": "Stickman Master Premium",
+    "appdev": "Unimob",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
+  },
+  {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "MAD PIXEL",
+    "appprice": "$6.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
     "appname": "ADWLauncher 1 EX",
     "appdev": "AnderWeb",
     "appprice": "$1.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
-  },
-  {
-    "appname": "Nature Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
-  },
-  {
-    "appname": "Find 10 Differences 120 Levels",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YcggZIz824mm0vsporotMVB4NjLfUapUeS_WonT99bAbhwrS70kUwUAOTGSyi3u0oS0Ity4rnt-qqiXDoX5hC3VA0koGwfIMmkdk4QoiUhWgyQ9ojA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.differences.at"
-  },
-  {
-    "appname": "Memory Game: Fruit",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lYy9f9EY1jLNDA6ZJiKhdiZ9tjHccHnhFLvP4x3QRx8k_iOlixBCdBjHykzuFJIJvR--_obyEwHwD6Loq8wNqjvlOKh-JvfGrBz9afU0jhxwg8Id=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.memof.at"
-  },
-  {
-    "appname": "Dino Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
-  },
-  {
-    "appname": "Nature Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/cgDhUl1iMjon2Avxexoesnp91ZMRhSwlS83YHyI9_xtkGfrl8lmPRM35E3lFBtL3KQLW-jBgtrnEqxMHGkq_Ib5a4ZtXi4LPOxqH4_cAQez5Lhpv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dppuzzle.at"
-  },
-  {
-    "appname": "Wolf Face",
-    "appdev": "Prime Design",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/-jYB3rEnrqKRFgLQ7RyhjfUPwNIVsUXqixe0SXEFEi3ZUw5MEHb8Cl8OKHNBA5E8Jijyj0_EuKFwx_F-L-YB0JrJtJXQQX1BpPQvqmmSTfQyjgvZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.primedesign.wolfwatchface"
   }
 ]
