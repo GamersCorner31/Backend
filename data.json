@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Empire Defender Offline Games",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/D25nU36vzW6EAY-gAwg5IjjJZ74Dvpv4Uw0FoZ8n7KQQ3wWEVZXGoH6-weYX9RXVK-c67bWYZpH9VI8MKUQAAwAXw5tvK-nuXfX9rK8wd_pMheFP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush"
+  },
+  {
     "appname": "[VIP]UFO DUDE RPG : idle wars",
     "appdev": "Artifact Games",
     "appprice": "$2.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
-  },
-  {
-    "appname": "Nature Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
   }
 ]
