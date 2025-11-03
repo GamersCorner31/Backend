@@ -1,5 +1,15 @@
 [
   {
+    "appname": "[VIP]UFO DUDE RPG : idle wars",
+    "appdev": "Artifact Games",
+    "appprice": "$2.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IhR7AASaom8c5lPpGdzkzB9Y_6zNtnAxb4Dq9ceyuescwNCIv3mOEVdzyNFo3aGTKedPkUaR2tqwvOKGnNxco41rUjNv6jm_Ezia13yFVChaQ-Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.artifact.uforpgvip"
+  },
+  {
     "appname": "Irregular Verbs Test PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -170,16 +180,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.boymate10.okeyrumi"
   },
   {
-    "appname": "Oscuro Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/4TjEZ6fMdB5ansBSK1mwYZAbh93YL2CDT40sTLu3g9dQEf8l5Qxr2Abwf9B0zJfWBatYvZKf-UUaGZTPoNIXN0YnVvUjLWVv4M0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.oscuro"
-  },
-  {
     "appname": "Find Five Differences 100",
     "appdev": "profigame.net",
     "appprice": "$0.49",
@@ -198,26 +198,6 @@
     "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
-  },
-  {
-    "appname": "Traffix: Traffic Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
-  },
-  {
-    "appname": "Sound Meter & Noise Detector",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
   },
   {
     "appname": "Matching Game2",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/gvZUungCr4apjp_-vVev9SjG8vE6MrLBTqxDyIJDW_3kNd_igXHn5mRRhW1MGuSj17UE_E_8hVniaDPW01z-Gf_1fevNurfYRHi8tA5g973KDrsu9Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pb.at"
+  },
+  {
+    "appname": "Dancing Animals",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
+  },
+  {
+    "appname": "Nature Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
   }
 ]
