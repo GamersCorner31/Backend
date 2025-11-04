@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Dungeon Princess : RPG",
+    "appdev": "Ssicosm",
+    "appprice": "$0.49",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/NovrLZ--DS8vJuSbLEuk2dEZVkcGZC_tnN2d5lErKqeUB_HJ1K1YPMyj5aRdgBcsc1OSLeoUxPUkYv6MSW3M5V0QWVelYu8JXMU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess"
+  },
+  {
+    "appname": "Dungeon Princess 2 : RPG",
+    "appdev": "Ssicosm",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/1JfGwn2IVc-RLQHkyPOTxviUwAHaHTqB6VyvQ9z4YtwAD9deheM3_qd7wmYI3vG61nmOTyklQ_px1_jANceGBhl19I4dm6JUy_6M5eVkNOZTDCE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_2"
+  },
+  {
     "appname": "Empire Defender Offline Games",
     "appdev": "Putaleng",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Oldw9sgt9bd_D7RffJdqpWYDiheVxUopd5Z1LgZBv4dgQ6HmZOX3bDV3XNDZ_P7k5BZWHH6TSGPEeLy6cFEUebJEN7nKjc0dWtre5Ln88wn2pKQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.profipiano.at"
-  },
-  {
-    "appname": "Puzzle Blocks",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/gvZUungCr4apjp_-vVev9SjG8vE6MrLBTqxDyIJDW_3kNd_igXHn5mRRhW1MGuSj17UE_E_8hVniaDPW01z-Gf_1fevNurfYRHi8tA5g973KDrsu9Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pb.at"
-  },
-  {
-    "appname": "Dancing Animals",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
   }
 ]
