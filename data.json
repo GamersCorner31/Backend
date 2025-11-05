@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Checklist Inspector - Auditing",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/qw8ynXQdy6TvJIW8KfzV0cxI3rr70AOVOjYQZxpnfO_pKbIGxKGt0GMOwZQVxR1ThxlKxt5n-sq6PjZNbsmysfr5uwLykaiWp7w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.auditbricks.onsitechecklist"
+  },
+  {
+    "appname": "Bubble Level PRO",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/YYVXMR4wKkU3Bc-AYY3RRZrM6TqIW1fw-oeC7EsnFf5wJz2JEMTh6b7lP58uFnU-XesKIMfebTIjr3Li-CLeGFIDRYIk0Ih0LLqYue05XkaCJhWu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bubble.level.ruler.pro"
+  },
+  {
+    "appname": "Word Search Challenge PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
+  },
+  {
+    "appname": "Famous Quotes Guessing PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/GOk24iN5JJL5NHQkRHvfR2KpP_HpKgZSe8ywa-nQDklxSWyrMktJSwiVVm3m32euUBM_Eg3MENux-lgyQgQei8kZbcRj1PlFcQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.quotesguessinggame"
+  },
+  {
+    "appname": "Spelling Test & Practice PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
+  },
+  {
     "appname": "TACT THREE: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/VUg4liBBZ1ezYLfbo7l-hC7aXcbjFauJub4oevYgBeSf_ayDSrRxLc5W2GMBn1NgfsqeVwYIwNt_O382PZuwcfAyj3zXwRt3Yh4gjUgII_MoKXq1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.suprofi"
-  },
-  {
-    "appname": "Number Blocks",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/iBMncr7-FK5nUcwGU5QEyotIFBBBI83-FAYt6Zv09X7b9Fk16MyJ39wU3kq0eFzH8XMrMGdJEaFmlkIt5GzjXRxeQVMSVgK9QrmFvErZpvoWAXk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zb.at"
-  },
-  {
-    "appname": "Animal Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
-  },
-  {
-    "appname": "Picture Rotation Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ViFbFhhy-oQcaW1YKh9k-5rLeMAwBQ9ykZ3g5yKC16KrWlWDQbb1P9euQQX2T5_AikSvkg6ybcFY_xNmMYBMPZPJRS6zaWdqpa0tKbgrz3yr_Qr-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.puzzlepro.at"
-  },
-  {
-    "appname": "Math Party, Multi Games",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
-  },
-  {
-    "appname": "Hobby Piano: Real Time Music",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Oldw9sgt9bd_D7RffJdqpWYDiheVxUopd5Z1LgZBv4dgQ6HmZOX3bDV3XNDZ_P7k5BZWHH6TSGPEeLy6cFEUebJEN7nKjc0dWtre5Ln88wn2pKQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.profipiano.at"
   }
 ]
