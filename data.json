@@ -1,5 +1,15 @@
 [
   {
+    "appname": "SamWatch Max 9",
+    "appdev": "Samtree",
+    "appprice": "$2.00",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hKACTyh1ChZaK-sYAbYs4Xv6iutNyIlX3gbhFAWPRkBbXxS-pQjCloNpJjgStXTwSjj2_RUai7tu0oXRe9rhuzKaz_Zfhz61qKX8iZ2-6nlnW88=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_max_9"
+  },
+  {
     "appname": "Checklist Inspector - Auditing",
     "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Dun_bs1aZvmAEriEoro9T9sFxto5NE-cMeU-MsrnHtuutPID4hylcJQpXLQ_-tq3nMbBCahmhbVsq72j6lm9r8GwJ0lEZ0A7EZp03zGgcWgNDS5ZFQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.stop.at"
-  },
-  {
-    "appname": "Sudoku Pro",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/VUg4liBBZ1ezYLfbo7l-hC7aXcbjFauJub4oevYgBeSf_ayDSrRxLc5W2GMBn1NgfsqeVwYIwNt_O382PZuwcfAyj3zXwRt3Yh4gjUgII_MoKXq1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.suprofi"
   }
 ]
