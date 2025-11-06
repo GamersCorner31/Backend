@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Live or Die 1: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
+  },
+  {
+    "appname": "Sound Meter - Decibel Meter",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
+  },
+  {
+    "appname": "Stick - Remote Control TV Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
+  },
+  {
+    "appname": "Spy Camera Network Scanner PRO",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
+  },
+  {
+    "appname": "Business Card Maker: Logo Card",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
+  },
+  {
+    "appname": "Cutout Premium",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
+  },
+  {
+    "appname": "Jewels Premium Match 3 Puzzles",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/P-B-0XfYUwz33TCP2xmhNb05Eg4umhTuzXSzvcLjlJ9rfOIxk4SM61LlquSYvOeZ8bqpmsoAVIn1ImEzYd6-dhobChb0JpXpWacEqjb5Jg9N71k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.jewelstreasures.match3"
+  },
+  {
     "appname": "Words Search - Premium",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$1.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
-  },
-  {
-    "appname": "Matching Game2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
-  },
-  {
-    "appname": "Running Man",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
-  },
-  {
-    "appname": "Brain Game - Find5x 4P",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$1.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f9zt3XTpzJRqmcABLm_hHhPibB2M4BLg7XM6sgQBbHHXmbhhzofxcT2SQyQts6fsA1vvvnoi5rP-rVQe6cPIMV-s7Bo67IglYhJ0h7_W-XiTBwU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find5x4p"
-  },
-  {
-    "appname": "Find5x 4P",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/5TL66m5x-6UhMoCP1KZR0mK01P-gxm1Ocaw3HNT60igZYX-JTyFYsB4Rhy-VEgGdO-SJe9DMfRRRUN-u_XkEza_tgonlivu_gQGUQEFaK0ZeGLI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x4p"
-  },
-  {
-    "appname": "Brain Game - Find2Y",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eCPfdGpYyn9O6RBkDCbWPBwWejgh5TO5wYkgRJ4bbiL8O2e1_ktppvQuDjAOAtegdoiDVqKi5Or-bL14YyIRlBH5s7FoXvW0OlmVqUVO9Cnugn5Gmg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find2y"
-  },
-  {
-    "appname": "Brain Game - Find5x",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Qw1Mmg3k0RJZEsLZrm6H1Cw9xDrqKJzlvPC_IUEOm51hAmTNOhdY4WoZdIrW1t7x2sIuGKSWRo2RcnfmYkg-alO4LTT3UC7SFrRr8iZcIjci6Jmgug=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x"
-  },
-  {
-    "appname": "How much can I spend? Premium",
-    "appdev": "Alexander Y. Ivanov",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
   }
 ]
