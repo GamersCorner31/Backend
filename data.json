@@ -1,5 +1,135 @@
 [
   {
+    "appname": "Highway Game",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
+  },
+  {
+    "appname": "The Weapon King VIP",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
+  },
+  {
+    "appname": "Kamsa Squircle - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
+  },
+  {
+    "appname": "Kathleen - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
+  },
+  {
+    "appname": "Image Converter - HEIC to JPG",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$1.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
+  },
+  {
+    "appname": "Belga Light - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
+  },
+  {
+    "appname": "TouchTouchPangPang",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
+  },
+  {
+    "appname": "Raya Reloaded Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/IvlaYLMHulATHVjt-wz3Z0efo28Jq8363jVq2R_cSuBi2PSk6FneDZaOYJbvuAaojfOdY0BiQWfwyFy5CaDbQMNMj50JtXepMwJHmglAJZ0gQR2M=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.raya.reloaded"
+  },
+  {
+    "appname": "Color Match2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
+  },
+  {
+    "appname": "CleanUp",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/2hLtjVppBbRG16a4PEBalGmBGXsCqzi0mX34Z9oiiMnTurupaNkaphCbgppjuk6UBISk54KEcM21DbnFwdlCFinWOp5YkCNx4FnmcyxPTtXm_B9X=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cleanup"
+  },
+  {
+    "appname": "Healing Wood Block Travel",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
+  },
+  {
+    "appname": "CatchBee",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
+  },
+  {
+    "appname": "Perfect 3m",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
+  },
+  {
     "appname": "Live or Die 1: Survival Pro",
     "appdev": "Gem Jam",
     "appprice": "$0.99",
@@ -268,135 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
-  },
-  {
-    "appname": "Dead God Land - Light Survival",
-    "appdev": "MAD PIXEL",
-    "appprice": "$6.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
-  },
-  {
-    "appname": "ADWLauncher 1 EX",
-    "appdev": "AnderWeb",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/57KJ9NmPZicIsQoJGMHGQJiET8K_jUxOVdFsTxqi2J-5-ZrW3LNysrf0VV8eGCzkWw0lGSh_y4gjpKp0GeSaqS9Grum8J2AvtPk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=org.adwfreak.launcher"
-  },
-  {
-    "appname": "Quick Arc Launcher",
-    "appdev": "KEICE SOFT",
-    "appprice": "$2.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Ol70JxG3EagttMxnNAaWLfCVTSYwVuFF8R2wZSNKnGsMORc3u0jH2BQ28JE49-7WMx3fFmvx3KJ2ZCLYCbbK6uGmJP0NasWiN1-A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.keice.quicklauncher3"
-  },
-  {
-    "appname": "Undead City: Survivor Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
-  },
-  {
-    "appname": "Grow Zombie VIP : Merge Zombie",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
-  },
-  {
-    "appname": "Heroes Legend - Epic Fantasy",
-    "appdev": "MGIF",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
-  },
-  {
-    "appname": "SPHAZE: Sci-fi puzzle game",
-    "appdev": "SUBPIXELS",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/3O50Evhk8yJMsjP-EZ6eCePgO8Kewr13Jt9l4GeosaDtFun8YEvmG45J6AOV6Ju7gHSwM7MGP99EttFu2LZoEfm3rlSD4KvVatI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=pl.subpixels.sphaze"
-  },
-  {
-    "appname": "Word Tower - Premium Puzzle",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
-  },
-  {
-    "appname": "Find12x 4P",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uHpPEVk6sgLLdGtJD51YOzf7Y044PuVK2Y25Xk9rEwyNMqNY5nuOC4k4GVOaqNScXak77nvow8-YXcAhA7uUi26ZDLPyqPnW5tAyfNVIrUkCHK43_Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find12x4p"
-  },
-  {
-    "appname": "Okey - Rummy",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1NcFgMILyzWIdGI_VNHAcn13OqoqkSx_P8TO2wKvelRRXjVOq-Nh2fNsXd7g7joBBJYkLeZj7hv6s8rA4oDG7JeCzKUpnxWYY9RxtpbXTXqPo8LxDA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.boymate10.okeyrumi"
-  },
-  {
-    "appname": "Squid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
-  },
-  {
-    "appname": "Matching Game2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
   }
 ]
