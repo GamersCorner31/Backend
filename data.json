@@ -1,5 +1,95 @@
 [
   {
+    "appname": "Bubbles Charging animation",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ewBbR4gWzWo0besR0Z5ztVYPdl5KxDqItMzXKZnnK7gSj68BQ6eEP5-6K2dk_OXDYNTPSwuW_TeZNFjqWeqDxRflEqkpyh-46IY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bubbleepro"
+  },
+  {
+    "appname": "Resize Image - Resize Photos",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/MVSiBcreCcy8wYMC2ZJ7OPini8A98CREA-BGoyEzW5vk0eZHceNho3nkJ7HPebStguNbjuqY9Zrefi-nZFHvYiQb0yTHJ9PSXGryygzXBTnx-W4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.imageresizer"
+  },
+  {
+    "appname": "Clock Widget  - Word Clock",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bsiq9kH-DAl-Pt9AgAKFQcxuY8ug-jyAkqZXRZCci-T-3R7896JTpbZNvXjSCLm0_0Kx3iIwuf-r78Hfbce7K0_FmubFERBrwqYj33cVu6UjUYM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simpleclockwidget"
+  },
+  {
+    "appname": "Pixel Blade M VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
+  },
+  {
+    "appname": "The Hearts PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
+  },
+  {
+    "appname": "Word Connect PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/mX-FeWzBoxRly0LN5BaIvE6-fmAbs-OREhvYjxx-s7k6tNBna0rJL5FleBTi2dqhzdv41UdSDv3sN_Alhw5YDywtYjRqV1ZhLbC-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordconnect"
+  },
+  {
+    "appname": "ExtremeJobsKnight’sManager VIP",
+    "appdev": "Bigshot Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/fvzUFpeB5Sc7yHve3NxWTEMBJfNa8zS9iv2svuEWGiHkkotnvfu1fFduGLukAIy5wI4FVJSuUmSVpv60qu6FkF-tuK1POk81gx-x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bigshotgames.hero_managervip"
+  },
+  {
+    "appname": "Passport Photo: ID Photo Print",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/2s0D97Ox8OG91eIETbJlJi3YJyEBhKVSpR2JaOT_Iisi-_bInERNJBzg_Ar88uVyVAv5SBIpQsPGw_nzrwd3vDwTs4gNfcjkL98Zg-TF2yr4-5uUyg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.passportphoto"
+  },
+  {
+    "appname": "Spelling Right PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/N2dI2Hva0bAhXApEAKv3B6d6ijYczb3zsiCd3MEuI2KjB7ED2cLf7pHW9AHmJFMmQNq6LzO9MCKfctok0Yo1I3pIRsvD8gJ0AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingrightpro"
+  },
+  {
     "appname": "Highway Game",
     "appdev": "AK Studio Mobile",
     "appprice": "$1.99",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
-  },
-  {
-    "appname": "Add Frames to photos",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
-  },
-  {
-    "appname": "QR and Barcode Scanner PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$5.99",
-    "apprating": "4.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
-  },
-  {
-    "appname": "Full Battery Alarm",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
-  },
-  {
-    "appname": "Stickman Master Premium",
-    "appdev": "Unimob",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
-  },
-  {
-    "appname": "Dead God Land - Light Survival",
-    "appdev": "MAD PIXEL",
-    "appprice": "$6.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
-  },
-  {
-    "appname": "ADWLauncher 1 EX",
-    "appdev": "AnderWeb",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/57KJ9NmPZicIsQoJGMHGQJiET8K_jUxOVdFsTxqi2J-5-ZrW3LNysrf0VV8eGCzkWw0lGSh_y4gjpKp0GeSaqS9Grum8J2AvtPk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=org.adwfreak.launcher"
-  },
-  {
-    "appname": "Undead City: Survivor Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
-  },
-  {
-    "appname": "Grow Zombie VIP : Merge Zombie",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
   }
 ]
