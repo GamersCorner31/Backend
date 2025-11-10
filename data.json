@@ -210,16 +210,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
   },
   {
-    "appname": "Raya Reloaded Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/IvlaYLMHulATHVjt-wz3Z0efo28Jq8363jVq2R_cSuBi2PSk6FneDZaOYJbvuAaojfOdY0BiQWfwyFy5CaDbQMNMj50JtXepMwJHmglAJZ0gQR2M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.raya.reloaded"
-  },
-  {
     "appname": "Color Match2",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/NovrLZ--DS8vJuSbLEuk2dEZVkcGZC_tnN2d5lErKqeUB_HJ1K1YPMyj5aRdgBcsc1OSLeoUxPUkYv6MSW3M5V0QWVelYu8JXMU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess"
+  },
+  {
+    "appname": "Dungeon Princess 2 : RPG",
+    "appdev": "Ssicosm",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/1JfGwn2IVc-RLQHkyPOTxviUwAHaHTqB6VyvQ9z4YtwAD9deheM3_qd7wmYI3vG61nmOTyklQ_px1_jANceGBhl19I4dm6JUy_6M5eVkNOZTDCE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_2"
   }
 ]
