@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Reminder Pro",
+    "appdev": "made easy",
+    "appprice": "$3.49",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
+  },
+  {
+    "appname": "Stitch Photos: Long Screenshot",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Nw2ws6w0YR9-vq3pnfqgE8NDAjmkPIp2xx8GnLhsR719uyHawJWYwiZuC8tQyzCM-sk4uiJDDQhP8fzaItu41avMSVGJS0SUGX-X6tCRQfxJixIh2A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.stitchphotos"
+  },
+  {
+    "appname": "Last Survivor: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
+  },
+  {
     "appname": "AVIONICA",
     "appdev": "4A11",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/CljcZNBtyGrqsp88kwojWi8ayYtg7lYwcN6yIZjAhyEPHc73rYPUBeosbBoAx3p-jm5aNA1gBOL9lCY7GCG6-Z_svymlLujNIOjo1iB7_Hq6FO88=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.perpetual"
-  },
-  {
-    "appname": "Control Dash: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/46kMOOQez7J9KaqDQUjvN9D2381-MCaZxDrNroUIhcJWwsUOTyaEYGI3m1riPhnpUb-ZIV9pb4Xz-U-o569-6JfS46kGDmSoWVnZkrNKti4DgRX7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.controldash"
-  },
-  {
-    "appname": "EHW Premium & stick fight",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Words Search - Word Puzzles",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/O7v5lL_iWEJ4Od4RaTR217YgXU6UC2AST3nDMhHOT1KPm9PKiqeKhltpKlYVh8Dy3qF_FkTRFDkyn71ET3GCfLGj35ou0HBxBy2ccjo4bp9shHU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
   }
 ]
