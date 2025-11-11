@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Battery Widget",
+    "appdev": "yuandroid",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HNV5ZHe75ebBzY0ggc1iQ10oQRVCpdX3bmp8zt-MU2sJUEldSlhDzSxLoOYYG-zoe56fJfKgnCEd5nBeuKJOD5akgtlNVKZZiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yuandroid.Battery.Widget"
+  },
+  {
     "appname": "Reminder Pro",
     "appdev": "made easy",
     "appprice": "$3.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/bVnfSVdorufCA3RAidY9SE2c7s5bK8gmyuvF9JJ_tHQ8Y0b31tOjGC4dKijVdOfLaP_aVDAn9_hY9Gijow6YAFWVcpZQH23rqxbI9wsiTXkKbdQd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordsSearchPremium"
-  },
-  {
-    "appname": "Perpetual Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/CljcZNBtyGrqsp88kwojWi8ayYtg7lYwcN6yIZjAhyEPHc73rYPUBeosbBoAx3p-jm5aNA1gBOL9lCY7GCG6-Z_svymlLujNIOjo1iB7_Hq6FO88=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.perpetual"
   }
 ]
