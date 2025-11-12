@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Avalar: Shadow War Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
+  },
+  {
     "appname": "Battery Widget",
     "appdev": "yuandroid",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/P-B-0XfYUwz33TCP2xmhNb05Eg4umhTuzXSzvcLjlJ9rfOIxk4SM61LlquSYvOeZ8bqpmsoAVIn1ImEzYd6-dhobChb0JpXpWacEqjb5Jg9N71k=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.jewelstreasures.match3"
-  },
-  {
-    "appname": "Words Search - Premium",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/bVnfSVdorufCA3RAidY9SE2c7s5bK8gmyuvF9JJ_tHQ8Y0b31tOjGC4dKijVdOfLaP_aVDAn9_hY9Gijow6YAFWVcpZQH23rqxbI9wsiTXkKbdQd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordsSearchPremium"
   }
 ]
