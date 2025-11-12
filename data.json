@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Watermark - Add Watermark",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Uv8NMU9ICbvBMMq5LrPPc6K9b5dj8TqkpI-JCycFNZmBhD8m8a1Jdd9f5ujwajMSpjjU3UltSDqZaxdbkCdUAmwEZobJF0c-Pg9KK6DaHW_9_I4Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.watermarkonimage"
+  },
+  {
+    "appname": "Space Survival: Mars RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
+  },
+  {
+    "appname": "Backrooms",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Iam5bk_jMwescB7O31Bz7NSdQy98k-6smKRa8eOxYsqKYPrcfJDfu08Ge1hfMAtmOXG2irv2SMFhHGRgpGYRKYJ3C4lUYgzv1WrIhqKPvc7TFIG7=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms"
+  },
+  {
+    "appname": "Compress Video - Resize Video",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
+  },
+  {
     "appname": "Avalar: Shadow War Premium",
     "appdev": "Enigma Publishing Limited",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
-  },
-  {
-    "appname": "Spy Camera Network Scanner PRO",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
-  },
-  {
-    "appname": "Business Card Maker: Logo Card",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
-  },
-  {
-    "appname": "Cutout Premium",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
-  },
-  {
-    "appname": "Jewels Premium Match 3 Puzzles",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P-B-0XfYUwz33TCP2xmhNb05Eg4umhTuzXSzvcLjlJ9rfOIxk4SM61LlquSYvOeZ8bqpmsoAVIn1ImEzYd6-dhobChb0JpXpWacEqjb5Jg9N71k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.jewelstreasures.match3"
   }
 ]
