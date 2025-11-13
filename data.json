@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Countdown Widget - Time Until",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f7THBYBR_IY8Ye7lCJ3qQmYcw7a9pyONUm9KbJVdwRNMn2DQn2CQgMvGbPebdbsrUB7wI8W8UbSJLZt8E1rSOrPxfn5qLWF65jSLQREpYVVE7m4f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.countdownwidgetpro"
+  },
+  {
     "appname": "Stabilize Video: Stable Video",
     "appdev": "TAPUNIVERSE",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
-  },
-  {
-    "appname": "Color Match2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
   }
 ]
