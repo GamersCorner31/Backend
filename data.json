@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Stabilize Video: Stable Video",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
+  },
+  {
+    "appname": "Bonbon: Candy Match 3 Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/d9UVd37Oynfku9sjKp1pBtD-RySSBuqIwJawIvV8o34iARxq0bZ_KmZs7s_XwneBPhBEihZ7CAyQQEF2nv1oU6-q42nW130Ar2Z4OVQeRAVjPxvL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.match.three.puzzle.games.candy.crush.saga.casual.matching.jelly.sugar.sweet.king"
+  },
+  {
     "appname": "Present Tenses Test PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
-  },
-  {
-    "appname": "CleanUp",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/2hLtjVppBbRG16a4PEBalGmBGXsCqzi0mX34Z9oiiMnTurupaNkaphCbgppjuk6UBISk54KEcM21DbnFwdlCFinWOp5YkCNx4FnmcyxPTtXm_B9X=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cleanup"
-  },
-  {
-    "appname": "Healing Wood Block Travel",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
   }
 ]
