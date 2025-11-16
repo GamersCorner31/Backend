@@ -1,5 +1,45 @@
 [
   {
+    "appname": "80s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.70",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
+  },
+  {
+    "appname": "Pulse Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/sIcjlgHNsg6Zh4nbjDYJhCQWowulrjfLaYTWo2WURR63DjtscjLM_3mC7T8Zhzjo3TDE7ZHVLeeDULmBPrHYmm6hTFP2DWSfQC3OMZ0mDPFknGAQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pulse"
+  },
+  {
+    "appname": "Survival Island: Evolve Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
+  },
+  {
+    "appname": "Date Calculator Pro",
+    "appdev": "ng-labs",
+    "appprice": "$0.49",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/5hYKe61r9zg34HnDN4QZBj5iD7TfmIPOCfS2U4g5MxKPZJMf8fRladeyI9B7dCRZvzuq3rn6pjxvVgH22JiRLvPjrKlFdYML8mQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ng_labs.dateandtime.pro"
+  },
+  {
     "appname": "Word Crash PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "Square Clear - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/UqAKcHRQOjqOpWtEeHZQEGzlMcrTC_M3PCcoR7yUsw2GcsHdbM8rzkDHHw-UitNi-LoWLnOFnyKVgHsh8lNfOekadvK_8pSgw_fd1c3-wmmT6X4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squareclear"
-  },
-  {
-    "appname": "Squarecut - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ABQvsxekuuxIj6tBDa9RM17COwHq7nsJXxkOTPoRjUdwQSklsuY_8TvhzQu0zCIVoI2IaKmgTCtpnBgAvT_Wc4WqQ8hk_C0KlY9U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticons"
-  },
-  {
-    "appname": "Xproguard Anti-Theft",
-    "appdev": "Total Xproguard Private Limited",
-    "appprice": "$21.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/q_Za6fCNc2ilbzkW6NGDAN9gbt4v_HGs1HHJtrRsFBnYBAoKG3AutM9uOe0RqSsMtMCnFEEyIrU9uxm33DdkuEcQagKu6Q9lP40aw8FGAhH_fg3o=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.xproguard.antitheft"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
   }
 ]
