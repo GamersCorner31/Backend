@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Mandala Maker 360",
+    "appdev": "Humble Kid Creation",
+    "appprice": "$0.49",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/LVsyoutQUAaIxSO-sAFRXzuCx-SoVY4Y1fk4WjAhRqJCn4o1OPXns-sS5SmdqLLzkWm_9u-gbML2ycbWRTSHdrJG1k_gv0dWkHCTcX1ZVR7XPGMjHQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=app.bhupesh.mandalamaker360"
+  },
+  {
+    "appname": "Garage Ringtones Pro",
+    "appdev": "Appflow Software",
+    "appprice": "$2.49",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
+  },
+  {
+    "appname": "IPTV Smart Player Pro",
+    "appdev": "Dmitri Iasibas",
+    "appprice": "$9.49",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
+  },
+  {
+    "appname": "Jewels Planet - Match 3 Games",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
+  },
+  {
+    "appname": "Octacrop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
+  },
+  {
+    "appname": "OctaRing - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/3Fdl3CaBRkyqO_cp4UTVxnr6epuAZ2NWYI-YdrZEB70jJjzQw_wBVqZO2Wa-YX5c8x2MqJwih8sWJBMCqE8wQZXbO0lrraUk6qaTQQEchyHoUzlD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octaring"
+  },
+  {
+    "appname": "White Room",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
+  },
+  {
+    "appname": "Sudoku Master Premium: Offline",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/V7JtONReJP6eBOuibjjeQalqJ8eDAUErzdAEeF5EGzXuxG-lMH9IawoqgAbAHGLkXU81UDlWhLrz9REnmzGRDD_4bQ6be6g6J2nNvIxgugAUMF0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
+  },
+  {
     "appname": "80s Music Radio Pro",
     "appdev": "GK Apps",
     "appprice": "$0.70",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "Reminder Pro",
-    "appdev": "made easy",
-    "appprice": "$3.49",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
-  },
-  {
-    "appname": "Stitch Photos: Long Screenshot",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Nw2ws6w0YR9-vq3pnfqgE8NDAjmkPIp2xx8GnLhsR719uyHawJWYwiZuC8tQyzCM-sk4uiJDDQhP8fzaItu41avMSVGJS0SUGX-X6tCRQfxJixIh2A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.stitchphotos"
-  },
-  {
-    "appname": "Last Survivor: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
-  },
-  {
-    "appname": "AVIONICA",
-    "appdev": "4A11",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8_oOP260u9-Nj0ukzVtMkqHoYOnQwOQOuLTCzq0838zIJOr-IvFVKgCal5D1co6__o_p8fwggUIPu19HmoJVrLGuel6dPXIaL8KHhAzfyN71vVkKMw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.avionica"
-  },
-  {
-    "appname": "Samak Blue - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ncUZTxlIDQ0NkYdfLnfsgWpeEgCu3JU4fvZR6iPhnckvBOkgb9nhDsKMX06zFzT71SujDomu4MwSG0mwnpvAKanp4hsKojhnby_0nKVNPh14pp43=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blueblack"
-  },
-  {
-    "appname": "Resume Builder - CV Maker",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ugjPrvdyLlU5U0VgcdhUaDEUbUHkXi98n_OJMZucz34ubkSQK8hUXJ0IFRW9lVLAllqS8l-AZug8iaeBtneeKR3MPcuZR7mQb2N_dH9GDTpdCno=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.resumebuilder"
-  },
-  {
-    "appname": "Mini Crossword - Word Fun!",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "Square Clear - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/UqAKcHRQOjqOpWtEeHZQEGzlMcrTC_M3PCcoR7yUsw2GcsHdbM8rzkDHHw-UitNi-LoWLnOFnyKVgHsh8lNfOekadvK_8pSgw_fd1c3-wmmT6X4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squareclear"
   }
 ]
