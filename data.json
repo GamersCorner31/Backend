@@ -1,5 +1,15 @@
 [
   {
+    "appname": "ODYSSEY Digital Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
+  },
+  {
     "appname": "Mandala Maker 360",
     "appdev": "Humble Kid Creation",
     "appprice": "$0.49",
@@ -128,36 +138,6 @@
     "appurl": "https://lh3.googleusercontent.com/F09VjQxSAOweaesfOktVOaVDS72H2MJw1tjy0h01On0exHepLyjmu0usDdwEb7T-tuXXOs6RXJuozGSIzeYfFWDElKrMfNzBj-9F=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcrush"
-  },
-  {
-    "appname": "Synonyms PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Nsgzn54S99pYyXizATIGiUxH9eBXu2n5lYvwIwPxCUlqmcAWr_MgpAvMhcStOkHP4G4n-XGXeYUufjkV7A-mv-1JTOyCQBfJU3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.synonymspro"
-  },
-  {
-    "appname": "My English Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
-  },
-  {
-    "appname": "Master of Words PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/DkwtoDaWsZlpSPvGJAbPn-ttP-Fvs8NxH56N-m3xcsB-pdb3bt_AADopUR__xBAK_BOQVVrSpBzlkQluiRFMWWa7WksMTD7OJ-uP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordmaster"
   },
   {
     "appname": "Grow Heroes VIP : Idle Rpg",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
+  },
+  {
+    "appname": "Reminder Pro",
+    "appdev": "made easy",
+    "appprice": "$3.49",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
+  },
+  {
+    "appname": "Stitch Photos: Long Screenshot",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Nw2ws6w0YR9-vq3pnfqgE8NDAjmkPIp2xx8GnLhsR719uyHawJWYwiZuC8tQyzCM-sk4uiJDDQhP8fzaItu41avMSVGJS0SUGX-X6tCRQfxJixIh2A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.stitchphotos"
   }
 ]
