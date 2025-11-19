@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Guess & Find PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/CUg5J3JqrvNL0INuD6HSbglCxePLsP0q6PxmQFVcO1LjWpx7Q34dZcZ9htSYwzhw3ZwcytqhMKKRFhNWpqS4770fNgU8RXBLZg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.guessandfind"
+  },
+  {
+    "appname": "Word Cage PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/aBrFUNM77uSrIuK3ira-qfM1xrXYJJBxejro2w7d62wEELh-Ee3IQwJfZwLyjQRxr0rIvMWohrPYpAREaSgw8sELe_J4Rbyp3Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcage"
+  },
+  {
     "appname": "Balloons Pop PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
-  },
-  {
-    "appname": "Linea - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/AEOOPxum8iLtlICinnJ0l39eJEaCN4FBlkhY3HcdLHnSf1O66Yysvg74QoDWyASM2xvZFnoYQqyVdmAg37zwNO3rzBswDLNHIuJzOd5YMsMigEobRQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.icon.pack.linea.theme"
-  },
-  {
-    "appname": "Shadow Knight: Ninja Fighting",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
   }
 ]
