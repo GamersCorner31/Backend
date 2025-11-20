@@ -1,5 +1,75 @@
 [
   {
+    "appname": "My Medicine Pro - Health Log",
+    "appdev": "made easy",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
+  },
+  {
+    "appname": "Merge City Premium -Home decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
+  },
+  {
+    "appname": "Tech VPN Pro / Protect Privacy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
+  },
+  {
+    "appname": "Survival Dungeon: Loot RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
+  },
+  {
+    "appname": "Cooking Kawaii - cooking games",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
+  },
+  {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.19",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
+    "appname": "Merge Cafe Premium -Home Decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
+  },
+  {
     "appname": "Premium Camera",
     "appdev": "FUTUREMETA",
     "appprice": "$2.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/pKieU9zQ4_TSQvTstVydIDTuLwE_jnH1zRgl7QfZl4NnKy5NapnfWAz3LVbw94H-vHgN4RMzf9B-hJSR1iLMiUZc4OX-BS2PCitbdqsFXcwakHmJ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.iqpuzzlesgames.jewelcrushmatch3puzzle"
-  },
-  {
-    "appname": "Word Connect Pro - 2023",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P99TCIHrGJTJLM99ZB2Ylk8Fb5I-M73ae_XW0o9jldjzKfKwIr-8-NT7Bxx3RauwYiNdo7BVjEXjcFDuv7wpppzJV_DS13f7AGvwSWLsfgc9V7Z1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.wordconnectpro2023"
-  },
-  {
-    "appname": "AirComando",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
-  },
-  {
-    "appname": "SurvivalGame3",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
-  },
-  {
-    "appname": "Knife Hit",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fx2LPkUoY1lAQQZG_caou0UPoYUNuTAClqsMLay0bV3blVx_jIRjdBViu5_EeO0P8IsqLUCbEJtQnbzRUpXk75WOIPQ5hpxOCuwJbLU74vIk6I6uhA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.knifehit"
-  },
-  {
-    "appname": "One Shot",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
-  },
-  {
-    "appname": "Find the Differences",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3gYMf0p7y9Vi_z-2yPtKU7QJ2611pl_MmKhaSCqSQJrTAF7EJ_YI6xK8rswojJo94OpLbulrK3DVlylqvQJYVDjVAyFC288twpLVjS-JpLCiVos=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences"
-  },
-  {
-    "appname": "MNML Analog: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqNBSaFazPnffFp5QeQWcUnmR3elg084BvkAS7Z1Wy9nwJQRw6tWMYmPEZmBTjeYpeO3mInqK90gcuvO8DXEwM435b07BCQJoOwwa8Lrdz7CQTz4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.mnmlanalog"
   }
 ]
