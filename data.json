@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Premium Camera",
+    "appdev": "FUTUREMETA",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/0NtbRlFsO9IUISAT9nzO6ZatgbnhYkYhtSWyAdQ1Xm6jbdyOshBeQqOGULAcr94lZM1_nC_GI6FhUT_yuxaGpnrb0YZ_nZQaG8I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.starfish.camera.premium"
+  },
+  {
     "appname": "Guess & Find PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/qqNBSaFazPnffFp5QeQWcUnmR3elg084BvkAS7Z1Wy9nwJQRw6tWMYmPEZmBTjeYpeO3mInqK90gcuvO8DXEwM435b07BCQJoOwwa8Lrdz7CQTz4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.mnmlanalog"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
   }
 ]
