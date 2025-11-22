@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Bookmark Manager - URL manager",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
+  },
+  {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
+    "appname": "Circle Dash",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/UhJzq2mwZ0KSTGeCPIECePmnkt1BKEzcTDKFkUohBJCHWlmNzo_6dyLPOR5sFegtr5MJUoChB7qgdPHPdV5uleX0eirH0bsAGzCDlxJWOIlP4IQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.circledash"
+  },
+  {
+    "appname": "Contact Edge side bar",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5FheGpOQzNyLBkbKupy-VbUoGYAORrEd9la0QjjXjWdx-dYmxrXziuaKKLjMSkTFvE2H6pCgQ9XsIdHH0kQnV8X34T_wvahoYdH9XmD6yvi38EYc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar"
+  },
+  {
+    "appname": "Outlined Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/sd_DVBz5rkBXbMiqWYo9hHUZvp8eFc5pg1kgy2uZ7kI8o_9tWrWLzgL-yIzTx-cJ1yPCZ9KONNpqdwfZbVm4nT-CPE7iVy_8DOGR3QNLWje8AYEhQQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.outlined"
+  },
+  {
+    "appname": "Guardian War: Ultimate Edition",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
+  },
+  {
     "appname": "Water Reflection Photo Effects",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
-  },
-  {
-    "appname": "OctaRing - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/3Fdl3CaBRkyqO_cp4UTVxnr6epuAZ2NWYI-YdrZEB70jJjzQw_wBVqZO2Wa-YX5c8x2MqJwih8sWJBMCqE8wQZXbO0lrraUk6qaTQQEchyHoUzlD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octaring"
-  },
-  {
-    "appname": "White Room",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
-  },
-  {
-    "appname": "Sudoku Master Premium: Offline",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/V7JtONReJP6eBOuibjjeQalqJ8eDAUErzdAEeF5EGzXuxG-lMH9IawoqgAbAHGLkXU81UDlWhLrz9REnmzGRDD_4bQ6be6g6J2nNvIxgugAUMF0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
-  },
-  {
-    "appname": "80s Music Radio Pro",
-    "appdev": "GK Apps",
-    "appprice": "$0.70",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
-  },
-  {
-    "appname": "Pulse Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/sIcjlgHNsg6Zh4nbjDYJhCQWowulrjfLaYTWo2WURR63DjtscjLM_3mC7T8Zhzjo3TDE7ZHVLeeDULmBPrHYmm6hTFP2DWSfQC3OMZ0mDPFknGAQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pulse"
-  },
-  {
-    "appname": "Survival Island: Evolve Pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
   }
 ]
