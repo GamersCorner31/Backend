@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Water Reflection Photo Effects",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/txp9wOs0V6OyPcvB5MYqB1UlKuuBhPI0zvrZlwWq3lcr4KHj-05kRRvB4pTEP4gEf5NXQwc1XxoeLGpqwUS0xOpDpOaTZvMdCJg_hA3xAhGzKTdDFg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.watereffects"
+  },
+  {
+    "appname": "Last Day Survivors Zombie TDS",
+    "appdev": "Ro-Games",
+    "appprice": "$3.99",
+    "apprating": "4.4",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/D9RE2YoSzNzMOJgEP8VTm2qqgg3xhaO0pvS4KPT5-j6LF3-nuO0A0boamVBy0Mp7y96Kmul52_7t50iYBzCZk57qcgX06NWRew=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=rogames.lds"
+  },
+  {
     "appname": "S4U Ancient SE watch face",
     "appdev": "styles4you",
     "appprice": "$1.59",
@@ -190,46 +210,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.starfish.camera.premium"
   },
   {
-    "appname": "Guess & Find PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CUg5J3JqrvNL0INuD6HSbglCxePLsP0q6PxmQFVcO1LjWpx7Q34dZcZ9htSYwzhw3ZwcytqhMKKRFhNWpqS4770fNgU8RXBLZg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.guessandfind"
-  },
-  {
-    "appname": "Word Cage PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/aBrFUNM77uSrIuK3ira-qfM1xrXYJJBxejro2w7d62wEELh-Ee3IQwJfZwLyjQRxr0rIvMWohrPYpAREaSgw8sELe_J4Rbyp3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcage"
-  },
-  {
-    "appname": "Balloons Pop PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EuN4GgwdIhz72aTng6s0F3UK7lmycXKc1OC2iVzWAFBo87smdFUCGTBOf6Tt6IIjhkrZt-HDGitAHXGeI3VJNKQ8BjDev4eyOhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.balloonspop"
-  },
-  {
-    "appname": "Over The Bridge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jntVC0WIqYyY6hjH03_YyZGjOHuiJaH0mE-IxfWvWCf8eH7tIrXjf7u7A4j7DKofiwpcxszUO9U0Y3j94lNYu1Vi2FSKimTcPwg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge"
-  },
-  {
     "appname": "90s Music Radio Pro",
     "appdev": "GK Apps",
     "appprice": "$0.80",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
+  },
+  {
+    "appname": "Pulse Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/sIcjlgHNsg6Zh4nbjDYJhCQWowulrjfLaYTWo2WURR63DjtscjLM_3mC7T8Zhzjo3TDE7ZHVLeeDULmBPrHYmm6hTFP2DWSfQC3OMZ0mDPFknGAQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pulse"
+  },
+  {
+    "appname": "Survival Island: Evolve Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
   }
 ]
