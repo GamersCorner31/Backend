@@ -350,16 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
   },
   {
-    "appname": "Mandala Maker 360",
-    "appdev": "Humble Kid Creation",
-    "appprice": "$0.49",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/LVsyoutQUAaIxSO-sAFRXzuCx-SoVY4Y1fk4WjAhRqJCn4o1OPXns-sS5SmdqLLzkWm_9u-gbML2ycbWRTSHdrJG1k_gv0dWkHCTcX1ZVR7XPGMjHQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=app.bhupesh.mandalamaker360"
-  },
-  {
     "appname": "Garage Ringtones Pro",
     "appdev": "Appflow Software",
     "appprice": "$2.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
+  },
+  {
+    "appname": "OctaRing - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/3Fdl3CaBRkyqO_cp4UTVxnr6epuAZ2NWYI-YdrZEB70jJjzQw_wBVqZO2Wa-YX5c8x2MqJwih8sWJBMCqE8wQZXbO0lrraUk6qaTQQEchyHoUzlD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octaring"
   }
 ]
