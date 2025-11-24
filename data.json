@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Minesweeper Pro",
+    "appdev": "Mindware Consulting, Inc",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/lUa-TOPjyimy8QRzsCm9vJ06VE-buNuh7na1vvMLmiQJ00ZO3oudPS1BB60lpx5p4-ylJgl6M87JIDFbLiPCS2GBDYelz8UYEg8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=mindware.minegamespro"
+  },
+  {
+    "appname": "WS Trek Pro - Hybrid WatchFace",
+    "appdev": "Rohit_Singh",
+    "appprice": "$1.80",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZjTBF7lBow_7PLDuxrYMzGYsUleJ_LAcCNSmYX3VgtmIfPeBVCc1BuU1zlURlpgNrvV_wXJaH6RamUJc9aOSASc8_VjasTaJGR3k7gRmvVEZcat0BA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.wolfsync.trekprows"
+  },
+  {
     "appname": "Quick Volume Control",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -170,46 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=rogames.lds"
   },
   {
-    "appname": "S4U Ancient SE watch face",
-    "appdev": "styles4you",
-    "appprice": "$1.59",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/J6KbNGi4id0b3t09ZGXISLUpuBixvrVSRYJbDasI_Gj5EbOtY1fnbsowFW6L7EhsC564rkyKocL9VxxMfJzwNmoguhq032bwcFm0x4LmJ8hRAIaY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.s4uancientse"
-  },
-  {
-    "appname": "Colonies PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/o1u5ubFdkRNNnO6OBYG2WtqmRAUb0zm2fLNDs95MrfTJTKZKLUWkVvsIpqJ4EMntFTLKAXXrhQeg6TFExShOvnYXWeiSXHR8U7YW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.colonies"
-  },
-  {
-    "appname": "Prepositions Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CtBYsEtCdOeEA3uHsOhoCQ1WgwwpYciXynTXuPlD4di_fTRHGIBWi-jaRRHP2DJMwFldeY-T6b-_ItUohg4fXzKZttjtiODc2XY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.prepositionstest"
-  },
-  {
-    "appname": "Plurals Test & Practice PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/_Bm1HrNoyuSO7Ty-o-ICPWPZh8L8bEyupM6vGDU1u2lQPZsgy3vLnSuc3zYfRC8q8yXIBYHoaztr2S1w-hOqDVZFnPJYuCK-6eYO=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.plurals"
-  },
-  {
     "appname": "Android 12 Colors - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -240,16 +220,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.hexablast"
   },
   {
-    "appname": "Word Search Champion PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
-  },
-  {
     "appname": "Himawari Yellow - Icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -268,16 +238,6 @@
     "appurl": "https://lh3.googleusercontent.com/1StRxoofBovUm0euH1PxN6GOrDHLvdLzdxqA4r3OA-v3QIwOL7SnYVNEEqTX1Y2WNbCKh1VKieHjXAJkrzSnizwLoQPR5cJFN908WJ1lUHLuAjYG2A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockvsblock2"
-  },
-  {
-    "appname": "Shapy Adaptive Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Px0XaQ85FuiPxkZoG6eC7Dkjk5eoZv4LukfY2uBtviw9Dh5I37BgPGMOg9XuPWbS-N2C3w2LHgXoPP6CmovrzILqcFjoOhLDcvk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.shapy"
   },
   {
     "appname": "My Medicine Pro - Health Log",
@@ -398,5 +358,45 @@
     "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
+  },
+  {
+    "appname": "Burning Sky VIP",
+    "appdev": "SHMUP Games",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
+  },
+  {
+    "appname": "Hybrid power: Watch Face",
+    "appdev": "Yeei Watch Face",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/cCMk2bKu1Bjo8KizmwMxJObKC5YIiQxv_oBzZNFhNNERaH8VA4UdcpMp2nAOa2C1KJ6GA00tc6y6P9O67gkuHo4IOr6UElu55tIF3A9YERD13-mF=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hybridpower"
+  },
+  {
+    "appname": "Empire Warrior: Tower Defense",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
+  },
+  {
+    "appname": "ODYSSEY Digital Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
   }
 ]
