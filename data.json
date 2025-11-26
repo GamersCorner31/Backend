@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Spelling Games PRO 8-in-1",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Af8k5VZzy5GzltLbvIbemGUXc4GfmsKNHKZZMCQszZc8oGMSjT0OJN8SZEruVJILElBBt72W0e4rcuecSM8Vp2lV-SI_b_kQFBM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellinggames6in1"
+  },
+  {
     "appname": "Crosswords Word Fill PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
-  },
-  {
-    "appname": "Circle Dash",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/UhJzq2mwZ0KSTGeCPIECePmnkt1BKEzcTDKFkUohBJCHWlmNzo_6dyLPOR5sFegtr5MJUoChB7qgdPHPdV5uleX0eirH0bsAGzCDlxJWOIlP4IQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.circledash"
   }
 ]
