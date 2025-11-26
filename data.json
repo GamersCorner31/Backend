@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Verticons Icon Pack",
+    "appdev": "SpaceMan",
+    "appprice": "$1.79",
+    "apprating": "4.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_v5q1Fc65MDZd_qNVppI6825PM0CLm0x7xredQJeqiMUhrtLZMUjs0x9KO5fhBU959A34W9V1TzqBSWtCilky8FjtVn7-_5Farv9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.spaceman.verticonspro"
+  },
+  {
     "appname": "Spelling Games PRO 8-in-1",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
-  },
-  {
-    "appname": "Grow Dungeon Hero VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
   }
 ]
