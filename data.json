@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Katla",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_W9eL0LQ-FC0_K76ykIFja3UlkVnM4Nq49Evkvx2mzuQpiRmGLDM3_Ptlvrg6eIFZC0F9nwu7Qo0B9yQrEkJNZ4GkAitmjhCajvIiuPRUcWKfYzk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.katla"
+  },
+  {
     "appname": "Math Games for kids Premium",
     "appdev": "Didactoons",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ZjTBF7lBow_7PLDuxrYMzGYsUleJ_LAcCNSmYX3VgtmIfPeBVCc1BuU1zlURlpgNrvV_wXJaH6RamUJc9aOSASc8_VjasTaJGR3k7gRmvVEZcat0BA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.wolfsync.trekprows"
-  },
-  {
-    "appname": "Quick Volume Control",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
   }
 ]
