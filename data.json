@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Match3D",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9leU7HHVFmG4RsfQrcWAuqy8oiRq_MnsRCH2FKreckBQ4h2z-NI82tR5pB1acuIndMI7IFptRL4dlQUXGxnfdfoCscKa326_JjgeXCNomMVKginD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.match3d"
+  },
+  {
     "appname": "Katla",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -110,26 +120,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.spaceman.verticonspro"
   },
   {
-    "appname": "Spelling Games PRO 8-in-1",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Af8k5VZzy5GzltLbvIbemGUXc4GfmsKNHKZZMCQszZc8oGMSjT0OJN8SZEruVJILElBBt72W0e4rcuecSM8Vp2lV-SI_b_kQFBM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellinggames6in1"
-  },
-  {
-    "appname": "Crosswords Word Fill PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
-  },
-  {
     "appname": "PIXEL WORLD PRO Watch Face",
     "appdev": "LIBERTY WATCH FACES™",
     "appprice": "$0.49",
@@ -140,16 +130,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelworldpro"
   },
   {
-    "appname": "Antonyms PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/lH_Lhb8bLKytPRYOC7QlV-AYOZXYMOZ58Cq691sKNjLtJCg0RpVtel_IyhWBj4ZZjabvPq37ZdHyMT6O25l6caPVTzE6YFPPws8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.antonymspro"
-  },
-  {
     "appname": "Space Rush",
     "appdev": "Eggies",
     "appprice": "$0.99",
@@ -158,16 +138,6 @@
     "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Spelling Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/SPO46l8Shb3BdkKVHgoE1vSz-O7L0yp_sTM2pZtPLb0HAVHmJGnr0UJEfAdi1hGyU4D1kCymLzyY4zp2z-rGfjduEfNDjVGl1yo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingchallenge"
   },
   {
     "appname": "Speed Math - Mini Math Games",
@@ -398,5 +368,35 @@
     "appurl": "https://lh3.googleusercontent.com/ZjTBF7lBow_7PLDuxrYMzGYsUleJ_LAcCNSmYX3VgtmIfPeBVCc1BuU1zlURlpgNrvV_wXJaH6RamUJc9aOSASc8_VjasTaJGR3k7gRmvVEZcat0BA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.wolfsync.trekprows"
+  },
+  {
+    "appname": "Quick Volume Control",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
+  },
+  {
+    "appname": "Number to word convert offline",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/b15fQJTyaIp0proyIPYJ9137LhMkjnq1HuGNbD4hxAGLHMhv5RtHNrauvSVXuwcIVoBAjl1GkHaMQUXY3HEH98ZTTYTozo3Fzyk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.numbertoword"
+  },
+  {
+    "appname": "Notch Effects Notch Animations",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/PzJIj6bpcDLfZhWCTeCdvPaykmjnv6i7yvB_wtNJFbDGUT2VL4jvEju9A_ZC_5NMFv3TuPgLDnzbHNERBjJFpFrqoZRTbxtVfBYzJzN19g5Bv1PKhw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.notchanimation"
   }
 ]
