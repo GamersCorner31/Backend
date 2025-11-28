@@ -1,5 +1,185 @@
 [
   {
+    "appname": "DinoRun4",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/p_MKL9T4SwMGY0I3LvUdsV2C5PjbbTyn-KO7wU_Bc3okv2MFCBTcBjQ1w7UpCX4P3DvEcvEA0DatBp3l2KOJ5uqUjyep2lOen4P7kiJD6YrshNvI1Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.dinorun4"
+  },
+  {
+    "appname": "Lines Circle - Neon Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/d28eTJX7AjB8YrHnxlbqYBoKag5S5glTZtrSiNi_wv6iTXqWzWDq1FvbmlBdF3pwrZSfXIgj6XmOLsligBFj7COevcr7sBuwNnp1XncmmU5QeiXVPA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circlelines"
+  },
+  {
+    "appname": "Invitation Card Maker Pro",
+    "appdev": "AUSTECH STUDIO",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/cJEbCr-gjjZbhSDUBzvdg_3X_6EskCsapjKDMtDP4HHXDI7oWmoiU9vMF_8y-1qpp6UmmGWEVvZ_bjy5yLnSWUzNjJhmVbGW8TgmZILF2-viSdI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.invitation.maker.invitationcard.generator"
+  },
+  {
+    "appname": "Poster Maker Pro Banner Create",
+    "appdev": "AUSTECH STUDIO",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/C3J_u4u-pPr9Vq8hD09uiLr20-clgSsaGNEbyI4MTXj8Ixc2pbnJkXmDcv8K2K7qCgHPLvfg1iza-uBiXCXqb0Lz1dE9JWwcnKOj65iDuJKGRE3a=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.soft.festivalpostmaker"
+  },
+  {
+    "appname": "Who Uses My WiFi Pro",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
+  },
+  {
+    "appname": "FASTAR VIP - Rhythm Game",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
+  },
+  {
+    "appname": "Net Signal Pro:WiFi & 5G Meter",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
+  },
+  {
+    "appname": "You-R Circle Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
+  },
+  {
+    "appname": "Illuminance - Lux Light Pro",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rbBWEsrUEDNP9LJdKyCkTbYrysnsZ3nFYuAquS_SK-VzHyGzAsNWMFgo-f_Z7DOqG_jqe-mwl7T_1kDnlmRUvGQhR36nTjjuumUgIn7JLUiOceA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.illuminance.luxlight.pro"
+  },
+  {
+    "appname": "Pixel Net White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bja-4nCZ89PE6832-57wPPQ3XgOFi-ZPPKOtkqoI31dSRCRvQ9e4a-vzeiu3GrkFpaxzVem4RzSxhx1MReiM-pLa2lNjSGszHg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
+  },
+  {
+    "appname": "Fortress2",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
+  },
+  {
+    "appname": "Fit Workout Pro - AI Trainer",
+    "appdev": "AUSTECH STUDIO",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/eIGZg_pvGYyyHtFhNQU57eFXgtsf1hqMAvqqApSsrP8jViPY5128WTULnQ0CTqcJ_CpdbxeeMMIcDu9NFlUvzIkPg9NpEESn99zos0gkDBwrXsI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anthonyng.workoutpro"
+  },
+  {
+    "appname": "Word Mania - Brainy Word Games",
+    "appdev": "Eggies",
+    "appprice": "$6.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
+  },
+  {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appdev": "EA Publishing",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
+    "appname": "Evertale",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MV3yO8Pe03nI_K6_eDFj8wvJ3bUUDbJZxmKWhesAFoeywC9hQcm784lQAh-12TvVwTAd7Fa1zS05cVKu0TSsA-2ZuU_2f76rMQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale"
+  },
+  {
+    "appname": "Onyx - Icon Pack",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/HP_j4_0OwalLzDit9ZvPcvF5Qtmp0vPmMQI-hiMpoidz7ZBM-TsoqX2WOFL5uiuVF2LEpMqUFqFQer-Q0gzlQhVY4nOnSrh64Ns13SevmyYVl_qx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.oynx"
+  },
+  {
+    "appname": "Stony Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/wiGJBYeqmpCb_teQ-_YCtaPN81TlbbyAsthZwOPpuNFmBopuMzr3ciHnOGcy-aty1M3_uFN89loL2E0RNUmvcmu1uz4nJaWQvOM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.stony"
+  },
+  {
+    "appname": "Console Tank - 8Bit TV FC Game",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/wloVLmoDsBY96JxDd7CQBCorfjxShpfuP_VOg2wKs8aeT6q5G6LtzlW74MixNVvWNFe1_HjDZ8MC0T28540szG3NiUBjuVldaj1MBJWksfu8BtM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.console.tank"
+  },
+  {
     "appname": "Match3D",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -218,185 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
-  },
-  {
-    "appname": "Tap Rush - Reflex Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
-  },
-  {
-    "appname": "Spelling Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$3.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
-    "appname": "Sudoku Master 2023 : Offline",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/pc3USv4R9nwra0vkwSoCxNOgq1SHTxgXQ6IgLfnGGBoDLU_nQRFWo6jqn_iDuIIuNxMQz38oV3Ctj7cq-Akkgr5thQiAlAbhHBbxx7a4PbSiJrs5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.sudokumaster2023"
-  },
-  {
-    "appname": "Crossword Quest Premium",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/O2QvPrMRiLdbi_34QDKwLT6kZY_vVEzOSbkEc80nS6tYXCeWNeQrO-ruQQW5p_BkvHGWpAPpUeKE1TuzdrhzaX7MA_yOflsBc_A1HMBNTQWXGwOo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.CrosswordQuestPremiumGames"
-  },
-  {
-    "appname": "PIXEL SPORT PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
-  },
-  {
-    "appname": "Word Search Game: Offline",
-    "appdev": "otto games",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ovvv8VSTWDtScLnG5jmm94eWWMHsp9V1b00x0gSx373F0Be0jL0C-7HCXjsvz0MyfI6wC4_FmPuP688ZbaAO0KZiTBBpa3KZJZdr6GL9-j-UUlpmng=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordscapesWordSearchGame"
-  },
-  {
-    "appname": "Shout Screen - Big Text Screen",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HsJJPRGQMnHOsjz_EBvFIPt3gObSek5PaA5MTeHoB9LYA9VsArV7tEac9pzMWNcFlzWQiquZJYmOlWfNPpTFlspqWsOz4bPLQCM2D2Q_p12mdCA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bigtextannouncements"
-  },
-  {
-    "appname": "Pixel Net - Neon Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9HDKEJlXc_jCpOvC9HY9Qd2OuL74oVFhlIJhxQMXKOMAlPDqQHBd5z08R8-zRflKjEYBtoCp02m15GFrSJbw5jf5WsY-u8mgzkY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net"
-  },
-  {
-    "appname": "Lineblack - Red icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/XkSsXvNvwAOAsyPFzPu-Rw_injuX7AaTUk8hHPoljGIaoseHbqHeUFRfqpb-dOJ8aKOoo01HaTCaFBsnwwiAjthhz6OBIq67KKs1AQ25ufwCHHQO=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkred"
-  },
-  {
-    "appname": "DogTok - Dog Translator Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "Linios Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/cerBioO2fRBrlbyHZlyr3eT7KGid59i29P7UEWcRAtS1bSRzMLhDjrvExT1APG9-xv75eay7aEbyR93AoiGjsgkCptHUrFdc0Q9dTViBNzOt_Taw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lnored"
-  },
-  {
-    "appname": "Meteoroid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
-  },
-  {
-    "appname": "Everybody's RPG: Reboot",
-    "appdev": "Nomad Game",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/35Vjf_o0dktr-Oxy9z4eiqrPASMUCKkyqBjTTtuOWtJMOYk2YRqkZlLsOw041BSMl7jApUQvtxFRcaTRd1obj8mQaNSDPHBFtgk2c9SVDE1J7_Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nomadgames.dungeonmaster"
-  },
-  {
-    "appname": "Minesweeper Pro",
-    "appdev": "Mindware Consulting, Inc",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/lUa-TOPjyimy8QRzsCm9vJ06VE-buNuh7na1vvMLmiQJ00ZO3oudPS1BB60lpx5p4-ylJgl6M87JIDFbLiPCS2GBDYelz8UYEg8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=mindware.minegamespro"
-  },
-  {
-    "appname": "WS Trek Pro - Hybrid WatchFace",
-    "appdev": "Rohit_Singh",
-    "appprice": "$1.80",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ZjTBF7lBow_7PLDuxrYMzGYsUleJ_LAcCNSmYX3VgtmIfPeBVCc1BuU1zlURlpgNrvV_wXJaH6RamUJc9aOSASc8_VjasTaJGR3k7gRmvVEZcat0BA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.wolfsync.trekprows"
-  },
-  {
-    "appname": "Quick Volume Control",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
-  },
-  {
-    "appname": "Number to word convert offline",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/b15fQJTyaIp0proyIPYJ9137LhMkjnq1HuGNbD4hxAGLHMhv5RtHNrauvSVXuwcIVoBAjl1GkHaMQUXY3HEH98ZTTYTozo3Fzyk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.numbertoword"
-  },
-  {
-    "appname": "Notch Effects Notch Animations",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/PzJIj6bpcDLfZhWCTeCdvPaykmjnv6i7yvB_wtNJFbDGUT2VL4jvEju9A_ZC_5NMFv3TuPgLDnzbHNERBjJFpFrqoZRTbxtVfBYzJzN19g5Bv1PKhw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.notchanimation"
   }
 ]
