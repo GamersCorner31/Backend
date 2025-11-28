@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Accumulator PDF Mini",
+    "appdev": "Salemo Lines",
+    "appprice": "$7.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kXKfRWoMA_cyFoZdCklVD0oqrP2ABLc3y9yb4AqugM3tnkvPF2dL2b6HwDgeJz5BLQTvQ8s5QBSW9t8_gzTj0oUq2_fMWwB1FmKI0syGXmwCX3Md=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdf_creator_mini"
+  },
+  {
     "appname": "Rogue Hearts",
     "appdev": "Ninetail Games",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
   }
 ]
