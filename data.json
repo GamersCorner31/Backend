@@ -1,5 +1,75 @@
 [
   {
+    "appname": "SnagID - Snagging & Inspection",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/WEjV4Y6moirnWh4mmT8A2L4FJsn6Ltt79UXinrGzX8a_-NGR2uvWuDP8CXrSkcI6JPuDadbefaMIOk9ihfvQzmoUZuUgFKZ_Qg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.appculus.android.apps.snag.snaglist.snagid"
+  },
+  {
+    "appname": "HMKWatch Christmas03",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/XnPmkuV4Ni-TJNmr1Y0ClgcNvuFaWKNNxgOKQHRA7l84REeMRUf07VffppBob1HWStZk_Ct0bCiYerDKMPvYoANv988YKHJhlADrnYdmKXhgrho=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_christmas03"
+  },
+  {
+    "appname": "Castle Defender Premium",
+    "appdev": "Unimob",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5Ryd4JOwfbBCI3B2_txd8EADjPgEW3KENqgxmnTwZVEvqWwYyeWxOc4XDh5dMN3LIuxAxcY02MA_VRhlfLLZMjRwnPCME8fjguA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.castle.defender.heroes.premium"
+  },
+  {
+    "appname": "Cubic Light - 3D Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
+  },
+  {
+    "appname": "Inab Purple - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/W44i3udiaLHpr3DF8DG057AbjHjVEp7KnwqZ7a1x6IUpipH2mU25AOkit54yCorRAUgs-yGQsU-fTyqZrDsdIrBYSPmyopkYqcX7EcSZz9bT2ZWMmA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack"
+  },
+  {
+    "appname": "Jewels Planet - Match 3 Jewels",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/crKHowElKrsEzLpjV0aPKrjx-CR32j01d9sJhg0gL34cYwXznoGMeIDtDwxtQ8tn4mrxGU2AOOAsWD0zHoxM90w8pgRI5QEKq8DOEK8j10fve6-Z3Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.JewelsLegend2023"
+  },
+  {
+    "appname": "Word Game Wonders: Crossword",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/G0i1dEfisukeHlrEKas6O_0T4TZ7oA8vH0NiyM5ynoXgGnzfXcGAix8K2Fy3Py0xFsEkES6fRfGOOB-wJ6MFr9MQXQJhL-YC6aImeYek69f4s80=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush.wonders"
+  },
+  {
     "appname": "Black & White Puzzle Chess",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Speed Math - Mini Math Games",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
-  },
-  {
-    "appname": "Emoji Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
-  },
-  {
-    "appname": "Bulbs - A game of lights",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
-  },
-  {
-    "appname": "RFS - Real Flight Simulator",
-    "appdev": "RORTOS",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/9IjV-N3_1d5FMvkXAoUZdo_r6zTRY4xnYXm2OCqkDNgUGW62Q89impmjHT4NRGv2TOuERiOlfaKsFE3gI4gaxXIltG8gRwOrt0U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator"
-  },
-  {
-    "appname": "Crazy Calculator Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
-  },
-  {
-    "appname": "Block Blast - A Retro Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
   }
 ]
