@@ -1,5 +1,15 @@
 [
   {
+    "appname": "QuickPin - Fast Notes Reminder",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
+  },
+  {
     "appname": "SnagID - Snagging & Inspection",
     "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
     "appprice": "$4.99",
@@ -138,26 +148,6 @@
     "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "Word Search Ultimate PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nKUjsm-uV_WnugK9qpJdJaYxeFCxrsXdl-bNrKqgIsXGQIBJ_rp3EuRc_ft2G5utUSI0WSZRaAPIAiX1QLEquqMdw0NqRTCsXXQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchunlimited"
-  },
-  {
-    "appname": "Articles Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/j5f4z_vHdqz63V9P6e_n1UgKZfcr_85ucBLnLuEwGRWCCgzl2P2L4hT18ZdFALNcyq8u1TqQvt-mz9wxFNezL2IkXz8S9ubvFzw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.articles"
   },
   {
     "appname": "The Lonely Hacker",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
+  },
+  {
+    "appname": "Speed Math - Mini Math Games",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
   }
 ]
