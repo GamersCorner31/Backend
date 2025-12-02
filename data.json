@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Dungeon Shooter : Dark Temple",
+    "appdev": "IMCrazy",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
+  },
+  {
+    "appname": "Maths Puzzle: Maths Game Pro",
+    "appdev": "Premium Quality Apps",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/R-98Z2PE1QGi4jFCeBqhDlLsZ0S8lhFdDsxXZx7YZDGM7AXPcEaP0ymTWrC9tKxDOFHdYv8iqkdFhVeI3PUzW1dASxpzHAeXCE8fR2MDoRJMcEfm9w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=cloud.boomdigital.mathsgames"
+  },
+  {
+    "appname": "Bright LED Flashlight Pro",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
+  },
+  {
+    "appname": "[VIP] Missile Dude RPG : idle",
+    "appdev": "Artifact Games",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
+  },
+  {
     "appname": "QuickPin - Fast Notes Reminder",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_W9eL0LQ-FC0_K76ykIFja3UlkVnM4Nq49Evkvx2mzuQpiRmGLDM3_Ptlvrg6eIFZC0F9nwu7Qo0B9yQrEkJNZ4GkAitmjhCajvIiuPRUcWKfYzk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.katla"
-  },
-  {
-    "appname": "Tokyo Debunker: Urban Legends",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
-  },
-  {
-    "appname": "Color Wheel",
-    "appdev": "Roman Sevastianov",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jZ-EA2lUGJu7r6Jck1RUe3MyF218-4ZgeX0YPneDccQqSRQku7LtdRNMeBe4_88CLWCtuWm2DuD6cWgoBxgleqzqiKWCsgq_Pudj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel"
-  },
-  {
-    "appname": "Space Rush",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Speed Math - Mini Math Games",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
   }
 ]
