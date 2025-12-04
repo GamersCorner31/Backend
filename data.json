@@ -1,5 +1,115 @@
 [
   {
+    "appname": "Bass Booster & Equalizer PRO",
+    "appdev": "Coocent",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/IY_5PY7wl3ONZ1k3rsQHcELNYf3nqNk8CsySABZp-mmjNxt3C27FH34_w8ouv9q-XBZ-qCjJVqxD9DJewbqO4TC1fbHzgkchG3_8nvrUU2f1-94=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.sound.effect.bass.virtrualizer.equalizer.pay"
+  },
+  {
+    "appname": "DJ Music mixer - DJ Studio Pro",
+    "appdev": "KUCO Apps",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9ws7Im21YNbSDP_wYGDJ5KqwL3x06nq4dvwTeVeQSejDFMvpw_cWZ55vegwf29gt0FkVrNlsU7PGfWvt7bdad05VHzxA-JMaSn-GbKGRzr0thWc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.djmusicmixer.effects.pro"
+  },
+  {
+    "appname": "Equalizer - Bass Booster EQ",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OhLzNnTPVw7WdRWKPqRreyO-kxKPrNgqG-U9oQTk1vmOXIocZQu82aJtbANaqxRfOpVxlKNnqJoUfWA0MmbaSUPFCf6i4qEiO7WnkVSudUqhJC0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.equalizer.pro"
+  },
+  {
+    "appname": "DJ Mixer Pro - DJ Music Mix",
+    "appdev": "KUCO Apps",
+    "appprice": "$9.99",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/bVGDYcnX_QIsxyQkSS1bL2vXhfWqq4egKydLwsdC8vx4g30venV2cISon_9PPkdvnz4B5BJSY31vZ_Y58Xw8eFSyNMzkEGtXW1TUndd9FnhkULQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.pro"
+  },
+  {
+    "appname": "Volume Booster - Loud Speaker",
+    "appdev": "Coocent",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/mct-kd78HbRf2zM3lphaxUIIF9qun8KxGcODo12BqWTz_yIRgMcBtx8fJfLCpZScTVZH91jT-IyFt4S1vtDdGfWUAqtbPYQKm3vZ31XThyKgG_Rp=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=volume.booster.sound.enhance.pro"
+  },
+  {
+    "appname": "DJ Mix Studio - DJ Music Mixer",
+    "appdev": "Coocent",
+    "appprice": "$12.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/imZqRtUaw20eIAYl-MNwKWCVYobWtpkZXi4NdKRKfciyE7E_Tw9I0iz_gexb_J-p8_l8KKSAoT1eh1ec3BDVOyZFu42j0FMC3qoCEklrWEV8o0C1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.effects.pro"
+  },
+  {
+    "appname": "Equalizer & Bass Booster Pro",
+    "appdev": "Coocent",
+    "appprice": "$2.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/RzDW7s2GjtHpjw_KIcgADqWM9vf8N8m-jfDooo04Jpl0LNE67J2-Hhpa7zHAhvZ6-rctSS9eN7gzQYvWxrvx6YLi6sxLDRVH0AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=music.bassbooster.equalizer.pay"
+  },
+  {
+    "appname": "Equalizer & Volume Boost PRO",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/26FHLoRX16hysD4KUywdlkINoKzx-bLbXj884yTUX_bRWKpJ7CH4oDe_IgsdqbyyEwMGJu_SgvnHCkUaPubgZgbkjCFipPvHX_Rcy1TiD_wDDF4d=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bass.volume.pro"
+  },
+  {
+    "appname": "Rotation Control",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0NtVKfd-lD7-H5a5ziXS_w2B3EdwVYIYm2PBqYgK1hfFOmOs9Wrh5lmcIfCFyIg0x4snG47V03-bU19BDznfd4HfRwtEWd3hnEw23V2xuPQQ-w1S=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
+  },
+  {
+    "appname": "Volume Booster & Sound Booster",
+    "appdev": "KX Camera Team",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/7aYbTTELqp8IDYUoDiq5C4aQcUOC0CR_dVlcXQiTiXcG0dCLsN-x8c3qdYx0am7u2m5Ln28IiX65ENTrE-LjMSVOWTB79zVPT00YwK9R1Wxmr3tFxg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.volumebooster.pro"
+  },
+  {
+    "appname": "KX Music Player Pro",
+    "appdev": "Coocent",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jU-Vail6_faNRJ4-mk8wQfG22z2Mu6gp80SOeg3S_7sCGvlYrtUtkX5SyofR_5TPMfBrsg2jE5eGRhVcbM1SO2nJhHfGo_twkoHD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=kx.music.equalizer.player.pro"
+  },
+  {
     "appname": "Dream 153 Digital Watch Face",
     "appdev": "Monkey's Dream",
     "appprice": "$1.49",
@@ -288,115 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SJsgUPg736iubmbwcuAR-RHv5mzHVPXd9ZQ2AbcLU_nnbqQcU0dfs9bkXOp0tXYpF7T8L7k6dZbWLtv-hfEgKudk1DhK4-ilWufbBd6CC4JeWxdN=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.roto"
-  },
-  {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "The Lonely Hacker",
-    "appdev": "The Lonely Developer Studios - Spain",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/erfP9QLf0-7zQSM2m1uCUcGJs2UL5Q1zcSbnShBeN1WtK3X0PsH4mc-wekIA8iyG1-QZCtTfTGYMhF71RRZeQsJEr0MyDseQIysK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker"
-  },
-  {
-    "appname": "Grow Spaceship VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
-  },
-  {
-    "appname": "Accumulator PDF Mini",
-    "appdev": "Salemo Lines",
-    "appprice": "$7.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kXKfRWoMA_cyFoZdCklVD0oqrP2ABLc3y9yb4AqugM3tnkvPF2dL2b6HwDgeJz5BLQTvQ8s5QBSW9t8_gzTj0oUq2_fMWwB1FmKI0syGXmwCX3Md=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdf_creator_mini"
-  },
-  {
-    "appname": "Rogue Hearts",
-    "appdev": "Ninetail Games",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/KhHpi_fuy3iPYko_4tz8d4L8RzcEjU5wuRG_DuzsayqWzeIsgNbKZ2MKXFsjPyRYdn3Itw47xGIUuQGgAevv7Z189wa6Gdt1uV-b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid"
-  },
-  {
-    "appname": "Yellow - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/wFfu_zmb8qqOXTbZY3v9f6G4WWXMbqc_fis_hOlVpBsbFwlYrRG35Q5c4fqxmD4bagpltJG5YPNpkFn6tiHy2QEKNtLcej0eITUUNLozAQECyKfH=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellow"
-  },
-  {
-    "appname": "DinoRun4",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/p_MKL9T4SwMGY0I3LvUdsV2C5PjbbTyn-KO7wU_Bc3okv2MFCBTcBjQ1w7UpCX4P3DvEcvEA0DatBp3l2KOJ5uqUjyep2lOen4P7kiJD6YrshNvI1Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.dinorun4"
-  },
-  {
-    "appname": "Lines Circle - Neon Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/d28eTJX7AjB8YrHnxlbqYBoKag5S5glTZtrSiNi_wv6iTXqWzWDq1FvbmlBdF3pwrZSfXIgj6XmOLsligBFj7COevcr7sBuwNnp1XncmmU5QeiXVPA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circlelines"
-  },
-  {
-    "appname": "Invitation Card Maker Pro",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/cJEbCr-gjjZbhSDUBzvdg_3X_6EskCsapjKDMtDP4HHXDI7oWmoiU9vMF_8y-1qpp6UmmGWEVvZ_bjy5yLnSWUzNjJhmVbGW8TgmZILF2-viSdI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.invitation.maker.invitationcard.generator"
-  },
-  {
-    "appname": "Poster Maker Pro Banner Create",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/C3J_u4u-pPr9Vq8hD09uiLr20-clgSsaGNEbyI4MTXj8Ixc2pbnJkXmDcv8K2K7qCgHPLvfg1iza-uBiXCXqb0Lz1dE9JWwcnKOj65iDuJKGRE3a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.soft.festivalpostmaker"
-  },
-  {
-    "appname": "FASTAR VIP - Rhythm Game",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
   }
 ]
