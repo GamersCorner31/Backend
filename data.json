@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Ringtone Scheduler",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kL37ZK89Do-3Siv0t3wRfcQdLb1WH-DiatIoQcBybQmODg9zNwM9WsCF9YOHtwC-btTcKn9ZcrybW4WbE2u2zit9Xz1rD2AiGl-_uFE7WpvHynU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.ringtonescheduler"
+  },
+  {
     "appname": "Words Everywhere PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -88,16 +98,6 @@
     "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "Maths Puzzle: Maths Game Pro",
-    "appdev": "Premium Quality Apps",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/R-98Z2PE1QGi4jFCeBqhDlLsZ0S8lhFdDsxXZx7YZDGM7AXPcEaP0ymTWrC9tKxDOFHdYv8iqkdFhVeI3PUzW1dASxpzHAeXCE8fR2MDoRJMcEfm9w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=cloud.boomdigital.mathsgames"
   },
   {
     "appname": "Bright LED Flashlight Pro",
