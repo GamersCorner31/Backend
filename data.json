@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Photos Charging Slideshow",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
+  },
+  {
+    "appname": "Hexanet White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/G5sffgDxmRgRtqzmNamFYJ_-OQFf6n5yFhCwdbM3HnfksM656Udy6eYZi4GkmtugheQG3MGgg7hEsSrRB3XG3jUURy0D5Ad2nL0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.hexanet"
+  },
+  {
+    "appname": "Balance Game",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/BORq8Z-iDlOVUb7BUt3JFaV-hN0k1Mi-gssPJUv_7BxzY0EuFulQZ6z9BPrEtLPI3CLL_uDCQ2r_99UOrkH8QETzNRU95icDs4utsYrhaMQOvXgE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
+  },
+  {
+    "appname": "Hexa Crop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kjk51FeRS7GY25ENnC7eOOT3tn3g_krD_eNfDMyevGbZZv2b2tWqIUqK1WPWODLnmEQ0IdurIMF7cfwAVl-pbyHqvvi-rBHzIhQP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonh"
+  },
+  {
+    "appname": "WhitArt Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/X3qYkUEMIEBdmBEa6r31UfPa2qM30REd6fAm-Foj1JvO_JNe8prYURlAKjFzLM8YEgnpuplYUXBOY5qDsFKiKPq4k6tl0W8CGgGEilD2UffAdkE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.whitart"
+  },
+  {
+    "appname": "Dungeon Defense",
+    "appdev": "GameCoaster",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/CjsQHJKaz2LuR5Ihfo_yPmHTP4p-Cd5OopZ7ikNUw_-XOIxaTDIUZnlQ6-F5GRqnpX4LYKiyNgg104rLYWTlSRHknEmOthhrJA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameCoaster.ProtectDungeon"
+  },
+  {
     "appname": "MiniRace",
     "appdev": "Arabati",
     "appprice": "$0.49",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/5Ryd4JOwfbBCI3B2_txd8EADjPgEW3KENqgxmnTwZVEvqWwYyeWxOc4XDh5dMN3LIuxAxcY02MA_VRhlfLLZMjRwnPCME8fjguA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.castle.defender.heroes.premium"
-  },
-  {
-    "appname": "Cubic Light - 3D Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
-  },
-  {
-    "appname": "Inab Purple - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/W44i3udiaLHpr3DF8DG057AbjHjVEp7KnwqZ7a1x6IUpipH2mU25AOkit54yCorRAUgs-yGQsU-fTyqZrDsdIrBYSPmyopkYqcX7EcSZz9bT2ZWMmA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack"
-  },
-  {
-    "appname": "Jewels Planet - Match 3 Jewels",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/crKHowElKrsEzLpjV0aPKrjx-CR32j01d9sJhg0gL34cYwXznoGMeIDtDwxtQ8tn4mrxGU2AOOAsWD0zHoxM90w8pgRI5QEKq8DOEK8j10fve6-Z3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.JewelsLegend2023"
-  },
-  {
-    "appname": "Word Game Wonders: Crossword",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/G0i1dEfisukeHlrEKas6O_0T4TZ7oA8vH0NiyM5ynoXgGnzfXcGAix8K2Fy3Py0xFsEkES6fRfGOOB-wJ6MFr9MQXQJhL-YC6aImeYek69f4s80=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush.wonders"
-  },
-  {
-    "appname": "Black & White Puzzle Chess",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/2zfnl-8xNEG-vs2WGlPOx6xT1fy0znydD1OnH_c_K_NVzKU1nLhutRASYhCRQq2LC41gw_59w2DohnTyhOYgWuaW_krXkWOuEFU_0TlgahLfK8D_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blackwhitepuzzle.android"
-  },
-  {
-    "appname": "Zombie Age 2 Premium: Shooter",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
   }
 ]
