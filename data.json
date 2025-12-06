@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Contact Organizer",
+    "appdev": "Yogesh Dama",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LJHXlyuOir57VIDaucPggsrk3uNK7KkxDfbl48IeyQhgxHlb8HLb6cTUpofd_TepSvp1YyJ4uGaIEq6x6XpS_F9yxiZ_nBebLsP2MHrpnncFFwmY2g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactorganizerpro"
+  },
+  {
     "appname": "Jewel Match",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "QuickPin - Fast Notes Reminder",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
   }
 ]
