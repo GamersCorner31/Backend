@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Neo Monsters",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
+  },
+  {
+    "appname": "Colorzzle",
+    "appdev": "Darong Studio",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/c-OQPs3BtzySCRBzol-fvzjEIFbokqJAZ64s8mQAZNn86RH1-ZUbg2KC1mtPJ8138ECrAc-yecZFBadaOzHKSw6U0Zx3eVEVGk8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle"
+  },
+  {
     "appname": "Contact Organizer",
     "appdev": "Yogesh Dama",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "[VIP] Missile Dude RPG : idle",
-    "appdev": "Artifact Games",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
   }
 ]
