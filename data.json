@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Sky Wings VIP : Pixel Fighters",
+    "appdev": "SHMUP Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
+  },
+  {
+    "appname": "NT Calculator",
+    "appdev": "Lê Trần Ngọc Thành (kineita)",
+    "appprice": "$2.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
+  },
+  {
     "appname": "Neo Monsters",
     "appdev": "ZigZaGame Inc.",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
-  },
-  {
-    "appname": "Cooking Quest VIP : Food Wagon",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Mirror - HD Mirror App ◎",
-    "appdev": "Apps360 Team",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
   }
 ]
