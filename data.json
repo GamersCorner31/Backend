@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Jewel Match",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
+  },
+  {
+    "appname": "Scroll Match3",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
+  },
+  {
+    "appname": "Swipe Break Out PvP P",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
+  },
+  {
+    "appname": "Apart2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LhvEHG3ebHeW-UXj8XLbUyI02G9cJdDtoBbPQzaZVLtsBswFRGFWwu3zcosLruovKgCjL0ni11us6xi-_n-9--PUa1qrdlZABaGXWJltmwq3P6O-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.apart2"
+  },
+  {
+    "appname": "Paint Monster",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
+  },
+  {
+    "appname": "yourSudoku - Over 10000 Sudoku",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
+  },
+  {
     "appname": "Photos Charging Slideshow",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -270,16 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.ringtonescheduler"
   },
   {
-    "appname": "Words Everywhere PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
-  },
-  {
     "appname": "Warriors' Market Mayhem VIP :",
     "appdev": "Cat Lab",
     "appprice": "$0.99",
@@ -300,16 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
   },
   {
-    "appname": "Christmas Games PRO 5-in-1",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/8nACdJFMPGuK_VOeGfEi_CZ8upHg6gHGbqU79IYFCftPyKDQKAqlDR2N9ab7Fgi0aK7cqksnNk_EAwHw3Ldkd9XMDuyqPJeTYpM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.christmasgames2in1"
-  },
-  {
     "appname": "Cooking Quest VIP : Food Wagon",
     "appdev": "Cat Lab",
     "appprice": "$0.99",
@@ -328,26 +368,6 @@
     "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "Sound Meter & Noise Detector",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
-  },
-  {
-    "appname": "Rectangles PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6Mji3udpqDnp6zHnS9fzrd5eZDOJEPIbusdSXOIB2SWRQX90TJ1VMNShdTdAyilF-ktSeWQJ9ivpUV1E3ttXeixkzatLmH51Ag=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.rectangles"
   },
   {
     "appname": "Dungeon Shooter : Dark Temple",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
-  },
-  {
-    "appname": "HMKWatch Christmas03",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/XnPmkuV4Ni-TJNmr1Y0ClgcNvuFaWKNNxgOKQHRA7l84REeMRUf07VffppBob1HWStZk_Ct0bCiYerDKMPvYoANv988YKHJhlADrnYdmKXhgrho=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_christmas03"
-  },
-  {
-    "appname": "Castle Defender Premium",
-    "appdev": "Unimob",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5Ryd4JOwfbBCI3B2_txd8EADjPgEW3KENqgxmnTwZVEvqWwYyeWxOc4XDh5dMN3LIuxAxcY02MA_VRhlfLLZMjRwnPCME8fjguA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.castle.defender.heroes.premium"
   }
 ]
