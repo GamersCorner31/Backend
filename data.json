@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Sudoku Puzzle - Premium",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/trpsyaWbQbb_w3yVznsQGScI3qL3i6Z1BC3kBon7bLOnRA8IsJZKd0EPFSEfKaGuolAfOim2fuT-q0k4QtbHhWZzzrbZkQhYVC8Fi6F6knBA9qE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=ava.sudoku.puzzle.solver.free"
+  },
+  {
+    "appname": "Jewels Charm: Match 3 Game Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
+  },
+  {
+    "appname": "ROBO RUSH: Factory Escape",
+    "appdev": "Quantic Bit",
+    "appprice": "$0.05",
+    "apprating": "4.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/m-Pwl67ggA1Q7Pyvpxyj9ZEYu_E7hl6W54FwX4d2k6ZlbMG7dD3ILwBxeeUCHAr7_omNwnyMxAFLTuJ1ml2Wp1ZfrVZVARHXwY3eKCZ8QvMC-d0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.RoboRush"
+  },
+  {
+    "appname": "25 Dollars Challenge",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/X4wcOXq0N5NozI_bMi5xlE2euHH3Jow2GvUnvtPlU2zzIbfNEqtfPZSjpleaEcHMYLf-uhUZDyxK7UMhGUNTnWyHwqeGlMRYmgUTg3fZBEYS5Ik=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.twentyfivedollarschallenge"
+  },
+  {
     "appname": "Golden Ball - Earn Money",
     "appdev": "Minos Lab",
     "appprice": "$1.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "QuickPin - Fast Notes Reminder",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
-  },
-  {
-    "appname": "HMKWatch Christmas03",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/XnPmkuV4Ni-TJNmr1Y0ClgcNvuFaWKNNxgOKQHRA7l84REeMRUf07VffppBob1HWStZk_Ct0bCiYerDKMPvYoANv988YKHJhlADrnYdmKXhgrho=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_christmas03"
-  },
-  {
-    "appname": "Castle Defender Premium",
-    "appdev": "Unimob",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5Ryd4JOwfbBCI3B2_txd8EADjPgEW3KENqgxmnTwZVEvqWwYyeWxOc4XDh5dMN3LIuxAxcY02MA_VRhlfLLZMjRwnPCME8fjguA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.castle.defender.heroes.premium"
-  },
-  {
-    "appname": "Cubic Light - 3D Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
   }
 ]
