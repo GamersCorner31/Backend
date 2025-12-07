@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Golden Ball - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_utFUTuxrdIIL9rRNyKWlWXRS-jNWQdm1EFEQ7Ox0j7jp31nivYuzC8XJrmQeZFs09jq66hmLXXwwCiGBnsgihXc_gk2jGnZSueN6x55O9BnOc1xvA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball"
+  },
+  {
+    "appname": "Cash Quiz - Animal Edition",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
+  },
+  {
+    "appname": "Monster Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/yIbkilLL7eC7HE55-9IYzgBNqIuYwzpWeVz8VKLkJPqvZtpgt4BYp2C7QEw4tXklLcTAMpk06kSykMuHjysD_dhcwwgNZxBQyu1_hINhcHfNgPOFuQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.monstercash"
+  },
+  {
+    "appname": "Video Speed Editor",
+    "appdev": "SwiperyLab",
+    "appprice": "$4.99",
+    "apprating": "4.8",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
+  },
+  {
+    "appname": "Dark screen filter",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6pDLO2afuRRGdVp3SkyuOW9bCpiIKJt6Ctt6G-a9py2dTyU0YDb5Khg3dxT2oJwASliz3oPCX46k74WpuKMyxvzKHiHQMjTAw9Yt4Os1hThtY2vwfA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro"
+  },
+  {
     "appname": "Sky Wings VIP : Pixel Fighters",
     "appdev": "SHMUP Games",
     "appprice": "$0.99",
@@ -210,96 +260,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jumphigh"
   },
   {
-    "appname": "DJ Music mixer - DJ Mix Studio",
-    "appdev": "KX Camera Team",
-    "appprice": "$12.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3f4nOEYmJd1HtDfazDkJkdyEwYY_Cx8Vo8vwDTwFOujLYf1rQSm6eatALlg1m1FkazPMT4YE1egqc9rF3R5xL2iJR_EPG0GbzvTAYmxJeqNGY5c=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=music.mixer.dj.mixer.pro"
-  },
-  {
-    "appname": "Bass Booster & Equalizer PRO",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/IY_5PY7wl3ONZ1k3rsQHcELNYf3nqNk8CsySABZp-mmjNxt3C27FH34_w8ouv9q-XBZ-qCjJVqxD9DJewbqO4TC1fbHzgkchG3_8nvrUU2f1-94=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.sound.effect.bass.virtrualizer.equalizer.pay"
-  },
-  {
-    "appname": "DJ Music mixer - DJ Studio Pro",
-    "appdev": "KUCO Apps",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9ws7Im21YNbSDP_wYGDJ5KqwL3x06nq4dvwTeVeQSejDFMvpw_cWZ55vegwf29gt0FkVrNlsU7PGfWvt7bdad05VHzxA-JMaSn-GbKGRzr0thWc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.djmusicmixer.effects.pro"
-  },
-  {
-    "appname": "Equalizer - Bass Booster EQ",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OhLzNnTPVw7WdRWKPqRreyO-kxKPrNgqG-U9oQTk1vmOXIocZQu82aJtbANaqxRfOpVxlKNnqJoUfWA0MmbaSUPFCf6i4qEiO7WnkVSudUqhJC0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.equalizer.pro"
-  },
-  {
-    "appname": "DJ Mixer Pro - DJ Music Mix",
-    "appdev": "KUCO Apps",
-    "appprice": "$9.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/bVGDYcnX_QIsxyQkSS1bL2vXhfWqq4egKydLwsdC8vx4g30venV2cISon_9PPkdvnz4B5BJSY31vZ_Y58Xw8eFSyNMzkEGtXW1TUndd9FnhkULQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.pro"
-  },
-  {
-    "appname": "Volume Booster - Loud Speaker",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/mct-kd78HbRf2zM3lphaxUIIF9qun8KxGcODo12BqWTz_yIRgMcBtx8fJfLCpZScTVZH91jT-IyFt4S1vtDdGfWUAqtbPYQKm3vZ31XThyKgG_Rp=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=volume.booster.sound.enhance.pro"
-  },
-  {
-    "appname": "DJ Mix Studio - DJ Music Mixer",
-    "appdev": "Coocent",
-    "appprice": "$12.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/imZqRtUaw20eIAYl-MNwKWCVYobWtpkZXi4NdKRKfciyE7E_Tw9I0iz_gexb_J-p8_l8KKSAoT1eh1ec3BDVOyZFu42j0FMC3qoCEklrWEV8o0C1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.effects.pro"
-  },
-  {
-    "appname": "Equalizer & Bass Booster Pro",
-    "appdev": "Coocent",
-    "appprice": "$2.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/RzDW7s2GjtHpjw_KIcgADqWM9vf8N8m-jfDooo04Jpl0LNE67J2-Hhpa7zHAhvZ6-rctSS9eN7gzQYvWxrvx6YLi6sxLDRVH0AA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=music.bassbooster.equalizer.pay"
-  },
-  {
-    "appname": "Equalizer & Volume Boost PRO",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/26FHLoRX16hysD4KUywdlkINoKzx-bLbXj884yTUX_bRWKpJ7CH4oDe_IgsdqbyyEwMGJu_SgvnHCkUaPubgZgbkjCFipPvHX_Rcy1TiD_wDDF4d=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bass.volume.pro"
-  },
-  {
     "appname": "Rotation Control",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -310,26 +270,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
   },
   {
-    "appname": "Volume Booster & Sound Booster",
-    "appdev": "KX Camera Team",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/7aYbTTELqp8IDYUoDiq5C4aQcUOC0CR_dVlcXQiTiXcG0dCLsN-x8c3qdYx0am7u2m5Ln28IiX65ENTrE-LjMSVOWTB79zVPT00YwK9R1Wxmr3tFxg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.volumebooster.pro"
-  },
-  {
-    "appname": "KX Music Player Pro",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jU-Vail6_faNRJ4-mk8wQfG22z2Mu6gp80SOeg3S_7sCGvlYrtUtkX5SyofR_5TPMfBrsg2jE5eGRhVcbM1SO2nJhHfGo_twkoHD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=kx.music.equalizer.player.pro"
-  },
-  {
     "appname": "Dream 153 Digital Watch Face",
     "appdev": "Monkey's Dream",
     "appprice": "$1.49",
@@ -338,26 +278,6 @@
     "appurl": "https://lh3.googleusercontent.com/TcjKkUmHgVx7dR5c_EjDlrmyRxByQawwl4PpnfG_3HJ0mYEULkE4iCapfTIGyaKMAqunGhqbeXwpDEo52wW_r-rvtvO8cZCIrIQieP8klHicub3zMg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dream153"
-  },
-  {
-    "appname": "DJ Mixer - DJ Music Remix Pro",
-    "appdev": "Nuts Mobile Inc.",
-    "appprice": "$9.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/XJHSMGkoadFeqp_0zQ5gt1CmQopHCSCBi9QbH6HUOorurBx235aWZfR7Tz7XUDcvKosmSjyWXgQRUNLuWhED4Ln_wqQCpAGafMyDpdwytEkTW2k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.music.mixer.pro"
-  },
-  {
-    "appname": "Music Equalizer - Bass Booster",
-    "appdev": "KUCO Apps",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CuyfyHkVQmA2lUdjfkTTdnl83zHOI2XB3ZH6vAvTf5qnku7jHEGjfl14Cz7to6UsTIvREmstBYiMUdlHq2X0lZZpu8YGxUI4VOj_6minuoOuTwB9qA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.pay"
   },
   {
     "appname": "Stickman Legends Offline Games",
@@ -398,5 +318,85 @@
     "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
+  },
+  {
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
+  },
+  {
+    "appname": "Mirror - HD Mirror App ◎",
+    "appdev": "Apps360 Team",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
+  },
+  {
+    "appname": "Dungeon Shooter : Dark Temple",
+    "appdev": "IMCrazy",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
+  },
+  {
+    "appname": "[VIP] Missile Dude RPG : idle",
+    "appdev": "Artifact Games",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
+  },
+  {
+    "appname": "QuickPin - Fast Notes Reminder",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
+  },
+  {
+    "appname": "HMKWatch Christmas03",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/XnPmkuV4Ni-TJNmr1Y0ClgcNvuFaWKNNxgOKQHRA7l84REeMRUf07VffppBob1HWStZk_Ct0bCiYerDKMPvYoANv988YKHJhlADrnYdmKXhgrho=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_christmas03"
+  },
+  {
+    "appname": "Castle Defender Premium",
+    "appdev": "Unimob",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5Ryd4JOwfbBCI3B2_txd8EADjPgEW3KENqgxmnTwZVEvqWwYyeWxOc4XDh5dMN3LIuxAxcY02MA_VRhlfLLZMjRwnPCME8fjguA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.castle.defender.heroes.premium"
+  },
+  {
+    "appname": "Cubic Light - 3D Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
   }
 ]
