@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Gallery Slideshow",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
+  },
+  {
+    "appname": "Audio Player with Volume Boost",
+    "appdev": "HARDCODED JOY S.R.L.",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5UEebzIQVmWUfxlHDr5DDPbhVhIIlieKuU603BPOxyv6JKVGwb8xXc9NO-cU7_nFbpfRihC0C4Xx4BsKPdop0WmjCjDGISzbF2WkkrD2r3GG-LOx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.audioplayer"
+  },
+  {
     "appname": "Sudoku Puzzle - Premium",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$2.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "[VIP] Missile Dude RPG : idle",
-    "appdev": "Artifact Games",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
   }
 ]
