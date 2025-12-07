@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Irregular Verbs Test PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Zyui41frH9TMjEbLyrjlhZwIEzg8Y-LkVRV6HGiTByVspDcW-Hcb0fGbbuAJLvoNy7TivvyqKq1BglH2IQglnVxoscvVmxP4xw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.irregularverbs"
+  },
+  {
+    "appname": "Words & Cards PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
+  },
+  {
+    "appname": "Water Sort - Color Puzzle Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
+  },
+  {
+    "appname": "Boxing Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
+  },
+  {
     "appname": "Gallery Slideshow",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kL37ZK89Do-3Siv0t3wRfcQdLb1WH-DiatIoQcBybQmODg9zNwM9WsCF9YOHtwC-btTcKn9ZcrybW4WbE2u2zit9Xz1rD2AiGl-_uFE7WpvHynU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.ringtonescheduler"
-  },
-  {
-    "appname": "Warriors' Market Mayhem VIP :",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
-  },
-  {
-    "appname": "Clear Wave - Water Eject Pro",
-    "appdev": "Appchi",
-    "appprice": "$2.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
-  },
-  {
-    "appname": "Cooking Quest VIP : Food Wagon",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Mirror - HD Mirror App ◎",
-    "appdev": "Apps360 Team",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
   }
 ]
