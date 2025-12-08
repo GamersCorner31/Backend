@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Fit ONE: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZyP9svEvPZ_X2Xsu1fxmQMCZsJd9xgwpPS2-hB9xWy2z6Wogf2J0VGnnOrsC61UWSit7wnvXh8X0Zk3wnk-MsHtf47ZRS_VB82oGsnlVpv-7oCarQA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awffitone"
+  },
+  {
+    "appname": "Brain Game - Find2Y",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eCPfdGpYyn9O6RBkDCbWPBwWejgh5TO5wYkgRJ4bbiL8O2e1_ktppvQuDjAOAtegdoiDVqKi5Or-bL14YyIRlBH5s7FoXvW0OlmVqUVO9Cnugn5Gmg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find2y"
+  },
+  {
+    "appname": "Brain Game - Find5x",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$2.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Qw1Mmg3k0RJZEsLZrm6H1Cw9xDrqKJzlvPC_IUEOm51hAmTNOhdY4WoZdIrW1t7x2sIuGKSWRo2RcnfmYkg-alO4LTT3UC7SFrRr8iZcIjci6Jmgug=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x"
+  },
+  {
+    "appname": "Brain Game - Find5x 4P",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f9zt3XTpzJRqmcABLm_hHhPibB2M4BLg7XM6sgQBbHHXmbhhzofxcT2SQyQts6fsA1vvvnoi5rP-rVQe6cPIMV-s7Bo67IglYhJ0h7_W-XiTBwU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find5x4p"
+  },
+  {
+    "appname": "Find Those Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
+  },
+  {
     "appname": "Irregular Verbs Test PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -50,16 +100,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
   },
   {
-    "appname": "Audio Player with Volume Boost",
-    "appdev": "HARDCODED JOY S.R.L.",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5UEebzIQVmWUfxlHDr5DDPbhVhIIlieKuU603BPOxyv6JKVGwb8xXc9NO-cU7_nFbpfRihC0C4Xx4BsKPdop0WmjCjDGISzbF2WkkrD2r3GG-LOx=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.audioplayer"
-  },
-  {
     "appname": "Sudoku Puzzle - Premium",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$2.99",
@@ -78,16 +118,6 @@
     "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
-  },
-  {
-    "appname": "ROBO RUSH: Factory Escape",
-    "appdev": "Quantic Bit",
-    "appprice": "$0.05",
-    "apprating": "4.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/m-Pwl67ggA1Q7Pyvpxyj9ZEYu_E7hl6W54FwX4d2k6ZlbMG7dD3ILwBxeeUCHAr7_omNwnyMxAFLTuJ1ml2Wp1ZfrVZVARHXwY3eKCZ8QvMC-d0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.RoboRush"
   },
   {
     "appname": "25 Dollars Challenge",
@@ -300,16 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonh"
   },
   {
-    "appname": "WhitArt Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/X3qYkUEMIEBdmBEa6r31UfPa2qM30REd6fAm-Foj1JvO_JNe8prYURlAKjFzLM8YEgnpuplYUXBOY5qDsFKiKPq4k6tl0W8CGgGEilD2UffAdkE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.whitart"
-  },
-  {
     "appname": "Dungeon Defense",
     "appdev": "GameCoaster",
     "appprice": "$0.99",
@@ -370,16 +390,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
   },
   {
-    "appname": "Dream 153 Digital Watch Face",
-    "appdev": "Monkey's Dream",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/TcjKkUmHgVx7dR5c_EjDlrmyRxByQawwl4PpnfG_3HJ0mYEULkE4iCapfTIGyaKMAqunGhqbeXwpDEo52wW_r-rvtvO8cZCIrIQieP8klHicub3zMg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dream153"
-  },
-  {
     "appname": "Stickman Legends Offline Games",
     "appdev": "Putaleng",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Ringtone Scheduler",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kL37ZK89Do-3Siv0t3wRfcQdLb1WH-DiatIoQcBybQmODg9zNwM9WsCF9YOHtwC-btTcKn9ZcrybW4WbE2u2zit9Xz1rD2AiGl-_uFE7WpvHynU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.ringtonescheduler"
   }
 ]
