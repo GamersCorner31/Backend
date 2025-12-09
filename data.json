@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Find12x 4P",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uHpPEVk6sgLLdGtJD51YOzf7Y044PuVK2Y25Xk9rEwyNMqNY5nuOC4k4GVOaqNScXak77nvow8-YXcAhA7uUi26ZDLPyqPnW5tAyfNVIrUkCHK43_Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find12x4p"
+  },
+  {
+    "appname": "Spotlight Linking",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YTcti3IKYkU9lTcDowi1LNYi_TSHy0ZdBdtWiIhsj4KpH015f_mAQ8wf46uosypnvET4yBcC3cpNmK_NMZk3juWzlfDyNdjE_ne4uu1IGIdxexQ8hw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.twodotslinking.r"
+  },
+  {
+    "appname": "TD Neon Shoot - Zumba Mayan",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/l-_NgmdNFnyh69qYAhTekJKVt_woV9LckUH-psfLDip5kDiTjOsW61rVg6NGui8UhyVvTNQNzTLwIr-WM6lx3_mF-KQjlrJRGUbrIApIRhhDbd2zGA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tdneonshoot.r"
+  },
+  {
+    "appname": "Okey - Rummy",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/1NcFgMILyzWIdGI_VNHAcn13OqoqkSx_P8TO2wKvelRRXjVOq-Nh2fNsXd7g7joBBJYkLeZj7hv6s8rA4oDG7JeCzKUpnxWYY9RxtpbXTXqPo8LxDA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.boymate10.okeyrumi"
+  },
+  {
+    "appname": "Toska - Turqoise icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/na4d471xU2fqaHBlwN9f9UT8uq4QgZWEOF4eqrnX5zF_74Km2G2lAyCimkPF1CE1E5XutnY013ElHvxw6Ad45segtEwkYgBZiVF2cUR1Mdnz_Nsc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olytosca"
+  },
+  {
     "appname": "Turqoise - Icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -28,16 +78,6 @@
     "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
-  },
-  {
-    "appname": "VPN Pro - Secure VPN Premium",
-    "appdev": "AZTTY LLC",
-    "appprice": "$4.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
   },
   {
     "appname": "Bubble Level PRO",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
-  },
-  {
-    "appname": "yourSudoku - Over 10000 Sudoku",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
-  },
-  {
-    "appname": "Photos Charging Slideshow",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
-  },
-  {
-    "appname": "Hexanet White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/G5sffgDxmRgRtqzmNamFYJ_-OQFf6n5yFhCwdbM3HnfksM656Udy6eYZi4GkmtugheQG3MGgg7hEsSrRB3XG3jUURy0D5Ad2nL0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.hexanet"
-  },
-  {
-    "appname": "Balance Game",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/BORq8Z-iDlOVUb7BUt3JFaV-hN0k1Mi-gssPJUv_7BxzY0EuFulQZ6z9BPrEtLPI3CLL_uDCQ2r_99UOrkH8QETzNRU95icDs4utsYrhaMQOvXgE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
   }
 ]
