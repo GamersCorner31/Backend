@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Sound Meter - Decibel Meter",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
+  },
+  {
     "appname": "Heroes Infinity Premium",
     "appdev": "DIVMOB",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
-  },
-  {
-    "appname": "Swipe Break Out PvP P",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
   }
 ]
