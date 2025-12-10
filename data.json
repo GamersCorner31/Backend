@@ -190,36 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find5x4p"
   },
   {
-    "appname": "Find Those Words PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
-  },
-  {
-    "appname": "Irregular Verbs Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Zyui41frH9TMjEbLyrjlhZwIEzg8Y-LkVRV6HGiTByVspDcW-Hcb0fGbbuAJLvoNy7TivvyqKq1BglH2IQglnVxoscvVmxP4xw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.irregularverbs"
-  },
-  {
-    "appname": "Words & Cards PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
-  },
-  {
     "appname": "Water Sort - Color Puzzle Pro",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$2.99",
@@ -340,16 +310,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
   },
   {
-    "appname": "NT Calculator",
-    "appdev": "Lê Trần Ngọc Thành (kineita)",
-    "appprice": "$2.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
-  },
-  {
     "appname": "Neo Monsters",
     "appdev": "ZigZaGame Inc.",
     "appprice": "$0.99",
@@ -398,5 +358,45 @@
     "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
+  },
+  {
+    "appname": "Swipe Break Out PvP P",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
+  },
+  {
+    "appname": "Apart2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LhvEHG3ebHeW-UXj8XLbUyI02G9cJdDtoBbPQzaZVLtsBswFRGFWwu3zcosLruovKgCjL0ni11us6xi-_n-9--PUa1qrdlZABaGXWJltmwq3P6O-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.apart2"
+  },
+  {
+    "appname": "Paint Monster",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
+  },
+  {
+    "appname": "yourSudoku - Over 10000 Sudoku",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
   }
 ]
