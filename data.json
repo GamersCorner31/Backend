@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Undead City: Survivor Premium",
+    "appdev": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
+  },
+  {
+    "appname": "Stickman Master Premium",
+    "appdev": "Unimob",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
+  },
+  {
     "appname": "Tank Mini War",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
-  },
-  {
-    "appname": "Apart2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LhvEHG3ebHeW-UXj8XLbUyI02G9cJdDtoBbPQzaZVLtsBswFRGFWwu3zcosLruovKgCjL0ni11us6xi-_n-9--PUa1qrdlZABaGXWJltmwq3P6O-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.apart2"
-  },
-  {
-    "appname": "Paint Monster",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
   }
 ]
