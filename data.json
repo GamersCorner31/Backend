@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Heroes Legend - Epic Fantasy",
+    "appdev": "MGIF",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
+  },
+  {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "MAD PIXEL",
+    "appprice": "$6.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
+    "appname": "Puzzle for kids - Animal games",
+    "appdev": "Abuzz",
+    "appprice": "$5.99",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/AsPL-d17wxglOuyYjG7qxMnn_M3bHftps-XJmrkBh2pyDc4lfkJAO6kQsNBe0dY8QIgomnZOpWgvPsfgcCdn977bS71UFp54loE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ibuzz.apk.puzzle4kids82"
+  },
+  {
     "appname": "Offline Password Manager",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/trpsyaWbQbb_w3yVznsQGScI3qL3i6Z1BC3kBon7bLOnRA8IsJZKd0EPFSEfKaGuolAfOim2fuT-q0k4QtbHhWZzzrbZkQhYVC8Fi6F6knBA9qE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=ava.sudoku.puzzle.solver.free"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
-  },
-  {
-    "appname": "25 Dollars Challenge",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/X4wcOXq0N5NozI_bMi5xlE2euHH3Jow2GvUnvtPlU2zzIbfNEqtfPZSjpleaEcHMYLf-uhUZDyxK7UMhGUNTnWyHwqeGlMRYmgUTg3fZBEYS5Ik=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.twentyfivedollarschallenge"
-  },
-  {
-    "appname": "Golden Ball - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_utFUTuxrdIIL9rRNyKWlWXRS-jNWQdm1EFEQ7Ox0j7jp31nivYuzC8XJrmQeZFs09jq66hmLXXwwCiGBnsgihXc_gk2jGnZSueN6x55O9BnOc1xvA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball"
   }
 ]
