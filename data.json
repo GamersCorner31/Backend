@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Grow Zombie VIP : Merge Zombie",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
+  },
+  {
     "appname": "Cell Clone Wars:Pro",
     "appdev": "GOZIPGAMES",
     "appprice": "$1.49",
@@ -98,16 +108,6 @@
     "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
-  },
-  {
-    "appname": "ML2U 141 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/K3ikkenAuaOcdc9pDROb_TBFO2DAyuHpyK9QcB7BM5xjNejx6wInTYpf9a2KmPk7OzEefBJwyhWR92O0qNLlgUVAWuS1bsEMvfwIVF7c3OaLHRE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u141"
   },
   {
     "appname": "Core X Genesis Watch Face",
