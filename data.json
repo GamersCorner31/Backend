@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Spelling Test & Practice PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
+  },
+  {
+    "appname": "Spelling Right PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/N2dI2Hva0bAhXApEAKv3B6d6ijYczb3zsiCd3MEuI2KjB7ED2cLf7pHW9AHmJFMmQNq6LzO9MCKfctok0Yo1I3pIRsvD8gJ0AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingrightpro"
+  },
+  {
+    "appname": "Word Tower - Premium Puzzle",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
+  },
+  {
+    "appname": "Words Search - Premium",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/bVnfSVdorufCA3RAidY9SE2c7s5bK8gmyuvF9JJ_tHQ8Y0b31tOjGC4dKijVdOfLaP_aVDAn9_hY9Gijow6YAFWVcpZQH23rqxbI9wsiTXkKbdQd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordsSearchPremium"
+  },
+  {
+    "appname": "Word Connect: Crossword",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/l4L9HFfosFDBsIqrtMoh9fH9yCLsnH4NoXgeqAzKiFdDbE8A2t2PGz2EyICDKcy_dNAtS3R1BRBuDuXW1A0cQMtoJZ7w_mb_ozEAHebU_gw8-bc3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crossword.brain.wordgame.puzzle.board.en"
+  },
+  {
+    "appname": "EHW Premium & stick fight",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
+  },
+  {
+    "appname": "Words Search - Word Puzzles",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/O7v5lL_iWEJ4Od4RaTR217YgXU6UC2AST3nDMhHOT1KPm9PKiqeKhltpKlYVh8Dy3qF_FkTRFDkyn71ET3GCfLGj35ou0HBxBy2ccjo4bp9shHU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
+  },
+  {
     "appname": "Grow Zombie VIP : Merge Zombie",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/4jFvxOiLDO1JoPaYb2D0lCk3iZHI0eTZEFiTL1AxelPre__e19Ef9LOVO4qEdgKDoRajQlUtQ6YmlxWN4FjQZzQSShQohKy0VqtsskP1FSiDIRzT2w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2"
-  },
-  {
-    "appname": "Fit ONE: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ZyP9svEvPZ_X2Xsu1fxmQMCZsJd9xgwpPS2-hB9xWy2z6Wogf2J0VGnnOrsC61UWSit7wnvXh8X0Zk3wnk-MsHtf47ZRS_VB82oGsnlVpv-7oCarQA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awffitone"
-  },
-  {
-    "appname": "Brain Game - Find2Y",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eCPfdGpYyn9O6RBkDCbWPBwWejgh5TO5wYkgRJ4bbiL8O2e1_ktppvQuDjAOAtegdoiDVqKi5Or-bL14YyIRlBH5s7FoXvW0OlmVqUVO9Cnugn5Gmg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find2y"
-  },
-  {
-    "appname": "Brain Game - Find5x",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$2.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Qw1Mmg3k0RJZEsLZrm6H1Cw9xDrqKJzlvPC_IUEOm51hAmTNOhdY4WoZdIrW1t7x2sIuGKSWRo2RcnfmYkg-alO4LTT3UC7SFrRr8iZcIjci6Jmgug=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x"
-  },
-  {
-    "appname": "Brain Game - Find5x 4P",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$2.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f9zt3XTpzJRqmcABLm_hHhPibB2M4BLg7XM6sgQBbHHXmbhhzofxcT2SQyQts6fsA1vvvnoi5rP-rVQe6cPIMV-s7Bo67IglYhJ0h7_W-XiTBwU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find5x4p"
-  },
-  {
-    "appname": "Water Sort - Color Puzzle Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Boxing Cash - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
-  },
-  {
-    "appname": "Gallery Slideshow",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
   }
 ]
