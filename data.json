@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Simple App Locker",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/lEHslF02nNN6I8yJ10rE03dY9slXyBcX3BbB5pEI_4AQb_GP1bxitkqJmFNQ_JV4-mlFFonoKFAx_it5joYk9SnR8sYlZ6tYLzynR8FvGMBwytAf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleapplocker"
+  },
+  {
+    "appname": "Live or Die 1: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
+  },
+  {
+    "appname": "Business Card Maker: Logo Card",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
+  },
+  {
     "appname": "Stick - Remote Control TV Pro",
     "appdev": "Ai Apps SRL",
     "appprice": "$2.99",
@@ -190,16 +220,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
   },
   {
-    "appname": "Supernova Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/xTEuOeGu5QkjKsHWP7lGXoaheQJJIw6cFeE9apaodDwbHmJcU4q9z_EU0tAqrGe4dUk5bqSGyXYVz1oUWt5ESqGqE2yKOqEj2WULHNYAD3TzObVAaw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.supernova"
-  },
-  {
     "appname": "Running Man",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/na4d471xU2fqaHBlwN9f9UT8uq4QgZWEOF4eqrnX5zF_74Km2G2lAyCimkPF1CE1E5XutnY013ElHvxw6Ad45segtEwkYgBZiVF2cUR1Mdnz_Nsc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olytosca"
-  },
-  {
-    "appname": "Turqoise - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/KG8wMW4IjwOB9rqWG8pWnSiSTQ0nHetLYt5LUJ5MQOdH2HuaAYmgv9ofOhRJmw-Ywck_g0WT6DDDOMOPYGyZZINjJ6O7iloilIv5DJkaVilJM8W7GA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.tosca"
-  },
-  {
-    "appname": "Pinkdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
   }
 ]
