@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Gravity Force",
+    "appdev": "Metatrans Apps",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fC2emX_IttYJu1HpTuPVWaGxyWZIQgmFvw6z81U9ObF45-DYD3fCCnBbdRzJj7Cdl5LUE9zwJLodJSU56KBBOjK1JHqunm_BXZUc920QSsprCBQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gravityplay.paid"
+  },
+  {
+    "appname": "Bagatur Chess Engine",
+    "appdev": "Metatrans Apps",
+    "appprice": "$4.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Wi4gk6iw1absxHcenhFU5sqA1cSbEJhHzmF2M_jd_xjfUG4zeCSACoF2AVvaS0bI1tP0dI_BvzntLUFoCpQ3M4u4rf_FhoPdptQJO_LsUq97z46X=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bagaturchess.paid"
+  },
+  {
+    "appname": "Chess Position Scanner",
+    "appdev": "Metatrans Apps",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/32t4SvWSFcX8EmtqHhbrH27uXZVR6tL-s0lGiQSFKyZcRlyBuALnR_WNAGLy5gmGIkmsnoEEOz4RFIvleAtajqv6KTuuNLGxLbOagW3YxmsehgNJyg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.chessboardscanner.paid"
+  },
+  {
+    "appname": "Kids to Grandmasters Chess",
+    "appdev": "Metatrans Apps",
+    "appprice": "$5.49",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/nxoJCx37TtLMLDcdkAILZXu6EPoHqCbOAxwItulZJKnfaQn61LObl1huX58wMuMIJBVH6ZW2gZxBnAb-9GDr_oTcGHOIWtE_H5Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.chessartforkids.paid"
+  },
+  {
+    "appname": "Non Stop Balloons Shooter",
+    "appdev": "Metatrans Apps",
+    "appprice": "$3.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/qqepIIC7bIqaB0NSiKtGf81osY8OVUDA9blj2_3wk6GIclQ1yKfmrZ6XH_3adY-LOHhoXQzLqzhM2jhwG7C8BSDga1VO-aHHR9nB9dCQkFdD5EVbcA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stoptheballs.paid"
+  },
+  {
+    "appname": "Stroop Effect Test",
+    "appdev": "Metatrans Apps",
+    "appprice": "$3.49",
+    "apprating": "3.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ooZt7pU-6rYksl-8-AMLUfNhvN7w4pi246TtfcGPAYiSeRGixntkNAtXMwMtIwrkWq6ZfHCWBh_88HPfP7yDoya5u2Xurj5R7A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.easycolours.paid"
+  },
+  {
+    "appname": "Math Kindergarten to 4th Grade",
+    "appdev": "Metatrans Apps",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5u49S6pmYprRlvUm_OFFK_AhFYYeOd3eA3HX7G79nAnC-j0ssYtpGC1E8z-X4x3zc1IQJ7lseD8LQp_NmAESAptvJqO_JNyrYys=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mathforkids5.paid"
+  },
+  {
     "appname": "Word Connect PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
-  },
-  {
-    "appname": "Red Carpet - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/KFK4vg5CFue49NRx6LOBubNJUQKae5h_A-uiqJiHz1dSAtmzx3QCgatZV689cKpt7muFMc_1o68Wc0Nh4Yv4M90VHLhesywxS1gMeLT_jABvAbpQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redcarpet"
-  },
-  {
-    "appname": "Squid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
-  },
-  {
-    "appname": "Running Man",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
-  },
-  {
-    "appname": "Matching Game2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
-  },
-  {
-    "appname": "Core X Genesis Watch Face",
-    "appdev": "Futorum",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/gNtE5cF-Rx-SNbWs-PolvKRCp6-ZhP3F88Il1-22am9q1pzE-vi4d1-qBwuv-lRBNU-z0_wWIK0NE3rKcipjUXJAnAMtbsXxbbHhdacpu39jzusbag=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexgenesis"
-  },
-  {
-    "appname": "Empire Defender Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/D25nU36vzW6EAY-gAwg5IjjJZ74Dvpv4Uw0FoZ8n7KQQ3wWEVZXGoH6-weYX9RXVK-c67bWYZpH9VI8MKUQAAwAXw5tvK-nuXfX9rK8wd_pMheFP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush"
-  },
-  {
-    "appname": "Core X Ignite Watch Face",
-    "appdev": "Futorum",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5fTtIVXVDMzcktQxzXom8GpR38k_sWNSodpjPIb2wrUXniIJ_-4p8M8eP6-e_7V5PsCoMu4bh0qZ8TphUjRvis8QMjdJ6oNumZjcA7yk2DSnf3zX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexignite"
   }
 ]
