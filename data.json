@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Word Connect PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/mX-FeWzBoxRly0LN5BaIvE6-fmAbs-OREhvYjxx-s7k6tNBna0rJL5FleBTi2dqhzdv41UdSDv3sN_Alhw5YDywtYjRqV1ZhLbC-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordconnect"
+  },
+  {
+    "appname": "The Wordies PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-AbrshwsBIKmx5W-lDCM70hzy1pQ_VHIcsSmT3IiMROU9RAM4QoKDy_gV2tGHtX1hbhwdNL5rKBwks5nH2Nayf3-gRx0S11A2Kw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thewordies"
+  },
+  {
+    "appname": "The Hearts PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
+  },
+  {
+    "appname": "Classic M5 Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NldH__ISBnJRIxHJIdH7pjyoIGe6pCgBdMaEegPN-yj9X6J4z_8bkLgcZJtHghVowgT0sSGKsnVNb7Pe8a-0h0snR9a0L95UrlGfRrE5CvmEUiLPTg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.classicm5"
+  },
+  {
+    "appname": "Incredible Box - RollingPuzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
+  },
+  {
     "appname": "Break Brick Out",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/5fTtIVXVDMzcktQxzXom8GpR38k_sWNSodpjPIb2wrUXniIJ_-4p8M8eP6-e_7V5PsCoMu4bh0qZ8TphUjRvis8QMjdJ6oNumZjcA7yk2DSnf3zX=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexignite"
-  },
-  {
-    "appname": "[VIP]UFO DUDE RPG : idle wars",
-    "appdev": "Artifact Games",
-    "appprice": "$2.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IhR7AASaom8c5lPpGdzkzB9Y_6zNtnAxb4Dq9ceyuescwNCIv3mOEVdzyNFo3aGTKedPkUaR2tqwvOKGnNxco41rUjNv6jm_Ezia13yFVChaQ-Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.artifact.uforpgvip"
-  },
-  {
-    "appname": "Chinese Checkers Master",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JJ6d7fdFoXN6KTiry81AD4cpILmQoblXxgZ3Fulnk5HJytYRo1RxiPdxfCCLX-5v434qmdtO_19zjciX9Q7CHpPlf59jxwdJ4ruQi7JZM-PQt7nX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.chinese.checkers.r"
-  },
-  {
-    "appname": "Dotted Lines - Snake",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
-  },
-  {
-    "appname": "Undead City: Survivor Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
-  },
-  {
-    "appname": "Stickman Master Premium",
-    "appdev": "Unimob",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
   }
 ]
