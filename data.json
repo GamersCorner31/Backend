@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Final Castle Defence:Idle RPG",
+    "appdev": "DH GAME",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
+  },
+  {
     "appname": "Gravity Force",
     "appdev": "Metatrans Apps",
     "appprice": "$2.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/AsPL-d17wxglOuyYjG7qxMnn_M3bHftps-XJmrkBh2pyDc4lfkJAO6kQsNBe0dY8QIgomnZOpWgvPsfgcCdn977bS71UFp54loE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ibuzz.apk.puzzle4kids82"
-  },
-  {
-    "appname": "Offline Password Manager",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
   }
 ]
