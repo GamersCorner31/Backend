@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Resume Builder - CV Maker",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ugjPrvdyLlU5U0VgcdhUaDEUbUHkXi98n_OJMZucz34ubkSQK8hUXJ0IFRW9lVLAllqS8l-AZug8iaeBtneeKR3MPcuZR7mQb2N_dH9GDTpdCno=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.resumebuilder"
+  },
+  {
+    "appname": "Haunted Radio Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$1.49",
+    "apprating": "3.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/yVi9L61KKESnXzmYBxp6_Lt7WEE-ENVaubPPLA3gBTJ02NJ5IPZCZPaNmzZ2rZAvEtfmmJpASZK_prH5Q-i6mP69VP3sS6hNwum2z_avx7OHHeTNhA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Haunted_Radio_Spiritbox"
+  },
+  {
     "appname": "n-Digital 2: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/l4L9HFfosFDBsIqrtMoh9fH9yCLsnH4NoXgeqAzKiFdDbE8A2t2PGz2EyICDKcy_dNAtS3R1BRBuDuXW1A0cQMtoJZ7w_mb_ozEAHebU_gw8-bc3=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.crossword.brain.wordgame.puzzle.board.en"
-  },
-  {
-    "appname": "EHW Premium & stick fight",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Words Search - Word Puzzles",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/O7v5lL_iWEJ4Od4RaTR217YgXU6UC2AST3nDMhHOT1KPm9PKiqeKhltpKlYVh8Dy3qF_FkTRFDkyn71ET3GCfLGj35ou0HBxBy2ccjo4bp9shHU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
   }
 ]
