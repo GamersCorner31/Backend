@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Stickman Warriors Dragon Hero",
+    "appdev": "Super Dragon Legends PVP",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
+  },
+  {
     "appname": "Find Picture Different!",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Cd-h1yQMdY50HFaW7sFqr5c045vGEHxGJNVcCWpT92O3Qlk-PwHEG9MXWMpDmiZqeCyJ0Fd64lrA-eyW7rBAnhibzp62xjKeiiZL88N9_cEOFcb9=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpolar"
-  },
-  {
-    "appname": "Simple App Locker",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/lEHslF02nNN6I8yJ10rE03dY9slXyBcX3BbB5pEI_4AQb_GP1bxitkqJmFNQ_JV4-mlFFonoKFAx_it5joYk9SnR8sYlZ6tYLzynR8FvGMBwytAf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleapplocker"
   }
 ]
