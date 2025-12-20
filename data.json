@@ -1,5 +1,15 @@
 [
   {
+    "appname": "EXD028: Hybrid Watch Face",
+    "appdev": "Executive Design Watch Face",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/csT9DQJxMOkaqyKbFkJGgoyZxym3DoEPtCe87sbQgq6Z_cT0ynPKJmhoazDMiC922b98dPBTAdAAsEmJZvmgDxTNniXa9ooplhRcXoshz8m5Z4R_nA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.executivedesign.exd028"
+  },
+  {
     "appname": "Avalar: Shadow War Premium",
     "appdev": "Enigma Publishing Limited",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/r_bUuzav1Ng69hCekyfhf5KOVGEYRT4U8bJCd139SJ0GUGwzVBKau-dKwwUjaLgDZf1LwryfjbAMO97d63vxnUJeisft6Hes2x5xXeEenSBB66a1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.SlimeCraft.SlimeCraft"
-  },
-  {
-    "appname": "TimeMode Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/vF6361I4H7Rnf8pJtjDero8jJeJe46TUiyC6msHj5KHoXjjD33oi-tXsO0REG90sBpfNYFSaUDyApPGAGb3TivmOd-bHvhq43abiRafc2tXyBzOn=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeMode"
   }
 ]
