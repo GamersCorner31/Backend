@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Avalar: Shadow War Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
+  },
+  {
+    "appname": "Alphabets game - Numbers game",
+    "appdev": "Abuzz",
+    "appprice": "$5.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/lf-r-qus9VejOkNNl6wSLaSkxLiYoIek7UMaGsQ4SrRLUK0a1HL1vzMqa8_XnnK1gJU7um9rKJA2upIstaPjYp9hiXENFw_SCZI7=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.apk.ConnectTheDotsAll"
+  },
+  {
     "appname": "Stitch Photos: Long Screenshot",
     "appdev": "TAPUNIVERSE",
     "appprice": "$2.99",
@@ -310,36 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mathforkids5.paid"
   },
   {
-    "appname": "Word Connect PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/mX-FeWzBoxRly0LN5BaIvE6-fmAbs-OREhvYjxx-s7k6tNBna0rJL5FleBTi2dqhzdv41UdSDv3sN_Alhw5YDywtYjRqV1ZhLbC-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordconnect"
-  },
-  {
-    "appname": "The Wordies PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-AbrshwsBIKmx5W-lDCM70hzy1pQ_VHIcsSmT3IiMROU9RAM4QoKDy_gV2tGHtX1hbhwdNL5rKBwks5nH2Nayf3-gRx0S11A2Kw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thewordies"
-  },
-  {
-    "appname": "The Hearts PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
-  },
-  {
     "appname": "Classic M5 Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/r_bUuzav1Ng69hCekyfhf5KOVGEYRT4U8bJCd139SJ0GUGwzVBKau-dKwwUjaLgDZf1LwryfjbAMO97d63vxnUJeisft6Hes2x5xXeEenSBB66a1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.SlimeCraft.SlimeCraft"
+  },
+  {
+    "appname": "TimeMode Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/vF6361I4H7Rnf8pJtjDero8jJeJe46TUiyC6msHj5KHoXjjD33oi-tXsO0REG90sBpfNYFSaUDyApPGAGb3TivmOd-bHvhq43abiRafc2tXyBzOn=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeMode"
   }
 ]
