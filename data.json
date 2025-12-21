@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Bubbles Charging animation",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ewBbR4gWzWo0besR0Z5ztVYPdl5KxDqItMzXKZnnK7gSj68BQ6eEP5-6K2dk_OXDYNTPSwuW_TeZNFjqWeqDxRflEqkpyh-46IY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bubbleepro"
+  },
+  {
+    "appname": "Scan Text From Image English",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/I-fov68z4Je_woabuVceb3uwZp5WE2Jz-debMbHHdAc2W_81L8IHi6ktGQnvm0ZP0aCaEXFipCbf7cN6vaN2rFUIx9r1wJrfSRXTeonHaHiEN6BeOg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.scantextfromimage"
+  },
+  {
+    "appname": "Weather Watch Face - OMG 373",
+    "appdev": "OMG Watch Faces™",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/jcrcICLTZafoMNNlwQGCiNy2ALIbq_J11T5Wn6jSjFA0jtWW5EW67VZr7Tme5wPbLLnPBkBo0seu4mFbO8FOkR-93yfUzJQzz_DgO1DYv47TMLeT=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.omgwatchfaces.weatherwatchfaceomg373"
+  },
+  {
+    "appname": "InsideVPN: Premium VPN Proxy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$9.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
+  },
+  {
     "appname": "Vega Hybrid Watch Face",
     "appdev": "Active Design Watch Face",
     "appprice": "$1.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/zeXu_HYWnGP3BgaMJAj_ec5d6N3Nf4Iyb-Lqlq3OQwXkW5EGMO94UWBhxKdA1BP5LpvKD8pdxA7xeKMJ2iu4erKnvk4RZn5In_oX7hFRtKl6k3TT=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbmarigold"
-  },
-  {
-    "appname": "Resume Builder - CV Maker",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ugjPrvdyLlU5U0VgcdhUaDEUbUHkXi98n_OJMZucz34ubkSQK8hUXJ0IFRW9lVLAllqS8l-AZug8iaeBtneeKR3MPcuZR7mQb2N_dH9GDTpdCno=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.resumebuilder"
-  },
-  {
-    "appname": "Haunted Radio Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/yVi9L61KKESnXzmYBxp6_Lt7WEE-ENVaubPPLA3gBTJ02NJ5IPZCZPaNmzZ2rZAvEtfmmJpASZK_prH5Q-i6mP69VP3sS6hNwum2z_avx7OHHeTNhA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Haunted_Radio_Spiritbox"
-  },
-  {
-    "appname": "n-Digital 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/T8PwZSO8a2QLHhthqtxRw-4mRO5GBEq2P5-_RMbCJnkwNcI49ZQFxN7fOM9A9C0HhYs-1SBKQXWkQ0fW0OVgu1KTyvU-qS04-c6rLtRWJ6dlSObg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfnewdigital2"
-  },
-  {
-    "appname": "Mini Crossword - Word Fun!",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
   }
 ]
