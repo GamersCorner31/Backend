@@ -1,5 +1,145 @@
 [
   {
+    "appname": "Vega Hybrid Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/INyS7iECoRpPZc6q-EmlhMeomZnJYAgmzr0ENiD4_oty98A5UzDhQ88E5U-gxZyfLD8-Z11E1oTd-G2xayg5Kx3je7fW7_AOxIwtwb4Xkud9QrY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vega"
+  },
+  {
+    "appname": "Luminous Hybrid Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/6qlzHZ6_CoDmSOfEA6to5k-HdYONYNhKf17q3cmlFTfJlfPw71RD1h20iM5yRUJenpcxO1S5muQN4V1RR6kwapM-ixooDYQ3-5nw1zMZRpJafx8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.luminous"
+  },
+  {
+    "appname": "Nomad Hybrid Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/Bb0LCykJSXAt43YQIcxMeAXg1wRt0J8ePByV_sqThfVP_-y9jUQ4cGLOqy-MyV4byJWXEXVfy6H_zBDXtiQBy3m5I8x2JVdKvghi08Y6ufcwfS9NRA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.nomad"
+  },
+  {
+    "appname": "Nocturnal Hybrid Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/OrsUKZymhM6-L2KWTwTvUubOCnXwWAsErMb5sn0A5zzJFTzxkc4CnzAfO0ePnBvice7Clt3Lw7nbHUV_ZK9Dt8zFV3RfT9VpbDHj8mjJN_R8U00=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.nocturnallights"
+  },
+  {
+    "appname": "Rogue Black Digital Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/9pATRwVqi2J_du_7gH4Fjd_USvYHcPl1mrHc_FHnarwE86pGqzW5WRBKwSY8Ra9f1bYdFDYE3kRKg0AFuN7otkXlyBWJyDC26SYv8dIBww33-AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.rogueinblack"
+  },
+  {
+    "appname": "Crimson Analog Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PiUSLoldCij18DBSwTSiuq7VbDva2FDk4cKXzFgbcQPmaDpjDcwOmgjcBXnt1zQvHyfq2kgXHj8U5OuDJg5BYjdZzL3SEkEASd8rOQYnowQO8vdy=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.crimsonrider"
+  },
+  {
+    "appname": "Spectre 2 Digital Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/6q38q1gn8axqerY4LBm4P7Xeq4cP21IrlQ98iYWW3jsgZ9Z30cw2XJG03weOfZK6jINlebPZ-fMHz8S9gWdyKvuFjVR1YmCvTN-8svfE0Zu9Fqg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectreii"
+  },
+  {
+    "appname": "Apex Analog Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "4.8",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/xjOXegtvNGAwFD8cd-RLOpZgBu5qwWEcMoA9okvPVF1nCH6C87DAWOg0YtW676Fc1uW1sB37Whc4URNjpNaSafIYBpUgkgPvm0lIa7mnPfbkXbYVOg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex"
+  },
+  {
+    "appname": "Spectre Hybrid Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/6Orqg6sYY_RNHWODBkz6i2UQhL20qup7EA_lvBYAhwnoL8fJC-Uieir33tRJ4VZSOppLCOOK0ajRRwayw2XyG6WhOEOOYHpn4_dR5T0rAYZMaj0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectre"
+  },
+  {
+    "appname": "Vulkan Hybrid Watch Face",
+    "appdev": "Active Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/JzdP0qYxzZvBy9hFPystp2vfrKvgul3Nbz_nO8lsXFIdj_r7oJxd57YyqH1QOdSHOoF92_ii6UTV3767Wp5GmKC7mcCD2eRfhzdWDJEQaOK4XWmvKQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vulkan"
+  },
+  {
+    "appname": "Amerta",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/yIF8_ouxeRKZwbuxaD45OoQOctSBFwhfU5LEUipMc6VdeD_kkSuOfe6RDajgU1rR82PewxE5e9sthinwUsLbeVuptNsckp0JrsAB9vbq4pVSb2Ci=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.amerta"
+  },
+  {
+    "appname": "Space Survival: Mars RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
+  },
+  {
+    "appname": "Spirits Wave EVP Scanner",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
+  },
+  {
+    "appname": "Compress Video - Resize Video",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
+  },
+  {
     "appname": "Pixel Blade M VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -258,145 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "Click Planet - Spacecraft",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/tNZBUeeY-rPqos7zFLsVuww0ZWDRJyKrOnPJHqSv0wOPdjR4rObaKRcByYgiK69iwTgLcTDbSj2iYstJ_Exp92eDBFJ3mXaPZiH55qW6iOFsXFN8_g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.clickplanet.r"
-  },
-  {
-    "appname": "Image to PDF - PNG to PDF",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
-  },
-  {
-    "appname": "QR and Barcode Scanner PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$5.99",
-    "apprating": "4.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
-  },
-  {
-    "appname": "Gravity Force",
-    "appdev": "Metatrans Apps",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fC2emX_IttYJu1HpTuPVWaGxyWZIQgmFvw6z81U9ObF45-DYD3fCCnBbdRzJj7Cdl5LUE9zwJLodJSU56KBBOjK1JHqunm_BXZUc920QSsprCBQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gravityplay.paid"
-  },
-  {
-    "appname": "Bagatur Chess Engine",
-    "appdev": "Metatrans Apps",
-    "appprice": "$4.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Wi4gk6iw1absxHcenhFU5sqA1cSbEJhHzmF2M_jd_xjfUG4zeCSACoF2AVvaS0bI1tP0dI_BvzntLUFoCpQ3M4u4rf_FhoPdptQJO_LsUq97z46X=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bagaturchess.paid"
-  },
-  {
-    "appname": "Chess Position Scanner",
-    "appdev": "Metatrans Apps",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/32t4SvWSFcX8EmtqHhbrH27uXZVR6tL-s0lGiQSFKyZcRlyBuALnR_WNAGLy5gmGIkmsnoEEOz4RFIvleAtajqv6KTuuNLGxLbOagW3YxmsehgNJyg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.chessboardscanner.paid"
-  },
-  {
-    "appname": "Kids to Grandmasters Chess",
-    "appdev": "Metatrans Apps",
-    "appprice": "$5.49",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/nxoJCx37TtLMLDcdkAILZXu6EPoHqCbOAxwItulZJKnfaQn61LObl1huX58wMuMIJBVH6ZW2gZxBnAb-9GDr_oTcGHOIWtE_H5Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.chessartforkids.paid"
-  },
-  {
-    "appname": "Non Stop Balloons Shooter",
-    "appdev": "Metatrans Apps",
-    "appprice": "$3.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqepIIC7bIqaB0NSiKtGf81osY8OVUDA9blj2_3wk6GIclQ1yKfmrZ6XH_3adY-LOHhoXQzLqzhM2jhwG7C8BSDga1VO-aHHR9nB9dCQkFdD5EVbcA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stoptheballs.paid"
-  },
-  {
-    "appname": "Stroop Effect Test",
-    "appdev": "Metatrans Apps",
-    "appprice": "$3.49",
-    "apprating": "3.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/ooZt7pU-6rYksl-8-AMLUfNhvN7w4pi246TtfcGPAYiSeRGixntkNAtXMwMtIwrkWq6ZfHCWBh_88HPfP7yDoya5u2Xurj5R7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.easycolours.paid"
-  },
-  {
-    "appname": "Math Kindergarten to 4th Grade",
-    "appdev": "Metatrans Apps",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5u49S6pmYprRlvUm_OFFK_AhFYYeOd3eA3HX7G79nAnC-j0ssYtpGC1E8z-X4x3zc1IQJ7lseD8LQp_NmAESAptvJqO_JNyrYys=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mathforkids5.paid"
-  },
-  {
-    "appname": "Classic M5 Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NldH__ISBnJRIxHJIdH7pjyoIGe6pCgBdMaEegPN-yj9X6J4z_8bkLgcZJtHghVowgT0sSGKsnVNb7Pe8a-0h0snR9a0L95UrlGfRrE5CvmEUiLPTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.classicm5"
-  },
-  {
-    "appname": "Incredible Box - RollingPuzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
-  },
-  {
-    "appname": "Break Brick Out",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/K9qp89z3FS3gpfKkpmPcjlxTdApNCvvACBwejMNDxVr6PnE6WLj0WSvbEA02oHQdDqJ8nPbRSKuXM1O_O6yfjNwpW-d1x2l6hGq_4SfS1sW358c=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.breakout.r"
   }
 ]
