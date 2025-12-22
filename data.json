@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Effesteria Nombo Card",
+    "appdev": "Effesteria",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
+  },
+  {
     "appname": "Evolution Planet - 14 Billion",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
-  },
-  {
-    "appname": "Last Survivor: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
   }
 ]
