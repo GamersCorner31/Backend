@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Master of Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/DkwtoDaWsZlpSPvGJAbPn-ttP-Fvs8NxH56N-m3xcsB-pdb3bt_AADopUR__xBAK_BOQVVrSpBzlkQluiRFMWWa7WksMTD7OJ-uP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordmaster"
+  },
+  {
+    "appname": "Find White Color",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/jQHkZz7J_Icy7EzTuTtfeR1JISpfaJHMDZUKi-NfEB1ITe1QsF-Dq0bJ1hxjC8MkYK4LSvUfbp5QOyKgMpEvtdspZgU-9yPZzNViOlHZu7CmW8E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.whitenightmare.r"
+  },
+  {
+    "appname": "Super Tank Battle R - Type X",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/w-DE0F-XTiVTE5JQRKdFoeXDoVLTkFbRyqRkrBEL-Sqgphx5gOCkfbLFH6yUoD8gK7VBYsPkyXcfw2OYtUW1Ygu-BC6lksAQ1BdAh9cKypBM2ZI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownproject.tank.remaster.r"
+  },
+  {
+    "appname": "City Destructor HD",
+    "appdev": "NODETRACK",
+    "appprice": "$2.49",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
+  },
+  {
+    "appname": "Contacts Widget - Speed Dial",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
+  },
+  {
     "appname": "Blueberry - icon pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -340,36 +390,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
   },
   {
-    "appname": "Hidden Numbers PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtNW68R0mIyz9aRxk-EmrxpyZgUmtSMx-NCAql_3Ng3P3gLVRBdzHc3oTDoltCrEcLJVH0riqvObjBm_0i79k3O7w410xAFMCw8a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.hiddennumberspro"
-  },
-  {
-    "appname": "Spelling Master PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
-  },
-  {
-    "appname": "EXD028: Hybrid Watch Face",
-    "appdev": "Executive Design Watch Face",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/csT9DQJxMOkaqyKbFkJGgoyZxym3DoEPtCe87sbQgq6Z_cT0ynPKJmhoazDMiC922b98dPBTAdAAsEmJZvmgDxTNniXa9ooplhRcXoshz8m5Z4R_nA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.executivedesign.exd028"
-  },
-  {
     "appname": "Avalar: Shadow War Premium",
     "appdev": "Enigma Publishing Limited",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "Alphabets game - Numbers game",
-    "appdev": "Abuzz",
-    "appprice": "$5.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/lf-r-qus9VejOkNNl6wSLaSkxLiYoIek7UMaGsQ4SrRLUK0a1HL1vzMqa8_XnnK1gJU7um9rKJA2upIstaPjYp9hiXENFw_SCZI7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.apk.ConnectTheDotsAll"
-  },
-  {
-    "appname": "Stitch Photos: Long Screenshot",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Nw2ws6w0YR9-vq3pnfqgE8NDAjmkPIp2xx8GnLhsR719uyHawJWYwiZuC8tQyzCM-sk4uiJDDQhP8fzaItu41avMSVGJS0SUGX-X6tCRQfxJixIh2A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.stitchphotos"
   }
 ]
