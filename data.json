@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Arcs N6 Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9VXo3bWGU6FIkkuN0IqzJjRv8TXbqgPtmRl_jHgQUEn4B6s_U8b95lnv8pyum49W4hQG5pR27Z-c4J52fLBSlCmYL9BKPTgAS41uqnhaDTQV1iQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.arcsn6"
+  },
+  {
+    "appname": "mySolar - Build your Planets",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/vje_TDXXyHaGBiEyvRpMl9xLRZzUW9MDCSg4bO9ptAhLoQuiUiYmn-zGeQ71j108vREG6GRerRRjp3YNv_n21alxVk3cItGg86v2rym8khaDRDc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.mysolar.r"
+  },
+  {
+    "appname": "Space Shooter: Galaxy Attack",
+    "appdev": "1SOFT",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
+  },
+  {
     "appname": "Video Live Wallpaper Maker",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/xjOXegtvNGAwFD8cd-RLOpZgBu5qwWEcMoA9okvPVF1nCH6C87DAWOg0YtW676Fc1uW1sB37Whc4URNjpNaSafIYBpUgkgPvm0lIa7mnPfbkXbYVOg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.apex"
-  },
-  {
-    "appname": "Spectre Hybrid Watch Face",
-    "appdev": "Active Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/6Orqg6sYY_RNHWODBkz6i2UQhL20qup7EA_lvBYAhwnoL8fJC-Uieir33tRJ4VZSOppLCOOK0ajRRwayw2XyG6WhOEOOYHpn4_dR5T0rAYZMaj0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.spectre"
-  },
-  {
-    "appname": "Vulkan Hybrid Watch Face",
-    "appdev": "Active Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/JzdP0qYxzZvBy9hFPystp2vfrKvgul3Nbz_nO8lsXFIdj_r7oJxd57YyqH1QOdSHOoF92_ii6UTV3767Wp5GmKC7mcCD2eRfhzdWDJEQaOK4XWmvKQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vulkan"
-  },
-  {
-    "appname": "Amerta",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/yIF8_ouxeRKZwbuxaD45OoQOctSBFwhfU5LEUipMc6VdeD_kkSuOfe6RDajgU1rR82PewxE5e9sthinwUsLbeVuptNsckp0JrsAB9vbq4pVSb2Ci=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.amerta"
   }
 ]
