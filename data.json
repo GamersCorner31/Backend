@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Manager Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8d0utVtE_61GeXvFRasUw24zehMs5Bh6kck3lhU2Csh_K7d6imXixD9kWqVhL3bLhSdAQ5mrbNTB__XtkkgOo8hpBa_4Xr0VmOZ_vAIjS4C7zvg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.manager"
+  },
+  {
+    "appname": "Infinite Launch",
+    "appdev": "Qookie Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/AyhJPk9IPQMuQgfDaJg_z_pYOwfnObOML9rpFr5tDJoQO8te4XxzbMS-VrEiUZWM8F5izza_IEQFHbtW94O25Y75oeME0Ks_eKDf_5fVZ50EjizK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Qookie.InfiniteLaunch"
+  },
+  {
+    "appname": "Analog Classic 17 Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/w2C0d075p_WktB4FeZN06fxvOhK_D_uHjWpgiGNtLf0Etu5i7xSRNWOb_YN38WsjIy9HQji2wkRoU0wrWTnntKDIzceQ8KSH9rsDWOpTIY9iqp6C=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ac17"
+  },
+  {
+    "appname": "Digital Basic 3b Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/-XZaeoQQUSYCh7yiFvu_qzlycOUsn2fmVNDsBQOz-vC6lJP2kc1RapIFEb4ateIj1roH9Ih7eoRTtA7n5BTxNlNN2juyWZs_hIKywI5p7bAosn_x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic3"
+  },
+  {
+    "appname": "Analog Classic 1  Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/MT1fUICa7h2elAW_upPUTlzEUL6vwWROgiAU1B5AwbZWxpL9vjT0y_Rv7e2CMVvNeFhpsfqMAv3BWr7R50LW9D49TA_O51j3l7hL-szJnHxUYGk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.analogclassik"
+  },
+  {
+    "appname": "Contour Analog WF Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/x0diyd8n8h2ztaAMriAv7FFAKCI9H49SPOeBaOi7AXqeV_BFe9euTIfRjMdXXh2-iB3hcABT7mjjD5HQRTUXT_Olg9EW5z5E8yUbMkUKFZ9hIdI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.contouranalog"
+  },
+  {
     "appname": "Analog Classic 20 Wear OS 4+",
     "appdev": "OQ Watchfaces",
     "appprice": "$1.49",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/YvMl-pOet_lctXPm83m0TVyx7B6QAWKQ2TO-tnz60B6DZDWaDYbhLKUZN4gITIJtwBXv-imaSDIVkJQBZO4A85ZnnU2NBuu_qZj9nHTboj2M9uxd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.non.idle.galaxy.r"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
-  },
-  {
-    "appname": "Shadow Knight: Ninja Fighting",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
-  },
-  {
-    "appname": "Bonbon: Candy Match 3 Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/d9UVd37Oynfku9sjKp1pBtD-RySSBuqIwJawIvV8o34iARxq0bZ_KmZs7s_XwneBPhBEihZ7CAyQQEF2nv1oU6-q42nW130Ar2Z4OVQeRAVjPxvL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.match.three.puzzle.games.candy.crush.saga.casual.matching.jelly.sugar.sweet.king"
-  },
-  {
-    "appname": "Stick Warrior SuperHero Dragon",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
-  },
-  {
-    "appname": "Stabilize Video: Stable Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
-  },
-  {
-    "appname": "Truth Or Dare Pro",
-    "appdev": "TRYONI ARTS",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
   }
 ]
