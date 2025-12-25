@@ -1,5 +1,95 @@
 [
   {
+    "appname": "Analog Classic 20 Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_2fynF5oeIa9wXEi425kRnoR1RJF90KQT3UV0VKSQMukbEgC_C9dujSXd1D7td1Hj67PI358iixTu-uorvAFZX4khlHoZjMM1Az0cK2Jd2XVI7At=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ac20"
+  },
+  {
+    "appname": "ML2U 215 Watch Face",
+    "appdev": "ML2U",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/B0oD5AyOd_NN4lfRwZ3SxxMwPs65KpAWbr_vjEx8PeSkcMybKIkyoOWmH6uBIx9wHjAMz4rowWf6bdNgT1A4KWFWZSB-YGQPY7fxiVW6EvOZXlaH=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u215"
+  },
+  {
+    "appname": "Z Town Chapter 7 The Safehouse",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/v-mccz0YlpApu25Ui9r8doih7zgr29oW-hxQ1XZ8y6Lcb-JikOHZT1-1DPA4TynW7O-dHCPpFKu5qcPN3-tmA_-BijW_7DBqzE-HfQKhgROl3JMG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter7thesafehouse"
+  },
+  {
+    "appname": "Z Town Chapter 8- Chaos Begins",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NbifkKwctRO_pdIhmZUpyJwH2PRkWJ4E4xduSNaFAIk411WISCdzJeeVXA5ee3zZpviEt3W_qHVrYATAHCh_-j9TpXz7mJZvfFNztz_MhcSnPBdP-A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter8thechaosbegins"
+  },
+  {
+    "appname": "Z Town Chapter 5 The Reunion",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sJGwCFvcIOqMIjuCuPhutBdLgRuya_QEPYv6h6IPdLtnG05753RbH1_geYHyb9cqVKV-RWlg8780Ps3WDS9_-AshI1yPHnRZHZGfUmMchoq8fn54=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5thereunion"
+  },
+  {
+    "appname": "Z Town Chapter 4 The Messenger",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/v4SFptDWwJBiy5zs0stowGhmjaXC3hhMYduCUxuBAuUNaPVBUAoTNkvddFmA5_fQiQ5ccgFLmry8kFsk6RCf401iCjdwkyUauoEm5hkDBvihlKEN=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5themessenger"
+  },
+  {
+    "appname": "Eye Charts",
+    "appdev": "Fonlow",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/0H8U5D_rqDVbkVnhARvkG8u3KYHD-7IOLlYbYHtc16WP-Sq2REJPfNc1smVheCBhcodWvf-l1yLg4vULPhNMeTGxVpJ1p57nPUscgtAoAl9b-bUYJA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fonlow.VAC"
+  },
+  {
+    "appname": "Survival Island: Evolve Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
+  },
+  {
+    "appname": "Conversations (Jabber / XMPP)",
+    "appdev": "Daniel Gultsch",
+    "appprice": "$7.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Auc8uO5A7i_Sy8hQq1aq6E6sROy8U5ynWpPYW1ZS_0Wm56DKRyiGsTumbg2_43jRoRfuc3JpHbkIVRmRiwDwlAP46LRHtPPpEAw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=eu.siacs.conversations"
+  },
+  {
     "appname": "Kids' Puzzle: Toddlers Game 3+",
     "appdev": "GiftBox Games",
     "appprice": "$0.99",
@@ -240,16 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.square.icon.pack.theme"
   },
   {
-    "appname": "Effesteria Nombo Card",
-    "appdev": "Effesteria",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
-  },
-  {
     "appname": "Evolution Planet - 14 Billion",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
-  },
-  {
-    "appname": "Word Connect - Fun Puzzle Game",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RMFm61k1B2yFw53mBrDU86CR-aBRRHIrLrOaxSgzPNvjyM9Elyyiax3zrYglObtMIW6RZaoz7sXSTL82GVbrWKYTXS8mqDwql4v3T6TNrC1NzzA_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.wordgame.words.connect.crossword.find.english"
-  },
-  {
-    "appname": "Water Sort Puzzle - Premium",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/nPsCcAmEoIVXZkbDcPhyt4aJD8cHKjxDjVZENzmSZxbdsYzn5Id7-Ft3rSbqy-ZHtXRCehgswUWHQdxMvLmIgpetRETDrnYPqN7xxSNc1RCIzRAW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.water.sort.color.puzzle.game.relax"
-  },
-  {
-    "appname": "Jewels Premium Match 3 Puzzles",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P-B-0XfYUwz33TCP2xmhNb05Eg4umhTuzXSzvcLjlJ9rfOIxk4SM61LlquSYvOeZ8bqpmsoAVIn1ImEzYd6-dhobChb0JpXpWacEqjb5Jg9N71k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.jewelstreasures.match3"
-  },
-  {
-    "appname": "Bubbles Charging animation",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ewBbR4gWzWo0besR0Z5ztVYPdl5KxDqItMzXKZnnK7gSj68BQ6eEP5-6K2dk_OXDYNTPSwuW_TeZNFjqWeqDxRflEqkpyh-46IY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bubbleepro"
-  },
-  {
-    "appname": "Scan Text From Image English",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/I-fov68z4Je_woabuVceb3uwZp5WE2Jz-debMbHHdAc2W_81L8IHi6ktGQnvm0ZP0aCaEXFipCbf7cN6vaN2rFUIx9r1wJrfSRXTeonHaHiEN6BeOg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.scantextfromimage"
-  },
-  {
-    "appname": "Weather Watch Face - OMG 373",
-    "appdev": "OMG Watch Faces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/jcrcICLTZafoMNNlwQGCiNy2ALIbq_J11T5Wn6jSjFA0jtWW5EW67VZr7Tme5wPbLLnPBkBo0seu4mFbO8FOkR-93yfUzJQzz_DgO1DYv47TMLeT=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.omgwatchfaces.weatherwatchfaceomg373"
-  },
-  {
-    "appname": "InsideVPN: Premium VPN Proxy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$9.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
-  },
-  {
-    "appname": "Vega Hybrid Watch Face",
-    "appdev": "Active Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/INyS7iECoRpPZc6q-EmlhMeomZnJYAgmzr0ENiD4_oty98A5UzDhQ88E5U-gxZyfLD8-Z11E1oTd-G2xayg5Kx3je7fW7_AOxIwtwb4Xkud9QrY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.activewatchdesign.vega"
   }
 ]
