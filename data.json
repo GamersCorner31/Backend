@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Azulox Icon Pack - Dark mode",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/eScql6eBkNf46UA5S86zqx84X4aRngfyTdefwnl-qwUbQ_WLzWjXAvaPw-AeLCF1FQVK1Ug70_4J-5YuIDyJTKoFj3Zbbu0SYcU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.azulox"
+  },
+  {
     "appname": "Cyandiant - icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_2fynF5oeIa9wXEi425kRnoR1RJF90KQT3UV0VKSQMukbEgC_C9dujSXd1D7td1Hj67PI358iixTu-uorvAFZX4khlHoZjMM1Az0cK2Jd2XVI7At=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ac20"
-  },
-  {
-    "appname": "ML2U 215 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/B0oD5AyOd_NN4lfRwZ3SxxMwPs65KpAWbr_vjEx8PeSkcMybKIkyoOWmH6uBIx9wHjAMz4rowWf6bdNgT1A4KWFWZSB-YGQPY7fxiVW6EvOZXlaH=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u215"
   }
 ]
