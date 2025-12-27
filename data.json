@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Food Fever Premium: Restaurant",
+    "appdev": "Unimob Games",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
+  },
+  {
+    "appname": "Grow Heroes VIP : Idle Rpg",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
+  },
+  {
+    "appname": "Eco inc. Save the Earth",
+    "appdev": "GameFirst",
+    "appprice": "$0.25",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Q6MNLqIYy9E14t1b5yfKdtGGAYKuMHte95sCGdWfzDzaC7s5pGEKYw5MGwgil2TsMtahlyUvL3D_JoHbyT_We0C-w1vMtkxw37Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamefirst.savetheearth"
+  },
+  {
     "appname": "Azulox Icon Pack - Dark mode",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/-XZaeoQQUSYCh7yiFvu_qzlycOUsn2fmVNDsBQOz-vC6lJP2kc1RapIFEb4ateIj1roH9Ih7eoRTtA7n5BTxNlNN2juyWZs_hIKywI5p7bAosn_x=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic3"
-  },
-  {
-    "appname": "Analog Classic 1  Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/MT1fUICa7h2elAW_upPUTlzEUL6vwWROgiAU1B5AwbZWxpL9vjT0y_Rv7e2CMVvNeFhpsfqMAv3BWr7R50LW9D49TA_O51j3l7hL-szJnHxUYGk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.analogclassik"
-  },
-  {
-    "appname": "Contour Analog WF Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/x0diyd8n8h2ztaAMriAv7FFAKCI9H49SPOeBaOi7AXqeV_BFe9euTIfRjMdXXh2-iB3hcABT7mjjD5HQRTUXT_Olg9EW5z5E8yUbMkUKFZ9hIdI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.contouranalog"
-  },
-  {
-    "appname": "Analog Classic 20 Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_2fynF5oeIa9wXEi425kRnoR1RJF90KQT3UV0VKSQMukbEgC_C9dujSXd1D7td1Hj67PI358iixTu-uorvAFZX4khlHoZjMM1Az0cK2Jd2XVI7At=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ac20"
   }
 ]
