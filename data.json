@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Merge Cafe Premium -Home Decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
+  },
+  {
+    "appname": "Cooking Kawaii - cooking games",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
+  },
+  {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.19",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
+    "appname": "Re:Bounding - Bubble Breaker",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uvWTcb6eGZ6RlWQ5zKCbJDuxvnEEugDii51bfuk_zXBslS_958K6ivcT4X7vtL-blEWgQDzayYeur0xUnV2Wizyr9M981ZSBiaf3c2oxs-7pn-7M=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.rebounding.r"
+  },
+  {
     "appname": "Survival Dungeon: Loot RPG Pro",
     "appdev": "Gem Jam",
     "appprice": "$0.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/8d0utVtE_61GeXvFRasUw24zehMs5Bh6kck3lhU2Csh_K7d6imXixD9kWqVhL3bLhSdAQ5mrbNTB__XtkkgOo8hpBa_4Xr0VmOZ_vAIjS4C7zvg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.manager"
-  },
-  {
-    "appname": "Infinite Launch",
-    "appdev": "Qookie Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/AyhJPk9IPQMuQgfDaJg_z_pYOwfnObOML9rpFr5tDJoQO8te4XxzbMS-VrEiUZWM8F5izza_IEQFHbtW94O25Y75oeME0Ks_eKDf_5fVZ50EjizK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Qookie.InfiniteLaunch"
-  },
-  {
-    "appname": "Analog Classic 17 Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/w2C0d075p_WktB4FeZN06fxvOhK_D_uHjWpgiGNtLf0Etu5i7xSRNWOb_YN38WsjIy9HQji2wkRoU0wrWTnntKDIzceQ8KSH9rsDWOpTIY9iqp6C=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ac17"
-  },
-  {
-    "appname": "Digital Basic 3b Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-XZaeoQQUSYCh7yiFvu_qzlycOUsn2fmVNDsBQOz-vC6lJP2kc1RapIFEb4ateIj1roH9Ih7eoRTtA7n5BTxNlNN2juyWZs_hIKywI5p7bAosn_x=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic3"
-  },
-  {
-    "appname": "Analog Classic 1  Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/MT1fUICa7h2elAW_upPUTlzEUL6vwWROgiAU1B5AwbZWxpL9vjT0y_Rv7e2CMVvNeFhpsfqMAv3BWr7R50LW9D49TA_O51j3l7hL-szJnHxUYGk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.analogclassik"
   }
 ]
