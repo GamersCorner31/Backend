@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Survival Dungeon: Loot RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
+  },
+  {
+    "appname": "Dancing Animals",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
+  },
+  {
+    "appname": "Number Blocks",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/iBMncr7-FK5nUcwGU5QEyotIFBBBI83-FAYt6Zv09X7b9Fk16MyJ39wU3kq0eFzH8XMrMGdJEaFmlkIt5GzjXRxeQVMSVgK9QrmFvErZpvoWAXk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zb.at"
+  },
+  {
+    "appname": "Audio Game 10 Levels",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ne2KaEwg5lfquL6-0YJazalrqxpLmoFGkZAVdkYyTEOlanzygydID91q-Zd3cI6jZfHMsMNHP6WB66fFQrwgJ_YDyjQoT9xcA75pSziHClM9eCI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.MemoDeAndroid"
+  },
+  {
+    "appname": "Math Party, Multi Games",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
+  },
+  {
+    "appname": "Survival Island: Ark Craft pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
+  },
+  {
     "appname": "Food Fever Premium: Restaurant",
     "appdev": "Unimob Games",
     "appprice": "$0.99",
@@ -260,46 +320,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.myapplication"
   },
   {
-    "appname": "Equalizer FX Pro",
-    "appdev": "WetcRun",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/sGVbin5yC3GQt0O396oEwYPSl3VdWVJIzpPFCqCvZL6WrwgOpkEyjZqza9MIL_4D_Zc8E8MnS74tdcx8Bw3qJgUUZpi4TD6Q8eg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.musicplayer.theme.pro"
-  },
-  {
-    "appname": "Equalizer Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/RkDzn1O-_TZ4l_SPLdHNUGAhKYAKytoOeByqv9tHbrvnZtgOrKns_Jx9Gp4_aAzHOdS1denQ16KKQ5Iuoeuf2CjdQ7mxAwbgADo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bass.booster.equalizer.pro"
-  },
-  {
-    "appname": "Equalizer Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/IX7jt_3F69ETYf3lsmZFocubJCP8wn3UpUjyyDF8fvY7g4QjVW8Xl16Ke_wpuzXFFEkEmtKtgpJFUShF6qUTyRHoNElLp9swsiA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.music.pro"
-  },
-  {
-    "appname": "Equalizer - Bass Booster pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/gwF6c-Yk5h6Jey-TsgCO00TszbE1REarA13VAkg2mDue5w5V7y-rZqwS_pQhPe8SDQpLZe8Z-7AhiNL4NcFHcSYei5OsTteKykpt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.volume.pro"
-  },
-  {
     "appname": "Garage Ringtones Pro",
     "appdev": "Appflow Software",
     "appprice": "$2.49",
@@ -308,36 +328,6 @@
     "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
-  },
-  {
-    "appname": "Equalizer & Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/mzkaNeuSAiBxuyf-qE3q9RFYdXMyrXKB5ZjvlQEhyVWfm9225KgsJL1xqwLLrFMfDLNyAlSB0p2q8P741JnGK96qxCq5uSvcvPHE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=musicplayer.bassbooster.equalizer.pro"
-  },
-  {
-    "appname": "Equalizer - Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/bqfL-k2yhXdEj3fnF08vCZhAZpR1RPb5VRiG9fVBVWxPakwxnhDQhoQTsBHLNwk6p6YYHRiPhGFxd6CbhI8ZTHK2TdeuzS5gzXk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.eq.music.player.equalizer.pro"
-  },
-  {
-    "appname": "Volume Booster Max Pro",
-    "appdev": "WetcRun",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c1AGGrQE9q4dvfxnhlsJYIhm2VWM505o6Nnm2kfXoVGwka0I5emYFQaKoN1CNe5TMqSlffHig1jn2HnZtZfksX-J9OzQfaeBjCdjTanr-omWR6U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=volumebooster.volume.booster.pro"
   },
   {
     "appname": "IPTV Smart Player Pro",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/-XZaeoQQUSYCh7yiFvu_qzlycOUsn2fmVNDsBQOz-vC6lJP2kc1RapIFEb4ateIj1roH9Ih7eoRTtA7n5BTxNlNN2juyWZs_hIKywI5p7bAosn_x=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic3"
+  },
+  {
+    "appname": "Analog Classic 1  Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/MT1fUICa7h2elAW_upPUTlzEUL6vwWROgiAU1B5AwbZWxpL9vjT0y_Rv7e2CMVvNeFhpsfqMAv3BWr7R50LW9D49TA_O51j3l7hL-szJnHxUYGk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.analogclassik"
   }
 ]
