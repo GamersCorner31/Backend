@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Piano Match Play",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7Y5Vt55I_pfr3Uqaa9Dakv5Daw3LScZUTKhvIfNn6H4mlaOE1ZVkpAnWFizIg9AsLm52lRRBAjuTBdTt_mZrD1yP1HM0tepxuUf02jIrDhdQD02sLA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.AndroidPianoMemo"
+  },
+  {
+    "appname": "Tech VPN Pro / Protect Privacy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
+  },
+  {
+    "appname": "Mini Restaurant Premium",
+    "appdev": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/avwaR5uQV56Fm0mGFLvRt2JMQTIlOSGHQGPmjC4kf-2nqHuGeUsW0O-9G4C0h1QK-7nKKCXAkgNbrJlL4lk23WYhnQQZ4ypvipAjG9i1KijVnRPD-Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium"
+  },
+  {
     "appname": "My Medicine Pro - Health Log",
     "appdev": "made easy",
     "appprice": "$2.49",
@@ -8,16 +38,6 @@
     "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
-  },
-  {
-    "appname": "HMK WD124",
-    "appdev": "HMKWatch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/i0iAfPgLEkcFXoGDlLYqRmp6YxZqDA0n4AcC5Sybht6xaHuQ756SvkAo4Ap0mnMH6KiTwkfZU3RVz_nGzjF0R3-QvCyl8_j4aeR5UC8FIyFIuYE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_wd124"
   },
   {
     "appname": "Merge City Premium -Home decor",
@@ -160,16 +180,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamefirst.savetheearth"
   },
   {
-    "appname": "Azulox Icon Pack - Dark mode",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/eScql6eBkNf46UA5S86zqx84X4aRngfyTdefwnl-qwUbQ_WLzWjXAvaPw-AeLCF1FQVK1Ug70_4J-5YuIDyJTKoFj3Zbbu0SYcU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.azulox"
-  },
-  {
     "appname": "Cyandiant - icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -208,36 +218,6 @@
     "appurl": "https://lh3.googleusercontent.com/CxwORRM_Oz8PkQPFWNMhInKRdeiD1xAudKVgQ0kt34rKfZgx_Bz4UssH2pZRnwM4n_eD2avdZI3kx4adwIg35mXMzydm_LwPqIWAtbewP2o2y-GHaw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.shield.iconpack"
-  },
-  {
-    "appname": "Balloons Pop PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EuN4GgwdIhz72aTng6s0F3UK7lmycXKc1OC2iVzWAFBo87smdFUCGTBOf6Tt6IIjhkrZt-HDGitAHXGeI3VJNKQ8BjDev4eyOhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.balloonspop"
-  },
-  {
-    "appname": "Present Tenses Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/SVdtK3boFWQ3nN3pVXu0mt4moxdkNYXCarGNX8-PnA0WEV8N3C1amx8ugrJYX17KsXVc_Pk60A52kW6RHcubdspedzfZ873yGo2s=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.presenttenses"
-  },
-  {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
   },
   {
     "appname": "MOON KNIGHT Digital Watch Face",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
+  },
+  {
+    "appname": "IPTV Smart Player Pro",
+    "appdev": "Dmitri Iasibas",
+    "appprice": "$9.49",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
+  },
+  {
+    "appname": "JPEG Optimizer PRO",
+    "appdev": "MIXAImaging",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/qZfcCNKu8WKizMF550Xb2PK53ALhWXLPrLPL9dPtdgSG_pBs3jSiH-FQJ0Tn1dXnJ81_ZZLa59CDqj2H5we1eZSnVvZrTkeFCA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mixaimaging.jpegoptimizerpro"
   }
 ]
