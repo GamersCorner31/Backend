@@ -1,5 +1,45 @@
 [
   {
+    "appname": "HMK D053",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/aOWyIO3qZiQrJSCllk1zz2qBVYSyHJ_WZfXCFrhG-10L3BTvo3GYqeGgIGhaj0fceZcgsqWtBfOP8nfK1AkKKDKfp1ZVweMVkYvFU-jLIfNafx-Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_d053"
+  },
+  {
+    "appname": "Warak Green - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fstrqcKFn3hJHO3Eun8hh34Eu9Fcce1X99gWOwiQB1iOtN2bSvYogHYT7SR4m8C48tcRgyqC-lcIxtQvZmmR8UwzqebAMX9R_XNWQ-wNDRRyaUI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
+  },
+  {
+    "appname": "Guess & Find PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/CUg5J3JqrvNL0INuD6HSbglCxePLsP0q6PxmQFVcO1LjWpx7Q34dZcZ9htSYwzhw3ZwcytqhMKKRFhNWpqS4770fNgU8RXBLZg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.guessandfind"
+  },
+  {
+    "appname": "Word Cage PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/aBrFUNM77uSrIuK3ira-qfM1xrXYJJBxejro2w7d62wEELh-Ee3IQwJfZwLyjQRxr0rIvMWohrPYpAREaSgw8sELe_J4Rbyp3Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcage"
+  },
+  {
     "appname": "Over The Bridge PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
-  },
-  {
-    "appname": "Empire Warrior: Tower Defense",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
-  },
-  {
-    "appname": "Analog Classic 23 Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/tP7wchXfij038hgiMp83fasrw7QGKLc1S7OF5yATA2K48pyazI2ca-QK03ljsBNdpFr3xxAmfe5HqnVhqMSFvcEawvmTiOZBstcPWMe_HlLCs6Sg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ac23"
-  },
-  {
-    "appname": "Digital Basic 5  Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/04NtdeXUZd8f51jE_tLEEy1ZnaKuWQ2sZsYzLaoqNoxnR6nszY2i9EKBm2MkKHxIkERaevnIQkJRDRpbv-Arp899vxxd4BF6YTtb0piT1IXje7IRIw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic5"
-  },
-  {
-    "appname": "Diver Classic 11 Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/MMlyVCysyaOJmt2RqTWUdNHL5uXidLHaVvYJ3V1UVaN0nRvnidzSVKz3YrD0yCvdrOirUaTvPEUpQ6KlEaJIl2ew9Vn97Cl8BdLYcQWPSAv3Esk2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.myapplication"
   }
 ]
