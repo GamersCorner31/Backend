@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Zombie Age 3 Premium: Survival",
+    "appdev": "DIVMOB",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
+  },
+  {
+    "appname": "Match 3 Jewel Crush & Smash",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/pKieU9zQ4_TSQvTstVydIDTuLwE_jnH1zRgl7QfZl4NnKy5NapnfWAz3LVbw94H-vHgN4RMzf9B-hJSR1iLMiUZc4OX-BS2PCitbdqsFXcwakHmJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iqpuzzlesgames.jewelcrushmatch3puzzle"
+  },
+  {
+    "appname": "Word Connect Pro - 2023",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/P99TCIHrGJTJLM99ZB2Ylk8Fb5I-M73ae_XW0o9jldjzKfKwIr-8-NT7Bxx3RauwYiNdo7BVjEXjcFDuv7wpppzJV_DS13f7AGvwSWLsfgc9V7Z1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.wordconnectpro2023"
+  },
+  {
     "appname": "Jewels Planet - Match 3 Games",
     "appdev": "otto games",
     "appprice": "$2.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
-  },
-  {
-    "appname": "Survival Island: Ark Craft pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
-  },
-  {
-    "appname": "Food Fever Premium: Restaurant",
-    "appdev": "Unimob Games",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
-  },
-  {
-    "appname": "Grow Heroes VIP : Idle Rpg",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
   }
 ]
