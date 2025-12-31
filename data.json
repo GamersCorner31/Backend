@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Dino Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
+  },
+  {
+    "appname": "Add Frames to photos",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
+  },
+  {
+    "appname": "Clock Widget  - Word Clock",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bsiq9kH-DAl-Pt9AgAKFQcxuY8ug-jyAkqZXRZCci-T-3R7896JTpbZNvXjSCLm0_0Kx3iIwuf-r78Hfbce7K0_FmubFERBrwqYj33cVu6UjUYM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simpleclockwidget"
+  },
+  {
+    "appname": "Cartogram: Live Map Wallpaper",
+    "appdev": "Round Tower",
+    "appprice": "$2.34",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/SS9a3Rt8BQdshnnkK_c0a25k52LA9MV5seszF7Qhn-vXXi5dliui_ZAdcRuQFO3Eo6I_J38pjqU0syjklzzBGXhOkKY38heKrA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.round_tower.app.android.wallpaper.cartogram"
+  },
+  {
     "appname": "ATHLETIC Digital Watch Face",
     "appdev": "LIBERTY WATCH FACES™",
     "appprice": "$0.49",
@@ -58,16 +98,6 @@
     "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
-  },
-  {
-    "appname": "HMK D053",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/aOWyIO3qZiQrJSCllk1zz2qBVYSyHJ_WZfXCFrhG-10L3BTvo3GYqeGgIGhaj0fceZcgsqWtBfOP8nfK1AkKKDKfp1ZVweMVkYvFU-jLIfNafx-Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_d053"
   },
   {
     "appname": "Warak Green - Icon Pack",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
-  },
-  {
-    "appname": "Gravity Range",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/657g_MxKeJlgMJsnp9KYNCRGoYnwx1Mk2p0si08GpPD3gsTCyapn008tbcGwbVXQOS1Q6I7puLUVLK7GBRT2PfDyHlAQ4-H5oJkD5eJEntZ7c1Pt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.gravity.flight.r"
-  },
-  {
-    "appname": "Gummy - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/eGWIYctpw0F_UqfHy3rU9xH5BeF1pkjoUq8xnpUbdTCn0Z5BZfGXlSZQdi-6dIx8wafD7S3ruPYMyfq9H7fueub3TYBqYuE2ou2IObuMK7Jkl6Vb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbbubblegum"
-  },
-  {
-    "appname": "Espana - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/E7lRHbz70cRZQQWqxItk6NtUkqFkrAs5f2WrnCIFK2LL-Nam-Toy2IJ1-ky8NQH4657rn6MDMu96uiweQcnltn00GrWL1X6HvKKlEJyXgWz5cTI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbredcarpet"
   }
 ]
