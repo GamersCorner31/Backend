@@ -1,5 +1,75 @@
 [
   {
+    "appname": "80s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.70",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
+  },
+  {
+    "appname": "90s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.80",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MsdFvhlBHhTXooqmoSkKKGJKr7TdCj9Mh8j4xkbDmhr7ocqvRj80oRDFRPbuIKLOWAcEigUTPFlYZp7BC98nKRGcre5i9GqMFZg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.nineties.pro"
+  },
+  {
+    "appname": "Minimalist Marvel Watch Face",
+    "appdev": "NodeShaper",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vmvCzoq612Ek1WqxVToLNpb-0GJLI5iprmJAeLUPFbgDMC5Mmrfv0QNH8eJVYk23K7OXqu7bJwAYBpNqULzg8P8Z4l9VLacM1gz826knGCTuLmYc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.minimalistmarvel"
+  },
+  {
+    "appname": "Blood Moon Watch Face",
+    "appdev": "NodeShaper",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mkA8jIelt7GgN6jvHEDSs6Gq5TS-HLY8hFODShjrkeHP8FoWhvw13axY50dk5zjnsXPAMXcNvQbzxHfqba_5kjkLebefaeo2Oimk5fLUCVB0l-2rSA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.bloodmoon"
+  },
+  {
+    "appname": "Solar Watch Face by NodeShaper",
+    "appdev": "NodeShaper",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eiwy_Q9rcTqwX0iMokmiNGwXfm3nlJGzm2f4M0pxuw6c7dgPVZc9-QUq0Eif-46j_I-NSIrAiyTOIbEQU_QfuFB6_0N6ueDoDEB3sNLHpDToHkw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.solar"
+  },
+  {
+    "appname": "Legion Watch Face Nodeshaper",
+    "appdev": "NodeShaper",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LzDQukt1MQeh4w_tQ1DGhItdVfufNBfxQHqOZkXZ2ZuCYvCw-2NmbIBAYCTRWlFi-BrsNINzGwJJsEN59eGcAabOMk_y4bEjwmsqsmt_uawYxYAl=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.legion"
+  },
+  {
+    "appname": "Paint By Numbers Creator Pro",
+    "appdev": "MIXAImaging",
+    "appprice": "$4.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/69oXM0OCiLN6XleqecWauOixMGR4i0uvEsrYFGZnE7Y_3tppSXiDUr6ivlRcu0luGNprTXR0QAaWu4PVvHvAueCmKZVnXDSxpg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mixaimaging.paintbynumberpro"
+  },
+  {
     "appname": "HMKWatch Digital 131",
     "appdev": "HMKWatch",
     "appprice": "$0.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
-  },
-  {
-    "appname": "Re:Bounding - Bubble Breaker",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uvWTcb6eGZ6RlWQ5zKCbJDuxvnEEugDii51bfuk_zXBslS_958K6ivcT4X7vtL-blEWgQDzayYeur0xUnV2Wizyr9M981ZSBiaf3c2oxs-7pn-7M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.rebounding.r"
-  },
-  {
-    "appname": "Survival Dungeon: Loot RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
-  },
-  {
-    "appname": "Dancing Animals",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
-  },
-  {
-    "appname": "Number Blocks",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/iBMncr7-FK5nUcwGU5QEyotIFBBBI83-FAYt6Zv09X7b9Fk16MyJ39wU3kq0eFzH8XMrMGdJEaFmlkIt5GzjXRxeQVMSVgK9QrmFvErZpvoWAXk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zb.at"
-  },
-  {
-    "appname": "Audio Game 10 Levels",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ne2KaEwg5lfquL6-0YJazalrqxpLmoFGkZAVdkYyTEOlanzygydID91q-Zd3cI6jZfHMsMNHP6WB66fFQrwgJ_YDyjQoT9xcA75pSziHClM9eCI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.MemoDeAndroid"
-  },
-  {
-    "appname": "Math Party, Multi Games",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
-  },
-  {
-    "appname": "Survival Island: Ark Craft pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
   }
 ]
