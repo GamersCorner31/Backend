@@ -1,5 +1,25 @@
 [
   {
+    "appname": "HMKWatch Digital 131",
+    "appdev": "HMKWatch",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/USftSCrmk0P5NeN17PYaFizlPKzsxdd3j83l6d0WpeX5xSYwpOsyQZUI4eP89J4joJgst7AjdV3L8yTGL3XbX1k7MfR47Kuw78yiWpxIDZf2xlnk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_131"
+  },
+  {
+    "appname": "Big Ben Bonger PLUS",
+    "appdev": "UMike Apps : Real Apps filling Real Needs",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/thj54EMVRy5Va25c5_fr9_wI2sKpd9LJmE_4vxcmI2YkR16H3q3jX5q8vp5Zc7q3GS0roFXPQjqIs-J3Fc1pj2D8mh6nxNYxZzY0VXZO_xGyJEMkUg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phonegap.bigbenplus"
+  },
+  {
     "appname": "Zombie Age 3 Premium: Survival",
     "appdev": "DIVMOB",
     "appprice": "$0.99",
@@ -210,36 +230,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
   },
   {
-    "appname": "Guess & Find PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CUg5J3JqrvNL0INuD6HSbglCxePLsP0q6PxmQFVcO1LjWpx7Q34dZcZ9htSYwzhw3ZwcytqhMKKRFhNWpqS4770fNgU8RXBLZg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.guessandfind"
-  },
-  {
-    "appname": "Word Cage PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/aBrFUNM77uSrIuK3ira-qfM1xrXYJJBxejro2w7d62wEELh-Ee3IQwJfZwLyjQRxr0rIvMWohrPYpAREaSgw8sELe_J4Rbyp3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcage"
-  },
-  {
-    "appname": "Over The Bridge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jntVC0WIqYyY6hjH03_YyZGjOHuiJaH0mE-IxfWvWCf8eH7tIrXjf7u7A4j7DKofiwpcxszUO9U0Y3j94lNYu1Vi2FSKimTcPwg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge"
-  },
-  {
     "appname": "Octacrop - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
+  },
+  {
+    "appname": "Survival Island: Ark Craft pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
   }
 ]
