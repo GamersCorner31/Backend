@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Glass Widgets Pro",
+    "appdev": "JustNewDesigns",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/GiuJuex5DnC2Hnn43w3C73YXGO-NGEfPjo5xAp1QRcL3SH3Q7YNQhKDADXyT_EY4-6CR4hfXKhhcn3d5nj9XzOQEtFFimlt0v81GFVlojmyA-B0w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jndapp.neon.glass.pack"
+  },
+  {
     "appname": "80s Music Radio Pro",
     "appdev": "GK Apps",
     "appprice": "$0.70",
@@ -318,16 +328,6 @@
     "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
-  },
-  {
-    "appname": "Piano Match Play",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7Y5Vt55I_pfr3Uqaa9Dakv5Daw3LScZUTKhvIfNn6H4mlaOE1ZVkpAnWFizIg9AsLm52lRRBAjuTBdTt_mZrD1yP1HM0tepxuUf02jIrDhdQD02sLA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.AndroidPianoMemo"
   },
   {
     "appname": "Tech VPN Pro / Protect Privacy",
