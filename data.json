@@ -1,5 +1,15 @@
 [
   {
+    "appname": "OneUI 8 IconPack",
+    "appdev": "AlphaOne",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/8_9igQlJCG0hpL0-fC7Qw3U1qYIwMZxBdVQBETkZVTsTUuWHIrPPgR9hdr4k5N6RQLSwYFWMYigjR8pUSnBHZVjuHZYZjqic8UodvKamfw1JVIxu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.alphaone.oneui.iconpack"
+  },
+  {
     "appname": "Logo Guess Challenge",
     "appdev": "Eggies",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SS9a3Rt8BQdshnnkK_c0a25k52LA9MV5seszF7Qhn-vXXi5dliui_ZAdcRuQFO3Eo6I_J38pjqU0syjklzzBGXhOkKY38heKrA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.round_tower.app.android.wallpaper.cartogram"
-  },
-  {
-    "appname": "ATHLETIC Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LMgOaw33gfLPspslPSMsV1D5m7FqJTieEUfyVRa7Q2pVgOAT07L0FTeL5Wrz3EqKyuHk-Nh1iWmcDJWcdpBoxX_PkFT5FkB6i9UOSfh8T-uUYb0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.athleticdigital"
   }
 ]
