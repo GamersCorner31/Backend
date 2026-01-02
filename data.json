@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Lean Digital Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/qEERbABkNgfKAxZNfwERCv_ttCHyyOhTJbXQtgWAFLBYRFt39NeeQT8yyhvG-BGSIkRNMsgc2Q3BEoUJMlWIpEZTw6zwGSKzMZiC17bRx1-K3S4x7w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.leandigital"
+  },
+  {
+    "appname": "Find the Differences2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
+  },
+  {
+    "appname": "Fractal Space HD",
+    "appdev": "Haze Games",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/aQxlixjo1PpS2CK77cdCLu7aC_m4GAMAlpvOqd3mPSPOyu6-JViH9ojxNr71j2UZkn8-rPmmCWkRT7b_oujZJCvxxJ6hmgf2jQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hazegames.fractalspacetv"
+  },
+  {
     "appname": "Everybody's RPG: Reboot",
     "appdev": "Nomad Game",
     "appprice": "$0.49",
@@ -118,26 +148,6 @@
     "appurl": "https://lh3.googleusercontent.com/69oXM0OCiLN6XleqecWauOixMGR4i0uvEsrYFGZnE7Y_3tppSXiDUr6ivlRcu0luGNprTXR0QAaWu4PVvHvAueCmKZVnXDSxpg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mixaimaging.paintbynumberpro"
-  },
-  {
-    "appname": "HMKWatch Digital 131",
-    "appdev": "HMKWatch",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/USftSCrmk0P5NeN17PYaFizlPKzsxdd3j83l6d0WpeX5xSYwpOsyQZUI4eP89J4joJgst7AjdV3L8yTGL3XbX1k7MfR47Kuw78yiWpxIDZf2xlnk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_131"
-  },
-  {
-    "appname": "Big Ben Bonger PLUS",
-    "appdev": "UMike Apps : Real Apps filling Real Needs",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/thj54EMVRy5Va25c5_fr9_wI2sKpd9LJmE_4vxcmI2YkR16H3q3jX5q8vp5Zc7q3GS0roFXPQjqIs-J3Fc1pj2D8mh6nxNYxZzY0VXZO_xGyJEMkUg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phonegap.bigbenplus"
   },
   {
     "appname": "Zombie Age 3 Premium: Survival",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/avwaR5uQV56Fm0mGFLvRt2JMQTIlOSGHQGPmjC4kf-2nqHuGeUsW0O-9G4C0h1QK-7nKKCXAkgNbrJlL4lk23WYhnQQZ4ypvipAjG9i1KijVnRPD-Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium"
-  },
-  {
-    "appname": "My Medicine Pro - Health Log",
-    "appdev": "made easy",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
   }
 ]
