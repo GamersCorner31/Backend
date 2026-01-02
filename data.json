@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Logo Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
+  },
+  {
+    "appname": "Space Rush",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
+  },
+  {
+    "appname": "Emoji Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
+  },
+  {
+    "appname": "Block Blast - A Retro Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
+  },
+  {
+    "appname": "Crazy Calculator Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
+  },
+  {
+    "appname": "Bulbs - A game of lights",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
+  },
+  {
+    "appname": "Speed Math - Mini Math Games",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
+  },
+  {
+    "appname": "Trivia Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
+  },
+  {
+    "appname": "Spelling Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$3.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
+  },
+  {
+    "appname": "Tap Rush - Reflex Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
+  },
+  {
     "appname": "Lean Digital Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LMgOaw33gfLPspslPSMsV1D5m7FqJTieEUfyVRa7Q2pVgOAT07L0FTeL5Wrz3EqKyuHk-Nh1iWmcDJWcdpBoxX_PkFT5FkB6i9UOSfh8T-uUYb0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.athleticdigital"
-  },
-  {
-    "appname": "Highway Game",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
-  },
-  {
-    "appname": "Defense Zone HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
-  },
-  {
-    "appname": "Math Riddles: Math Me",
-    "appdev": "Eggies",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/jk9ynWyt8WFJO2Yb4oy_kFMngJXhFr8LGjVOEjBix10lHBwyNlzCRjYLyqx8f5KwLiNqyfvwHNucimwpSIXzHzbiU06gHScACPoNNB8EuEMTIvh-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.mathriddles"
-  },
-  {
-    "appname": "Defense Zone 3 Ultra HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
-  },
-  {
-    "appname": "Guardian War: Ultimate Edition",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
-  },
-  {
-    "appname": "Warak Green - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fstrqcKFn3hJHO3Eun8hh34Eu9Fcce1X99gWOwiQB1iOtN2bSvYogHYT7SR4m8C48tcRgyqC-lcIxtQvZmmR8UwzqebAMX9R_XNWQ-wNDRRyaUI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
-  },
-  {
-    "appname": "Octacrop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
-  },
-  {
-    "appname": "Octa Dark - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
-  },
-  {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$4.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
-  },
-  {
-    "appname": "Mini Restaurant Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/avwaR5uQV56Fm0mGFLvRt2JMQTIlOSGHQGPmjC4kf-2nqHuGeUsW0O-9G4C0h1QK-7nKKCXAkgNbrJlL4lk23WYhnQQZ4ypvipAjG9i1KijVnRPD-Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium"
   }
 ]
