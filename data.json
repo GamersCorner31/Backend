@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
     "appname": "Pixel OLED: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
-  },
-  {
-    "appname": "Block vs Block 2",
-    "appdev": "UnknownProjectX",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/1StRxoofBovUm0euH1PxN6GOrDHLvdLzdxqA4r3OA-v3QIwOL7SnYVNEEqTX1Y2WNbCKh1VKieHjXAJkrzSnizwLoQPR5cJFN908WJ1lUHLuAjYG2A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockvsblock2"
   }
 ]
