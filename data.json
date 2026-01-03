@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Ciclo - Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/1ppEKIukZozN8JxF9JSNsWzyZ7U4uK2TT70yCfrkN7r2ZnlJQiFJErm7T7W9MID8NCB7MJZ22u0XhoUJkjcw_kLI3YnMaVvporw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.ciclo"
+  },
+  {
+    "appname": "DogTok - Dog Translator Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
+  },
+  {
+    "appname": "Net Signal Pro:WiFi & 5G Meter",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
+  },
+  {
+    "appname": "Who Uses My WiFi Pro",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
+  },
+  {
     "appname": "Illuminance - Lux Light Pro",
     "appdev": "Phuongpn",
     "appprice": "$0.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/e1nyDtMFTuCFhiAF3FiVILXiBpCsVT2IfPP6Tq4BD2YhANduAykBVhWZr01AKpgCDpOyulF0ZxmZt-ybPO02fop3xLbTgPBU7_0OPVavsn_E_MV4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zeichnenlernen.at"
-  },
-  {
-    "appname": "Nature Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
-  },
-  {
-    "appname": "Animal Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
-  },
-  {
-    "appname": "Sudoku Master Premium: Offline",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/V7JtONReJP6eBOuibjjeQalqJ8eDAUErzdAEeF5EGzXuxG-lMH9IawoqgAbAHGLkXU81UDlWhLrz9REnmzGRDD_4bQ6be6g6J2nNvIxgugAUMF0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
-  },
-  {
-    "appname": "Live or Die: Survival Pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
   }
 ]
