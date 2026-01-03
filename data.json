@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Pixel OLED: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/4wbZZUtBIrO3HH5dHi6WyXsdPpLGYGQH6ItX3z5-NCay5rHhXv8HMR-6xiGTy2T90opgZMDra6HfYgEV7MXOzRRI0LXZ69p6XWnJqVZenmwjicjM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pixeloled"
+  },
+  {
     "appname": "Ciclo - Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/1StRxoofBovUm0euH1PxN6GOrDHLvdLzdxqA4r3OA-v3QIwOL7SnYVNEEqTX1Y2WNbCKh1VKieHjXAJkrzSnizwLoQPR5cJFN908WJ1lUHLuAjYG2A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockvsblock2"
-  },
-  {
-    "appname": "Learn to Draw",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/e1nyDtMFTuCFhiAF3FiVILXiBpCsVT2IfPP6Tq4BD2YhANduAykBVhWZr01AKpgCDpOyulF0ZxmZt-ybPO02fop3xLbTgPBU7_0OPVavsn_E_MV4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zeichnenlernen.at"
   }
 ]
