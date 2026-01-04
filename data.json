@@ -1,5 +1,15 @@
 [
   {
+    "appname": "EVP Phone Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$1.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Ng1hpgYEbBCL_hrouThILi0XanWwJ9tjqRK2vuCcu2ScDJwRI1Rlc11pFonVndcJpGztwil9BJwfNx3pVdm4At7dnRILx6JlXx_omOuRnhcPLnQf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Evp_phone_spiritbox"
+  },
+  {
     "appname": "Grow Dungeon Hero VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -38,36 +48,6 @@
     "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "Net Signal Pro:WiFi & 5G Meter",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
-  },
-  {
-    "appname": "Who Uses My WiFi Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
-  },
-  {
-    "appname": "Illuminance - Lux Light Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rbBWEsrUEDNP9LJdKyCkTbYrysnsZ3nFYuAquS_SK-VzHyGzAsNWMFgo-f_Z7DOqG_jqe-mwl7T_1kDnlmRUvGQhR36nTjjuumUgIn7JLUiOceA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.illuminance.luxlight.pro"
   },
   {
     "appname": "Greendiant - Icon Pack",
@@ -250,36 +230,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nomadgames.dungeonmaster"
   },
   {
-    "appname": "Plurals Test & Practice PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/_Bm1HrNoyuSO7Ty-o-ICPWPZh8L8bEyupM6vGDU1u2lQPZsgy3vLnSuc3zYfRC8q8yXIBYHoaztr2S1w-hOqDVZFnPJYuCK-6eYO=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.plurals"
-  },
-  {
-    "appname": "Prepositions Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CtBYsEtCdOeEA3uHsOhoCQ1WgwwpYciXynTXuPlD4di_fTRHGIBWi-jaRRHP2DJMwFldeY-T6b-_ItUohg4fXzKZttjtiODc2XY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.prepositionstest"
-  },
-  {
-    "appname": "Colonies PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/o1u5ubFdkRNNnO6OBYG2WtqmRAUb0zm2fLNDs95MrfTJTKZKLUWkVvsIpqJ4EMntFTLKAXXrhQeg6TFExShOvnYXWeiSXHR8U7YW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.colonies"
-  },
-  {
     "appname": "Glass Widgets Pro",
     "appdev": "JustNewDesigns",
     "appprice": "$1.99",
@@ -398,5 +348,55 @@
     "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
+  },
+  {
+    "appname": "Block vs Block 2",
+    "appdev": "UnknownProjectX",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/1StRxoofBovUm0euH1PxN6GOrDHLvdLzdxqA4r3OA-v3QIwOL7SnYVNEEqTX1Y2WNbCKh1VKieHjXAJkrzSnizwLoQPR5cJFN908WJ1lUHLuAjYG2A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockvsblock2"
+  },
+  {
+    "appname": "Learn to Draw",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/e1nyDtMFTuCFhiAF3FiVILXiBpCsVT2IfPP6Tq4BD2YhANduAykBVhWZr01AKpgCDpOyulF0ZxmZt-ybPO02fop3xLbTgPBU7_0OPVavsn_E_MV4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zeichnenlernen.at"
+  },
+  {
+    "appname": "Nature Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
+  },
+  {
+    "appname": "Animal Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
+  },
+  {
+    "appname": "Sudoku Master Premium: Offline",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/V7JtONReJP6eBOuibjjeQalqJ8eDAUErzdAEeF5EGzXuxG-lMH9IawoqgAbAHGLkXU81UDlWhLrz9REnmzGRDD_4bQ6be6g6J2nNvIxgugAUMF0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
   }
 ]
