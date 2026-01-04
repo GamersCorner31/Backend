@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Crosswords Word Fill PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
+  },
+  {
     "appname": "HMKWatch Analog 267",
     "appdev": "HMKWatch",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/1StRxoofBovUm0euH1PxN6GOrDHLvdLzdxqA4r3OA-v3QIwOL7SnYVNEEqTX1Y2WNbCKh1VKieHjXAJkrzSnizwLoQPR5cJFN908WJ1lUHLuAjYG2A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockvsblock2"
-  },
-  {
-    "appname": "Learn to Draw",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/e1nyDtMFTuCFhiAF3FiVILXiBpCsVT2IfPP6Tq4BD2YhANduAykBVhWZr01AKpgCDpOyulF0ZxmZt-ybPO02fop3xLbTgPBU7_0OPVavsn_E_MV4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zeichnenlernen.at"
   }
 ]
