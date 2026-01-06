@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Theme Park Simulator",
+    "appdev": "BestRideSimulators",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/2Uxys1SEg6dXBeqRkyXkXB0NDc_QJoSDI6_GTCoVdIt8xxlKg0nbkXwmX3SqE-ew6WTbP52JHhdvEAT2jkGjTAOu40h_dFPVhDQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game"
+  },
+  {
     "appname": "Shadow Hunter: Offline Premium",
     "appdev": "EA Publishing",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/MsdFvhlBHhTXooqmoSkKKGJKr7TdCj9Mh8j4xkbDmhr7ocqvRj80oRDFRPbuIKLOWAcEigUTPFlYZp7BC98nKRGcre5i9GqMFZg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.nineties.pro"
-  },
-  {
-    "appname": "Minimalist Marvel Watch Face",
-    "appdev": "NodeShaper",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vmvCzoq612Ek1WqxVToLNpb-0GJLI5iprmJAeLUPFbgDMC5Mmrfv0QNH8eJVYk23K7OXqu7bJwAYBpNqULzg8P8Z4l9VLacM1gz826knGCTuLmYc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.minimalistmarvel"
   }
 ]
