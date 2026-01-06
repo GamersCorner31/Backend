@@ -1,5 +1,85 @@
 [
   {
+    "appname": "FSW279 Digital watchface",
+    "appdev": "FS Watch face",
+    "appprice": "$0.26",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/1yKPjL1GZI3GwD4xHi9CAyONwBNhsuYO-kg9_R-Yy9wsPKOzXZygoyM9XrLg49_i0q0aUc7Q6aUsVGrKzB1DKpVzBEiMGPfkF5nrLe-h3RgujHNG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.fsw279"
+  },
+  {
+    "appname": "Business Sport Watch Face",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.85",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/MkugTHik2t1ImvcG9bdQgrfothwzB4tGSQEoliyQYPTBvs6R1B8QnNLZioHhs_NfS_3vs40xLcw1XVzE88nMwjVOoBxRLXcExVsPDhCnow5pqdoX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.businesssportwf"
+  },
+  {
+    "appname": "Undersea World",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nbs91y4rswFG7hwE3pLlX5GaC7dYu4oaVGZHghCp7vvyF6fVjV7bcGvTvoMiVyec0M6X4D5EdX1F8Nmg_h9DxFIUbho-w-dmKpgHvZq-90a96Des=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.underseaworld"
+  },
+  {
+    "appname": "Round Pixel",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dYWJdu7kIzxN1ppDbEwY-IbKKTHERz3DvFmFV8lcCM-ACVdKTxQD43L9iYktgNnayb0L1CXHJpWDqszTpQyc65auaImt-sCjxm0xAxPLrMpBnrHwUQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.roundpixel"
+  },
+  {
+    "appname": "Alien Transformation Omni",
+    "appdev": "dev.vulpes",
+    "appprice": "$0.23",
+    "apprating": "4.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/fwMG0LU8sHX5WdBN7FGTDX3AFae_pqX5T0PlimRvseTBZk6RgpGy0Un2wQafMtTaFVlSdxALvio8nCPBd7plCF3I2yO20Q2HjIfLiq33dNpGSQrW=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dev.vulpes.alientransformation"
+  },
+  {
+    "appname": "Colorful icon pack",
+    "appdev": "Volokitta",
+    "appprice": "$0.62",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xbnLVnejca1hzvzR43VpMCx5Uur0lXUlw57j05fUpmG9XwcJT9lsN8hbDgyWPTBjPt8NXcQs11-60v3NKHT4gm59mG_WT10uU4es4_iVtiGrWPom=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.volokitta.colorful"
+  },
+  {
+    "appname": "Gallery - Photos Gallery Album",
+    "appdev": "Dev Craft Team",
+    "appprice": "$2.77",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/r-kl7QSYGXv7Io4dbrF8WYlXShX2Qu6QNuJnXB8MSrMhzEhWYDfyuO5UbwLVdhKD3lfZhZhUN--7mocqIgssEyBHO5RLzTmdUs5WUPRUVfM-hfk1vg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devcraftteam.Gallerymasterpro"
+  },
+  {
+    "appname": "At Ease Anxiety & Worry Relief",
+    "appdev": "Meditation Oasis",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eavidkWebq_bPlgDLdbE81V_t3Tvhud180V4O-iWHfMvvgPp_2Miv0W-TMNkrHwlNW_QPpZiQ4O6Wx4FRo6LJtwNbSFGTHqSLg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.meditationoasis.atease"
+  },
+  {
     "appname": "Theme Park Simulator",
     "appdev": "BestRideSimulators",
     "appprice": "$0.99",
@@ -118,16 +198,6 @@
     "appurl": "https://lh3.googleusercontent.com/lH_Lhb8bLKytPRYOC7QlV-AYOZXYMOZ58Cq691sKNjLtJCg0RpVtel_IyhWBj4ZZjabvPq37ZdHyMT6O25l6caPVTzE6YFPPws8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.antonymspro"
-  },
-  {
-    "appname": "Word Search Champion PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
   },
   {
     "appname": "Crosswords Word Fill PRO",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
-    "appname": "Tap Rush - Reflex Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
-  },
-  {
-    "appname": "Lean Digital Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qEERbABkNgfKAxZNfwERCv_ttCHyyOhTJbXQtgWAFLBYRFt39NeeQT8yyhvG-BGSIkRNMsgc2Q3BEoUJMlWIpEZTw6zwGSKzMZiC17bRx1-K3S4x7w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.leandigital"
-  },
-  {
-    "appname": "Find the Differences2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
-  },
-  {
-    "appname": "Everybody's RPG: Reboot",
-    "appdev": "Nomad Game",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/35Vjf_o0dktr-Oxy9z4eiqrPASMUCKkyqBjTTtuOWtJMOYk2YRqkZlLsOw041BSMl7jApUQvtxFRcaTRd1obj8mQaNSDPHBFtgk2c9SVDE1J7_Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nomadgames.dungeonmaster"
-  },
-  {
-    "appname": "Glass Widgets Pro",
-    "appdev": "JustNewDesigns",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/GiuJuex5DnC2Hnn43w3C73YXGO-NGEfPjo5xAp1QRcL3SH3Q7YNQhKDADXyT_EY4-6CR4hfXKhhcn3d5nj9XzOQEtFFimlt0v81GFVlojmyA-B0w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jndapp.neon.glass.pack"
-  },
-  {
-    "appname": "80s Music Radio Pro",
-    "appdev": "GK Apps",
-    "appprice": "$0.70",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
-  },
-  {
-    "appname": "90s Music Radio Pro",
-    "appdev": "GK Apps",
-    "appprice": "$0.80",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/MsdFvhlBHhTXooqmoSkKKGJKr7TdCj9Mh8j4xkbDmhr7ocqvRj80oRDFRPbuIKLOWAcEigUTPFlYZp7BC98nKRGcre5i9GqMFZg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.nineties.pro"
   }
 ]
