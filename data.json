@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appdev": "EA Publishing",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
     "appname": "Find Five Differences 100",
     "appdev": "profigame.net",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/vmvCzoq612Ek1WqxVToLNpb-0GJLI5iprmJAeLUPFbgDMC5Mmrfv0QNH8eJVYk23K7OXqu7bJwAYBpNqULzg8P8Z4l9VLacM1gz826knGCTuLmYc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.minimalistmarvel"
-  },
-  {
-    "appname": "Blood Moon Watch Face",
-    "appdev": "NodeShaper",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mkA8jIelt7GgN6jvHEDSs6Gq5TS-HLY8hFODShjrkeHP8FoWhvw13axY50dk5zjnsXPAMXcNvQbzxHfqba_5kjkLebefaeo2Oimk5fLUCVB0l-2rSA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodeshaper.bloodmoon"
   }
 ]
