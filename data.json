@@ -1,5 +1,115 @@
 [
   {
+    "appname": "Active Wear Watchface",
+    "appdev": "Bloomfield Watchfaces",
+    "appprice": "$1.36",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/KAQeqhdGcCCXxN1IYw4NWNTVqVgysvST7xGwwmHazxHGT0Gknt0kbVJ1E3eZwKUXuwgmxnwEkvH1qZ6hmRlIDdFLxy0tPvTyqYlEBv85MomLrUhq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bloomfield.activewear"
+  },
+  {
+    "appname": "Fitness Track",
+    "appdev": "Xan Watchfaces",
+    "appprice": "$0.95",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/63ufUYOcZLGiNApmF02enLKzXaBjQbFKIk5s3b8BoQZAM3tycJ6NX5faZapIkICGWdabg1jYIXqHB5mH9-ToxI9dW43EgAdumQkxDZbdFIBUGQHY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchface.xanleyn2"
+  },
+  {
+    "appname": "Animated Stars Watch Face",
+    "appdev": "Cave Club",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ek51o5YUuOiqIwBz-oIL6FuM8uWvNeeQpXm3onMY0ZtEbgoGXjzf0QFh8agYpfInC2fa_xKX5B9GfBCOauFhGJicL3xKTMR44Jc1gg7kNW938gs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.caveclub.stars"
+  },
+  {
+    "appname": "nbWatch: Dynamic Watch",
+    "appdev": "nbSix",
+    "appprice": "$1.41",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/VZOU5W5jDRMMPC56wcVBb8lSagF8GNZgQqv8BoHBtZPfdgNNmNAraRgsBDOAU7WzoLalcOIIunU56euTaW7Qj7OtQpJ4UlIwBJK8Af3aTKcDQMzz=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nbsix.dynamicwatch"
+  },
+  {
+    "appname": "nbWatch: Contour",
+    "appdev": "nbSix",
+    "appprice": "$0.87",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GNJYMYzh2IHS0WUbvQPQXjxvlzHhu6A0GzR2iGthODVFtmX3V2fsXiX1CayVgHkLmcvO70U0Q3fBcfBCkuZ_C-dBUWzcU-7SuACrwS1o9tLb0D7M=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nbsix.contour"
+  },
+  {
+    "appname": "DigitalMocha-for wear os 5",
+    "appdev": "TimeShow",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RTOtYGO7PHO9Sq6YAi3EkdXQqMsirX53GJh2MxXIH06goGiDFF1nUg1sWYAWDYPO0BUjnidzxXLtCJL__ObI9dvGE2kZyoJloZh1s-CKyJyCP49j=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.timeshow.mobvoi.DigitalMocha"
+  },
+  {
+    "appname": "Librius: Become Smarter",
+    "appdev": "Empirics Asia",
+    "appprice": "$1.23",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/YgzEMN3z2aEqZ9nbvMvuDBhuRIACXa53BRGMuPW_rJuTKXjDsiwxhncmPDRIVtx0IpWVzKm1ctK3jrUFUmZRRwQ2QjRhlVk-TXOTe6ctTy6eykkJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zqlibrius"
+  },
+  {
+    "appname": "GRBL Elegant 2 Watch face",
+    "appdev": "Grubel",
+    "appprice": "$1.33",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Q2titZxJB-EmNK2t1AOg98Y4GSB0ZxtD7Rn3kZ7PjrvPDvTQ9nXjZmHhBMFrUdo2cHcGr4UBwhionEewR8Oqf8j7dYEiZOgvqgYwxe80Tzh5mqw8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.grubel.elegant2"
+  },
+  {
+    "appname": "LEGO® DUPLO® DOCTOR",
+    "appdev": "StoryToys",
+    "appprice": "$7.02",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/SSuLR_JTs-vuZ5pdxhOiU7gBPZIqNqhDhV0oKnceEZgHDQCkAXRJs7bCR5ywIMfvRI6eqAKoSGT5TN_nctzZLk88tyrL0nkf0V7yayhoyBu5Bhh84w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.doctor.googleplay"
+  },
+  {
+    "appname": "Write on Pictures",
+    "appdev": "petraapps",
+    "appprice": "$3.88",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8f8X5CiA0M3Iky0q-aQ-POf5u-WysOrMgCKhOPNoL_RIdYJDCFcBuq8J7whQ0pabAboWLpZJ1sgrOTtjcpncoOLR0hpo3s7pPEFf4CBLiW7FHj0N=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.petraapps.writeonpicture"
+  },
+  {
+    "appname": "Dragon Radar Watch Face",
+    "appdev": "fernndes",
+    "appprice": "$1.84",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OtJiO17KikuIlULm6J4H2HLkRqIxuTiBmdq4ooJ0u3vK9Bc_pUkolzrU3Xl5nmFrLx1GEAfMUdSSlbKwU1GptrZ7m56xFCDZmI3eFMCkYFQH7klusA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fernndes.dragonradar"
+  },
+  {
     "appname": "NW090: Hybrid watch face",
     "appdev": "9INE watchfaces",
     "appprice": "$0.90",
@@ -288,115 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/qWKlh98hm5tQFvO-6Ntkeg70mkepumD1m4h4e48jOhNLl4U0MUws4J1L2SFhnzkk58v9wt2Ch5pproZ9zU-n9eAlB-zTOpcjKJw0NjjEWhHHEPmB=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls78"
-  },
-  {
-    "appname": "Analog Watch Face Color Line",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Giwkc7r8gLeEHUO_PO1Y4s9Z9TKyVDjTTWJxVi4irOJ_JcqCYhuZjuxuluxUH4a3w-7sa-vMzfdOZd2bD2-Q6UtYU7zUK4JL7vt8Y72LoUqMM9sJ4Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls98"
-  },
-  {
-    "appname": "Analog Galaxy Watch Luxury",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/IFtR21NXP_-6JdoABBvWmdec68vyzRGzlozZkipCZX6aEzfUG_3TlA6TRC7pJppXLF1ycpnDYjp3tgpYjFFa9S09-gOD01vpHrlCQyJQ81PGCw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls99"
-  },
-  {
-    "appname": "Digital Minimal Watch Face IO",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OZKfIIugL1ccFbVEh6Upc3EkLatHjjsF9Vg5PySDPcoK_1KChwqFZS4LscwBTl_lQU3xbTelT8EIzIb2O6mIwuA8MaH3wyO8u-soQaKmOr5pg_Mm=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls81"
-  },
-  {
-    "appname": "Analog Military Watch Messa",
-    "appdev": "Messa Watch",
-    "appprice": "$1.24",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/SRHYJzdRf4nSdm-fLev6HCXCqkZvtlwk852vhweUo52XWtFAbY5_NpJlrAZMEXJf3t-rpqlNKWtSqp2ONNyK7i-SUXPvc9sYqNJTHXlowCgDUekn0w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.messalx89"
-  },
-  {
-    "appname": "Minimal Digital Watch Face IO",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/h5vGSvoc86VHcYIgMB1qUyiIlXzzWE_wvkOgFjC5AvrD9lgbYjtlHFaW7bjetmzzrefcPoiW-l9HOmiGMdOi6K_P2sXEt5XvRDUAV_2_8aORCAI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls80"
-  },
-  {
-    "appname": "Minimal Analog Watch Face Moon",
-    "appdev": "Messa Watch",
-    "appprice": "$1.62",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Rp0ATXd-fIq0encB23MOrqqlKyJ17eDLVgqoz9pPH9_YPGCwmpl2uOLYrsis6aFQE3p8SoBcoTdBA3Xxf1WQOlupd4r6DPMCosntTyq0h6bmWcyNqg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls76"
-  },
-  {
-    "appname": "Info IV",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/fcBupN9wWn-L_YzjPJaluQ3VXaJ7F-_11SxThaOYWIZsVANL6_qgsBrLOGxJFDgqzbDuiW6QZStDhTIxSTMbvY2QkJQpNvRv96QT68DrSbNY0RYL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.infoiv"
-  },
-  {
-    "appname": "Cartoon Cat",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/gavLzLv55XMPAyFZO5FPYyaY_JKwuvcdk7W8Kb4Zq0MSjIN-dUrGruSr23GmSiee7mCynTZS3PCmCArwF7me0T8gzMf2IfsofAivDJahi0C2m1d_1g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.cartooncat"
-  },
-  {
-    "appname": "Minimal Analog Watch Face",
-    "appdev": "Messa Watch",
-    "appprice": "$1.62",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/F5IFFInbeYoHNq3dAaEkegmpOdjWy0u-vgQxNFUa1Y4qRFRIk3pYsUkiXYCP1H8ZZSfJLIMeHcWWB7ziJkobsmO12nCcRmGfxAjC4IdnfzXhAwbA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls75"
-  },
-  {
-    "appname": "Minimal Digital Watch Face LS",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/bLvU8Z3sRYmjIgN6uS_5pXZGdPpr9LrnmslRBn1pAlCoter3XUn8YHnWCrZyoRZCaR_QW_Gu9c18jCcJ0grwM76_4LQ44lDESgvECDgEDGzWUew=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls82"
-  },
-  {
-    "appname": "Military Analog Watch Face LUX",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/6UTZo9shfbjyo7YTNmVeMRNSCbAyqjYIyF66XlgkNKkpA9D5WV14Rp3X6z56OQcSMcpB6_T7SRIayLnPpudsgdUYql1p7jdcAm2tEKkx2UROGfvc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls96"
   }
 ]
