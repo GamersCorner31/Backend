@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Quick Volume Control",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
+  },
+  {
+    "appname": "Classic Numbers",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/wIswqy-Di7iMFKBaSocCvUtWV4SmQGrdzW9l181gK6GZ_F8NR_ht-5ral71_feMQCFEPGkalNiWNQPZ2ZH3ONVwhLkWLndH87QANrh4SBcq3PU8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.classicnumbers"
+  },
+  {
+    "appname": "Digital Numbers",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7CxK8ww1iFxJkDfQfaO4QK1nzxPAiSc1tfTu4-FyLq0uiDGXD0YkgdLIaPXI3j3u-Ejx_nQwZ50bNAhBNY597ZDHhyBeU0aN1VqNdS2-H-lrLv-m=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dnumbers"
+  },
+  {
+    "appname": "Digital & Analog",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.22",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9o9BKtuu7ALQifUwaZPGzHlNvz86_U4cbC6Z6kgLqu50_WjeGOLBWVE6ZYpwWw7PqNzQQjGeAm0xa7Vu3h-NK1eb4F-YGA_Gvp2D6W2KP4Ni8Ak=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitan"
+  },
+  {
+    "appname": "Super Minimal V3 Digital",
+    "appdev": "WINwatchface old",
+    "appprice": "$1.24",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xCdemhiMm8mf4qV4ZfUOjw97s8Vu60T9yRKweAKcSM8yLFLQdoW-RrTZClfKZxm8BEODfdH4SdFVsA8EtLghwcAnYNnEsecI0nSfzne3-1va7GIg5A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.superminimalv3"
+  },
+  {
+    "appname": "Pixel Big Energy",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.22",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ckK6HhUS1RU4YFLoHBHVSEkZe4EbQt3UfpqCVc1bMeA5BATq3X_9yLFdXHS2mMaLDAe6AAEdMPmAac-lN2b4Po3ZpOUd4xrGikKjxl1EUInjWZc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelbigenergy"
+  },
+  {
+    "appname": "HMKWatch Digital 038",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ERtlD-SZ3-J1tTSf8NNBHzKt_pZ-3PXNiuLl6-pGrhxEJNINyys7xIF2M7Hwjr-zeUxBMmNkxNi9F_wLAJeyMZ8HAeQy3RqobT0aRDqPJoFucVd-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_038"
+  },
+  {
+    "appname": "Articles Grammar Test PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/j5f4z_vHdqz63V9P6e_n1UgKZfcr_85ucBLnLuEwGRWCCgzl2P2L4hT18ZdFALNcyq8u1TqQvt-mz9wxFNezL2IkXz8S9ubvFzw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.articles"
+  },
+  {
+    "appname": "Outdoor Fit (H009)",
+    "appdev": "ChronoHarvest",
+    "appprice": "$0.85",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Zbdp2p65p1EmD1mwAq9x7Y0CIOGcLRNvL5kOI4t8DdRQdlJbpdWNPX0pm0C_kMIEni7TckUjKJJs9EOAU4Yr6o5j_q3guZcledrtqMIXHBD-X_4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.h009"
+  },
+  {
+    "appname": "Poly Puzzle - Low Poly Match",
+    "appdev": "INLOGIC PREMIUM - football soccer tennis sport",
+    "appprice": "$1.16",
+    "apprating": "3.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uhSYKxRr0cV3TQWR3O6xNNJ6j0Q8u0jnV7F0hTbAtAqUXC5VRi90DWRsTLHqfXh1p3Xm3mSRxaz3KPgFLp4E8tWE_IyDtW2PTTUsTRj45kEBtNSF=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=sk.inlogic.polymatchfreemium"
+  },
+  {
     "appname": "Active Wear Watchface",
     "appdev": "Bloomfield Watchfaces",
     "appprice": "$1.36",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/5EUdZYcRZd3wK26zf1rPklRolkE_tvKuZjiUMAuLQm_p63DgnHlLztj5mfY-278UmIVD0CENmmxOQC4Pmj8ynetb9R-nQ-jOX3X-rmLH_4cWvCz4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls119"
-  },
-  {
-    "appname": "Exact Time Watch Face",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GoBg_2G_VBUClS4FK5cKlBgi2V2XvH6MbgJRz78Fd8FQKekn1VBIS1QyBC8Mcr8GclXvfm-PTTRIJKhiI9HYHtG3VOjoUbwBP6s63VyfnjqhGkQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exacttime"
-  },
-  {
-    "appname": "MW33 Classic Analog Watch",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/MLhzqYdeWnYWm5NsLjfAp4d1zOeQonHQMFXbHVVpXiHd2o6F9HSf2ucqTtIWJXJHy2HVVlJjcbYpje6c7UgM1yBpqS23PYWKwM4vWd48GtkeYkbx=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.MW33"
-  },
-  {
-    "appname": "Big Time",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/MJ4nDiKLnpl06SMLZngt3eds3EWrer42XcTHV774zrXVStcShwfWS11I2lhyDeU1KqcOQPGTe_U15NhwFfQZz3l-3v_fdYGSDnU9WeJji3gtckA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ivbigtime"
-  },
-  {
-    "appname": "Collage Maker & Photo Editor",
-    "appdev": "FUTUREMETA",
-    "appprice": "$5.82",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eqXI6Rjx1PRk_ixn_wBbaiZ7oLtWWo4uZDVB23lvHLxHBiW3pLeAXC8AkARbBms5-2XIU2xt8YGR5U8RPfIduxxLTxv2F7rfw_2yoRoeiVDUyFM02w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.threestarfish.photoediting"
-  },
-  {
-    "appname": "AZ269 Christmas Cat Watch Face",
-    "appdev": "Alena Zakharova",
-    "appprice": "$0.81",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/aDXz6kblYNxs5F3ispGEQiWKtTC_lPWqyWVYWn_XGkwTMLyanuhitJny2f19thj3BWKREGT_ThjC7e77VsFdln6yMm6USVXaGlYVal-X5-mLv-Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.az269christmascatwatchface"
-  },
-  {
-    "appname": "Elegant IV Watch Face",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/OlvWnTAJPZkidoQ7W8nUlaWilNe-qh3nD39kSfpPqNzfvhwr16JwNsAmXXX_cQuceEdtWaMxHhcBZI-DPMB0AH_6w1IXXqbI4Lf7WEjLn32ZG99k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.elegantiv"
-  },
-  {
-    "appname": "Sport Fit",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LFeTzInGz1rEGTwoC755Kzj4iury-3IFl6HILsoGe3ib2yhfq97LLJNM8qKh3A8Vqgb0OebsPyc0oeen1Fi4mY2j0AafC8dmJeiUyui5yd0iG8o=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ivwatchface.fitsport"
-  },
-  {
-    "appname": "Lcd Pixel Mod",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ig2F-HJLsw37PVRHM9sjZTA4cA1akIT5UCPK32AE4FEF6YDc6Re2Ohxwrn-As9a2xZU8SvWUkk7r3VanEU8Wvu-sxALwI7P1nXvq_iofFzQSd2Y9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ivwatchface.lcdpixelmod"
-  },
-  {
-    "appname": "Tech Quiz Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
-  },
-  {
-    "appname": "Analog Minimal Moon Watch Face",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qWKlh98hm5tQFvO-6Ntkeg70mkepumD1m4h4e48jOhNLl4U0MUws4J1L2SFhnzkk58v9wt2Ch5pproZ9zU-n9eAlB-zTOpcjKJw0NjjEWhHHEPmB=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls78"
   }
 ]
