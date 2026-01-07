@@ -1,402 +1,402 @@
 [
   {
-    "appname": "Radar",
+    "appname": "NW090: Hybrid watch face",
+    "appdev": "9INE watchfaces",
+    "appprice": "$0.90",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/31XnvjC9yg4AblScX1l1eM_ljxm3_nxi4EaTx4jnvXMW8LWC61yC5tbkDSCdExpnsK_85fLH8tMBPGZQWCDY-HxY5A0wAT0QwaAAvSXudiudM6if=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninewatchface.nw090"
+  },
+  {
+    "appname": "Analog Basic 29 Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.43",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/VavkEbhmEioexec6Ypcs5ch3n2g0rjOr9TBcMqEnlq42tISG3VI5JYpeBx9z12zpv3Sq0_7Ck7W0NDYdWVAPiLAkCwIjc-FXe8Rwp6yEXMvZku0B=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ab29"
+  },
+  {
+    "appname": "NW109: Digital watch face",
+    "appdev": "9INE watchfaces",
+    "appprice": "$1.38",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NvbvqjJugPsvwLgQvWVuTKLitL3NGSxTteyufUNN3s8DEPAnGELk1-_zRgwvQkDX6-obqnXsE8WD9E0cRyyVNakr17YCX8Ti0Pgc0lQfhYGgCkcR=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninewatchface.nw109"
+  },
+  {
+    "appname": "Watch face CNW0026",
+    "appdev": "10h08.com - Wear Os Watch Face",
+    "appprice": "$1.14",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sYBStp8046SBJDIA77s4mXhGRJXYDlTZhTlbjswUdmXztwMNfbCmi-y9IHiv41RTjLkavL5c3DgH1dKpbd_amFyk8cRZRm5lRx-Cmx0BwElMTI8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.watchfacecnw0026"
+  },
+  {
+    "appname": "Simple Minimal watch face",
+    "appdev": "Alpha.apps",
+    "appprice": "$2.33",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iL2dU300_UKuI6gys5EhxbaRue2Klsb4rjzK1lAxshKbHHOmqyCQnM2zPAH-ttpNS_twhe2nb3zAOmjzwuDadxLkPnpw0HPzR0L0M_hRKVNDV3oB=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=inc.alpha.simple"
+  },
+  {
+    "appname": "Eastern Market Murder",
+    "appdev": "True Crime Games",
+    "appprice": "$3.34",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ujVkixIDORF3V5TG-ydBoNVTqu-WDAutoggJ9KZOWHh9zIA3MY0FhuvO__lsSUh8OaTKhSmc8_7kTaaBVfJhTzSYiDv1fG4MrCL-u5NCJcw1RR6X=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.truecrimegames.eastmarket"
+  },
+  {
+    "appname": "Analog dark edition",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/FyZlp9Yj8feqzrCF8zWAC7NI-xeBUrHyFVnCTDA-1LfIX3j7m2FmMiSJ803kPkHrTF19b0Q9biItXsFj-bIFG8TopimFM7tkUjCpS5QGW3cuVaI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.watchface"
+  },
+  {
+    "appname": "Ocular - Anime Watch Face",
+    "appdev": "fernndes",
+    "appprice": "$0.74",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/AmQL8so3pSqnQOPKWLKoSl1s6xbWwk0A-cyjgjzrXwjCPAg-P3Z3YS644PHNi4slbMcMChF74YegYs-P-us4MfdK1SdbYaKKsRL6RuJz_XrJQR-5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fernndes.ocular"
+  },
+  {
+    "appname": "Active Edge Hybrid",
+    "appdev": "Bloomfield Watchfaces",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/39AWKb-ADEARpTEjIYMjCe7PcUG8k3oyDgu75Rv7Gr6eJehKozvO9sH2RPW0dJ1mRdmA9OunDFgHEpfsf9ixH1e5y1iz8HJ3JG72mhhxZMejG10=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bloomfield.activeedge"
+  },
+  {
+    "appname": "DENTAL CASHFLOW",
+    "appdev": "Ahmed Naguib",
+    "appprice": "$7.34",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/cj1pQn7agauC4xajsJTkLEYO4nA9Bnoib3sLma4BGqmD5Uttss1tl27ppDnL5TUoCx3CBtz-TPzihczPtHIZKYaPGe-9HDSvWgVPROsU6W_P9po3mw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dental.cashflow"
+  },
+  {
+    "appname": "Runner Watch Face",
+    "appdev": "RichFace",
+    "appprice": "$2.20",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LDvwmuV_zNt5reWW8v0lcE5ixz-r0aeIGI0La0isElSP3_BpKp3J0d576hqoWhttidh2iNZYslBEvZ1-YrpCZlSIqABF2_KbuI26=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watch.richface.runner"
+  },
+  {
+    "appname": "IV Classic Watch Face",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/xaO3O4hY4ud5EqMxTy4NyU7uoluOu-Jwe3yQce-c3rJj1KSOgC2RNzjUp9ZxhzfgZXWMCSs5vpG9PJec8SOQOjeqt_QiD4LeuG6rNBzjbNw7NYpe=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.watch4ivclassic"
+  },
+  {
+    "appname": "Dental Designer Art",
+    "appdev": "Ahmed Naguib",
+    "appprice": "$4.20",
+    "apprating": "5.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/vE1GoCq1qBt626Q7HyjRf6ONxRpaz9FJDI-6kXj76X7DdH2gDnXA8ttjeP5BUlH0FHwbLw-vCvThzZzpYLmJ5tqpA7rmw8K6vyc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dental.designerart"
+  },
+  {
+    "appname": "Avalar: Raid of Shadow Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
+  },
+  {
+    "appname": "Minimal Watch Face Moon Phase",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/3X9Ang-DibBJxx6I4pbWVJKguH5E9_YgB3O7clXZWFNUsTH3ZwZc_2bd3yqYRnASkuV8rs2O1Qgk-su-dvNuXVotzc6BvtUmHP5USblkjE_g4AzM9w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls120"
+  },
+  {
+    "appname": "Next Modern",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7R3Cudjn3-UHgH__slbGQYtIXoHX8dcNgoDij_4POzZfesKre-Ug6P-jpxqitlkWfFLc7VocJaTJyQxeGiuBVYf6gEQVJT_METm7MHVMaAgCwuf6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.nextmodern"
+  },
+  {
+    "appname": "AZ285 Valentine's Watch Face",
+    "appdev": "Alena Zakharova",
+    "appprice": "$0.81",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8XKyyZSDDoXeYqHQGUubi-4PJJRWwFH5LozoPFZGt-Ap-vvzJ-aNofE7ApbALKOhX3wZPEm4FKT03egjUnyvSpIuXC0In6rpMVsGIXkrlvpW1YR83Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.az285valentineswatchface"
+  },
+  {
+    "appname": "Anime flowers",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xlTBwjeN-0uXJLvsyqcapFAYQQn-KID5OMwwhipD_EoN6Wp0079pB8o3OMt67hEmnWAXUpU56Z0SaSlmVpSWZPPTtJBQhSMsxP2UK7iny6K6SJs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.animeflowers"
+  },
+  {
+    "appname": "Minimal Watch Face Black",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5EUdZYcRZd3wK26zf1rPklRolkE_tvKuZjiUMAuLQm_p63DgnHlLztj5mfY-278UmIVD0CENmmxOQC4Pmj8ynetb9R-nQ-jOX3X-rmLH_4cWvCz4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls119"
+  },
+  {
+    "appname": "Exact Time Watch Face",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GoBg_2G_VBUClS4FK5cKlBgi2V2XvH6MbgJRz78Fd8FQKekn1VBIS1QyBC8Mcr8GclXvfm-PTTRIJKhiI9HYHtG3VOjoUbwBP6s63VyfnjqhGkQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.exacttime"
+  },
+  {
+    "appname": "MW33 Classic Analog Watch",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/MLhzqYdeWnYWm5NsLjfAp4d1zOeQonHQMFXbHVVpXiHd2o6F9HSf2ucqTtIWJXJHy2HVVlJjcbYpje6c7UgM1yBpqS23PYWKwM4vWd48GtkeYkbx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.MW33"
+  },
+  {
+    "appname": "Big Time",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/MJ4nDiKLnpl06SMLZngt3eds3EWrer42XcTHV774zrXVStcShwfWS11I2lhyDeU1KqcOQPGTe_U15NhwFfQZz3l-3v_fdYGSDnU9WeJji3gtckA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ivbigtime"
+  },
+  {
+    "appname": "Collage Maker & Photo Editor",
+    "appdev": "FUTUREMETA",
+    "appprice": "$5.82",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eqXI6Rjx1PRk_ixn_wBbaiZ7oLtWWo4uZDVB23lvHLxHBiW3pLeAXC8AkARbBms5-2XIU2xt8YGR5U8RPfIduxxLTxv2F7rfw_2yoRoeiVDUyFM02w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.threestarfish.photoediting"
+  },
+  {
+    "appname": "AZ269 Christmas Cat Watch Face",
+    "appdev": "Alena Zakharova",
+    "appprice": "$0.81",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/aDXz6kblYNxs5F3ispGEQiWKtTC_lPWqyWVYWn_XGkwTMLyanuhitJny2f19thj3BWKREGT_ThjC7e77VsFdln6yMm6USVXaGlYVal-X5-mLv-Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.az269christmascatwatchface"
+  },
+  {
+    "appname": "Elegant IV Watch Face",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/OlvWnTAJPZkidoQ7W8nUlaWilNe-qh3nD39kSfpPqNzfvhwr16JwNsAmXXX_cQuceEdtWaMxHhcBZI-DPMB0AH_6w1IXXqbI4Lf7WEjLn32ZG99k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.elegantiv"
+  },
+  {
+    "appname": "Sport Fit",
     "appdev": "Iv Watchface",
     "appprice": "$1.23",
     "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/VkqaqJFTZVl3jJt2Fz4dCJvClJoUEGmjL3ucsqGOhhNbZiYaL-zHNxz33EMQ8vSlxSNGURAXHtgIOBPxajpjloZckpLKKM7vu0gGmIbPZBXEmk4=s200-rp-e7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LFeTzInGz1rEGTwoC755Kzj4iury-3IFl6HILsoGe3ib2yhfq97LLJNM8qKh3A8Vqgb0OebsPyc0oeen1Fi4mY2j0AafC8dmJeiUyui5yd0iG8o=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.radariv"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ivwatchface.fitsport"
   },
   {
-    "appname": "Analog Minimal Watch Face",
+    "appname": "Lcd Pixel Mod",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ig2F-HJLsw37PVRHM9sjZTA4cA1akIT5UCPK32AE4FEF6YDc6Re2Ohxwrn-As9a2xZU8SvWUkk7r3VanEU8Wvu-sxALwI7P1nXvq_iofFzQSd2Y9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ivwatchface.lcdpixelmod"
+  },
+  {
+    "appname": "Tech Quiz Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
+  },
+  {
+    "appname": "Analog Minimal Moon Watch Face",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qWKlh98hm5tQFvO-6Ntkeg70mkepumD1m4h4e48jOhNLl4U0MUws4J1L2SFhnzkk58v9wt2Ch5pproZ9zU-n9eAlB-zTOpcjKJw0NjjEWhHHEPmB=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls78"
+  },
+  {
+    "appname": "Analog Watch Face Color Line",
     "appdev": "Messa Watch",
     "appprice": "$1.99",
     "apprating": "0.0",
     "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/BocL2H2TvqQsSfX0uo55gdDA4vJE_W1FdwD8jG2kJnmVz44IHD25Qlo7e9NYa0gOzKsN89-CbnWl-FnlwRKeC2SApcNNm2xNBC9zdb_gcRDo9LdEfA=s200-rp-e7",
+    "appurl": "https://lh3.googleusercontent.com/Giwkc7r8gLeEHUO_PO1Y4s9Z9TKyVDjTTWJxVi4irOJ_JcqCYhuZjuxuluxUH4a3w-7sa-vMzfdOZd2bD2-Q6UtYU7zUK4JL7vt8Y72LoUqMM9sJ4Q=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls77"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls98"
   },
   {
-    "appname": "Analog Watch Face Messa LX99",
+    "appname": "Analog Galaxy Watch Luxury",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/IFtR21NXP_-6JdoABBvWmdec68vyzRGzlozZkipCZX6aEzfUG_3TlA6TRC7pJppXLF1ycpnDYjp3tgpYjFFa9S09-gOD01vpHrlCQyJQ81PGCw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls99"
+  },
+  {
+    "appname": "Digital Minimal Watch Face IO",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OZKfIIugL1ccFbVEh6Upc3EkLatHjjsF9Vg5PySDPcoK_1KChwqFZS4LscwBTl_lQU3xbTelT8EIzIb2O6mIwuA8MaH3wyO8u-soQaKmOr5pg_Mm=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls81"
+  },
+  {
+    "appname": "Analog Military Watch Messa",
     "appdev": "Messa Watch",
     "appprice": "$1.24",
     "apprating": "0.0",
     "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/473BKTU6gTUYMk29gyIbu7SJm0nJm88mCVN53G-4Ju8FVfx-FwZY4hpcHKoXFPd3tICzfxnRSHdbl8iG-p7RVN8Ydl76TxNxpXSPSnQfN_TxnsFdog=s200-rp-e7",
+    "appurl": "https://lh3.googleusercontent.com/SRHYJzdRf4nSdm-fLev6HCXCqkZvtlwk852vhweUo52XWtFAbY5_NpJlrAZMEXJf3t-rpqlNKWtSqp2ONNyK7i-SUXPvc9sYqNJTHXlowCgDUekn0w=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.messalx99"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.messalx89"
   },
   {
-    "appname": "Three dials Orange",
-    "appdev": "Design Poetry",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/NtYkhrse34khfziESLoWAsA8RTRnv1w3fb6NqxneCzQDUbDPIWxC4gRLRCcDR5pxipHuQ5iXTVamKojbjt06Ti0BdvpMxaEQkLWmMhlVo8m0hhDE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.JiaRen.ThreedialsOrange"
-  },
-  {
-    "appname": "Crazy Running Bird",
-    "appdev": "UnknownProjectX",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JwFyEFQBdmGz5jZv3F1xeIFZ6RiA5qdLTwtYDK5B_26yCjdENDDNwopNgZ7C7xJtwCcew6om7ijKZEEdYR4J65srJAjpG1fSGx3Yb3nFBb3E03Wj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.crazy.running.bird.r"
-  },
-  {
-    "appname": "Console Tank - 8Bit TV FC Game",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/wloVLmoDsBY96JxDd7CQBCorfjxShpfuP_VOg2wKs8aeT6q5G6LtzlW74MixNVvWNFe1_HjDZ8MC0T28540szG3NiUBjuVldaj1MBJWksfu8BtM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.console.tank"
-  },
-  {
-    "appname": "Throw Bomb - Entertainment",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/HdRE5ssoBSmQ1spBVH-WY_yB2g8_kh17-oGRyL4A0JNM41vBul_2JMq_O_ukO-UeL0GqEPdkBesqmRcEWByrwSpIpF9jfobePPfLAW6bFvPNxjk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.throwbomb.r"
-  },
-  {
-    "appname": "BIG Dash Pro | \"RPM\"",
-    "appdev": "WatchBase",
-    "appprice": "$1.07",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Xb7GYncZvp9gemUF-sRpZouu8UFKP0JKFNDpaDsEyPa9d017qhPprucFZk3voPtB_qmGRs5CzFqARuBD04DuKOl8-H8OPSjKWiZIUKDfMOQmPtgZyw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=wb.bigdashpro.rpm"
-  },
-  {
-    "appname": "Koreyscha-O'zbekcha Lug'at",
-    "appdev": "Bekzod Tilloev",
-    "appprice": "$7.00",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fNgsgFv0k4AX24K64q_v5f3__ZG2rBbJMwfKrM0YUH6_123pBqkVkRoRrccaYWarnVFVWT0DvosdC0GqX2G7JXHVnsjJb5Z8fNwWXFXx0ifdhg0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=kor.uz"
-  },
-  {
-    "appname": "Christmas Drops 3 - Match thre",
-    "appdev": "BULLBITZ",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xumwMvsTK1odelumSzEY5QVY_04JiXNC0tKbQfjzaenZP_1SqlN3LSPcRMCMJEGm8qRXPkBn_3hCUfFrUR_pztG0cf2qSuVhg06giKEo1XqGONdavw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bullbitz.xmasdrop3"
-  },
-  {
-    "appname": "ADWLauncher 1 EX",
-    "appdev": "AnderWeb",
-    "appprice": "$2.34",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/57KJ9NmPZicIsQoJGMHGQJiET8K_jUxOVdFsTxqi2J-5-ZrW3LNysrf0VV8eGCzkWw0lGSh_y4gjpKp0GeSaqS9Grum8J2AvtPk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=org.adwfreak.launcher"
-  },
-  {
-    "appname": "GRBL Digital One Watch Face",
-    "appdev": "Grubel",
-    "appprice": "$1.95",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/DRhL-UslPhtu4mG3NYSQpu2UFnw93UvWFFKtUgw2yROV-r3sIU1ZucjAmVDRWebSee6Cevs0AvXRF3a7Qj1Ii7FPxmIVvukFlt6uZJKQgj3JK4QZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.grubel.grbldigitalone"
-  },
-  {
-    "appname": "FSW280 Sporty and Digital",
-    "appdev": "FS Watch face",
-    "appprice": "$0.84",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/XabD5XIJF1edpY0kDEwlylLOmLN8zhiaMOvkkPD97i0mfGnKM582LipfLlybZurw2zAPl2ZxIJ7uoVjAibv4ReEwQhT747BAL2b8Mt00jg_9yuM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.fsw280"
-  },
-  {
-    "appname": "Agenda 25 pro",
-    "appdev": "ilpesceweb",
-    "appprice": "$3.50",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/t8J7nGPX42_jBbpqQwQajBdaOXLdGko-kwPcUSZ5d4FdzjeDmYo1tO6awVVCA_UoUhrayTaB4Tgs0mHNoVjIsFAwZs8f2ZczOhImonZFdrWesM64kw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=ilpesce.web.agenda_2025_pro"
-  },
-  {
-    "appname": "WSticky - Sticky Notes Widget",
-    "appdev": "GuoPing He",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/jxVNhvwdBEyroM-F5saRj1TMZd2pLKCc5FOI-r0g_7SrEfmIAvFUr8loq8NEEzTipF7LNIdvPuIkCGbrlsVtZPiHoVhZSTQ6O3YiKri_3qB2BZoi=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.dt2dev.sticky"
-  },
-  {
-    "appname": "Wizard Cards Live",
-    "appdev": "qsoft",
-    "appprice": "$2.99",
-    "apprating": "3.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ZM9PAHYBn4dAOkmAFXA3PqBhpKs3YjCdUeHp7Gi55448RFvaRzgmXs8KhjuwlXJGZ1epn-h_bGE3-ZLrmZcvIRsGkSe9OIjQBsp_jpHTqaHgKyY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qsoft.android.wizardfull2"
-  },
-  {
-    "appname": "PixelWave",
-    "appdev": "Alexander Zolotov",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/jBGGBd8IrEHHCATg9A2vU-jQTjiyZDMDhF4ksYjMKUKgRkB-bQ3PZTSbNlGX1LlvD9HTn_THudG2AswkX9CY-AfwoD0hJnX7qCjJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixelwave"
-  },
-  {
-    "appname": "Bookmark Manager - URL manager",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
-  },
-  {
-    "appname": "Number to word convert offline",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/b15fQJTyaIp0proyIPYJ9137LhMkjnq1HuGNbD4hxAGLHMhv5RtHNrauvSVXuwcIVoBAjl1GkHaMQUXY3HEH98ZTTYTozo3Fzyk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.numbertoword"
-  },
-  {
-    "appname": "FSW279 Digital watchface",
-    "appdev": "FS Watch face",
-    "appprice": "$0.26",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1yKPjL1GZI3GwD4xHi9CAyONwBNhsuYO-kg9_R-Yy9wsPKOzXZygoyM9XrLg49_i0q0aUc7Q6aUsVGrKzB1DKpVzBEiMGPfkF5nrLe-h3RgujHNG=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.fsw279"
-  },
-  {
-    "appname": "Undersea World",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nbs91y4rswFG7hwE3pLlX5GaC7dYu4oaVGZHghCp7vvyF6fVjV7bcGvTvoMiVyec0M6X4D5EdX1F8Nmg_h9DxFIUbho-w-dmKpgHvZq-90a96Des=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.underseaworld"
-  },
-  {
-    "appname": "Round Pixel",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/dYWJdu7kIzxN1ppDbEwY-IbKKTHERz3DvFmFV8lcCM-ACVdKTxQD43L9iYktgNnayb0L1CXHJpWDqszTpQyc65auaImt-sCjxm0xAxPLrMpBnrHwUQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.roundpixel"
-  },
-  {
-    "appname": "Alien Transformation Omni",
-    "appdev": "dev.vulpes",
-    "appprice": "$0.23",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/fwMG0LU8sHX5WdBN7FGTDX3AFae_pqX5T0PlimRvseTBZk6RgpGy0Un2wQafMtTaFVlSdxALvio8nCPBd7plCF3I2yO20Q2HjIfLiq33dNpGSQrW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dev.vulpes.alientransformation"
-  },
-  {
-    "appname": "Colorful icon pack",
-    "appdev": "Volokitta",
-    "appprice": "$0.62",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xbnLVnejca1hzvzR43VpMCx5Uur0lXUlw57j05fUpmG9XwcJT9lsN8hbDgyWPTBjPt8NXcQs11-60v3NKHT4gm59mG_WT10uU4es4_iVtiGrWPom=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.volokitta.colorful"
-  },
-  {
-    "appname": "Gallery - Photos Gallery Album",
-    "appdev": "Dev Craft Team",
-    "appprice": "$2.77",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/r-kl7QSYGXv7Io4dbrF8WYlXShX2Qu6QNuJnXB8MSrMhzEhWYDfyuO5UbwLVdhKD3lfZhZhUN--7mocqIgssEyBHO5RLzTmdUs5WUPRUVfM-hfk1vg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devcraftteam.Gallerymasterpro"
-  },
-  {
-    "appname": "At Ease Anxiety & Worry Relief",
-    "appdev": "Meditation Oasis",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eavidkWebq_bPlgDLdbE81V_t3Tvhud180V4O-iWHfMvvgPp_2Miv0W-TMNkrHwlNW_QPpZiQ4O6Wx4FRo6LJtwNbSFGTHqSLg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.meditationoasis.atease"
-  },
-  {
-    "appname": "Theme Park Simulator",
-    "appdev": "BestRideSimulators",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/2Uxys1SEg6dXBeqRkyXkXB0NDc_QJoSDI6_GTCoVdIt8xxlKg0nbkXwmX3SqE-ew6WTbP52JHhdvEAT2jkGjTAOu40h_dFPVhDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game"
-  },
-  {
-    "appname": "Shadow Hunter: Offline Premium",
-    "appdev": "EA Publishing",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
-  },
-  {
-    "appname": "Find Five Differences 100",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WSimff4HDEDSYaee5B7yD2Gjc36qOI0ju0qPwfYUz98PC8_peSuZifUeGwhVBEMW0NvcwLmNytMFmZyZUVd8xK-6cOr5555EbmsRHivQPhm9CticJA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.diffpremium.at"
-  },
-  {
-    "appname": "Hobby Piano: Real Time Music",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Oldw9sgt9bd_D7RffJdqpWYDiheVxUopd5Z1LgZBv4dgQ6HmZOX3bDV3XNDZ_P7k5BZWHH6TSGPEeLy6cFEUebJEN7nKjc0dWtre5Ln88wn2pKQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.profipiano.at"
-  },
-  {
-    "appname": "Memory 10 Levels",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NEi-aGGqOHP1XnPFlReDkRZ-2RO6AkrnQd6EYSKeDzcoUQCmV5mywu6tdekYDamiLLrkZU4vqYAj06_ZRbLvuvFxpfVYUO8-Y6cudEiID8Njj5U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.MemoAndroid"
-  },
-  {
-    "appname": "Find 10 Differences 120 Levels",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YcggZIz824mm0vsporotMVB4NjLfUapUeS_WonT99bAbhwrS70kUwUAOTGSyi3u0oS0Ity4rnt-qqiXDoX5hC3VA0koGwfIMmkdk4QoiUhWgyQ9ojA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.differences.at"
-  },
-  {
-    "appname": "Image Cropper - Crop photos",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/xHJ190I82OPKH-zIVRgRVNQ1LORFXZ-iYbmH2InIpdhxyGxeaICJaDYIubP9_DT5ZfTOar_PoaN4QxsZH5m-i2RsivhPUedxTVagRgcn8-bbUVhZzw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
-  },
-  {
-    "appname": "Word Mania - Brainy Word Games",
-    "appdev": "Eggies",
-    "appprice": "$6.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
-  },
-  {
-    "appname": "Pixel Net White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/bja-4nCZ89PE6832-57wPPQ3XgOFi-ZPPKOtkqoI31dSRCRvQ9e4a-vzeiu3GrkFpaxzVem4RzSxhx1MReiM-pLa2lNjSGszHg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
-  },
-  {
-    "appname": "Evertale",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MV3yO8Pe03nI_K6_eDFj8wvJ3bUUDbJZxmKWhesAFoeywC9hQcm784lQAh-12TvVwTAd7Fa1zS05cVKu0TSsA-2ZuU_2f76rMQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale"
-  },
-  {
-    "appname": "Brain Card Game - Xbar10n",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/L9wwXoXbFf_sbKyD1mO9O6opfq1hZwlJdVE_jy-7sFiVypgZFs6Z6BUhnF6U_1I8oDWULoEOcv_d5BbjM2w14kRWL1Yw6Iz0u50=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.isavasokur.xbar10n"
-  },
-  {
-    "appname": "Tokyo Debunker: Urban Legends",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
-  },
-  {
-    "appname": "EVP Phone Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Ng1hpgYEbBCL_hrouThILi0XanWwJ9tjqRK2vuCcu2ScDJwRI1Rlc11pFonVndcJpGztwil9BJwfNx3pVdm4At7dnRILx6JlXx_omOuRnhcPLnQf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Evp_phone_spiritbox"
-  },
-  {
-    "appname": "Grow Dungeon Hero VIP",
-    "appdev": "pixelstar",
+    "appname": "Minimal Digital Watch Face IO",
+    "appdev": "Messa Watch",
     "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/h5vGSvoc86VHcYIgMB1qUyiIlXzzWE_wvkOgFjC5AvrD9lgbYjtlHFaW7bjetmzzrefcPoiW-l9HOmiGMdOi6K_P2sXEt5XvRDUAV_2_8aORCAI=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls80"
+  },
+  {
+    "appname": "Minimal Analog Watch Face Moon",
+    "appdev": "Messa Watch",
+    "appprice": "$1.62",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Rp0ATXd-fIq0encB23MOrqqlKyJ17eDLVgqoz9pPH9_YPGCwmpl2uOLYrsis6aFQE3p8SoBcoTdBA3Xxf1WQOlupd4r6DPMCosntTyq0h6bmWcyNqg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls76"
+  },
+  {
+    "appname": "Info IV",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/fcBupN9wWn-L_YzjPJaluQ3VXaJ7F-_11SxThaOYWIZsVANL6_qgsBrLOGxJFDgqzbDuiW6QZStDhTIxSTMbvY2QkJQpNvRv96QT68DrSbNY0RYL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.infoiv"
+  },
+  {
+    "appname": "Cartoon Cat",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/gavLzLv55XMPAyFZO5FPYyaY_JKwuvcdk7W8Kb4Zq0MSjIN-dUrGruSr23GmSiee7mCynTZS3PCmCArwF7me0T8gzMf2IfsofAivDJahi0C2m1d_1g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.cartooncat"
+  },
+  {
+    "appname": "Minimal Analog Watch Face",
+    "appdev": "Messa Watch",
+    "appprice": "$1.62",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/F5IFFInbeYoHNq3dAaEkegmpOdjWy0u-vgQxNFUa1Y4qRFRIk3pYsUkiXYCP1H8ZZSfJLIMeHcWWB7ziJkobsmO12nCcRmGfxAjC4IdnfzXhAwbA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls75"
+  },
+  {
+    "appname": "Minimal Digital Watch Face LS",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bLvU8Z3sRYmjIgN6uS_5pXZGdPpr9LrnmslRBn1pAlCoter3XUn8YHnWCrZyoRZCaR_QW_Gu9c18jCcJ0grwM76_4LQ44lDESgvECDgEDGzWUew=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls82"
+  },
+  {
+    "appname": "Military Analog Watch Face LUX",
+    "appdev": "Messa Watch",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6UTZo9shfbjyo7YTNmVeMRNSCbAyqjYIyF66XlgkNKkpA9D5WV14Rp3X6z56OQcSMcpB6_T7SRIayLnPpudsgdUYql1p7jdcAm2tEKkx2UROGfvc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls96"
   }
 ]
