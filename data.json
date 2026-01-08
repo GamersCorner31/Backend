@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Zombie Age 2 Premium: Shooter",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
+  },
+  {
+    "appname": "Practical and Fast",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/22SVVW9iUsb6DlJD-48lsloIZshdE6IY9rVNcwEgDXtkaUrcyJ2Q_IKNDG3H5sGwC3fYb4xvypY4qMLpe6K0C23hyODTNDfkikyEaAzQPz1Drz_g1A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.practicalandfast"
+  },
+  {
+    "appname": "Stamp IV",
+    "appdev": "Iv Watchface",
+    "appprice": "$1.23",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9gsM3n3mdGh3qJG6Hm5Y6aLbH7HnTTKFzL7IEsdjb3PeTQzYY_NrCe1Uwh1CgxQ7Vb2fx9cDxT9cUoufcOCp69LOVPYVEiwR3dffQe4JHTjKyP0W=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stampiv"
+  },
+  {
     "appname": "Quick Volume Control",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -58,16 +88,6 @@
     "appurl": "https://lh3.googleusercontent.com/ckK6HhUS1RU4YFLoHBHVSEkZe4EbQt3UfpqCVc1bMeA5BATq3X_9yLFdXHS2mMaLDAe6AAEdMPmAac-lN2b4Po3ZpOUd4xrGikKjxl1EUInjWZc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelbigenergy"
-  },
-  {
-    "appname": "HMKWatch Digital 038",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ERtlD-SZ3-J1tTSf8NNBHzKt_pZ-3PXNiuLl6-pGrhxEJNINyys7xIF2M7Hwjr-zeUxBMmNkxNi9F_wLAJeyMZ8HAeQy3RqobT0aRDqPJoFucVd-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_038"
   },
   {
     "appname": "Articles Grammar Test PRO",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/8XKyyZSDDoXeYqHQGUubi-4PJJRWwFH5LozoPFZGt-Ap-vvzJ-aNofE7ApbALKOhX3wZPEm4FKT03egjUnyvSpIuXC0In6rpMVsGIXkrlvpW1YR83Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.az285valentineswatchface"
-  },
-  {
-    "appname": "Anime flowers",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xlTBwjeN-0uXJLvsyqcapFAYQQn-KID5OMwwhipD_EoN6Wp0079pB8o3OMt67hEmnWAXUpU56Z0SaSlmVpSWZPPTtJBQhSMsxP2UK7iny6K6SJs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.animeflowers"
-  },
-  {
-    "appname": "Minimal Watch Face Black",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5EUdZYcRZd3wK26zf1rPklRolkE_tvKuZjiUMAuLQm_p63DgnHlLztj5mfY-278UmIVD0CENmmxOQC4Pmj8ynetb9R-nQ-jOX3X-rmLH_4cWvCz4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls119"
   }
 ]
