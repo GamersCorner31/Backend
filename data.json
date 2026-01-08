@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Image Resizer",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
+  },
+  {
+    "appname": "Athlete 2: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/x4D4kJVG788UTTBnVbur_kRK8NKYThfMeK4ynSETcZ4iWpyoVw-M5T8RvInayF4Ep1zI0XOYiDa7liHJ5NLv0WgQ_5wnfD20E8Z6rXtXDR_ybRCH=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.athlete2"
+  },
+  {
     "appname": "Zombie Age 2 Premium: Shooter",
     "appdev": "DIVMOB",
     "appprice": "$0.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/3X9Ang-DibBJxx6I4pbWVJKguH5E9_YgB3O7clXZWFNUsTH3ZwZc_2bd3yqYRnASkuV8rs2O1Qgk-su-dvNuXVotzc6BvtUmHP5USblkjE_g4AzM9w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls120"
-  },
-  {
-    "appname": "Next Modern",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7R3Cudjn3-UHgH__slbGQYtIXoHX8dcNgoDij_4POzZfesKre-Ug6P-jpxqitlkWfFLc7VocJaTJyQxeGiuBVYf6gEQVJT_METm7MHVMaAgCwuf6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.nextmodern"
-  },
-  {
-    "appname": "AZ285 Valentine's Watch Face",
-    "appdev": "Alena Zakharova",
-    "appprice": "$0.81",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8XKyyZSDDoXeYqHQGUubi-4PJJRWwFH5LozoPFZGt-Ap-vvzJ-aNofE7ApbALKOhX3wZPEm4FKT03egjUnyvSpIuXC0In6rpMVsGIXkrlvpW1YR83Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.az285valentineswatchface"
   }
 ]
