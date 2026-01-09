@@ -1,5 +1,25 @@
 [
   {
+    "appname": "VPN Pro - Secure VPN Premium",
+    "appdev": "AZTTY LLC",
+    "appprice": "$4.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
+  },
+  {
+    "appname": "Fake call screen - Prank call",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
+  },
+  {
     "appname": "Image Resizer",
     "appdev": "SwiperyLab",
     "appprice": "$2.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/vE1GoCq1qBt626Q7HyjRf6ONxRpaz9FJDI-6kXj76X7DdH2gDnXA8ttjeP5BUlH0FHwbLw-vCvThzZzpYLmJ5tqpA7rmw8K6vyc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dental.designerart"
-  },
-  {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "Minimal Watch Face Moon Phase",
-    "appdev": "Messa Watch",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3X9Ang-DibBJxx6I4pbWVJKguH5E9_YgB3O7clXZWFNUsTH3ZwZc_2bd3yqYRnASkuV8rs2O1Qgk-su-dvNuXVotzc6BvtUmHP5USblkjE_g4AzM9w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.messa.ls120"
   }
 ]
