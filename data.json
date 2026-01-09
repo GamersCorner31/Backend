@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Dungeon Princess 3",
+    "appdev": "Ssicosm",
+    "appprice": "$0.49",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KSouO9U9mrxhdefKiKXMjuB_aCrEuUptq5D-OmFw1uqkkz-vIysSKLWc7xrYEriypsPUam5NkzZi-uzMUhzhUzNUPOh6geZcfmDCIJq9dKghgI3npg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_3_pay"
+  },
+  {
+    "appname": "HMKWatch Analog 131",
+    "appdev": "HMKWatch",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JAMFYzXtC_tZ49kl-7ENJYIqjIDvpvGZsCqaHOcwWFPHidtkZWxWjZxptqPCtMxn9jY3AtWN7NnPYCv3y3wzmv49Wf7YgNxAVcmloy_6kgDMSz74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_analog_131"
+  },
+  {
     "appname": "Infinity Tank Battle - 8 bit",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Q2titZxJB-EmNK2t1AOg98Y4GSB0ZxtD7Rn3kZ7PjrvPDvTQ9nXjZmHhBMFrUdo2cHcGr4UBwhionEewR8Oqf8j7dYEiZOgvqgYwxe80Tzh5mqw8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.grubel.elegant2"
-  },
-  {
-    "appname": "LEGO® DUPLO® DOCTOR",
-    "appdev": "StoryToys",
-    "appprice": "$7.02",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/SSuLR_JTs-vuZ5pdxhOiU7gBPZIqNqhDhV0oKnceEZgHDQCkAXRJs7bCR5ywIMfvRI6eqAKoSGT5TN_nctzZLk88tyrL0nkf0V7yayhoyBu5Bhh84w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.storytoys.lego.duplo.doctor.googleplay"
-  },
-  {
-    "appname": "Write on Pictures",
-    "appdev": "petraapps",
-    "appprice": "$3.88",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8f8X5CiA0M3Iky0q-aQ-POf5u-WysOrMgCKhOPNoL_RIdYJDCFcBuq8J7whQ0pabAboWLpZJ1sgrOTtjcpncoOLR0hpo3s7pPEFf4CBLiW7FHj0N=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.petraapps.writeonpicture"
   }
 ]
