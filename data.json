@@ -1,5 +1,35 @@
 [
   {
+    "appname": "바른 발음",
+    "appdev": "별책",
+    "appprice": "$1.86",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/e7h811C6cZdulkYPPeJ760oQO0OTYUbNAsqZydPj3b7F4aj7ioD9DruE1vfOn-FtWwnYBq4fnr656Ohbb6apkqYdRa0-kJqCVWpgaeiYB04AuK10=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.baleum"
+  },
+  {
+    "appname": "팝 일본어: 일본어 단어 공부",
+    "appdev": "별책",
+    "appprice": "$1.90",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nJwyQowYBzI2gMlQnlZvTRkVxDu4nESnSUkPz4qWf9BQov0_eYZfKzOMmVyx7A3PteCNEhbriPGoPGtbT_spvuryiUENwC9YH4QRt9276RVCPF0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.wordbook.jp"
+  },
+  {
+    "appname": "우리 속담",
+    "appdev": "별책",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nmEMmcVR25GX_CVS6e6TtjfmVWT4ZnAq74UOtJB0jjeV2fHAO1I_fXh4KYVvAYcIFPf8_II4WWfjft_ZKAbM37dzhMdb6nhHaCnkNxP2zdtq4tgx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.sokdam"
+  },
+  {
     "appname": "외래어 표기",
     "appdev": "별책",
     "appprice": "$1.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
-  },
-  {
-    "appname": "Classic Numbers",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/wIswqy-Di7iMFKBaSocCvUtWV4SmQGrdzW9l181gK6GZ_F8NR_ht-5ral71_feMQCFEPGkalNiWNQPZ2ZH3ONVwhLkWLndH87QANrh4SBcq3PU8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.classicnumbers"
-  },
-  {
-    "appname": "Digital Numbers",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7CxK8ww1iFxJkDfQfaO4QK1nzxPAiSc1tfTu4-FyLq0uiDGXD0YkgdLIaPXI3j3u-Ejx_nQwZ50bNAhBNY597ZDHhyBeU0aN1VqNdS2-H-lrLv-m=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dnumbers"
-  },
-  {
-    "appname": "Digital & Analog",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.22",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9o9BKtuu7ALQifUwaZPGzHlNvz86_U4cbC6Z6kgLqu50_WjeGOLBWVE6ZYpwWw7PqNzQQjGeAm0xa7Vu3h-NK1eb4F-YGA_Gvp2D6W2KP4Ni8Ak=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitan"
   }
 ]
