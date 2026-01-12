@@ -1,5 +1,75 @@
 [
   {
+    "appname": "사면초가",
+    "appdev": "별책",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/klGaYlEcBPq8D2ujM1PjyXqgGvX9Kzc6fOB4Ai95LimqaYNclypQrNIDymFIWZ-5nP-Mzv7aqxsW216rU3dAjp-edTFsDFkcGjMFzyVZKtOExSzS5w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.saja"
+  },
+  {
+    "appname": "Sarathi",
+    "appdev": "Serverless",
+    "appprice": "$5.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/AGCD34wAAB9fsP4XXNX2aSU41TrXKqq5z_OzD55Sw3R2_VwkmCIng_rWlKCdZfrrZfXYk-GKFHHgw98q0s_3VSdewRHh8IwZQg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=rohitggarg.com.sarathi"
+  },
+  {
+    "appname": "한글 달인 - 맞춤법 공부",
+    "appdev": "별책",
+    "appprice": "$2.99",
+    "apprating": "5.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/P-WDpHKshQfgp8kVA_WbvDBfVmvQbQVSaobVSlia9hp-dePYNdHqa4PZ2uPIeK_mtK5ogiRGSBLtJuOkcqYpjZ4Xnl4QzyYB5Lk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal"
+  },
+  {
+    "appname": "띄어쓰기",
+    "appdev": "별책",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nPcL7Oei9FVm-e7LfkAWoV-p_LX2RI2Le8TL3iNEMQ5LP27eh5TkStEhxnin267dXRtFWBRXREHIMj5BsKi2c6aZpUiHrgEQoxRZk6O4V762ipXVuQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.spacing"
+  },
+  {
+    "appname": "최고 어휘",
+    "appdev": "별책",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/3rg6z2CMcPoijNr3BrraoHoFuQl8asb8epCWG84Lxh-SGDByww8m4IqVcy9GNhy3y7V6gQfqyd2SDQtCBOn7jQQ5MHRD818aB0AMxTnXCeHh2b0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.voca"
+  },
+  {
+    "appname": "개념 한국사",
+    "appdev": "별책",
+    "appprice": "$3.06",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/E0Tfwe0foacTegR6EeV5svPKqusqGoFuUATobi3n9BI6RZfl4XW51ekFDKziv8NPImj9YbA2sYM5asesAW0nsfRyz27xe5zg3aMb=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.koreanhistory"
+  },
+  {
+    "appname": "우리 숙어",
+    "appdev": "별책",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/go6lGIT-cy3W-bHhXfpjxAJHzSePF1M7CaRRQFvL6H_WmuYHVHrc8fyyB5G9JgtDpqwuyqInuieep5u_Ql9tnZf4N42_1c9fh2E1uswqIFUjPpyk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.idiom"
+  },
+  {
     "appname": "바른 발음",
     "appdev": "별책",
     "appprice": "$1.86",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
-  },
-  {
-    "appname": "Fake call screen - Prank call",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
-  },
-  {
-    "appname": "Image Resizer",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
-  },
-  {
-    "appname": "Athlete 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/x4D4kJVG788UTTBnVbur_kRK8NKYThfMeK4ynSETcZ4iWpyoVw-M5T8RvInayF4Ep1zI0XOYiDa7liHJ5NLv0WgQ_5wnfD20E8Z6rXtXDR_ybRCH=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.athlete2"
-  },
-  {
-    "appname": "Zombie Age 2 Premium: Shooter",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
-  },
-  {
-    "appname": "Practical and Fast",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/22SVVW9iUsb6DlJD-48lsloIZshdE6IY9rVNcwEgDXtkaUrcyJ2Q_IKNDG3H5sGwC3fYb4xvypY4qMLpe6K0C23hyODTNDfkikyEaAzQPz1Drz_g1A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.practicalandfast"
-  },
-  {
-    "appname": "Stamp IV",
-    "appdev": "Iv Watchface",
-    "appprice": "$1.23",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9gsM3n3mdGh3qJG6Hm5Y6aLbH7HnTTKFzL7IEsdjb3PeTQzYY_NrCe1Uwh1CgxQ7Vb2fx9cDxT9cUoufcOCp69LOVPYVEiwR3dffQe4JHTjKyP0W=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.stampiv"
-  },
-  {
-    "appname": "Quick Volume Control",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
   }
 ]
