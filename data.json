@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Sudoku.org - LAN Battle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
+  },
+  {
     "appname": "Linios Purple - Icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/9leU7HHVFmG4RsfQrcWAuqy8oiRq_MnsRCH2FKreckBQ4h2z-NI82tR5pB1acuIndMI7IFptRL4dlQUXGxnfdfoCscKa326_JjgeXCNomMVKginD=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.match3d"
-  },
-  {
-    "appname": "Fortress2",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
   }
 ]
