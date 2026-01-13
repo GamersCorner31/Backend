@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Sky Wings VIP : Pixel Fighters",
+    "appdev": "SHMUP Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
+  },
+  {
     "appname": "QR Code Reader PRO",
     "appdev": "Apps360 Team",
     "appprice": "$5.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kClkraVFeda5XuhN3EqL-Zo2jtnGrpUnJOfxq4qI5sN7IKdd54X9ifQ12uMlfd4IJuS98i6O2GvxuARUI95ku5KpBhHXc9i_9ig=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.ramka"
-  },
-  {
-    "appname": "Black & White Puzzle Chess",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/2zfnl-8xNEG-vs2WGlPOx6xT1fy0znydD1OnH_c_K_NVzKU1nLhutRASYhCRQq2LC41gw_59w2DohnTyhOYgWuaW_krXkWOuEFU_0TlgahLfK8D_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blackwhitepuzzle.android"
   }
 ]
