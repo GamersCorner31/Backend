@@ -1,13 +1,83 @@
 [
   {
-    "appname": "HMKWatch Digital 257",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
+    "appname": "Brain Game - Find2Y",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.49",
     "apprating": "0.0",
     "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Ve7a5MqYkyofvqvaQjhI7OTZ7HwMbNmGoYjNFuTiISm6ZsQtgope7aGGR1jVZ38xLHDmX-GrQxKnbPBo1U5EiI9P8d37qjD6uo292azLq0cGnRuo=s200-rp-e7",
+    "appurl": "https://lh3.googleusercontent.com/eCPfdGpYyn9O6RBkDCbWPBwWejgh5TO5wYkgRJ4bbiL8O2e1_ktppvQuDjAOAtegdoiDVqKi5Or-bL14YyIRlBH5s7FoXvW0OlmVqUVO9Cnugn5Gmg=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_257"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find2y"
+  },
+  {
+    "appname": "Brain Game - Find5x",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Qw1Mmg3k0RJZEsLZrm6H1Cw9xDrqKJzlvPC_IUEOm51hAmTNOhdY4WoZdIrW1t7x2sIuGKSWRo2RcnfmYkg-alO4LTT3UC7SFrRr8iZcIjci6Jmgug=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x"
+  },
+  {
+    "appname": "Monster Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/yIbkilLL7eC7HE55-9IYzgBNqIuYwzpWeVz8VKLkJPqvZtpgt4BYp2C7QEw4tXklLcTAMpk06kSykMuHjysD_dhcwwgNZxBQyu1_hINhcHfNgPOFuQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.monstercash"
+  },
+  {
+    "appname": "Brain Game - Find5x 4P",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$1.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f9zt3XTpzJRqmcABLm_hHhPibB2M4BLg7XM6sgQBbHHXmbhhzofxcT2SQyQts6fsA1vvvnoi5rP-rVQe6cPIMV-s7Bo67IglYhJ0h7_W-XiTBwU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find5x4p"
+  },
+  {
+    "appname": "Boxing Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
+  },
+  {
+    "appname": "Cash Quiz - Animal Edition",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
+  },
+  {
+    "appname": "Golden Ball - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_utFUTuxrdIIL9rRNyKWlWXRS-jNWQdm1EFEQ7Ox0j7jp31nivYuzC8XJrmQeZFs09jq66hmLXXwwCiGBnsgihXc_gk2jGnZSueN6x55O9BnOc1xvA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball"
+  },
+  {
+    "appname": "25 Dollars Challenge",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/X4wcOXq0N5NozI_bMi5xlE2euHH3Jow2GvUnvtPlU2zzIbfNEqtfPZSjpleaEcHMYLf-uhUZDyxK7UMhGUNTnWyHwqeGlMRYmgUTg3fZBEYS5Ik=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.twentyfivedollarschallenge"
   },
   {
     "appname": "Iris Light Flat 3D Icon Pack",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/VBLcyX0pehCAA9T657iDw2KOHqFxjAL4Gp-5vlOD1eLMjkOQjCbvFWplJ52X65llBFH-bfRU57N-NpJspMrOFmBeJWcAbmlYC2HtCNn1Im9UjXN-qg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium"
-  },
-  {
-    "appname": "King of Defense Premium",
-    "appdev": "JoyUp",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/f1w9234A7IbkXzZsrbT5QBvDqTdRuqNo0qiCMIH7StQoUP92j-NrQYBywpOzUv1dwvWmD46BSybQDEyE-Aj0awwn8XGSbBNkIPPK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gcenter.kingofdefense.merge.tower.td"
-  },
-  {
-    "appname": "Defense legend 4 HD: Sci-fi TD",
-    "appdev": "JoyUp",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
-  },
-  {
-    "appname": "Dungeon Princess 3",
-    "appdev": "Ssicosm",
-    "appprice": "$0.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KSouO9U9mrxhdefKiKXMjuB_aCrEuUptq5D-OmFw1uqkkz-vIysSKLWc7xrYEriypsPUam5NkzZi-uzMUhzhUzNUPOh6geZcfmDCIJq9dKghgI3npg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_3_pay"
-  },
-  {
-    "appname": "Infinity Tank Battle - 8 bit",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rEeO8XcC5DYOOYDP-eb0N6SchEn1tcBk6UtWmdYms79z-m1cFyTP2tM_giKvYObr00qm4Ug_N6SDZ96I4xPJimWdpA9tSTXcgD17dWSgyer8ZWM8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankbattle2.r"
-  },
-  {
-    "appname": "You-R Circle Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
-  },
-  {
-    "appname": "FASTAR VIP - Rhythm Game",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
   }
 ]
