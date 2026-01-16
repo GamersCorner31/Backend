@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Pixel Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/w3hNfVUZzGrHUg51H5FQ7QDYyT3ytNqL0EqiJ7HD0ZqaiMd7DGa86iQp39M-aTtyseIYvLswHOHAKtpau-vTK_eM50QSEynkv53Ae9QCb-OgLVE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpixelface"
+  },
+  {
+    "appname": "Lines Silver - icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/BkVEjup9oOj6mDV1C-xFUtey69pyTzvLt18zYhKsLxJB5N1fBuNwtRYHc0Cd-G5N9rTXiHUsDI7I_2c2Q2BNl-3RBcx_y2rPW1dpu0vpQlK0-NbZKA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbsilver"
+  },
+  {
+    "appname": "Hexanet - Neon Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/SpBsvHruAavj1pFzFzdv_46Yctrk5f7QiIdPof6l2fyCHJoqxCnTdhuqGP6XjXKB42iD2_-lWxnqArgKSNrXvP43CiNhQ975fSv2aqowhF4dPi5C=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexanet"
+  },
+  {
+    "appname": "Hexanet White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/G5sffgDxmRgRtqzmNamFYJ_-OQFf6n5yFhCwdbM3HnfksM656Udy6eYZi4GkmtugheQG3MGgg7hEsSrRB3XG3jUURy0D5Ad2nL0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.hexanet"
+  },
+  {
+    "appname": "Hexa Crop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kjk51FeRS7GY25ENnC7eOOT3tn3g_krD_eNfDMyevGbZZv2b2tWqIUqK1WPWODLnmEQ0IdurIMF7cfwAVl-pbyHqvvi-rBHzIhQP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonh"
+  },
+  {
+    "appname": "Cytus II",
+    "appdev": "RAYARK",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/8wEV_JZ216fHe9n2bQutfOhGq-bm-rXkTs_0vrxmQyZX54oJmIwUXwt9upSDTsTcxG5RBNOhZlbxi-8__a0Isvvx3Lec04VeQD8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rayark.cytus2"
+  },
+  {
     "appname": "[365fun] Balance Game",
     "appdev": "wind",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/iWwoGg1LiZpy6iZUyuviCUvnmVEdJusya65s0l-VkRoEUzdydKNSvuNrAtN-cKK_fKAEPODdjkTRucMHwiZUQf66mVY5E_8hho8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock"
-  },
-  {
-    "appname": "Purple - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/HA_qlAgIoP3-D3Cu74egT3m-P5xlwwFcf708YF68mga4-NltT0Sno_p284RxRU32o5h6L1XtVcCs3GqWlMNbCf9cLL31GueK3p6yiFXsMdkwJ58C=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purple"
-  },
-  {
-    "appname": "Inab Purple - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/W44i3udiaLHpr3DF8DG057AbjHjVEp7KnwqZ7a1x6IUpipH2mU25AOkit54yCorRAUgs-yGQsU-fTyqZrDsdIrBYSPmyopkYqcX7EcSZz9bT2ZWMmA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack"
-  },
-  {
-    "appname": "사면초가",
-    "appdev": "별책",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/klGaYlEcBPq8D2ujM1PjyXqgGvX9Kzc6fOB4Ai95LimqaYNclypQrNIDymFIWZ-5nP-Mzv7aqxsW216rU3dAjp-edTFsDFkcGjMFzyVZKtOExSzS5w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.saja"
-  },
-  {
-    "appname": "Sarathi",
-    "appdev": "Serverless",
-    "appprice": "$5.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/AGCD34wAAB9fsP4XXNX2aSU41TrXKqq5z_OzD55Sw3R2_VwkmCIng_rWlKCdZfrrZfXYk-GKFHHgw98q0s_3VSdewRHh8IwZQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=rohitggarg.com.sarathi"
-  },
-  {
-    "appname": "한글 달인 - 맞춤법 공부",
-    "appdev": "별책",
-    "appprice": "$2.99",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P-WDpHKshQfgp8kVA_WbvDBfVmvQbQVSaobVSlia9hp-dePYNdHqa4PZ2uPIeK_mtK5ogiRGSBLtJuOkcqYpjZ4Xnl4QzyYB5Lk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal"
-  },
-  {
-    "appname": "띄어쓰기",
-    "appdev": "별책",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nPcL7Oei9FVm-e7LfkAWoV-p_LX2RI2Le8TL3iNEMQ5LP27eh5TkStEhxnin267dXRtFWBRXREHIMj5BsKi2c6aZpUiHrgEQoxRZk6O4V762ipXVuQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.spacing"
   }
 ]
