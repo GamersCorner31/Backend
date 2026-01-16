@@ -1,5 +1,115 @@
 [
   {
+    "appname": "[365fun] Balance Game",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/BORq8Z-iDlOVUb7BUt3JFaV-hN0k1Mi-gssPJUv_7BxzY0EuFulQZ6z9BPrEtLPI3CLL_uDCQ2r_99UOrkH8QETzNRU95icDs4utsYrhaMQOvXgE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
+  },
+  {
+    "appname": "[365fun] Scroll Match3",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
+  },
+  {
+    "appname": "[365fun] Swipe Break Out PvP P",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
+  },
+  {
+    "appname": "[365fun] Paint Monster",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
+  },
+  {
+    "appname": "[365fun] Apart2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LhvEHG3ebHeW-UXj8XLbUyI02G9cJdDtoBbPQzaZVLtsBswFRGFWwu3zcosLruovKgCjL0ni11us6xi-_n-9--PUa1qrdlZABaGXWJltmwq3P6O-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.apart2"
+  },
+  {
+    "appname": "[365fun] Jewel Match",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
+  },
+  {
+    "appname": "Find5x 4P",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5TL66m5x-6UhMoCP1KZR0mK01P-gxm1Ocaw3HNT60igZYX-JTyFYsB4Rhy-VEgGdO-SJe9DMfRRRUN-u_XkEza_tgonlivu_gQGUQEFaK0ZeGLI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x4p"
+  },
+  {
+    "appname": "Find12x 4P",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uHpPEVk6sgLLdGtJD51YOzf7Y044PuVK2Y25Xk9rEwyNMqNY5nuOC4k4GVOaqNScXak77nvow8-YXcAhA7uUi26ZDLPyqPnW5tAyfNVIrUkCHK43_Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find12x4p"
+  },
+  {
+    "appname": "[365fun] PipeMan",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5Cpr9PEeiPgQxNIyDuv5hh1tVVohSjdakHzAqDWFxZ8XTricBjHaII_8L0KkIJNsC7bmdSkcgepoU5IxmYxkEfPQ_M4wwGFOcSlkJJ0CaNuVGtY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.pipeman"
+  },
+  {
+    "appname": "Okey - Rummy",
+    "appdev": "İlhami Savaş OKUR",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/1NcFgMILyzWIdGI_VNHAcn13OqoqkSx_P8TO2wKvelRRXjVOq-Nh2fNsXd7g7joBBJYkLeZj7hv6s8rA4oDG7JeCzKUpnxWYY9RxtpbXTXqPo8LxDA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.boymate10.okeyrumi"
+  },
+  {
+    "appname": "AppLock PRO",
+    "appdev": "Apps360 Team",
+    "appprice": "$4.49",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5S1wQPsYWKXVXUUx-QwcYP_T8iK9HL6_CRJiKARCycPqewGqUOLQHTK4fLXGl8t6Yi1Lt5kA3CXtExq_RCSbxLHLrrea8_kYNgZXd9uhsf23E-1W=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.app.protector.locker.pro"
+  },
+  {
     "appname": "Words & Cards PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -288,115 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/nPcL7Oei9FVm-e7LfkAWoV-p_LX2RI2Le8TL3iNEMQ5LP27eh5TkStEhxnin267dXRtFWBRXREHIMj5BsKi2c6aZpUiHrgEQoxRZk6O4V762ipXVuQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.spacing"
-  },
-  {
-    "appname": "최고 어휘",
-    "appdev": "별책",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/3rg6z2CMcPoijNr3BrraoHoFuQl8asb8epCWG84Lxh-SGDByww8m4IqVcy9GNhy3y7V6gQfqyd2SDQtCBOn7jQQ5MHRD818aB0AMxTnXCeHh2b0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.voca"
-  },
-  {
-    "appname": "개념 한국사",
-    "appdev": "별책",
-    "appprice": "$3.06",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/E0Tfwe0foacTegR6EeV5svPKqusqGoFuUATobi3n9BI6RZfl4XW51ekFDKziv8NPImj9YbA2sYM5asesAW0nsfRyz27xe5zg3aMb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.koreanhistory"
-  },
-  {
-    "appname": "우리 숙어",
-    "appdev": "별책",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/go6lGIT-cy3W-bHhXfpjxAJHzSePF1M7CaRRQFvL6H_WmuYHVHrc8fyyB5G9JgtDpqwuyqInuieep5u_Ql9tnZf4N42_1c9fh2E1uswqIFUjPpyk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.idiom"
-  },
-  {
-    "appname": "바른 발음",
-    "appdev": "별책",
-    "appprice": "$1.86",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/e7h811C6cZdulkYPPeJ760oQO0OTYUbNAsqZydPj3b7F4aj7ioD9DruE1vfOn-FtWwnYBq4fnr656Ohbb6apkqYdRa0-kJqCVWpgaeiYB04AuK10=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.baleum"
-  },
-  {
-    "appname": "팝 일본어: 일본어 단어 공부",
-    "appdev": "별책",
-    "appprice": "$1.90",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nJwyQowYBzI2gMlQnlZvTRkVxDu4nESnSUkPz4qWf9BQov0_eYZfKzOMmVyx7A3PteCNEhbriPGoPGtbT_spvuryiUENwC9YH4QRt9276RVCPF0i=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.wordbook.jp"
-  },
-  {
-    "appname": "우리 속담",
-    "appdev": "별책",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nmEMmcVR25GX_CVS6e6TtjfmVWT4ZnAq74UOtJB0jjeV2fHAO1I_fXh4KYVvAYcIFPf8_II4WWfjft_ZKAbM37dzhMdb6nhHaCnkNxP2zdtq4tgx=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.sokdam"
-  },
-  {
-    "appname": "외래어 표기",
-    "appdev": "별책",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7T-wCEMNCpTCq6Os_8PiiiQJDBXCKmYHDyhBvvPPyWK9KJEBNc34ggFHt8oDPZTCz2rPapwA8IPsRKxIISMsL-SwjvvKxkgCFZGQSLkkr2a0nCZpVw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elsebook.handal.loanword"
-  },
-  {
-    "appname": "Clear Wave - Water Eject Pro",
-    "appdev": "Appchi",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
-  },
-  {
-    "appname": "SPL - Smarter Player Pro",
-    "appdev": "BRILIC MEDIA",
-    "appprice": "$4.99",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LZvVgEerPuSHlVCZ2pRkDLwuAPA1SoLgtCNIC1HVagbKAo35PHmd3lEqi5ozmH4xFXEOxAOOLi328Cst7yi2f-9wpIVgOaOBhiCPDXIGO_qvSrI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=extreme.player.iptv.smart.xciptv.xtream.m3u.live.tv.channels.app"
-  },
-  {
-    "appname": "Stickman Legends Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Grow Spaceship VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
   }
 ]
