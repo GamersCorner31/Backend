@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Crazy Owls Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/XymoxXF71vEpYzRkllnxgT6dslZVgqhu_P2iLpZsYfgkdTW0trKHv0Hbw1-mknK377niilgDJOII0F616XqG_uyEQERtx4F83Nw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyOwlsPremium"
+  },
+  {
+    "appname": "Christmas Puzzle Premium",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/pl4RXR57cbWiQqgyqOakpFLnBMHmeKyBSodIiHInLRBnEn82HJWrvrzRkcHXaVMFEbI4b1eoCG-JVzBu4Nt_Teo3faPYVSjoHtDG7KOW_SVD6BQpRw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.ChristmasPuzzlePremium"
+  },
+  {
+    "appname": "Crazy Halloween Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/w_Hx2EpAbwuCOqlNE8ibkwu1uLmYJk6o8gYp7_MTZlhIPOGOukEIkv9ginmZ7WVMPpCPW79Z1YU9-aK5IwsxIUdhpfWaIWANhO60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyHalloweenPuzzle"
+  },
+  {
     "appname": "Pixel Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
-  },
-  {
-    "appname": "Linios Purple - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/UpQsQozZkSJZZNkWsw5VXyMFbSPtrfyQ9S9fDJynh6scsHxl_QWEGpXEAcdXS7dx2F5lt7u1O09HJ58n0t32xgcA3tc-LQaGGgZZbC82Vl5c3pE0wg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lnopurple"
-  },
-  {
-    "appname": "CircleDock 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ZJp9KGKYENvrXqVsl3smJUm6cXT_Xe2qA5r6JDj36fQCnAFPgX3O93xvoC4euR7K3_irHQXdb9UKV2ol534t_MHfzUmesSa2vw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle"
-  },
-  {
-    "appname": "Dock 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/iWwoGg1LiZpy6iZUyuviCUvnmVEdJusya65s0l-VkRoEUzdydKNSvuNrAtN-cKK_fKAEPODdjkTRucMHwiZUQf66mVY5E_8hho8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock"
   }
 ]
