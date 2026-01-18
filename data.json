@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Brain teaser puzzles",
+    "appdev": "ExoPlay Interactive",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
+  },
+  {
+    "appname": "Jewels Charm: Match 3 Game Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
+  },
+  {
     "appname": "Gallery Slideshow",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -220,46 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.app.protector.locker.pro"
   },
   {
-    "appname": "Words & Cards PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
-  },
-  {
-    "appname": "Irregular Verbs Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Zyui41frH9TMjEbLyrjlhZwIEzg8Y-LkVRV6HGiTByVspDcW-Hcb0fGbbuAJLvoNy7TivvyqKq1BglH2IQglnVxoscvVmxP4xw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.irregularverbs"
-  },
-  {
-    "appname": "Black Face Watch Face",
-    "appdev": "ZN Watch Faces",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TI6TCrSUDbhELf1XGU-nIbFME4u3T0Fb3mOaSGfJ7nrSad599Uye1U1oZ4_6pteVOZ49__Onf0mK5ukxgzVAv9PE5ouSTE6tIrffHdJ2TcqxOoNEjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.znwatchfaces.blackfacewatchface"
-  },
-  {
-    "appname": "Find Those Words PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
-  },
-  {
     "appname": "Brain Game - Find2Y",
     "appdev": "İlhami Savaş OKUR",
     "appprice": "$0.49",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
+  },
+  {
+    "appname": "Hive Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/93P8Rj2deAIbvicLs5hHClNqPCrKg0Zr4chXIHnYFwQnfCsPbxUHvpKo1gU5NaLTa5QKAWkxR839cJRTC_EghqMSv2b_t1C3CtexxIlghNrqLGw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.hive"
+  },
+  {
+    "appname": "Sudoku.org - LAN Battle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
   }
 ]
