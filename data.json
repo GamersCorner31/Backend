@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Lines Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YhUC_5YVGQeqNB9_F30nGlOsFeFBlTirSsL3gw-PRWMxpLGcWWzCFAQctx93SCDgiHHtmp7_mPH2sCLG8BMWG7ABHUGt2gIGWMJv218r32eG8nmy=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awflines"
+  },
+  {
+    "appname": "ToscaLine - Turqoise Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
+  },
+  {
+    "appname": "Pinkdiant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
+  },
+  {
+    "appname": "Garis Light - Lines Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8gH1t8IMgLnLr7FvVa_IrSXR0571lZtr4bDJGGx2os2Bqo1-GTlOVZE1qM8Rj-qMJ5bzbn5BGX276Z0qouk5XWMl1aXMS8a0vsMd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl"
+  },
+  {
+    "appname": "Spelling Test & Practice PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
+  },
+  {
     "appname": "Athlete 1 Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Qw1Mmg3k0RJZEsLZrm6H1Cw9xDrqKJzlvPC_IUEOm51hAmTNOhdY4WoZdIrW1t7x2sIuGKSWRo2RcnfmYkg-alO4LTT3UC7SFrRr8iZcIjci6Jmgug=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x"
-  },
-  {
-    "appname": "Monster Cash - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/yIbkilLL7eC7HE55-9IYzgBNqIuYwzpWeVz8VKLkJPqvZtpgt4BYp2C7QEw4tXklLcTAMpk06kSykMuHjysD_dhcwwgNZxBQyu1_hINhcHfNgPOFuQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.monstercash"
-  },
-  {
-    "appname": "Brain Game - Find5x 4P",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f9zt3XTpzJRqmcABLm_hHhPibB2M4BLg7XM6sgQBbHHXmbhhzofxcT2SQyQts6fsA1vvvnoi5rP-rVQe6cPIMV-s7Bo67IglYhJ0h7_W-XiTBwU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find5x4p"
-  },
-  {
-    "appname": "Boxing Cash - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
-  },
-  {
-    "appname": "Cash Quiz - Animal Edition",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
-  },
-  {
-    "appname": "Golden Ball - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_utFUTuxrdIIL9rRNyKWlWXRS-jNWQdm1EFEQ7Ox0j7jp31nivYuzC8XJrmQeZFs09jq66hmLXXwwCiGBnsgihXc_gk2jGnZSueN6x55O9BnOc1xvA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball"
   }
 ]
