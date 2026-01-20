@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Countdown Widget - Time Until",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f7THBYBR_IY8Ye7lCJ3qQmYcw7a9pyONUm9KbJVdwRNMn2DQn2CQgMvGbPebdbsrUB7wI8W8UbSJLZt8E1rSOrPxfn5qLWF65jSLQREpYVVE7m4f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.countdownwidgetpro"
+  },
+  {
+    "appname": "Spotlight Linking",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YTcti3IKYkU9lTcDowi1LNYi_TSHy0ZdBdtWiIhsj4KpH015f_mAQ8wf46uosypnvET4yBcC3cpNmK_NMZk3juWzlfDyNdjE_ne4uu1IGIdxexQ8hw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.twodotslinking.r"
+  },
+  {
+    "appname": "Aeroplane Chess 3D - Ludo Game",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GVboJHo_RdVp1KGMWnAjLfiVYbaYt5D_LUO7AYF6COJu40QeiBNg9dtnQm7_j-wg87uaBN9ZLuXtGiDhlBfxnqmzwp_eeJx3LsuCDZmMbJw8oN20=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.aeroplane.chess.r"
+  },
+  {
+    "appname": "Tank Mini War",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/c-cNt0wyaPipIrMqFNYgCSGfvpG4dhQ0d6Rx4Vq4f--AdDpwRxhmbNnLZ8hTGrBxbxO9aHmexCGMTdLohIP4KH5gWivxduAFLuFzsU0dxRAnZjZIOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankwar.free.r"
+  },
+  {
+    "appname": "Resize Image - Resize Photos",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/MVSiBcreCcy8wYMC2ZJ7OPini8A98CREA-BGoyEzW5vk0eZHceNho3nkJ7HPebStguNbjuqY9Zrefi-nZFHvYiQb0yTHJ9PSXGryygzXBTnx-W4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.imageresizer"
+  },
+  {
+    "appname": "Watermark - Add Watermark",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Uv8NMU9ICbvBMMq5LrPPc6K9b5dj8TqkpI-JCycFNZmBhD8m8a1Jdd9f5ujwajMSpjjU3UltSDqZaxdbkCdUAmwEZobJF0c-Pg9KK6DaHW_9_I4Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.watermarkonimage"
+  },
+  {
     "appname": "Lines Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/5TL66m5x-6UhMoCP1KZR0mK01P-gxm1Ocaw3HNT60igZYX-JTyFYsB4Rhy-VEgGdO-SJe9DMfRRRUN-u_XkEza_tgonlivu_gQGUQEFaK0ZeGLI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x4p"
-  },
-  {
-    "appname": "Find12x 4P",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uHpPEVk6sgLLdGtJD51YOzf7Y044PuVK2Y25Xk9rEwyNMqNY5nuOC4k4GVOaqNScXak77nvow8-YXcAhA7uUi26ZDLPyqPnW5tAyfNVIrUkCHK43_Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find12x4p"
-  },
-  {
-    "appname": "[365fun] PipeMan",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5Cpr9PEeiPgQxNIyDuv5hh1tVVohSjdakHzAqDWFxZ8XTricBjHaII_8L0KkIJNsC7bmdSkcgepoU5IxmYxkEfPQ_M4wwGFOcSlkJJ0CaNuVGtY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.pipeman"
-  },
-  {
-    "appname": "Okey - Rummy",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1NcFgMILyzWIdGI_VNHAcn13OqoqkSx_P8TO2wKvelRRXjVOq-Nh2fNsXd7g7joBBJYkLeZj7hv6s8rA4oDG7JeCzKUpnxWYY9RxtpbXTXqPo8LxDA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.boymate10.okeyrumi"
-  },
-  {
-    "appname": "AppLock PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$4.49",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5S1wQPsYWKXVXUUx-QwcYP_T8iK9HL6_CRJiKARCycPqewGqUOLQHTK4fLXGl8t6Yi1Lt5kA3CXtExq_RCSbxLHLrrea8_kYNgZXd9uhsf23E-1W=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.app.protector.locker.pro"
-  },
-  {
-    "appname": "Brain Game - Find2Y",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eCPfdGpYyn9O6RBkDCbWPBwWejgh5TO5wYkgRJ4bbiL8O2e1_ktppvQuDjAOAtegdoiDVqKi5Or-bL14YyIRlBH5s7FoXvW0OlmVqUVO9Cnugn5Gmg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.boymate10.find2y"
-  },
-  {
-    "appname": "Brain Game - Find5x",
-    "appdev": "İlhami Savaş OKUR",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Qw1Mmg3k0RJZEsLZrm6H1Cw9xDrqKJzlvPC_IUEOm51hAmTNOhdY4WoZdIrW1t7x2sIuGKSWRo2RcnfmYkg-alO4LTT3UC7SFrRr8iZcIjci6Jmgug=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x"
   }
 ]
