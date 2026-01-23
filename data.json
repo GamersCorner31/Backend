@@ -1,5 +1,65 @@
 [
   {
+    "appname": "[365fun] Matching Game2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
+  },
+  {
+    "appname": "[365fun] Running Man",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
+  },
+  {
+    "appname": "Word Tower - Premium Puzzle",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
+  },
+  {
+    "appname": "Word Search Game: Offline",
+    "appdev": "otto games",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ovvv8VSTWDtScLnG5jmm94eWWMHsp9V1b00x0gSx373F0Be0jL0C-7HCXjsvz0MyfI6wC4_FmPuP688ZbaAO0KZiTBBpa3KZJZdr6GL9-j-UUlpmng=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordscapesWordSearchGame"
+  },
+  {
+    "appname": "Full Battery Alarm",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
+  },
+  {
+    "appname": "Shortcuts widget - Apps Folder",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/NXb0l301epohW5-Q83bosABWGssJGNHNs2aa1kvq9mLzdGgvo040TeGeH_dzzgQlYTTdBgAdebD3iiPyc46GOdSPbcvO3hC-AXc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.shortcutswidget"
+  },
+  {
     "appname": "DJ Music mixer - DJ Mix Studio",
     "appdev": "KX Camera Team",
     "appprice": "$12.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Uv8NMU9ICbvBMMq5LrPPc6K9b5dj8TqkpI-JCycFNZmBhD8m8a1Jdd9f5ujwajMSpjjU3UltSDqZaxdbkCdUAmwEZobJF0c-Pg9KK6DaHW_9_I4Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.watermarkonimage"
-  },
-  {
-    "appname": "Lines Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YhUC_5YVGQeqNB9_F30nGlOsFeFBlTirSsL3gw-PRWMxpLGcWWzCFAQctx93SCDgiHHtmp7_mPH2sCLG8BMWG7ABHUGt2gIGWMJv218r32eG8nmy=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awflines"
-  },
-  {
-    "appname": "ToscaLine - Turqoise Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
-  },
-  {
-    "appname": "Pinkdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
-  },
-  {
-    "appname": "Garis Light - Lines Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8gH1t8IMgLnLr7FvVa_IrSXR0571lZtr4bDJGGx2os2Bqo1-GTlOVZE1qM8Rj-qMJ5bzbn5BGX276Z0qouk5XWMl1aXMS8a0vsMd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl"
-  },
-  {
-    "appname": "Athlete 1 Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CnHofvsEQXkGyWNt72PP7l6dp2EMXBVohO9pbEkL3u1lRk1KMXcQkKJkIYAEStcR5p_ndkWBfyshh_5cmSVVafewI2Pd5VuA4Xy9L5EaOeArQH3E=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.athlete1"
-  },
-  {
-    "appname": "Chinese Checkers Master",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JJ6d7fdFoXN6KTiry81AD4cpILmQoblXxgZ3Fulnk5HJytYRo1RxiPdxfCCLX-5v434qmdtO_19zjciX9Q7CHpPlf59jxwdJ4ruQi7JZM-PQt7nX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.chinese.checkers.r"
   }
 ]
