@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Mini Crossword - Word Fun!",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
+  },
+  {
+    "appname": "Video Cutter Pro",
+    "appdev": "HARDCODED JOY S.R.L.",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/GGRG8yDsIgpZ9EHUiiw0kSljmiI7_H48M03JjyZCdq2gzanVrHwcbhfZ_ya6rfzt-4pTC56dEUkTPPcU8k1bdb4_hz7Hjel6Mx1Q574qVm-mrlk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.videocutterpro"
+  },
+  {
+    "appname": "Resume Builder - CV Maker",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ugjPrvdyLlU5U0VgcdhUaDEUbUHkXi98n_OJMZucz34ubkSQK8hUXJ0IFRW9lVLAllqS8l-AZug8iaeBtneeKR3MPcuZR7mQb2N_dH9GDTpdCno=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.resumebuilder"
+  },
+  {
+    "appname": "A Normal Lost Phone",
+    "appdev": "Plug In Digital",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/jdFMnDK_mVHd9qNRd1D1lIp-BrKexqV_UvqeRa1hQ32GxAIMSEQqR3dyu_fo0gt7hcqAs0ORePb57wtu7ZNToeLhkKpw-wZan4U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.accidentalqueens.anormallostphone"
+  },
+  {
+    "appname": "Another Lost Phone: Laura's St",
+    "appdev": "Plug In Digital",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ZUpJua04peoZb8POUbJKEf5rVKMg8uSjfGAZXm-Zgpd-Livf9IUkIWHipXBUsLuLsfiLzUZgZ9SQwi23W3h6vEj7AdAtoH1LGg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.accidentalqueens.anotherlostphone"
+  },
+  {
+    "appname": "Spooky: Halloween Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QTf0pWD-65gtyqU0aKnCsy43ksp-fmxNJODGLcHjUX1Sm5r8JaggCtgCxbjiIbhwD3BrilFjryAOZxcA8tzJK4YM355ACd4lc1Q6NHB7afyp5g2e=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.spooky"
+  },
+  {
     "appname": "Reminder Pro",
     "appdev": "made easy",
     "appprice": "$3.75",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/qqSNfKDsYyQsBvxUwC0O60SD0F4cccZZWn82gilvVaiUbjo3bTBTZbY_w-pMpNxjVThO3UxSF8hBmSKVCu_zAqUMtDcj8GNvUg5DMr-5sPbIpNGD=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder"
-  },
-  {
-    "appname": "Business Card Maker: Logo Card",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
-  },
-  {
-    "appname": "Live or Die 1: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
-  },
-  {
-    "appname": "EHW Premium & stick fight",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Dotted Lines - Snake",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
-  },
-  {
-    "appname": "TD Neon Shoot - Zumba Mayan",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/l-_NgmdNFnyh69qYAhTekJKVt_woV9LckUH-psfLDip5kDiTjOsW61rVg6NGui8UhyVvTNQNzTLwIr-WM6lx3_mF-KQjlrJRGUbrIApIRhhDbd2zGA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tdneonshoot.r"
-  },
-  {
-    "appname": "yourSudoku - Over 10000 Sudoku",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
   }
 ]
