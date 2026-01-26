@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Effesteria Nombo Card",
+    "appdev": "Effesteria",
+    "appprice": "$0.60",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
+  },
+  {
     "appname": "Image crop & resize - imaCrop",
     "appdev": "HARDCODED JOY S.R.L.",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/FA0lZ7XyUMuCRNfDVSp--euzsQp0kOVcUAouQzExq0I9aJJReB8teEde1bNrX5Mv02NJdjzytzrar4bs6Hjb4Hqm-jOKBlusICGLigibqoJryBM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pradox115"
-  },
-  {
-    "appname": "Black Minimal Watch Face",
-    "appdev": "ZN Watch Faces",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/pfXpUlFQkzP5NJqzGzCRNBBktU_5xSt2ErA8UuI2zRSo_Vj3LRIFOm-fAyTgnnaPIzNa9dTRR9jTHtqUW2k-WbpGdcZdLw2bKNAfHv-MmcuvXYN1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.znwatchfaces.blackminimalwatchface"
   }
 ]
