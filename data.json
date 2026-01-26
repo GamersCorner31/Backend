@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Image crop & resize - imaCrop",
+    "appdev": "HARDCODED JOY S.R.L.",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QMH_Et3lKmsBWhYrVzqC_ySiP15_CBtiYMZci_4FRgIPWv1-qnKfqOG89o4i5cia0Pd3GD6tNdlKXbgZEmSMJzr9p4wy-ybOuUo3n02v4lFQm6sg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.imacrop"
+  },
+  {
+    "appname": "Star - Yellow Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ihFqVZwAPbksaG4f0WW8K8SDI5LBa8nMibr8DZJjB-k03XyLnwGjXfrCrK07iiVKemXzE3Lo3fzLTI2eqjzzVKuIR3V1m4FjoVhsxMpBLwBhzHcaDQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
+  },
+  {
+    "appname": "BlossomLine - Pink Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L_yb5PGMAEgY1WDMgVH9feqGOGfTCLlF_1OnP-dFneJ8Dp8XtBgqg96B4R19wndfDbtIsSYXx03gyzre0qdkVAMNT5gPhXqb6rf0OAMCXq3kXZf_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpink"
+  },
+  {
+    "appname": "Yellowdiant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
+  },
+  {
+    "appname": "Last Survivor: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
+  },
+  {
+    "appname": "Stitch Photos: Long Screenshot",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Nw2ws6w0YR9-vq3pnfqgE8NDAjmkPIp2xx8GnLhsR719uyHawJWYwiZuC8tQyzCM-sk4uiJDDQhP8fzaItu41avMSVGJS0SUGX-X6tCRQfxJixIh2A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.stitchphotos"
+  },
+  {
     "appname": "Chain the Color Block",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/pfXpUlFQkzP5NJqzGzCRNBBktU_5xSt2ErA8UuI2zRSo_Vj3LRIFOm-fAyTgnnaPIzNa9dTRR9jTHtqUW2k-WbpGdcZdLw2bKNAfHv-MmcuvXYN1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.znwatchfaces.blackminimalwatchface"
-  },
-  {
-    "appname": "Spirits Gate Ghost Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqSNfKDsYyQsBvxUwC0O60SD0F4cccZZWn82gilvVaiUbjo3bTBTZbY_w-pMpNxjVThO3UxSF8hBmSKVCu_zAqUMtDcj8GNvUg5DMr-5sPbIpNGD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder"
-  },
-  {
-    "appname": "Business Card Maker: Logo Card",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
-  },
-  {
-    "appname": "Live or Die 1: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
-  },
-  {
-    "appname": "EHW Premium & stick fight",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Dotted Lines - Snake",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
-  },
-  {
-    "appname": "TD Neon Shoot - Zumba Mayan",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/l-_NgmdNFnyh69qYAhTekJKVt_woV9LckUH-psfLDip5kDiTjOsW61rVg6NGui8UhyVvTNQNzTLwIr-WM6lx3_mF-KQjlrJRGUbrIApIRhhDbd2zGA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tdneonshoot.r"
   }
 ]
