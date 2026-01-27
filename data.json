@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Click Planet - Spacecraft",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tNZBUeeY-rPqos7zFLsVuww0ZWDRJyKrOnPJHqSv0wOPdjR4rObaKRcByYgiK69iwTgLcTDbSj2iYstJ_Exp92eDBFJ3mXaPZiH55qW6iOFsXFN8_g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.clickplanet.r"
+  },
+  {
+    "appname": "Black Night Watch Face",
+    "appdev": "ZN Watch Faces",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/z3eBnas0uw3as4d2az8_OgLflXXYXxfuTmlODiMkSfI02l8jvIDjoPfJK7VULgIuTgnM9e-AZ8Dv6PwxiqBT_OcWtmOp1OLYPSJLrEAMJU3yK7l0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.znwatchfaces.blacknightwatchface"
+  },
+  {
     "appname": "Effesteria Nombo Card",
     "appdev": "Effesteria",
     "appprice": "$0.60",
@@ -8,16 +28,6 @@
     "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
-  },
-  {
-    "appname": "Image crop & resize - imaCrop",
-    "appdev": "HARDCODED JOY S.R.L.",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/QMH_Et3lKmsBWhYrVzqC_ySiP15_CBtiYMZci_4FRgIPWv1-qnKfqOG89o4i5cia0Pd3GD6tNdlKXbgZEmSMJzr9p4wy-ybOuUo3n02v4lFQm6sg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.imacrop"
   },
   {
     "appname": "Star - Yellow Icon Pack",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "PRADO X115 Digital Watch Face",
-    "appdev": "PRADO DESIGN ® Watch Faces",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FA0lZ7XyUMuCRNfDVSp--euzsQp0kOVcUAouQzExq0I9aJJReB8teEde1bNrX5Mv02NJdjzytzrar4bs6Hjb4Hqm-jOKBlusICGLigibqoJryBM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pradox115"
   }
 ]
