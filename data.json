@@ -250,16 +250,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
   },
   {
-    "appname": "Word Cross Puzzle - Word Games",
-    "appdev": "Premium Quality Apps",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/G4bNiiwG515P_eWHUTdCS6vFZdZIGzrkizuwdMKG6uWaz8IbaQFljh-0w8gp-3Y2zMgO-hTCLaFB8Ofu4Dn8zNXy3GDtldcT_0vkPF-rlDQDD4bJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.geosoftech.wordcross"
-  },
-  {
     "appname": "Grow Zombie VIP : Merge Zombie",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
+  },
+  {
+    "appname": "[365fun] Running Man",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
   }
 ]
