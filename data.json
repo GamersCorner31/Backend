@@ -1,13 +1,13 @@
 [
   {
-    "appname": "Stickman Warriors Dragon Hero",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
+    "appname": "Amerta",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/yIF8_ouxeRKZwbuxaD45OoQOctSBFwhfU5LEUipMc6VdeD_kkSuOfe6RDajgU1rR82PewxE5e9sthinwUsLbeVuptNsckp0JrsAB9vbq4pVSb2Ci=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.amerta"
   },
   {
     "appname": "Synonyms PRO",
@@ -28,16 +28,6 @@
     "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
-  },
-  {
-    "appname": "Stick Warrior SuperHero Dragon",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
   },
   {
     "appname": "Bonbon: Candy Match 3 Pro",
@@ -188,16 +178,6 @@
     "appurl": "https://lh3.googleusercontent.com/z3eBnas0uw3as4d2az8_OgLflXXYXxfuTmlODiMkSfI02l8jvIDjoPfJK7VULgIuTgnM9e-AZ8Dv6PwxiqBT_OcWtmOp1OLYPSJLrEAMJU3yK7l0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.znwatchfaces.blacknightwatchface"
-  },
-  {
-    "appname": "Effesteria Nombo Card",
-    "appdev": "Effesteria",
-    "appprice": "$0.60",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
   },
   {
     "appname": "Star - Yellow Icon Pack",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/fvzUFpeB5Sc7yHve3NxWTEMBJfNa8zS9iv2svuEWGiHkkotnvfu1fFduGLukAIy5wI4FVJSuUmSVpv60qu6FkF-tuK1POk81gx-x=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bigshotgames.hero_managervip"
+  },
+  {
+    "appname": "Squid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
+  },
+  {
+    "appname": "Rediant - icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/aAdtnE9RX5GH5RVl2MW6O6caDGj79qgUQDPw9Yd4n8pdcUApvT8N6qAuFR3hAHz3r6PfSIppy2JXZiXTgN-JVtj8TEcxPuszFkp6RWvOcHh1VO2i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdred"
   }
 ]
