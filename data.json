@@ -210,16 +210,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.clickplanet.r"
   },
   {
-    "appname": "Black Night Watch Face",
-    "appdev": "ZN Watch Faces",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/z3eBnas0uw3as4d2az8_OgLflXXYXxfuTmlODiMkSfI02l8jvIDjoPfJK7VULgIuTgnM9e-AZ8Dv6PwxiqBT_OcWtmOp1OLYPSJLrEAMJU3yK7l0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.znwatchfaces.blacknightwatchface"
-  },
-  {
     "appname": "Star - Yellow Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/oPfATkQYz4PByTNu8fgLr89lghM1eqOVgfEt6P2yJcn4jpl5zmkDo4ZDx7Xm-HDFvANc86-BJVgHTztr6DyRqO4ICW6gE_p1fME=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.webshortcutmaker"
+  },
+  {
+    "appname": "Yaktin Orange - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GstCOr0_95J670R0mppkNxll2oMt3Pjeh0UhvK7XD4pDj0CAQVKLnRcmXEw9WR71LrJXQFaYwYOv28vduskcxA1hh_oI5QWpQCAWHjGZ_Ufd04Pt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack"
   }
 ]
