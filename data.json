@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Photos Charging Slideshow",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
+  },
+  {
+    "appname": "Survival Island: Evolve Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
+  },
+  {
+    "appname": "Conversations (Jabber / XMPP)",
+    "appdev": "Daniel Gultsch",
+    "appprice": "$3.49",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Auc8uO5A7i_Sy8hQq1aq6E6sROy8U5ynWpPYW1ZS_0Wm56DKRyiGsTumbg2_43jRoRfuc3JpHbkIVRmRiwDwlAP46LRHtPPpEAw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=eu.siacs.conversations"
+  },
+  {
+    "appname": "Pixel Blade M VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
+  },
+  {
+    "appname": "Word Connect: Crossword",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/l4L9HFfosFDBsIqrtMoh9fH9yCLsnH4NoXgeqAzKiFdDbE8A2t2PGz2EyICDKcy_dNAtS3R1BRBuDuXW1A0cQMtoJZ7w_mb_ozEAHebU_gw8-bc3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crossword.brain.wordgame.puzzle.board.en"
+  },
+  {
     "appname": "Words Search - Premium",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$1.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "Cerita Kelasku",
-    "appdev": "Nite Dreamworks",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/kVncmSk2wtebl32k_tW2yJC_v7U-ULVd2r-88eMStTMTQX8cFF6joix4bogeLgpKP6WoJDqgFWdC4agxIFxIykN7EVrmh6CwTPbZA5SXJ3hw2Z2rhQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=io.dreamworks.ceritakelasku"
-  },
-  {
-    "appname": "Click Planet - Spacecraft",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/tNZBUeeY-rPqos7zFLsVuww0ZWDRJyKrOnPJHqSv0wOPdjR4rObaKRcByYgiK69iwTgLcTDbSj2iYstJ_Exp92eDBFJ3mXaPZiH55qW6iOFsXFN8_g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.clickplanet.r"
-  },
-  {
-    "appname": "Star - Yellow Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ihFqVZwAPbksaG4f0WW8K8SDI5LBa8nMibr8DZJjB-k03XyLnwGjXfrCrK07iiVKemXzE3Lo3fzLTI2eqjzzVKuIR3V1m4FjoVhsxMpBLwBhzHcaDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
-  },
-  {
-    "appname": "BlossomLine - Pink Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/L_yb5PGMAEgY1WDMgVH9feqGOGfTCLlF_1OnP-dFneJ8Dp8XtBgqg96B4R19wndfDbtIsSYXx03gyzre0qdkVAMNT5gPhXqb6rf0OAMCXq3kXZf_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpink"
-  },
-  {
-    "appname": "Yellowdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
   }
 ]
