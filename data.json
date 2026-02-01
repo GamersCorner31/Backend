@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Real Car Parking Simulator",
+    "appdev": "FortStar",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GdDCptf5F0KMF03EAPfD59S4QHvQomi4c5CgKWxqZI3Uiho2AlHJBNOkfNINrZYRCUCyEy1g_IQDzDw8S58-gFDOlpce_js5SnLKns7qtz_o2xAU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.FortStar.RealCarParkingSimulator"
+  },
+  {
+    "appname": "Celestial Glow Pro",
+    "appdev": "Pikootell",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xsQv92bqHfwr9oeXWDClzFKIEKAQWrLSJshk1MmRLAW0TmZPTBIljnDnKH8jV5KLupV4OsPvWUfdaXxFGtBGZLw7_sfqg-nt4okrJ8gZzVvx0q6-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pikootell.celestialglowpro"
+  },
+  {
+    "appname": "Retro Pulse Pro",
+    "appdev": "Pikootell",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/oTPIsO91dbCAHQlYnAIRO-ggWLBrEdslm7-2bKhv47TbHEXNZCgRfTsK2ARudHXXZA8DTp1KpnJFcBgyrFw0uaHK30STmMrlPCw0FreQARog-ygX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pikootell.retropulsepro"
+  },
+  {
     "appname": "Photos Charging Slideshow",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/3Re3GGJUz5_MLkd2qAXiDe1wiLrd1A092HniWvCzYaXOUceffkXY6i1rVsVW-HsdnwiNh3SXMWKdGNDxK-kuY9V0K-932hEO2mG--LKwMwlX1M8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picfind.space.r"
-  },
-  {
-    "appname": "Huge Time Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oI--U4-9IJQUC_MXCH0mwrk6OL5DkpatORyNMYQW7ZLR3GvWGM-puArPh12DbFHZ1PdQJyBVEGtCTgl-hl_t6jvlicio4v8KDBcgnXaLDX4lnhvg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.hugetime"
-  },
-  {
-    "appname": "Streamlined Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/bst08qn27uwxDf4gVxwGHQIxFJPownyolL-Saj6UTCyBnG4-IRiC58yiPMJGxWqy7Excc3_zRtzPAVF81vrMj0mNIiC-nycKp7ax8GcWDgHHCnOc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.streamlined"
-  },
-  {
-    "appname": "Avalar: Shadow War Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
   }
 ]
