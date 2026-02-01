@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Heroes Infinity Premium",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
+  },
+  {
+    "appname": "IPTV Smart Player Pro",
+    "appdev": "Dmitri Iasibas",
+    "appprice": "$9.49",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
+  },
+  {
+    "appname": "Garage Ringtones Pro",
+    "appdev": "Appflow Software",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
+  },
+  {
+    "appname": "Spirits Wave EVP Scanner",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
+  },
+  {
+    "appname": "Material 3: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nFCr49UDq_puvgwdWhP8SFQWnI0qGqi-_UmZ1zEo5yz2Qe590b6NBqKvjRRDHBB-O0aXf6acnXk4Qwqx03MaPvlXXP-vugi1HG8DHhico815LTU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material3"
+  },
+  {
+    "appname": "Inverted Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/s3ENyh907z-PpUDgs7Nio0EkwCSopoxQiHXeDgKyHHqhUL_IfllLIalPFIBDGXV0QmTUYlYiDyK6YHtMZ1cE1XZA9ZdgDdJ5XF980Jlv-F5vsNS5nw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.inverted"
+  },
+  {
     "appname": "Real Car Parking Simulator",
     "appdev": "FortStar",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
-  },
-  {
-    "appname": "Undead City: Survivor Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
-  },
-  {
-    "appname": "Space Survival: Mars RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
-  },
-  {
-    "appname": "Compress Video - Resize Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
-  },
-  {
-    "appname": "Incredible Box - RollingPuzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
-  },
-  {
-    "appname": "Find Picture Different!",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3Re3GGJUz5_MLkd2qAXiDe1wiLrd1A092HniWvCzYaXOUceffkXY6i1rVsVW-HsdnwiNh3SXMWKdGNDxK-kuY9V0K-932hEO2mG--LKwMwlX1M8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picfind.space.r"
   }
 ]
