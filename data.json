@@ -110,16 +110,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
   },
   {
-    "appname": "Conversations (Jabber / XMPP)",
-    "appdev": "Daniel Gultsch",
-    "appprice": "$3.49",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Auc8uO5A7i_Sy8hQq1aq6E6sROy8U5ynWpPYW1ZS_0Wm56DKRyiGsTumbg2_43jRoRfuc3JpHbkIVRmRiwDwlAP46LRHtPPpEAw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=eu.siacs.conversations"
-  },
-  {
     "appname": "Pixel Blade M VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -168,16 +158,6 @@
     "appurl": "https://lh3.googleusercontent.com/O7v5lL_iWEJ4Od4RaTR217YgXU6UC2AST3nDMhHOT1KPm9PKiqeKhltpKlYVh8Dy3qF_FkTRFDkyn71ET3GCfLGj35ou0HBxBy2ccjo4bp9shHU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
-  },
-  {
-    "appname": "Sleep Souds FM - Sound Oasis",
-    "appdev": "KUCO Apps",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/UMHz4vHFiz5xPyyA43YgDuQRoCWQf9PR-OsY9J1Yl5GcmuD18wqyRExHY_oAsg0CCoG83QqCJ1mu-7RKtE50cdWo_h5WTv0O0if9H1E4-nqdQM0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=sleepsounds.whitenoise.relaxmusic.pro"
   },
   {
     "appname": "Kathleen - Lines Icon Pack",
@@ -320,16 +300,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
   },
   {
-    "appname": "BuildReport Pro - Snag & Audit",
-    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
-    "appprice": "$4.99",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fRb5RTsm2FyNvPQpcFqR-_ij7CB0K84QnjBYUnsFnCTQvDKIUsj8t1lduJDInG1wCQsMCfLBrqdvF8zGulKsGLkPcl9vfVqWIFQCH5B0ZvmJY0ZD2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.appculus.sitereportpro"
-  },
-  {
     "appname": "Prismatic Icon Pack",
     "appdev": "Creativepixels",
     "appprice": "$0.99",
@@ -398,5 +368,35 @@
     "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
+  },
+  {
+    "appname": "Undead City: Survivor Premium",
+    "appdev": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
+  },
+  {
+    "appname": "Final Castle Defence:Idle RPG",
+    "appdev": "DH GAME",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
+  },
+  {
+    "appname": "Space Survival: Mars RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
   }
 ]
