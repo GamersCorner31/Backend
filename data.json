@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Dancing Animals",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
+  },
+  {
+    "appname": "Survival Island: Ark Craft pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
+  },
+  {
+    "appname": "The Hearts PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
+  },
+  {
+    "appname": "My English Grammar Test PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
+  },
+  {
+    "appname": "Word Search Challenge PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
+  },
+  {
+    "appname": "Plax - Icon Pack",
+    "appdev": "Olivera Onias Design",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/aqhvVgEpfdTFKH1Z_01w0CMAOJkecihG_IP1zqYHVeC_jLjYXVx43rPGcim311TDXBrihoJejM482xIw9lycqVqpLph6bD5wB-GX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.plax"
+  },
+  {
+    "appname": "Next Icon Pack Pro",
+    "appdev": "Olivera Onias Design",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5EHvQLHe_jn-qUSJ23n67wHRnKe9KOG9r3P5wK0Xwr830JyDuumbrdh2zYFii78UlnUpQ7tDr56uyKRiPFkV4GmPanHiIjPDcM0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.next"
+  },
+  {
+    "appname": "Glass Neon - Icon Pack",
+    "appdev": "Olivera Onias Design",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/jdWTx-ibdK2cqoX89S86lT6FC8JKKPEtxuvgR1bg8YVhqNWoySxLMIwPAlqIf5gP2nDN1rhtn_9m1Tt2_qYJ8nvf6mLvoWPXog=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.glass"
+  },
+  {
     "appname": "Burning Sky VIP",
     "appdev": "SHMUP Games",
     "appprice": "$1.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
-  },
-  {
-    "appname": "Kamsa Squircle - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
-  },
-  {
-    "appname": "InsideVPN: Premium VPN Proxy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$9.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
-  },
-  {
-    "appname": "Watermelon - Lines Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_0MQnsVjx8AAIt-spuJQoOeMwQBwFuW_LXomalyXPQLrYikSFdFPB3M-iboXxZNVReCQuRuswvt0ax2JtNU5z_xG9Gf0qvGQdDvMlFicCPh1Adw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwatermelon"
-  },
-  {
-    "appname": "Word Connect - Fun Puzzle Game",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RMFm61k1B2yFw53mBrDU86CR-aBRRHIrLrOaxSgzPNvjyM9Elyyiax3zrYglObtMIW6RZaoz7sXSTL82GVbrWKYTXS8mqDwql4v3T6TNrC1NzzA_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.wordgame.words.connect.crossword.find.english"
-  },
-  {
-    "appname": "Jewels Premium Match 3 Puzzles",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P-B-0XfYUwz33TCP2xmhNb05Eg4umhTuzXSzvcLjlJ9rfOIxk4SM61LlquSYvOeZ8bqpmsoAVIn1ImEzYd6-dhobChb0JpXpWacEqjb5Jg9N71k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.jewelstreasures.match3"
-  },
-  {
-    "appname": "Water Sort Puzzle - Premium",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/nPsCcAmEoIVXZkbDcPhyt4aJD8cHKjxDjVZENzmSZxbdsYzn5Id7-Ft3rSbqy-ZHtXRCehgswUWHQdxMvLmIgpetRETDrnYPqN7xxSNc1RCIzRAW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.water.sort.color.puzzle.game.relax"
-  },
-  {
-    "appname": "Evolution Planet - 14 Billion",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YvMl-pOet_lctXPm83m0TVyx7B6QAWKQ2TO-tnz60B6DZDWaDYbhLKUZN4gITIJtwBXv-imaSDIVkJQBZO4A85ZnnU2NBuu_qZj9nHTboj2M9uxd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.non.idle.galaxy.r"
-  },
-  {
-    "appname": "Dead God Land - Light Survival",
-    "appdev": "MAD PIXEL",
-    "appprice": "$6.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
   }
 ]
