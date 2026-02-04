@@ -1,5 +1,35 @@
 [
   {
+    "appname": "PER27 Digital Watch Face",
+    "appdev": "PERSONA Watch Face",
+    "appprice": "$2.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fG3aW9aRFtr2_TnQDVkledk7NSERzflzw2n4ld6bkDJeetIKuBC4AAEYVqrjvPt73fLz4_cj37o82WY9eZWsUWJ62g49-hHpAwYJ-JwE25lIaHiExQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.per27"
+  },
+  {
+    "appname": "Win Circle - Icon Pack",
+    "appdev": "Olivera Onias Design",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5s32sXMMcFKJ_am5Ec-HYdCOUDJ6ldp-ZwmVCjxVCax0CUQkfxcFaFwDrM-S_y-1NyT9qq0flAJa1f7B7uG2dYS3AMBW-LSRhl4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.win_circle"
+  },
+  {
+    "appname": "Salpicons - Icon Pack",
+    "appdev": "Olivera Onias Design",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_Wn0IqAMUkYyuJpPsARwNOktvSNjNHH8e5sdeFlje-1BbEbcNe_g07PPbcKrNBExzs1b67BbPiyWsXLpAHDQHvULZMqPxA9vf50z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.salpicons"
+  },
+  {
     "appname": "Slime Legends - Survivor",
     "appdev": "Fori Studio",
     "appprice": "$0.19",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/GdDCptf5F0KMF03EAPfD59S4QHvQomi4c5CgKWxqZI3Uiho2AlHJBNOkfNINrZYRCUCyEy1g_IQDzDw8S58-gFDOlpce_js5SnLKns7qtz_o2xAU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.FortStar.RealCarParkingSimulator"
-  },
-  {
-    "appname": "Celestial Glow Pro",
-    "appdev": "Pikootell",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xsQv92bqHfwr9oeXWDClzFKIEKAQWrLSJshk1MmRLAW0TmZPTBIljnDnKH8jV5KLupV4OsPvWUfdaXxFGtBGZLw7_sfqg-nt4okrJ8gZzVvx0q6-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pikootell.celestialglowpro"
-  },
-  {
-    "appname": "Retro Pulse Pro",
-    "appdev": "Pikootell",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oTPIsO91dbCAHQlYnAIRO-ggWLBrEdslm7-2bKhv47TbHEXNZCgRfTsK2ARudHXXZA8DTp1KpnJFcBgyrFw0uaHK30STmMrlPCw0FreQARog-ygX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pikootell.retropulsepro"
-  },
-  {
-    "appname": "Photos Charging Slideshow",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
   }
 ]
