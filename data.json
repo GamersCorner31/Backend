@@ -1,5 +1,15 @@
 [
   {
+    "appname": "My Medicine Pro - Health Log",
+    "appdev": "made easy",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
+  },
+  {
     "appname": "PER27 Digital Watch Face",
     "appdev": "PERSONA Watch Face",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/s3ENyh907z-PpUDgs7Nio0EkwCSopoxQiHXeDgKyHHqhUL_IfllLIalPFIBDGXV0QmTUYlYiDyK6YHtMZ1cE1XZA9ZdgDdJ5XF980Jlv-F5vsNS5nw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.inverted"
-  },
-  {
-    "appname": "Real Car Parking Simulator",
-    "appdev": "FortStar",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GdDCptf5F0KMF03EAPfD59S4QHvQomi4c5CgKWxqZI3Uiho2AlHJBNOkfNINrZYRCUCyEy1g_IQDzDw8S58-gFDOlpce_js5SnLKns7qtz_o2xAU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.FortStar.RealCarParkingSimulator"
   }
 ]
