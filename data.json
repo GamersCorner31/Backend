@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Sail Results (PY 2025)",
+    "appdev": "cuboid",
+    "appprice": "$3.99",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qx-I8UDtArgidnWNKMDqnpB_CXjlvoNzTghgNC8Dvw-6ie7RI5DKJZDRT94MfwTJhTPp0rnkgbrJD6I3dtqp9mPiTWgbWSIeZ64=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=sailresultspy2.box_e.com"
+  },
+  {
     "appname": "Color Wheel",
     "appdev": "Roman Sevastianov",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/jdWTx-ibdK2cqoX89S86lT6FC8JKKPEtxuvgR1bg8YVhqNWoySxLMIwPAlqIf5gP2nDN1rhtn_9m1Tt2_qYJ8nvf6mLvoWPXog=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.glass"
-  },
-  {
-    "appname": "Burning Sky VIP",
-    "appdev": "SHMUP Games",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
   }
 ]
