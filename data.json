@@ -1,5 +1,15 @@
 [
   {
+    "appname": "myDream Universe - Buildit",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/4qwp-QMzor9Aw8XujHwIgeqonjoMRxz2Zf6VID2cTMtcgXPnNgtD-QWqy1N0foEP6escOcoHT-r21Fpoh0xKbDic8coAOvkx6ltWoqIu_CY-zHA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.mydream.universe.r"
+  },
+  {
     "appname": "Sail Results (PY 2025)",
     "appdev": "cuboid",
     "appprice": "$3.99",
@@ -340,36 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
   },
   {
-    "appname": "The Hearts PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
-  },
-  {
-    "appname": "My English Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
-  },
-  {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
-  },
-  {
     "appname": "Plax - Icon Pack",
     "appdev": "Olivera Onias Design",
     "appprice": "$0.99",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/jdWTx-ibdK2cqoX89S86lT6FC8JKKPEtxuvgR1bg8YVhqNWoySxLMIwPAlqIf5gP2nDN1rhtn_9m1Tt2_qYJ8nvf6mLvoWPXog=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.glass"
+  },
+  {
+    "appname": "Burning Sky VIP",
+    "appdev": "SHMUP Games",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
+  },
+  {
+    "appname": "Lines Square - Neon icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UFLVL53dKxmVhTdCpZhE08-x4W43z6IUaxDPgqfNK_E0vf0nXwMYZR7noilh7nQ5n4UGRTruRWteNJ88BbnRzUhHVPisSZl__UU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squarelines"
   }
 ]
