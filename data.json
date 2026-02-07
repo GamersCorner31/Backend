@@ -1,5 +1,205 @@
 [
   {
+    "appname": "Zombie Age 3 Premium: Survival",
+    "appdev": "DIVMOB",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
+  },
+  {
+    "appname": "Live or Die: Survival Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
+  },
+  {
+    "appname": "Math Riddles: Math Me",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/jk9ynWyt8WFJO2Yb4oy_kFMngJXhFr8LGjVOEjBix10lHBwyNlzCRjYLyqx8f5KwLiNqyfvwHNucimwpSIXzHzbiU06gHScACPoNNB8EuEMTIvh-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.mathriddles"
+  },
+  {
+    "appname": "Carol - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
+  },
+  {
+    "appname": "EmeraLine  - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9jqXBWfZRqi-caKhWO1DO_-MSGEtavqt7edPGvN1avlCK-hvkX7J4lIvouSSjCBzN_4llzUb1vxD1dUgadekKOWxRl8whf4rN_h17D0CjMLo3kbS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbtosca"
+  },
+  {
+    "appname": "Espana - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/E7lRHbz70cRZQQWqxItk6NtUkqFkrAs5f2WrnCIFK2LL-Nam-Toy2IJ1-ky8NQH4657rn6MDMu96uiweQcnltn00GrWL1X6HvKKlEJyXgWz5cTI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbredcarpet"
+  },
+  {
+    "appname": "Drop Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/SVll8_GGUgoT5_cYl-mtZ74nnUTI4CCJ2OyyNmKcmmKQxPXsi8GBuqJt4DcJryeqmvkOWW6YTOlE5ZEkHSWEQxXzk2wShjynftdgfYQZzrlAm74x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dropdark"
+  },
+  {
+    "appname": "Dropicon Cut - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/oTRq5tt9wcu5UKH0CRIywYlQrirFdRHuHBXjZ8PSR4J7PS5ckfN6qt5mASahtHgYMltDG-9iffzLH7y1R0v_kTexnxqoY_3PaQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticond"
+  },
+  {
+    "appname": "Pixel Ring Drop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/09lodLQL4jTqkCagKFWkPrpbvVhDSTAe9MEM2n_jf6W-gxsgz4WKDghOYGtzeSwZDbXJwxzC1wmgYFf1KdSZ-3M4kcZElu33bQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pdrop"
+  },
+  {
+    "appname": "The Weapon King VIP",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
+  },
+  {
+    "appname": "[365fun] AirComando",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
+  },
+  {
+    "appname": "[365fun] CatchBee",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
+  },
+  {
+    "appname": "[365fun] TouchTouchPangPang",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
+  },
+  {
+    "appname": "[365fun] Color Match2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
+  },
+  {
+    "appname": "[365fun] Perfect 3m",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
+  },
+  {
+    "appname": "[365fun] SurvivalGame3",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
+  },
+  {
+    "appname": "[365fun] Wood Block Travel",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
+  },
+  {
+    "appname": "[365fun] One Shot",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
+  },
+  {
+    "appname": "GIN Icon Pack - Get It Now",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_BvZCQdzN9jxpFVujP-hAs-4-p1T54kqk1uQl9t1tkp-oZvKSWnGPOxVUuNgQ_VQfo14holGjl0H7WWT-obR52nC3fhj5wSrUSEg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.gin"
+  },
+  {
+    "appname": "iWidgets Pro",
+    "appdev": "JustNewDesigns",
+    "appprice": "$1.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mtcVd3tMkjXzv2BnF6FuhD8T268wGXzfYv4snsoNwmsbpTHzrC7YEUFaeuffB63AzadbsfQAjVg54itvtGVtlkDHXGyc5uWzIaJIZaaMtHVYQ9A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jndapp.i.widgets.pack"
+  },
+  {
     "appname": "Tech VPN Pro / Protect Privacy",
     "appdev": "Xylo Solution LLC",
     "appprice": "$4.99",
@@ -198,205 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
-  },
-  {
-    "appname": "PER27 Digital Watch Face",
-    "appdev": "PERSONA Watch Face",
-    "appprice": "$2.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fG3aW9aRFtr2_TnQDVkledk7NSERzflzw2n4ld6bkDJeetIKuBC4AAEYVqrjvPt73fLz4_cj37o82WY9eZWsUWJ62g49-hHpAwYJ-JwE25lIaHiExQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.per27"
-  },
-  {
-    "appname": "Win Circle - Icon Pack",
-    "appdev": "Olivera Onias Design",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5s32sXMMcFKJ_am5Ec-HYdCOUDJ6ldp-ZwmVCjxVCax0CUQkfxcFaFwDrM-S_y-1NyT9qq0flAJa1f7B7uG2dYS3AMBW-LSRhl4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.win_circle"
-  },
-  {
-    "appname": "Salpicons - Icon Pack",
-    "appdev": "Olivera Onias Design",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_Wn0IqAMUkYyuJpPsARwNOktvSNjNHH8e5sdeFlje-1BbEbcNe_g07PPbcKrNBExzs1b67BbPiyWsXLpAHDQHvULZMqPxA9vf50z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.salpicons"
-  },
-  {
-    "appname": "Slime Legends - Survivor",
-    "appdev": "Fori Studio",
-    "appprice": "$0.19",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
-  },
-  {
-    "appname": "Cooking Kawaii - cooking games",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
-  },
-  {
-    "appname": "Survival Dungeon: Loot RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
-  },
-  {
-    "appname": "MNML Analog: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqNBSaFazPnffFp5QeQWcUnmR3elg084BvkAS7Z1Wy9nwJQRw6tWMYmPEZmBTjeYpeO3mInqK90gcuvO8DXEwM435b07BCQJoOwwa8Lrdz7CQTz4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.mnmlanalog"
-  },
-  {
-    "appname": "[VIP] +9 Blessing Cash Knight",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/CPna5lSZ_jw32HjHMUayh3PCJ9U0v2eoI5utObvbfXCBg3e917ykqtxQczzaRT8YcBGo3cteHtLujYaKxkNlljLplsFMymVLdYU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipfreecashknight"
-  },
-  {
-    "appname": "[VIP] Mr. Balcan Idle",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
-  },
-  {
-    "appname": "Food Fever Premium: Restaurant",
-    "appdev": "Unimob Games",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
-  },
-  {
-    "appname": "Turn Image Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eiWNWeOyYmB2ppE25C61Js8U8riNZUfVUr1FLmjde5qpEgDpRq3T7krWeaZoIOo-nIso64HBCbIJOLM9veq7G6pQ9MiExZM7jr2Blbi0LatItA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.turnimage.at"
-  },
-  {
-    "appname": "Number Blocks",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/iBMncr7-FK5nUcwGU5QEyotIFBBBI83-FAYt6Zv09X7b9Fk16MyJ39wU3kq0eFzH8XMrMGdJEaFmlkIt5GzjXRxeQVMSVgK9QrmFvErZpvoWAXk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zb.at"
-  },
-  {
-    "appname": "Piano Match Play",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7Y5Vt55I_pfr3Uqaa9Dakv5Daw3LScZUTKhvIfNn6H4mlaOE1ZVkpAnWFizIg9AsLm52lRRBAjuTBdTt_mZrD1yP1HM0tepxuUf02jIrDhdQD02sLA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.AndroidPianoMemo"
-  },
-  {
-    "appname": "Picture Rotation Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ViFbFhhy-oQcaW1YKh9k-5rLeMAwBQ9ykZ3g5yKC16KrWlWDQbb1P9euQQX2T5_AikSvkg6ybcFY_xNmMYBMPZPJRS6zaWdqpa0tKbgrz3yr_Qr-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.puzzlepro.at"
-  },
-  {
-    "appname": "Math Party, Multi Games",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_gmnsEb2zOk2FYr71wH5LXq-SiCx58ae7OeX7zFz7BTmlJK-SmM7tkhy4ZyMGqbIHweejFpGcGc6xkE4pqg0gSfsLL1GOEE01o7yuVFQq7Dse_U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.einmaleins.at"
-  },
-  {
-    "appname": "Dancing Animals",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
-  },
-  {
-    "appname": "Survival Island: Ark Craft pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
-  },
-  {
-    "appname": "Plax - Icon Pack",
-    "appdev": "Olivera Onias Design",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/aqhvVgEpfdTFKH1Z_01w0CMAOJkecihG_IP1zqYHVeC_jLjYXVx43rPGcim311TDXBrihoJejM482xIw9lycqVqpLph6bD5wB-GX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.plax"
-  },
-  {
-    "appname": "Next Icon Pack Pro",
-    "appdev": "Olivera Onias Design",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5EHvQLHe_jn-qUSJ23n67wHRnKe9KOG9r3P5wK0Xwr830JyDuumbrdh2zYFii78UlnUpQ7tDr56uyKRiPFkV4GmPanHiIjPDcM0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.next"
-  },
-  {
-    "appname": "Glass Neon - Icon Pack",
-    "appdev": "Olivera Onias Design",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/jdWTx-ibdK2cqoX89S86lT6FC8JKKPEtxuvgR1bg8YVhqNWoySxLMIwPAlqIf5gP2nDN1rhtn_9m1Tt2_qYJ8nvf6mLvoWPXog=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.olivera.glass"
   }
 ]
