@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Dream 59 analog watch face",
+    "appdev": "Monkey's Dream",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/6XYvXqgl1A27rd-8KB2j5X-GlHB8Oc_EVnITFEWHZuU6WMS8N03wwlGGzsV3q2Db9NTqnsYyC-DZb2FdvoRpfrX-Ax6zTnOZBqLwu_JcxSBrzROZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dream59"
+  },
+  {
+    "appname": "Guardian War: Ultimate Edition",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
+  },
+  {
+    "appname": "Grow Heroes VIP : Idle Rpg",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
+  },
+  {
     "appname": "Zombie Age 3 Premium: Survival",
     "appdev": "DIVMOB",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/4iZ2JwYeaUqxYJuNoLOJou8LvIa2gwM37O-XcF_mz3K3_2NGqdfYr2_YHYEl-GFajaLCbM7u7utFFhFvQd3vK9dNp9ATxnUBKPaOGLlhaLGnRN0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.bores"
-  },
-  {
-    "appname": "Animated Onysy Watch face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/VmG6A5NGZUBYg4p2y7biLCvqfezK0JICDK-GTbIR9TjaVPZn4C2-wm33SFv62mg7eq30LZqAbySBxnEQTexqsYCZAihcGa3sDhjNU97rA61yIYU1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.syny"
-  },
-  {
-    "appname": "Digital Costa Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ryLMj5NbKMsQQG2nstMFbdrbxr2Zmihf0j18KkZKWpNMudHYeWm-2unIihUPXnEfDZ6kUK6gBfRhKRE826YGH1t9WAB08iRo-Z-uhAnnSM_YjH68iQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.Costa0107"
-  },
-  {
-    "appname": "My Medicine Pro - Health Log",
-    "appdev": "made easy",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
   }
 ]
