@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Cedric :the Vipers' Lie",
+    "appdev": "trewhale",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/X3g2Dh-qgOHrkTzic32z62hNwoznh2h3E5Dxzkbc6BDvb0W6zi8gPIHnZ7rP1L1Cp0GcWJr4ls3ilN0jzlN4UjyVicFtfvnwL_DvV2wYfEXzQUU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bad.cedricstory"
+  },
+  {
+    "appname": "Nature Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/cgDhUl1iMjon2Avxexoesnp91ZMRhSwlS83YHyI9_xtkGfrl8lmPRM35E3lFBtL3KQLW-jBgtrnEqxMHGkq_Ib5a4ZtXi4LPOxqH4_cAQez5Lhpv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dppuzzle.at"
+  },
+  {
+    "appname": "Nature Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
+  },
+  {
+    "appname": "Dino Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
+  },
+  {
+    "appname": "Offline Password Manager",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
+  },
+  {
+    "appname": "Animal Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
+  },
+  {
+    "appname": "HD Video Live Wallpapers",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/VLfsF-zo1llxMH5Jexz0ntVYouMZUv-rJDRKMh1HJStIkRpzo8tXBvhi78_ROu56xBBEJSIRMRvtMbxdRjY8Brngzl8sUOl4uQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.videogallery"
+  },
+  {
+    "appname": "WindWings: Galaxy attack Pro",
+    "appdev": "GCenter",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/tFXbCpzderWNyXCkypVSYKLJLcYjjTDPuaXLGqAkCoIV3y5ruqFdPy-Etxt6vQpuqBYVBLluYszgl70y854uXzKiDn0Z8zQX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.WindWings.SpaceShooter.Premium"
+  },
+  {
     "appname": "Super Tank Battle R - Type X",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
-  },
-  {
-    "appname": "Audio Game 10 Levels",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ne2KaEwg5lfquL6-0YJazalrqxpLmoFGkZAVdkYyTEOlanzygydID91q-Zd3cI6jZfHMsMNHP6WB66fFQrwgJ_YDyjQoT9xcA75pSziHClM9eCI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.MemoDeAndroid"
-  },
-  {
-    "appname": "Digital Cuvok Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xAG-o8a-bJn0OCsRwFRdDuKt6MP2RCzsQQ1u140D4eSX1JTZpfNFw9M7Ztd3nNM8B7f_5pH2uqbudNGKffKbRORflt7KCnmEY1lqMsgW_33W3pQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.kovla"
-  },
-  {
-    "appname": "Digital Berulyk Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WLsTGnkB36x8es5DSagSl8-VFXWyEFfhlt4ZrIhfIoFbfUd3-oENN5tzNPN56unBijDDOUjHH4QRe-6iV6yEsHXNsCBZmm7Ouxu3727itKQzh_0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lureb"
-  },
-  {
-    "appname": "Analog Wons Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/H2umCBapiZIVXyaU7D0rlVIw7U7FtmHEGN98SRqOpnGGCZjqw8BYXWzlrgnbzhOqHnYGj9dp5ZSYBNZdw43J30EknNrxz6beJ7jDOxjj5FVLXutWKA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.DigitalDakan"
-  },
-  {
-    "appname": "Digital Artumi Watch face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/DlZtED0cTGDRr_fyA29ETD-9UM_AcG0y6VDU7ntGyyFWX7YfUThrm1mzUVJnPcDHJMWOzc7SBFfwc-oe53eINUvKh1_neScDoRJFYex0GGTyxBKjIw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.AnaloGmini1"
-  },
-  {
-    "appname": "Empire Warrior: Tower Defense",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
-  },
-  {
-    "appname": "Digital Bogim Watch face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/HXL4fLwAKg2t_3ZqIC4sALnjipc83kTdvlTiU66tOZ4DxG4F1Y1vOXHEUB89IvvAv-1qiOvpglbQhHLq60dxJ2CwR8Eu-gO4EI2P9KmUXFlUgfQH3A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.gimob"
-  },
-  {
-    "appname": "Analog Minimal Watch face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/KaxNS31dv_NwkUPpmKsnVeHBNnTnRF4ZSPAC3Jz0hjnOjv1hmQpfNG5O3Aqagn3IPQSZEIFY70NTuBVANfFidhv4rOkiWaFhMqiBnBFuSa2FfNvX1A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.zirens"
   }
 ]
