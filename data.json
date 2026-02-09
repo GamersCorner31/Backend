@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Match 3 Jewel Crush & Smash",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/pKieU9zQ4_TSQvTstVydIDTuLwE_jnH1zRgl7QfZl4NnKy5NapnfWAz3LVbw94H-vHgN4RMzf9B-hJSR1iLMiUZc4OX-BS2PCitbdqsFXcwakHmJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iqpuzzlesgames.jewelcrushmatch3puzzle"
+  },
+  {
+    "appname": "Word Connect Pro - 2023",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/P99TCIHrGJTJLM99ZB2Ylk8Fb5I-M73ae_XW0o9jldjzKfKwIr-8-NT7Bxx3RauwYiNdo7BVjEXjcFDuv7wpppzJV_DS13f7AGvwSWLsfgc9V7Z1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.wordconnectpro2023"
+  },
+  {
+    "appname": "Jewels Planet - Match 3 Games",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
+  },
+  {
     "appname": "M5 Tank - ForeverBattle BaseTD",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
-  },
-  {
-    "appname": "[365fun] Color Match2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
-  },
-  {
-    "appname": "[365fun] Perfect 3m",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
-  },
-  {
-    "appname": "[365fun] SurvivalGame3",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
   }
 ]
