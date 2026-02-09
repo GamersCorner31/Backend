@@ -1,5 +1,125 @@
 [
   {
+    "appname": "M5 Tank - ForeverBattle BaseTD",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qcKmV1M27GQy7GnZiiM-drX0fo54-LfTmOV0lHSn2TpYKCK6EXNU13PmeOnSMSSwGuwJk-NrqPt-K3xxPHh74E02oBYFjN_4TDUsWLnI-n3AXjDFIA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.m5.tank.r"
+  },
+  {
+    "appname": "Logo Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
+  },
+  {
+    "appname": "Space Rush",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
+  },
+  {
+    "appname": "Trivia Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
+  },
+  {
+    "appname": "Emoji Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
+  },
+  {
+    "appname": "Block Blast - A Retro Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
+  },
+  {
+    "appname": "Crazy Calculator Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
+  },
+  {
+    "appname": "Bulbs - A game of lights",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
+  },
+  {
+    "appname": "Speed Math - Mini Math Games",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
+  },
+  {
+    "appname": "Spelling Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$3.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
+  },
+  {
+    "appname": "Tap Rush - Reflex Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
+  },
+  {
+    "appname": "Angular Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QYKTPhE39sfgJWHJ0d_1PUP91aEBMXwGWNO6glzNBSLEfMDaxPypnSqdOLWntOw8CB5N62v7ubovtexKUUeLFEVE8Cq7hNp_Oe8YStyNonGHKVfqxA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.angular"
+  },
+  {
     "appname": "How much can I spend? Premium",
     "appdev": "Alexander Y. Ivanov",
     "appprice": "$2.99",
@@ -278,125 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
-  },
-  {
-    "appname": "[365fun] Wood Block Travel",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
-  },
-  {
-    "appname": "[365fun] One Shot",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
-  },
-  {
-    "appname": "iWidgets Pro",
-    "appdev": "JustNewDesigns",
-    "appprice": "$1.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mtcVd3tMkjXzv2BnF6FuhD8T268wGXzfYv4snsoNwmsbpTHzrC7YEUFaeuffB63AzadbsfQAjVg54itvtGVtlkDHXGyc5uWzIaJIZaaMtHVYQ9A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jndapp.i.widgets.pack"
-  },
-  {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$4.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
-  },
-  {
-    "appname": "Re:Bounding - Bubble Breaker",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uvWTcb6eGZ6RlWQ5zKCbJDuxvnEEugDii51bfuk_zXBslS_958K6ivcT4X7vtL-blEWgQDzayYeur0xUnV2Wizyr9M981ZSBiaf3c2oxs-7pn-7M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.rebounding.r"
-  },
-  {
-    "appname": "myDream Universe - Buildit",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/4qwp-QMzor9Aw8XujHwIgeqonjoMRxz2Zf6VID2cTMtcgXPnNgtD-QWqy1N0foEP6escOcoHT-r21Fpoh0xKbDic8coAOvkx6ltWoqIu_CY-zHA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.mydream.universe.r"
-  },
-  {
-    "appname": "Sail Results (PY 2025)",
-    "appdev": "cuboid",
-    "appprice": "$3.99",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qx-I8UDtArgidnWNKMDqnpB_CXjlvoNzTghgNC8Dvw-6ie7RI5DKJZDRT94MfwTJhTPp0rnkgbrJD6I3dtqp9mPiTWgbWSIeZ64=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=sailresultspy2.box_e.com"
-  },
-  {
-    "appname": "Contact Organizer",
-    "appdev": "Yogesh Dama",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LJHXlyuOir57VIDaucPggsrk3uNK7KkxDfbl48IeyQhgxHlb8HLb6cTUpofd_TepSvp1YyJ4uGaIEq6x6XpS_F9yxiZ_nBebLsP2MHrpnncFFwmY2g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactorganizerpro"
-  },
-  {
-    "appname": "Merge Cafe Premium -Home Decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
-  },
-  {
-    "appname": "Merge City Premium -Home decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
-  },
-  {
-    "appname": "Digital Cuvok Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xAG-o8a-bJn0OCsRwFRdDuKt6MP2RCzsQQ1u140D4eSX1JTZpfNFw9M7Ztd3nNM8B7f_5pH2uqbudNGKffKbRORflt7KCnmEY1lqMsgW_33W3pQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.kovla"
-  },
-  {
-    "appname": "Digital Berulyk Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WLsTGnkB36x8es5DSagSl8-VFXWyEFfhlt4ZrIhfIoFbfUd3-oENN5tzNPN56unBijDDOUjHH4QRe-6iV6yEsHXNsCBZmm7Ouxu3727itKQzh_0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lureb"
   }
 ]
