@@ -1,5 +1,45 @@
 [
   {
+    "appname": "How much can I spend? Premium",
+    "appdev": "Alexander Y. Ivanov",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
+  },
+  {
+    "appname": "Highway Game",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
+  },
+  {
+    "appname": "Everybody's RPG: Reboot",
+    "appdev": "Nomad Game",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/35Vjf_o0dktr-Oxy9z4eiqrPASMUCKkyqBjTTtuOWtJMOYk2YRqkZlLsOw041BSMl7jApUQvtxFRcaTRd1obj8mQaNSDPHBFtgk2c9SVDE1J7_Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nomadgames.dungeonmaster"
+  },
+  {
+    "appname": "Truth Or Dare Pro",
+    "appdev": "TRYONI ARTS",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
+  },
+  {
     "appname": "QuickPin - Fast Notes Reminder",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -18,36 +58,6 @@
     "appurl": "https://lh3.googleusercontent.com/X3g2Dh-qgOHrkTzic32z62hNwoznh2h3E5Dxzkbc6BDvb0W6zi8gPIHnZ7rP1L1Cp0GcWJr4ls3ilN0jzlN4UjyVicFtfvnwL_DvV2wYfEXzQUU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bad.cedricstory"
-  },
-  {
-    "appname": "Nature Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/cgDhUl1iMjon2Avxexoesnp91ZMRhSwlS83YHyI9_xtkGfrl8lmPRM35E3lFBtL3KQLW-jBgtrnEqxMHGkq_Ib5a4ZtXi4LPOxqH4_cAQez5Lhpv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dppuzzle.at"
-  },
-  {
-    "appname": "Nature Puzzle",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
-  },
-  {
-    "appname": "Dino Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
   },
   {
     "appname": "Offline Password Manager",
@@ -88,16 +98,6 @@
     "appurl": "https://lh3.googleusercontent.com/w-DE0F-XTiVTE5JQRKdFoeXDoVLTkFbRyqRkrBEL-Sqgphx5gOCkfbLFH6yUoD8gK7VBYsPkyXcfw2OYtUW1Ygu-BC6lksAQ1BdAh9cKypBM2ZI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownproject.tank.remaster.r"
-  },
-  {
-    "appname": "Dream 59 analog watch face",
-    "appdev": "Monkey's Dream",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/6XYvXqgl1A27rd-8KB2j5X-GlHB8Oc_EVnITFEWHZuU6WMS8N03wwlGGzsV3q2Db9NTqnsYyC-DZb2FdvoRpfrX-Ax6zTnOZBqLwu_JcxSBrzROZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dream59"
   },
   {
     "appname": "Guardian War: Ultimate Edition",
@@ -300,16 +300,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
   },
   {
-    "appname": "GIN Icon Pack - Get It Now",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_BvZCQdzN9jxpFVujP-hAs-4-p1T54kqk1uQl9t1tkp-oZvKSWnGPOxVUuNgQ_VQfo14holGjl0H7WWT-obR52nC3fhj5wSrUSEg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.gin"
-  },
-  {
     "appname": "iWidgets Pro",
     "appdev": "JustNewDesigns",
     "appprice": "$1.99",
@@ -360,16 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=sailresultspy2.box_e.com"
   },
   {
-    "appname": "Color Wheel",
-    "appdev": "Roman Sevastianov",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jZ-EA2lUGJu7r6Jck1RUe3MyF218-4ZgeX0YPneDccQqSRQku7LtdRNMeBe4_88CLWCtuWm2DuD6cWgoBxgleqzqiKWCsgq_Pudj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel"
-  },
-  {
     "appname": "Contact Organizer",
     "appdev": "Yogesh Dama",
     "appprice": "$1.49",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
+  },
+  {
+    "appname": "Digital Cuvok Watch Face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xAG-o8a-bJn0OCsRwFRdDuKt6MP2RCzsQQ1u140D4eSX1JTZpfNFw9M7Ztd3nNM8B7f_5pH2uqbudNGKffKbRORflt7KCnmEY1lqMsgW_33W3pQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.kovla"
+  },
+  {
+    "appname": "Digital Berulyk Watch Face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/WLsTGnkB36x8es5DSagSl8-VFXWyEFfhlt4ZrIhfIoFbfUd3-oENN5tzNPN56unBijDDOUjHH4QRe-6iV6yEsHXNsCBZmm7Ouxu3727itKQzh_0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lureb"
   }
 ]
