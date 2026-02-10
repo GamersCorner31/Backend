@@ -1,5 +1,65 @@
 [
   {
+    "appname": "TimeFlow Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PjrcX0Io9vSdCVR1QosL_lm82mJGckn_iahPhrbqQP47em-AO-dFZqHzP58nOJ9qensrZJu0VZbIFoHx3SHAZtdduf2Jc8-9aqafG7tRhoR6QOI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeFlow"
+  },
+  {
+    "appname": "Octagon - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Vh-TIatWkIC0oXH8z9UHo-LD2QD-2eifFvGhlPOpERmifR-SVR0GG19tL1rS3zV-DvtKgoFU4rHGxcjQcO3ldsGyxT9Y5eFGcr1Cen57Lsw6_IF9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octagon"
+  },
+  {
+    "appname": "OctaRing - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/3Fdl3CaBRkyqO_cp4UTVxnr6epuAZ2NWYI-YdrZEB70jJjzQw_wBVqZO2Wa-YX5c8x2MqJwih8sWJBMCqE8wQZXbO0lrraUk6qaTQQEchyHoUzlD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octaring"
+  },
+  {
+    "appname": "Octacrop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
+  },
+  {
+    "appname": "Emerald - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nU9GjLjzNrMGXi-WSaErupqMwu1T88aBMpgZJMVNyxJ7qhpzVdzMbTx6LUwP6k7G6gia2NF3ceAgud9eIdn4Dl5yhe8KA_WWOE62uAE4DXJat1ke=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darktosca"
+  },
+  {
+    "appname": "Simple Quote Widget",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c9m_EMbQ3zwS-0y25VLNZvQ4B6LZvDSyeH6WGwR9V3F_hjVWVZidZ4VwrsTOPEXiPcULUZGAYLb-6fJzmCd-Q41OuGXHYR5vvsmL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
+  },
+  {
     "appname": "Match 3 Jewel Crush & Smash",
     "appdev": "A.V.A - puzzles games",
     "appprice": "$2.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SVll8_GGUgoT5_cYl-mtZ74nnUTI4CCJ2OyyNmKcmmKQxPXsi8GBuqJt4DcJryeqmvkOWW6YTOlE5ZEkHSWEQxXzk2wShjynftdgfYQZzrlAm74x=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dropdark"
-  },
-  {
-    "appname": "Dropicon Cut - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/oTRq5tt9wcu5UKH0CRIywYlQrirFdRHuHBXjZ8PSR4J7PS5ckfN6qt5mASahtHgYMltDG-9iffzLH7y1R0v_kTexnxqoY_3PaQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticond"
-  },
-  {
-    "appname": "Pixel Ring Drop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/09lodLQL4jTqkCagKFWkPrpbvVhDSTAe9MEM2n_jf6W-gxsgz4WKDghOYGtzeSwZDbXJwxzC1wmgYFf1KdSZ-3M4kcZElu33bQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pdrop"
-  },
-  {
-    "appname": "The Weapon King VIP",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
-  },
-  {
-    "appname": "[365fun] AirComando",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
-  },
-  {
-    "appname": "[365fun] CatchBee",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
-  },
-  {
-    "appname": "[365fun] TouchTouchPangPang",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
   }
 ]
