@@ -1,13 +1,13 @@
 [
   {
-    "appname": "HMKWatch Digital 056",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/gNtPTfu2mzQVrucSQkq82IabnbzZODmDPd4a-X8UK0AAYVBHrpXys2yfpxgqGEydK_cf96LP2DSuo7rJKcR8MBjWF0ecQMPXPnvxi59235OI78WZ=s200-rp-e7",
+    "appname": "Sound Meter & Noise Detector",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_056"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
   },
   {
     "appname": "Equalizer & Bass Booster Pro",
@@ -200,16 +200,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u248"
   },
   {
-    "appname": "Digital Watch MB422",
-    "appdev": "MikichBlaz",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ZRLaMq-lib-yFyFmG8EWJ4xycc-UrgnUw-BeplekrZQIKxzXL8DtZPe8aAvCo8Ue37G4vYMHePbh0jspwziPvbUqf_1N83Na-1ShAStV1dZqEjDtDw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mikichblaz.digitalwatchmb422"
-  },
-  {
     "appname": "TimeFlow Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
+  },
+  {
+    "appname": "Tap Rush - Reflex Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
   }
 ]
