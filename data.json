@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Railways - Train Simulator",
+    "appdev": "Infinity Games, Lda",
+    "appprice": "$2.49",
+    "apprating": "3.7",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/_pLhVCcde-J-gsPmo2UxlnwoKlFkPLr6pIiHj_-wyoYaDtuowCRUmnCQz4QO413x4gmXPhM2eWRWdct93nCcvcLbPFWZ5EpSOFY8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.railways"
+  },
+  {
+    "appname": "Takoizu Cyan - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7o4_vVQZ4v6DLLCyXYhX7j7hwA7cmz85zr7AhpxCGBDCscNxodoDcDFJFb3GH-7ocRdQbCH6EsvncxS9D4S7daOT7k-BcKRP436bltOAXmu7OBSd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscatr"
+  },
+  {
+    "appname": "Traffix: Traffic Simulator",
+    "appdev": "Infinity Games, Lda",
+    "appprice": "$2.49",
+    "apprating": "4.5",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
+  },
+  {
+    "appname": "TripleFantasy Premium",
+    "appdev": "Gameplete",
+    "appprice": "$11.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
+  },
+  {
     "appname": "Pixel Net - Neon Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/P99TCIHrGJTJLM99ZB2Ylk8Fb5I-M73ae_XW0o9jldjzKfKwIr-8-NT7Bxx3RauwYiNdo7BVjEXjcFDuv7wpppzJV_DS13f7AGvwSWLsfgc9V7Z1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.wordconnectpro2023"
-  },
-  {
-    "appname": "Jewels Planet - Match 3 Games",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
-  },
-  {
-    "appname": "M5 Tank - ForeverBattle BaseTD",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qcKmV1M27GQy7GnZiiM-drX0fo54-LfTmOV0lHSn2TpYKCK6EXNU13PmeOnSMSSwGuwJk-NrqPt-K3xxPHh74E02oBYFjN_4TDUsWLnI-n3AXjDFIA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.m5.tank.r"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
-  },
-  {
-    "appname": "Space Rush",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
   }
 ]
