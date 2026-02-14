@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
+    "appname": "Net Signal Pro:WiFi & 5G Meter",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
+  },
+  {
+    "appname": "Who Uses My WiFi Pro",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
+  },
+  {
+    "appname": "GoldOx - The Golden Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/mss-HDsTmfiL6bnsVD0C1vFaa0bigmfy0GnzqrTsvn0t4rGhKQA7j1jVRw9OSjM5TmuF60HCg8_y4CzzKlGJc0LilVHEtVDiric=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goldox"
+  },
+  {
+    "appname": "Bright LED Flashlight Pro",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
+  },
+  {
     "appname": "Railways - Train Simulator",
     "appdev": "Infinity Games, Lda",
     "appprice": "$2.49",
@@ -110,16 +160,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfhealthd"
   },
   {
-    "appname": "Digital Watch MB425",
-    "appdev": "MikichBlaz",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/Kgtbg54v7VM7lVAGLcpFq3JxO64s5EeSSqzvMbD_-U4R3UORNJJiUc_Ef9wngp0oJypDOgMoVgEsxpuSNqaAfbUw5aPqAlRcQv2RB5nvfrrcFb1M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mikichblaz.digitalwatchmb425"
-  },
-  {
     "appname": "Evertale",
     "appdev": "ZigZaGame Inc.",
     "appprice": "$0.99",
@@ -140,76 +180,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
   },
   {
-    "appname": "Equalizer & Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/mzkaNeuSAiBxuyf-qE3q9RFYdXMyrXKB5ZjvlQEhyVWfm9225KgsJL1xqwLLrFMfDLNyAlSB0p2q8P741JnGK96qxCq5uSvcvPHE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=musicplayer.bassbooster.equalizer.pro"
-  },
-  {
-    "appname": "Volume Booster Max Pro",
-    "appdev": "WetcRun",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c1AGGrQE9q4dvfxnhlsJYIhm2VWM505o6Nnm2kfXoVGwka0I5emYFQaKoN1CNe5TMqSlffHig1jn2HnZtZfksX-J9OzQfaeBjCdjTanr-omWR6U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=volumebooster.volume.booster.pro"
-  },
-  {
-    "appname": "Equalizer Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/RkDzn1O-_TZ4l_SPLdHNUGAhKYAKytoOeByqv9tHbrvnZtgOrKns_Jx9Gp4_aAzHOdS1denQ16KKQ5Iuoeuf2CjdQ7mxAwbgADo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bass.booster.equalizer.pro"
-  },
-  {
-    "appname": "Prepositions Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CtBYsEtCdOeEA3uHsOhoCQ1WgwwpYciXynTXuPlD4di_fTRHGIBWi-jaRRHP2DJMwFldeY-T6b-_ItUohg4fXzKZttjtiODc2XY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.prepositionstest"
-  },
-  {
-    "appname": "Balloons Pop PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EuN4GgwdIhz72aTng6s0F3UK7lmycXKc1OC2iVzWAFBo87smdFUCGTBOf6Tt6IIjhkrZt-HDGitAHXGeI3VJNKQ8BjDev4eyOhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.balloonspop"
-  },
-  {
-    "appname": "Equalizer - Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/bqfL-k2yhXdEj3fnF08vCZhAZpR1RPb5VRiG9fVBVWxPakwxnhDQhoQTsBHLNwk6p6YYHRiPhGFxd6CbhI8ZTHK2TdeuzS5gzXk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.eq.music.player.equalizer.pro"
-  },
-  {
-    "appname": "Equalizer - Bass Booster pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/gwF6c-Yk5h6Jey-TsgCO00TszbE1REarA13VAkg2mDue5w5V7y-rZqwS_pQhPe8SDQpLZe8Z-7AhiNL4NcFHcSYei5OsTteKykpt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.volume.pro"
-  },
-  {
     "appname": "Digital 14",
     "appdev": "GW Watchfaces",
     "appprice": "$1.49",
@@ -218,46 +188,6 @@
     "appurl": "https://lh3.googleusercontent.com/VBzMt0lR2dZUD-uVfJrLVlWmUQVvHplvkLf5_AiespGydlAe9rAL_qgbNw41Rox8BTIQogkXd1IrwnBzNYcaTzjmJP18RPE3mra4SYUUHjMofhYp=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gw.dg14"
-  },
-  {
-    "appname": "Equalizer FX Pro",
-    "appdev": "WetcRun",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/sGVbin5yC3GQt0O396oEwYPSl3VdWVJIzpPFCqCvZL6WrwgOpkEyjZqza9MIL_4D_Zc8E8MnS74tdcx8Bw3qJgUUZpi4TD6Q8eg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.musicplayer.theme.pro"
-  },
-  {
-    "appname": "Bubble Level PRO",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/YYVXMR4wKkU3Bc-AYY3RRZrM6TqIW1fw-oeC7EsnFf5wJz2JEMTh6b7lP58uFnU-XesKIMfebTIjr3Li-CLeGFIDRYIk0Ih0LLqYue05XkaCJhWu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bubble.level.ruler.pro"
-  },
-  {
-    "appname": "Colonies PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/o1u5ubFdkRNNnO6OBYG2WtqmRAUb0zm2fLNDs95MrfTJTKZKLUWkVvsIpqJ4EMntFTLKAXXrhQeg6TFExShOvnYXWeiSXHR8U7YW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.colonies"
-  },
-  {
-    "appname": "Equalizer Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/IX7jt_3F69ETYf3lsmZFocubJCP8wn3UpUjyyDF8fvY7g4QjVW8Xl16Ke_wpuzXFFEkEmtKtgpJFUShF6qUTyRHoNElLp9swsiA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.music.pro"
   },
   {
     "appname": "Space Shooter: Galaxy Attack",
@@ -398,5 +328,75 @@
     "appurl": "https://lh3.googleusercontent.com/P99TCIHrGJTJLM99ZB2Ylk8Fb5I-M73ae_XW0o9jldjzKfKwIr-8-NT7Bxx3RauwYiNdo7BVjEXjcFDuv7wpppzJV_DS13f7AGvwSWLsfgc9V7Z1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.wordconnectpro2023"
+  },
+  {
+    "appname": "Jewels Planet - Match 3 Games",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
+  },
+  {
+    "appname": "M5 Tank - ForeverBattle BaseTD",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qcKmV1M27GQy7GnZiiM-drX0fo54-LfTmOV0lHSn2TpYKCK6EXNU13PmeOnSMSSwGuwJk-NrqPt-K3xxPHh74E02oBYFjN_4TDUsWLnI-n3AXjDFIA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.m5.tank.r"
+  },
+  {
+    "appname": "Logo Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
+  },
+  {
+    "appname": "Space Rush",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
+  },
+  {
+    "appname": "Trivia Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
+  },
+  {
+    "appname": "Emoji Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
+  },
+  {
+    "appname": "Block Blast - A Retro Game",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
   }
 ]
