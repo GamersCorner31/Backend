@@ -1,5 +1,65 @@
 [
   {
+    "appname": "HMKWatch Funny01",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PkwqNbxZzCd8sKi5J5uRAvVM7LxbzLnovuQbvPuJrC7VEVsAvqYUSHZQCCCDkIyvpeOoh2q-5auB4dO6SiQESH4_zL5J0F5Q3VG2aaOKF6nAhGfY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_funny01"
+  },
+  {
+    "appname": "80s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.70",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
+  },
+  {
+    "appname": "Matrix Determinant Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.49",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/TB7mM-jzOdUfedP0H5AUluAw-sZxKBdxuUJaexbqYsFz4Y9AMKa1J8PxYxlNskCzMifMAjCSlus3eKo5iA_fMORa6_YRyuiyje8d=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=an.DeterminantPro"
+  },
+  {
+    "appname": "90s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.80",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MsdFvhlBHhTXooqmoSkKKGJKr7TdCj9Mh8j4xkbDmhr7ocqvRj80oRDFRPbuIKLOWAcEigUTPFlYZp7BC98nKRGcre5i9GqMFZg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.nineties.pro"
+  },
+  {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appdev": "EA Publishing",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
+    "appname": "Eco inc. Save the Earth",
+    "appdev": "GameFirst",
+    "appprice": "$0.25",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Q6MNLqIYy9E14t1b5yfKdtGGAYKuMHte95sCGdWfzDzaC7s5pGEKYw5MGwgil2TsMtahlyUvL3D_JoHbyT_We0C-w1vMtkxw37Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamefirst.savetheearth"
+  },
+  {
     "appname": "Firefighter",
     "appdev": "Rayan's",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/pKieU9zQ4_TSQvTstVydIDTuLwE_jnH1zRgl7QfZl4NnKy5NapnfWAz3LVbw94H-vHgN4RMzf9B-hJSR1iLMiUZc4OX-BS2PCitbdqsFXcwakHmJ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.iqpuzzlesgames.jewelcrushmatch3puzzle"
-  },
-  {
-    "appname": "Word Connect Pro - 2023",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P99TCIHrGJTJLM99ZB2Ylk8Fb5I-M73ae_XW0o9jldjzKfKwIr-8-NT7Bxx3RauwYiNdo7BVjEXjcFDuv7wpppzJV_DS13f7AGvwSWLsfgc9V7Z1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.wordconnectpro2023"
-  },
-  {
-    "appname": "Jewels Planet - Match 3 Games",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/4wo7cQI6Ru77eqbOlT9wrKZQTgKR6ugIAT0fa-K6DUACl7BzE93UxMXhjFiH2nzQC5j_OtA8hsnUUrf5c05QX6c__GLb9CajktYiV1bNj5EQ0vC6UA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.jewels.planet.match3.puzzle.premium"
-  },
-  {
-    "appname": "M5 Tank - ForeverBattle BaseTD",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qcKmV1M27GQy7GnZiiM-drX0fo54-LfTmOV0lHSn2TpYKCK6EXNU13PmeOnSMSSwGuwJk-NrqPt-K3xxPHh74E02oBYFjN_4TDUsWLnI-n3AXjDFIA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.m5.tank.r"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
-  },
-  {
-    "appname": "Space Rush",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Trivia Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$4.49",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
   }
 ]
