@@ -1,5 +1,105 @@
 [
   {
+    "appname": "SamWatch Korea Taegeukgi",
+    "appdev": "Samtree",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/cMvsjQ032c8_AQp6cecrVrZqq_Fpif_AasHCBVGF4viuawdsxGUjlVwzcaTanJgcsuvm_jtaWVjldZRonz9VhNmRgTPpQLItvVm5beoIMkyt7Ns=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_korea_taegeukgi"
+  },
+  {
+    "appname": "Circle Clear Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rbPh5NK7jsIiboKGrwh_5xOU1eweyiqHLjRp5YOAA10N_Abg5eq-vmsb22rQOlc6rxMcAoPAgL-BOd1OwjKI3Fl8OCGrkPnTegcUExq0SlTfhQ4kJQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circleclear"
+  },
+  {
+    "appname": "Spelling Games PRO 8-in-1",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Af8k5VZzy5GzltLbvIbemGUXc4GfmsKNHKZZMCQszZc8oGMSjT0OJN8SZEruVJILElBBt72W0e4rcuecSM8Vp2lV-SI_b_kQFBM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellinggames6in1"
+  },
+  {
+    "appname": "Rectangles PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6Mji3udpqDnp6zHnS9fzrd5eZDOJEPIbusdSXOIB2SWRQX90TJ1VMNShdTdAyilF-ktSeWQJ9ivpUV1E3ttXeixkzatLmH51Ag=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.rectangles"
+  },
+  {
+    "appname": "CherryLine - Red Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vKjPL79H6wf0NbntwE7ZhZM433XquTOp2q0vhsprf-RDIuwtVwbsh9lWfbWgSPtv9qCbKIUaGTg2TEjQNKpa1RdF7ItR9MK-KcJIYVNOngsiOs3C5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbred"
+  },
+  {
+    "appname": "SamWatch Scenery 2025 ROKorea",
+    "appdev": "Samtree",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/FkcPAs2S-7S2-2zToJmFv2g33_yBfMWP1iWsHm0p6DyHsPWSIqlLJ0irX02FtmU889TOECvGyMwQVae87s1-CffOFsGeIxHpRGarofsSbyik_36f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_scenery_2025_rokorea"
+  },
+  {
+    "appname": "CircleDient Icon Pack Gradient",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tduV4TsPrTwY1bqSHTmoPUuI81XA8aVbqB8qJ1j51tC_jvErPopl4i3s4P7YdtxwuWrC4bt0_u6I8xNzHUT8P05R7E_rM6jUT-qSvsaS84d1JQ3d=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.iconpack.circle.gradient"
+  },
+  {
+    "appname": "Crosswords Word Fill PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
+  },
+  {
+    "appname": "Avalar: Raid of Shadow Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
+  },
+  {
+    "appname": "Image Resizer",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
+  },
+  {
     "appname": "Simple App Locker",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -140,36 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
   },
   {
-    "appname": "GoldOx - The Golden Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/mss-HDsTmfiL6bnsVD0C1vFaa0bigmfy0GnzqrTsvn0t4rGhKQA7j1jVRw9OSjM5TmuF60HCg8_y4CzzKlGJc0LilVHEtVDiric=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goldox"
-  },
-  {
-    "appname": "Bright LED Flashlight Pro",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
-  },
-  {
-    "appname": "Railways - Train Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.49",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/_pLhVCcde-J-gsPmo2UxlnwoKlFkPLr6pIiHj_-wyoYaDtuowCRUmnCQz4QO413x4gmXPhM2eWRWdct93nCcvcLbPFWZ5EpSOFY8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.railways"
-  },
-  {
     "appname": "Takoizu Cyan - Icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -178,16 +248,6 @@
     "appurl": "https://lh3.googleusercontent.com/7o4_vVQZ4v6DLLCyXYhX7j7hwA7cmz85zr7AhpxCGBDCscNxodoDcDFJFb3GH-7ocRdQbCH6EsvncxS9D4S7daOT7k-BcKRP436bltOAXmu7OBSd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscatr"
-  },
-  {
-    "appname": "Traffix: Traffic Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.49",
-    "apprating": "4.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
   },
   {
     "appname": "TripleFantasy Premium",
@@ -300,16 +360,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
   },
   {
-    "appname": "Game Dev Story",
-    "appdev": "Kairosoft",
-    "appprice": "$4.49",
-    "apprating": "4.8",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/T5dCDrHQ23mpLKMqD4mxV0Q5l7LJccGkd_kRTPrgSmz4L8i9fEcOmQywVS2quun3ce7oxpnsyJMJDTl2kTBOXjhwnTCw62rzQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en"
-  },
-  {
     "appname": "DogTok - Dog Translator Pro",
     "appdev": "Ai Apps SRL",
     "appprice": "$2.99",
@@ -318,16 +368,6 @@
     "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "Fire TV Remote Pro",
-    "appdev": "Global Apps and Games",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sjoOVMqjtNao8kmOqYG6Evb1LMkTSFDGuNaAKVTHgnq9uS13onU5IWAXYiEKzwpH38UVEmu-Rge_no_Wd-AtMcRnmSvEzdajphGb1xzfYYNM1DU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.firepro"
   },
   {
     "appname": "Braincup",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Vh-TIatWkIC0oXH8z9UHo-LD2QD-2eifFvGhlPOpERmifR-SVR0GG19tL1rS3zV-DvtKgoFU4rHGxcjQcO3ldsGyxT9Y5eFGcr1Cen57Lsw6_IF9=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octagon"
-  },
-  {
-    "appname": "OctaRing - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/3Fdl3CaBRkyqO_cp4UTVxnr6epuAZ2NWYI-YdrZEB70jJjzQw_wBVqZO2Wa-YX5c8x2MqJwih8sWJBMCqE8wQZXbO0lrraUk6qaTQQEchyHoUzlD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octaring"
-  },
-  {
-    "appname": "Octacrop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
-  },
-  {
-    "appname": "Emerald - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nU9GjLjzNrMGXi-WSaErupqMwu1T88aBMpgZJMVNyxJ7qhpzVdzMbTx6LUwP6k7G6gia2NF3ceAgud9eIdn4Dl5yhe8KA_WWOE62uAE4DXJat1ke=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darktosca"
-  },
-  {
-    "appname": "Simple Quote Widget",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c9m_EMbQ3zwS-0y25VLNZvQ4B6LZvDSyeH6WGwR9V3F_hjVWVZidZ4VwrsTOPEXiPcULUZGAYLb-6fJzmCd-Q41OuGXHYR5vvsmL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
   }
 ]
