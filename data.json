@@ -1,5 +1,15 @@
 [
   {
+    "appname": "HMKWatch Digital 042",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bkabU4XnHvse5jVoo9oo5KAkq4KYUxUYCNFol9kZk2yc0XYXoKQbtBSsR2UjyOGQpahO2fgWA3YJZYeSQicsZU3JQ4ywYPpcgNln74gOqVn2wkXp=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_042"
+  },
+  {
     "appname": "[VIP]UFO DUDE RPG : idle wars",
     "appdev": "Artifact Games",
     "appprice": "$2.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "Braincup",
-    "appdev": "Simon Schubert",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
   }
 ]
