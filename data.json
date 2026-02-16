@@ -1,5 +1,25 @@
 [
   {
+    "appname": "[VIP]UFO DUDE RPG : idle wars",
+    "appdev": "Artifact Games",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IhR7AASaom8c5lPpGdzkzB9Y_6zNtnAxb4Dq9ceyuescwNCIv3mOEVdzyNFo3aGTKedPkUaR2tqwvOKGnNxco41rUjNv6jm_Ezia13yFVChaQ-Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.artifact.uforpgvip"
+  },
+  {
+    "appname": "[VIP] Missile Dude RPG : idle",
+    "appdev": "Artifact Games",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
+  },
+  {
     "appname": "SamWatch Korea Taegeukgi",
     "appdev": "Samtree",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
-  },
-  {
-    "appname": "TimeFlow Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PjrcX0Io9vSdCVR1QosL_lm82mJGckn_iahPhrbqQP47em-AO-dFZqHzP58nOJ9qensrZJu0VZbIFoHx3SHAZtdduf2Jc8-9aqafG7tRhoR6QOI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeFlow"
-  },
-  {
-    "appname": "Octagon - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Vh-TIatWkIC0oXH8z9UHo-LD2QD-2eifFvGhlPOpERmifR-SVR0GG19tL1rS3zV-DvtKgoFU4rHGxcjQcO3ldsGyxT9Y5eFGcr1Cen57Lsw6_IF9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octagon"
   }
 ]
