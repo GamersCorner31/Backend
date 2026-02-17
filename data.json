@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Warriors' Market Mayhem VIP :",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
+  },
+  {
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
+  },
+  {
     "appname": "Crossword Quest Premium",
     "appdev": "A.V.A - puzzles games",
     "appprice": "$2.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
-  },
-  {
-    "appname": "Takoizu Cyan - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7o4_vVQZ4v6DLLCyXYhX7j7hwA7cmz85zr7AhpxCGBDCscNxodoDcDFJFb3GH-7ocRdQbCH6EsvncxS9D4S7daOT7k-BcKRP436bltOAXmu7OBSd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscatr"
-  },
-  {
-    "appname": "TripleFantasy Premium",
-    "appdev": "Gameplete",
-    "appprice": "$11.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
   }
 ]
