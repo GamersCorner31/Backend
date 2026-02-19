@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Dream 153 Digital Watch Face",
+    "appdev": "Monkey's Dream",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TcjKkUmHgVx7dR5c_EjDlrmyRxByQawwl4PpnfG_3HJ0mYEULkE4iCapfTIGyaKMAqunGhqbeXwpDEo52wW_r-rvtvO8cZCIrIQieP8klHicub3zMg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dream153"
+  },
+  {
     "appname": "Infinity Tank Battle - 8 bit",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -170,16 +180,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.touchlock"
   },
   {
-    "appname": "HMKWatch Digital 042",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/bkabU4XnHvse5jVoo9oo5KAkq4KYUxUYCNFol9kZk2yc0XYXoKQbtBSsR2UjyOGQpahO2fgWA3YJZYeSQicsZU3JQ4ywYPpcgNln74gOqVn2wkXp=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_042"
-  },
-  {
     "appname": "[VIP]UFO DUDE RPG : idle wars",
     "appdev": "Artifact Games",
     "appprice": "$2.49",
@@ -200,16 +200,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
   },
   {
-    "appname": "SamWatch Korea Taegeukgi",
-    "appdev": "Samtree",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/cMvsjQ032c8_AQp6cecrVrZqq_Fpif_AasHCBVGF4viuawdsxGUjlVwzcaTanJgcsuvm_jtaWVjldZRonz9VhNmRgTPpQLItvVm5beoIMkyt7Ns=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_korea_taegeukgi"
-  },
-  {
     "appname": "Circle Clear Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -218,26 +208,6 @@
     "appurl": "https://lh3.googleusercontent.com/rbPh5NK7jsIiboKGrwh_5xOU1eweyiqHLjRp5YOAA10N_Abg5eq-vmsb22rQOlc6rxMcAoPAgL-BOd1OwjKI3Fl8OCGrkPnTegcUExq0SlTfhQ4kJQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circleclear"
-  },
-  {
-    "appname": "Spelling Games PRO 8-in-1",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Af8k5VZzy5GzltLbvIbemGUXc4GfmsKNHKZZMCQszZc8oGMSjT0OJN8SZEruVJILElBBt72W0e4rcuecSM8Vp2lV-SI_b_kQFBM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellinggames6in1"
-  },
-  {
-    "appname": "Rectangles PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6Mji3udpqDnp6zHnS9fzrd5eZDOJEPIbusdSXOIB2SWRQX90TJ1VMNShdTdAyilF-ktSeWQJ9ivpUV1E3ttXeixkzatLmH51Ag=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.rectangles"
   },
   {
     "appname": "CherryLine - Red Icon Pack",
@@ -250,16 +220,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbred"
   },
   {
-    "appname": "SamWatch Scenery 2025 ROKorea",
-    "appdev": "Samtree",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FkcPAs2S-7S2-2zToJmFv2g33_yBfMWP1iWsHm0p6DyHsPWSIqlLJ0irX02FtmU889TOECvGyMwQVae87s1-CffOFsGeIxHpRGarofsSbyik_36f=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_scenery_2025_rokorea"
-  },
-  {
     "appname": "CircleDient Icon Pack Gradient",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -268,16 +228,6 @@
     "appurl": "https://lh3.googleusercontent.com/tduV4TsPrTwY1bqSHTmoPUuI81XA8aVbqB8qJ1j51tC_jvErPopl4i3s4P7YdtxwuWrC4bt0_u6I8xNzHUT8P05R7E_rM6jUT-qSvsaS84d1JQ3d=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.iconpack.circle.gradient"
-  },
-  {
-    "appname": "Crosswords Word Fill PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
   },
   {
     "appname": "Avalar: Raid of Shadow Premium",
@@ -308,16 +258,6 @@
     "appurl": "https://lh3.googleusercontent.com/lEHslF02nNN6I8yJ10rE03dY9slXyBcX3BbB5pEI_4AQb_GP1bxitkqJmFNQ_JV4-mlFFonoKFAx_it5joYk9SnR8sYlZ6tYLzynR8FvGMBwytAf=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleapplocker"
-  },
-  {
-    "appname": "HMKWatch Funny01",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PkwqNbxZzCd8sKi5J5uRAvVM7LxbzLnovuQbvPuJrC7VEVsAvqYUSHZQCCCDkIyvpeOoh2q-5auB4dO6SiQESH4_zL5J0F5Q3VG2aaOKF6nAhGfY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_funny01"
   },
   {
     "appname": "80s Music Radio Pro",
@@ -398,5 +338,65 @@
     "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
+  },
+  {
+    "appname": "Dark screen filter",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6pDLO2afuRRGdVp3SkyuOW9bCpiIKJt6Ctt6G-a9py2dTyU0YDb5Khg3dxT2oJwASliz3oPCX46k74WpuKMyxvzKHiHQMjTAw9Yt4Os1hThtY2vwfA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro"
+  },
+  {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
+    "appname": "Takoizu Cyan - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7o4_vVQZ4v6DLLCyXYhX7j7hwA7cmz85zr7AhpxCGBDCscNxodoDcDFJFb3GH-7ocRdQbCH6EsvncxS9D4S7daOT7k-BcKRP436bltOAXmu7OBSd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscatr"
+  },
+  {
+    "appname": "TripleFantasy Premium",
+    "appdev": "Gameplete",
+    "appprice": "$11.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
+  },
+  {
+    "appname": "Pixel Net - Neon Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9HDKEJlXc_jCpOvC9HY9Qd2OuL74oVFhlIJhxQMXKOMAlPDqQHBd5z08R8-zRflKjEYBtoCp02m15GFrSJbw5jf5WsY-u8mgzkY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net"
+  },
+  {
+    "appname": "Square 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8VoT-oz5X2ZtV53ODg0oO2DEdtHasZy64O9wfohStLEFs5U2PtoCUGH2IaSt_vkkd9iXe2ZdZpmzeg_lTHlWjLYR8RpYBBaK_2PhCn9TafHdnJ95=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.square3d.theme"
   }
 ]
