@@ -1,5 +1,25 @@
 [
   {
+    "appname": "MiniRace",
+    "appdev": "Arabati",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ePLwQHmNRpaSQ_rbc64GbwUSVSuYlrGoHWJMyXKNVC78snqA8N0pqL8UT1HNW9Ja7gXhkqjiPWMzqBgtMvIWT6h1T4y85U5NDnM5I3AbDY1ot5v4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.arabati.minirace"
+  },
+  {
+    "appname": "Winter Season Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/YyInE5P6h21PmU-43ulP0GpoHk9fxjInD4LLiH-k2GxGmKj5FTd_hwIVghekfY-Arf8e1I49Ai5uwXtJnETv_89FD6QyZ6W5aQCHVwJoqL5-FG9c=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.winterseason"
+  },
+  {
     "appname": "Grow Spaceship VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IhR7AASaom8c5lPpGdzkzB9Y_6zNtnAxb4Dq9ceyuescwNCIv3mOEVdzyNFo3aGTKedPkUaR2tqwvOKGnNxco41rUjNv6jm_Ezia13yFVChaQ-Y=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.artifact.uforpgvip"
-  },
-  {
-    "appname": "[VIP] Missile Dude RPG : idle",
-    "appdev": "Artifact Games",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "Circle Clear Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rbPh5NK7jsIiboKGrwh_5xOU1eweyiqHLjRp5YOAA10N_Abg5eq-vmsb22rQOlc6rxMcAoPAgL-BOd1OwjKI3Fl8OCGrkPnTegcUExq0SlTfhQ4kJQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circleclear"
   }
 ]
