@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Pendulum Hybrid Watch Face",
+    "appdev": "RazorSharp Design Studio",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/9SbRQcioRNOClZqW86OOls-DgwyHpBay2Y8hmg5aYZ-uleaaQ8_yjGmlyiQB3S0L0BouQmc2ftjHRakIK22k801iOr0KiYjquKs6zA8hvpD_jxTQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rzrdesign.pendulum"
+  },
+  {
     "appname": "MiniRace",
     "appdev": "Arabati",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/HxxsSdqHSpLkL8-v-hhZzKOmo-XGegNFi6_xztMTeq3EDDbppqP4eFPuVaovvkclwJYu-FugByfHSG090s7zuD8iKL49odgTYZMCsOiKl6txY5k=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.touchlock"
-  },
-  {
-    "appname": "[VIP]UFO DUDE RPG : idle wars",
-    "appdev": "Artifact Games",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IhR7AASaom8c5lPpGdzkzB9Y_6zNtnAxb4Dq9ceyuescwNCIv3mOEVdzyNFo3aGTKedPkUaR2tqwvOKGnNxco41rUjNv6jm_Ezia13yFVChaQ-Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.artifact.uforpgvip"
   }
 ]
