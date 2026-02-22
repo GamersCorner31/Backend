@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Impact - Protect Earth",
+    "appdev": "Quantic Bit",
+    "appprice": "$0.05",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ynLQcnEyqPngL0dS31Poqco21loNg44BDXnrOqJQ-0FGyuIfZiUfJ3FVufgTiRPp7w7c4OdjEjibMwNo1zhmUGLicK1aLa2aBE8yftqW5ZBSiYc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.Impactum"
+  },
+  {
+    "appname": "Flappy Frog",
+    "appdev": "Quantic Bit",
+    "appprice": "$0.05",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/-ULJ9lQ3oUUIXw7mFDkiq4c3BMktUy88jBJr2t0ihp6kpOMxXIHN8rImgj0lnroENJ9B-EwsbejKN7yJsqfMG_4obz-2gkZ-IbKCfRRbBs4JvxHdug=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.FlappyFrog"
+  },
+  {
+    "appname": "W6 Field Watch Face Wear OS 5+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8gU0jZqGGRBvD6FFn1CQGuwYxrwl7MOqzxnpB3nUnbigEPPYcDeByUYRBhIh0ynfibGmALextRMxUE99GKToLQCL5oj1eIaACo6b4shrCiMU2Zo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.w6f"
+  },
+  {
     "appname": "Pendulum Hybrid Watch Face",
     "appdev": "RazorSharp Design Studio",
     "appprice": "$1.99",
@@ -18,16 +48,6 @@
     "appurl": "https://lh3.googleusercontent.com/ePLwQHmNRpaSQ_rbc64GbwUSVSuYlrGoHWJMyXKNVC78snqA8N0pqL8UT1HNW9Ja7gXhkqjiPWMzqBgtMvIWT6h1T4y85U5NDnM5I3AbDY1ot5v4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.arabati.minirace"
-  },
-  {
-    "appname": "Winter Season Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/YyInE5P6h21PmU-43ulP0GpoHk9fxjInD4LLiH-k2GxGmKj5FTd_hwIVghekfY-Arf8e1I49Ai5uwXtJnETv_89FD6QyZ6W5aQCHVwJoqL5-FG9c=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.winterseason"
   },
   {
     "appname": "Grow Spaceship VIP",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/JwFyEFQBdmGz5jZv3F1xeIFZ6RiA5qdLTwtYDK5B_26yCjdENDDNwopNgZ7C7xJtwCcew6om7ijKZEEdYR4J65srJAjpG1fSGx3Yb3nFBb3E03Wj=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.crazy.running.bird.r"
-  },
-  {
-    "appname": "Undead Slayer: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
-  },
-  {
-    "appname": "Touch Lock : Lock touch screen",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HxxsSdqHSpLkL8-v-hhZzKOmo-XGegNFi6_xztMTeq3EDDbppqP4eFPuVaovvkclwJYu-FugByfHSG090s7zuD8iKL49odgTYZMCsOiKl6txY5k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.touchlock"
   }
 ]
