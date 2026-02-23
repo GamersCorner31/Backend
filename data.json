@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Pixel Cubic 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
+  },
+  {
+    "appname": "Iris Light Flat 3D Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
+  },
+  {
+    "appname": "Monster Killer Pro - Shooter",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
+  },
+  {
+    "appname": "Dock 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/iWwoGg1LiZpy6iZUyuviCUvnmVEdJusya65s0l-VkRoEUzdydKNSvuNrAtN-cKK_fKAEPODdjkTRucMHwiZUQf66mVY5E_8hho8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock"
+  },
+  {
+    "appname": "CircleDock 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ZJp9KGKYENvrXqVsl3smJUm6cXT_Xe2qA5r6JDj36fQCnAFPgX3O93xvoC4euR7K3_irHQXdb9UKV2ol534t_MHfzUmesSa2vw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle"
+  },
+  {
+    "appname": "Flat 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EaDHLSHlnPv4O4dpVBEtY_nmRFIOYoqTOLi2xfWDLD6AduZ70tPunqrYDDEiAhHPA3Ak2oEsSK3eIyXZMtnzrfQGRRk4l0giNd3q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.flat3d"
+  },
+  {
+    "appname": "Purple - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/HA_qlAgIoP3-D3Cu74egT3m-P5xlwwFcf708YF68mga4-NltT0Sno_p284RxRU32o5h6L1XtVcCs3GqWlMNbCf9cLL31GueK3p6yiFXsMdkwJ58C=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purple"
+  },
+  {
+    "appname": "Cerco Pro",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9wUKzdyRulkK066MX3PoIBR0pfBimB9reRfYEeIpC4hO_GtW08EBleYDa40X9j3tpMq8kuorQY2t0OX9Zknw3gzjKEULsC32gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.cercopro"
+  },
+  {
+    "appname": "Valentine Premium - Icon Pack",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/QD--_46ZCUmj_eK6S6GidNYNH7iENfMTdcNOM3NJSg-9DsYQPt0i71SlMOf6EYHl1qe8UHAX0iqDfNZYqa3PPmTYvbM-allk75k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.valentinepremium"
+  },
+  {
+    "appname": "Floreal Rosa Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/lkI3gRDNBEQv42F5CIFnrCi-P_mirbS1aae5rCa-8usCL2UGMwSrG-XNZEfUpKiAP60fFSjSD8oDq8s7MIvko_6ZfFvhe8GeW-CehOwsyuWteNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.florealrosa"
+  },
+  {
     "appname": "Impact - Protect Earth",
     "appdev": "Quantic Bit",
     "appprice": "$0.05",
@@ -98,16 +198,6 @@
     "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
-  },
-  {
-    "appname": "Neo Monsters",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
   },
   {
     "appname": "[365fun] Fortress2",
@@ -240,16 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
   },
   {
-    "appname": "Goody Icon pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kVyHwfn1EArwmwQb0h3qB8YSCJGJIS_ctVBfujGSUycedI_ZcV1YNUoWNqlSVa9AtCSmq2om7r_yrKM-nBZgVLYt854bfYhjh2E=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goody"
-  },
-  {
     "appname": "Kids Coloring & Brain games",
     "appdev": "Abuzz",
     "appprice": "$6.99",
@@ -258,16 +338,6 @@
     "appurl": "https://lh3.googleusercontent.com/U-yCbJieGd8tnPlVRqd6UykyPkB_ql6-ykrVkD65i6huNQRFaTbCeEAzohX3Sc6__qsbo2StNO-RrwvrFeq4RNsb_MNvWtu48Ow=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.ColoringBook"
-  },
-  {
-    "appname": "Dream 153 Digital Watch Face",
-    "appdev": "Monkey's Dream",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TcjKkUmHgVx7dR5c_EjDlrmyRxByQawwl4PpnfG_3HJ0mYEULkE4iCapfTIGyaKMAqunGhqbeXwpDEo52wW_r-rvtvO8cZCIrIQieP8klHicub3zMg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.dream153"
   },
   {
     "appname": "Infinity Tank Battle - 8 bit",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Crossword Quest Premium",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/O2QvPrMRiLdbi_34QDKwLT6kZY_vVEzOSbkEc80nS6tYXCeWNeQrO-ruQQW5p_BkvHGWpAPpUeKE1TuzdrhzaX7MA_yOflsBc_A1HMBNTQWXGwOo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.CrosswordQuestPremiumGames"
-  },
-  {
-    "appname": "Athlete 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/x4D4kJVG788UTTBnVbur_kRK8NKYThfMeK4ynSETcZ4iWpyoVw-M5T8RvInayF4Ep1zI0XOYiDa7liHJ5NLv0WgQ_5wnfD20E8Z6rXtXDR_ybRCH=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.athlete2"
-  },
-  {
-    "appname": "Word Game Wonders: Crossword",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/G0i1dEfisukeHlrEKas6O_0T4TZ7oA8vH0NiyM5ynoXgGnzfXcGAix8K2Fy3Py0xFsEkES6fRfGOOB-wJ6MFr9MQXQJhL-YC6aImeYek69f4s80=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush.wonders"
-  },
-  {
-    "appname": "Jewels Planet - Match 3 Jewels",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/crKHowElKrsEzLpjV0aPKrjx-CR32j01d9sJhg0gL34cYwXznoGMeIDtDwxtQ8tn4mrxGU2AOOAsWD0zHoxM90w8pgRI5QEKq8DOEK8j10fve6-Z3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.JewelsLegend2023"
-  },
-  {
-    "appname": "Ludo 3D - Aeroplane Chess",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3cifOM9cR14de4grXh5lA8E9UH53Lc8X_aAWhwwlv2ZFWGYcCyCJVo592TOx_AGrVqYo1uqaqjBZte5gp1ax1-Yu9Oab8O5jHr-rmbcmNzeeQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.waterpower.ludo3d.r"
-  },
-  {
-    "appname": "VPN Pro - Secure VPN Premium",
-    "appdev": "AZTTY LLC",
-    "appprice": "$4.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
-  },
-  {
-    "appname": "Crazy Running Bird",
-    "appdev": "UnknownProjectX",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JwFyEFQBdmGz5jZv3F1xeIFZ6RiA5qdLTwtYDK5B_26yCjdENDDNwopNgZ7C7xJtwCcew6om7ijKZEEdYR4J65srJAjpG1fSGx3Yb3nFBb3E03Wj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.crazy.running.bird.r"
   }
 ]
