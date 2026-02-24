@@ -1,5 +1,125 @@
 [
   {
+    "appname": "QR and Barcode Scanner PRO",
+    "appdev": "Apps360 Team",
+    "appprice": "$5.99",
+    "apprating": "4.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
+  },
+  {
+    "appname": "Sudoku.org - LAN Battle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
+  },
+  {
+    "appname": "Monster Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/yIbkilLL7eC7HE55-9IYzgBNqIuYwzpWeVz8VKLkJPqvZtpgt4BYp2C7QEw4tXklLcTAMpk06kSykMuHjysD_dhcwwgNZxBQyu1_hINhcHfNgPOFuQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.monstercash"
+  },
+  {
+    "appname": "Sand And Water",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/2W8tFnK5Ub4mdApeTwgmB6eDsNEf2ZgzK0QzYTr4CDQuQsusnCv5ttHnvY_PBElMu5-TJ0I96HGvI5DmPq8TM2yFN842-2UDpRRa-GmHxuGn4W1lgg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sandnwater.r"
+  },
+  {
+    "appname": "25 Dollars Challenge",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/X4wcOXq0N5NozI_bMi5xlE2euHH3Jow2GvUnvtPlU2zzIbfNEqtfPZSjpleaEcHMYLf-uhUZDyxK7UMhGUNTnWyHwqeGlMRYmgUTg3fZBEYS5Ik=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.twentyfivedollarschallenge"
+  },
+  {
+    "appname": "Cash Shark - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/pN3KhSKKqgYhH1dqxlhnUHfCZuyHDRWsP4b3ZVC4ECgN9ybaKLuzRc59-UYEFBYcbcqbZG3nYTELq5opPdzq57fq7m_UGi8m2265u30UVUfvseE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashshark"
+  },
+  {
+    "appname": "Golden Ball - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_utFUTuxrdIIL9rRNyKWlWXRS-jNWQdm1EFEQ7Ox0j7jp31nivYuzC8XJrmQeZFs09jq66hmLXXwwCiGBnsgihXc_gk2jGnZSueN6x55O9BnOc1xvA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball"
+  },
+  {
+    "appname": "PDF Reader & Editor (PRO)",
+    "appdev": "Apps360 Team",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
+  },
+  {
+    "appname": "Cash Quiz - Animal Edition",
+    "appdev": "Minos Lab",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
+  },
+  {
+    "appname": "Boxing Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
+  },
+  {
+    "appname": "Resize Me! Pro - Photo resizer",
+    "appdev": "XnView",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/rvyP_-ylZzi2VzDB9A-OMxolJJTdSk1WKqP_vUgPPX9R2CzQG1GJFApArcJPsv9LPfHK-R3PoiEcgN6Ncn0rwROGHeA64jLX4II=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.xnview.XnResize"
+  },
+  {
+    "appname": "A320 ECAM Reset Pro",
+    "appdev": "Cave Club",
+    "appprice": "$8.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hkR4bEC8_hb7ROIWDj-qpxYOqnieuyo_XcpcWkvFeg1dyoHd0n7iJGdBSsirmD_QOsiekfpPG3UnzLqvywKy3yRgZ3E2RUMel09SulDkQzlZvxo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.cave.ecam"
+  },
+  {
     "appname": "Pixel Cubic 3D - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -108,16 +228,6 @@
     "appurl": "https://lh3.googleusercontent.com/-ULJ9lQ3oUUIXw7mFDkiq4c3BMktUy88jBJr2t0ihp6kpOMxXIHN8rImgj0lnroENJ9B-EwsbejKN7yJsqfMG_4obz-2gkZ-IbKCfRRbBs4JvxHdug=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.FlappyFrog"
-  },
-  {
-    "appname": "W6 Field Watch Face Wear OS 5+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8gU0jZqGGRBvD6FFn1CQGuwYxrwl7MOqzxnpB3nUnbigEPPYcDeByUYRBhIh0ynfibGmALextRMxUE99GKToLQCL5oj1eIaACo6b4shrCiMU2Zo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.w6f"
   },
   {
     "appname": "Pendulum Hybrid Watch Face",
@@ -288,115 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/d28eTJX7AjB8YrHnxlbqYBoKag5S5glTZtrSiNi_wv6iTXqWzWDq1FvbmlBdF3pwrZSfXIgj6XmOLsligBFj7COevcr7sBuwNnp1XncmmU5QeiXVPA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circlelines"
-  },
-  {
-    "appname": "Lines Circle - White Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
-  },
-  {
-    "appname": "Defense Zone HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
-  },
-  {
-    "appname": "Dock Outline - 3D Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/Y0S5Lc24-1JJhm08cb-vv_OjMMwukT6kbgw_2_1DkouGO1KHRaYFD-R47NleAbBcEfMg2_DeSv6Wx2nL2WwaLYIa9NdsyUtz24M5LWCIioTy14xwEg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nambuladock"
-  },
-  {
-    "appname": "Pixel Net White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/bja-4nCZ89PE6832-57wPPQ3XgOFi-ZPPKOtkqoI31dSRCRvQ9e4a-vzeiu3GrkFpaxzVem4RzSxhx1MReiM-pLa2lNjSGszHg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
-  },
-  {
-    "appname": "Kids Coloring & Brain games",
-    "appdev": "Abuzz",
-    "appprice": "$6.99",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/U-yCbJieGd8tnPlVRqd6UykyPkB_ql6-ykrVkD65i6huNQRFaTbCeEAzohX3Sc6__qsbo2StNO-RrwvrFeq4RNsb_MNvWtu48Ow=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.ColoringBook"
-  },
-  {
-    "appname": "Infinity Tank Battle - 8 bit",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rEeO8XcC5DYOOYDP-eb0N6SchEn1tcBk6UtWmdYms79z-m1cFyTP2tM_giKvYObr00qm4Ug_N6SDZ96I4xPJimWdpA9tSTXcgD17dWSgyer8ZWM8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankbattle2.r"
-  },
-  {
-    "appname": "Nomad Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/yx7P3I685v2PhKqozVCYtk4wErey1DXIx5D9fR6a6DF73f0qHV2A2s8hMAwqx90477zcRYkcB203o6416bSYnpfowYoSjWtJvSuK9Pdp5YhIjMw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.nomad"
-  },
-  {
-    "appname": "Throw Bomb - Entertainment",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/HdRE5ssoBSmQ1spBVH-WY_yB2g8_kh17-oGRyL4A0JNM41vBul_2JMq_O_ukO-UeL0GqEPdkBesqmRcEWByrwSpIpF9jfobePPfLAW6bFvPNxjk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.throwbomb.r"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "Warriors' Market Mayhem VIP :",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
-  },
-  {
-    "appname": "Cooking Quest VIP : Food Wagon",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
   }
 ]
