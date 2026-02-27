@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Cyberpunk Deck Watch Face",
+    "appdev": "RazorSharp Design Studio",
+    "appprice": "$2.99",
+    "apprating": "3.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KFCstxuic5s5XhOwpIxDQeFesBecNRZ2HGcWUuKy-iUtoG-IXxL5cbaVQHBbGETfQsNRjHsJtbtMJlRZ8sXJIO26hdjk99p2IBruGiy2qvi9ML5kYg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rzrdesign.cyberdeck"
+  },
+  {
     "appname": "Longines Heritage AWTA7",
     "appdev": "SA11",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/hkR4bEC8_hb7ROIWDj-qpxYOqnieuyo_XcpcWkvFeg1dyoHd0n7iJGdBSsirmD_QOsiekfpPG3UnzLqvywKy3yRgZ3E2RUMel09SulDkQzlZvxo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=net.cave.ecam"
-  },
-  {
-    "appname": "Pixel Cubic 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
   }
 ]
