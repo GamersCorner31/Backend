@@ -1,5 +1,35 @@
 [
   {
+    "appname": "MNML Glow: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/x8OUuOlhhyU_yY-W3KI62nP0LErGTJ9nYvSwcOM9vw8s5omC1_kQqwyaf_iw1wGNzGaQ1HHuFriECg2hiD7t9GnLOK0cZNhOsBNTqUdyJVphPrtk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlglow"
+  },
+  {
+    "appname": "Sudoku Master 2023 : Offline",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/pc3USv4R9nwra0vkwSoCxNOgq1SHTxgXQ6IgLfnGGBoDLU_nQRFWo6jqn_iDuIIuNxMQz38oV3Ctj7cq-Akkgr5thQiAlAbhHBbxx7a4PbSiJrs5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.sudokumaster2023"
+  },
+  {
+    "appname": "Word Cross Puzzle - Word Games",
+    "appdev": "Premium Quality Apps",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/G4bNiiwG515P_eWHUTdCS6vFZdZIGzrkizuwdMKG6uWaz8IbaQFljh-0w8gp-3Y2zMgO-hTCLaFB8Ofu4Dn8zNXy3GDtldcT_0vkPF-rlDQDD4bJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.geosoftech.wordcross"
+  },
+  {
     "appname": "Water Sort - Color Puzzle Pro",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$2.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
-  },
-  {
-    "appname": "Sudoku.org - LAN Battle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
-  },
-  {
-    "appname": "Monster Cash - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/yIbkilLL7eC7HE55-9IYzgBNqIuYwzpWeVz8VKLkJPqvZtpgt4BYp2C7QEw4tXklLcTAMpk06kSykMuHjysD_dhcwwgNZxBQyu1_hINhcHfNgPOFuQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.monstercash"
-  },
-  {
-    "appname": "Sand And Water",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/2W8tFnK5Ub4mdApeTwgmB6eDsNEf2ZgzK0QzYTr4CDQuQsusnCv5ttHnvY_PBElMu5-TJ0I96HGvI5DmPq8TM2yFN842-2UDpRRa-GmHxuGn4W1lgg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sandnwater.r"
   }
 ]
