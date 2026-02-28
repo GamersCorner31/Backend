@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Chinese Checkers Master",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JJ6d7fdFoXN6KTiry81AD4cpILmQoblXxgZ3Fulnk5HJytYRo1RxiPdxfCCLX-5v434qmdtO_19zjciX9Q7CHpPlf59jxwdJ4ruQi7JZM-PQt7nX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.chinese.checkers.r"
+  },
+  {
+    "appname": "Fake call screen - Prank call",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
+  },
+  {
     "appname": "Cyberpunk Deck Watch Face",
     "appdev": "RazorSharp Design Studio",
     "appprice": "$2.99",
@@ -240,16 +260,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
   },
   {
-    "appname": "Maths Puzzle: Maths Game Pro",
-    "appdev": "Premium Quality Apps",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/R-98Z2PE1QGi4jFCeBqhDlLsZ0S8lhFdDsxXZx7YZDGM7AXPcEaP0ymTWrC9tKxDOFHdYv8iqkdFhVeI3PUzW1dASxpzHAeXCE8fR2MDoRJMcEfm9w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=cloud.boomdigital.mathsgames"
-  },
-  {
     "appname": "Brain Card Game - Xbar10n",
     "appdev": "İlhami Savaş OKUR",
     "appprice": "$0.49",
@@ -268,26 +278,6 @@
     "appurl": "https://lh3.googleusercontent.com/D25nU36vzW6EAY-gAwg5IjjJZ74Dvpv4Uw0FoZ8n7KQQ3wWEVZXGoH6-weYX9RXVK-c67bWYZpH9VI8MKUQAAwAXw5tvK-nuXfX9rK8wd_pMheFP=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush"
-  },
-  {
-    "appname": "Word Search Champion PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
-  },
-  {
-    "appname": "Words Everywhere PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
   },
   {
     "appname": "QR and Barcode Scanner PRO",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/hkR4bEC8_hb7ROIWDj-qpxYOqnieuyo_XcpcWkvFeg1dyoHd0n7iJGdBSsirmD_QOsiekfpPG3UnzLqvywKy3yRgZ3E2RUMel09SulDkQzlZvxo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=net.cave.ecam"
+  },
+  {
+    "appname": "Pixel Cubic 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
   }
 ]
