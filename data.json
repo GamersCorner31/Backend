@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Water Sort - Color Puzzle Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
+  },
+  {
+    "appname": "Jewels Charm: Match 3 Game Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
+  },
+  {
+    "appname": "EHW Premium & stick fight",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
+  },
+  {
+    "appname": "Live or Die 1: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
+  },
+  {
+    "appname": "FPS Gun Game 3D: Shooter Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/1aBiQjYz7c8tk_EUMlWijSpQd4edO33JKgAOzWvkBvXaht44x78he3wfGEE3i9dpkXrPJkNqFJbfm1hfNn_T_iaULZAdT1cSS1av3WqejzpiXuFZuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.gun.games.shooting.shooter.strike.fps.csgo.combat.sniper.zombie.modern.action.ops"
+  },
+  {
+    "appname": "Add Frames to photos",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
+  },
+  {
+    "appname": "Business Card Maker: Logo Card",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
+  },
+  {
+    "appname": "Bookmark Manager - URL manager",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
+  },
+  {
     "appname": "Chinese Checkers Master",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/2W8tFnK5Ub4mdApeTwgmB6eDsNEf2ZgzK0QzYTr4CDQuQsusnCv5ttHnvY_PBElMu5-TJ0I96HGvI5DmPq8TM2yFN842-2UDpRRa-GmHxuGn4W1lgg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sandnwater.r"
-  },
-  {
-    "appname": "25 Dollars Challenge",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/X4wcOXq0N5NozI_bMi5xlE2euHH3Jow2GvUnvtPlU2zzIbfNEqtfPZSjpleaEcHMYLf-uhUZDyxK7UMhGUNTnWyHwqeGlMRYmgUTg3fZBEYS5Ik=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.twentyfivedollarschallenge"
-  },
-  {
-    "appname": "Cash Shark - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/pN3KhSKKqgYhH1dqxlhnUHfCZuyHDRWsP4b3ZVC4ECgN9ybaKLuzRc59-UYEFBYcbcqbZG3nYTELq5opPdzq57fq7m_UGi8m2265u30UVUfvseE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashshark"
-  },
-  {
-    "appname": "Golden Ball - Earn Money",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_utFUTuxrdIIL9rRNyKWlWXRS-jNWQdm1EFEQ7Ox0j7jp31nivYuzC8XJrmQeZFs09jq66hmLXXwwCiGBnsgihXc_gk2jGnZSueN6x55O9BnOc1xvA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball"
-  },
-  {
-    "appname": "PDF Reader & Editor (PRO)",
-    "appdev": "Apps360 Team",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
-  },
-  {
-    "appname": "Cash Quiz - Animal Edition",
-    "appdev": "Minos Lab",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
-  },
-  {
-    "appname": "Resize Me! Pro - Photo resizer",
-    "appdev": "XnView",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/rvyP_-ylZzi2VzDB9A-OMxolJJTdSk1WKqP_vUgPPX9R2CzQG1GJFApArcJPsv9LPfHK-R3PoiEcgN6Ncn0rwROGHeA64jLX4II=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.xnview.XnResize"
-  },
-  {
-    "appname": "A320 ECAM Reset Pro",
-    "appdev": "Cave Club",
-    "appprice": "$8.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/hkR4bEC8_hb7ROIWDj-qpxYOqnieuyo_XcpcWkvFeg1dyoHd0n7iJGdBSsirmD_QOsiekfpPG3UnzLqvywKy3yRgZ3E2RUMel09SulDkQzlZvxo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.cave.ecam"
-  },
-  {
-    "appname": "Pixel Cubic 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
   }
 ]
