@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Cutout Premium",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
+  },
+  {
     "appname": "Stick - Remote Control TV Pro",
     "appdev": "Ai Apps SRL",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/T8PwZSO8a2QLHhthqtxRw-4mRO5GBEq2P5-_RMbCJnkwNcI49ZQFxN7fOM9A9C0HhYs-1SBKQXWkQ0fW0OVgu1KTyvU-qS04-c6rLtRWJ6dlSObg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfnewdigital2"
-  },
-  {
-    "appname": "Contact Edge side bar",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5FheGpOQzNyLBkbKupy-VbUoGYAORrEd9la0QjjXjWdx-dYmxrXziuaKKLjMSkTFvE2H6pCgQ9XsIdHH0kQnV8X34T_wvahoYdH9XmD6yvi38EYc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar"
   }
 ]
