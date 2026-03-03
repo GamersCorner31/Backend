@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Core X Ignite Watch Face",
+    "appdev": "Futorum",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5fTtIVXVDMzcktQxzXom8GpR38k_sWNSodpjPIb2wrUXniIJ_-4p8M8eP6-e_7V5PsCoMu4bh0qZ8TphUjRvis8QMjdJ6oNumZjcA7yk2DSnf3zX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexignite"
+  },
+  {
+    "appname": "Core X Genesis Watch Face",
+    "appdev": "Futorum",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/gNtE5cF-Rx-SNbWs-PolvKRCp6-ZhP3F88Il1-22am9q1pzE-vi4d1-qBwuv-lRBNU-z0_wWIK0NE3rKcipjUXJAnAMtbsXxbbHhdacpu39jzusbag=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexgenesis"
+  },
+  {
+    "appname": "Words & Cards PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
+  },
+  {
+    "appname": "Dotted Lines - Snake",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
+  },
+  {
+    "appname": "Spelling Challenge PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/SPO46l8Shb3BdkKVHgoE1vSz-O7L0yp_sTM2pZtPLb0HAVHmJGnr0UJEfAdi1hGyU4D1kCymLzyY4zp2z-rGfjduEfNDjVGl1yo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingchallenge"
+  },
+  {
     "appname": "Find Those Words PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/iC1Tc0XYNXVA9-R2WnHE-iRZqSCOp-oLcym-hGj5HC-ZUa1cpiD_58FM-eUxVTXcu6u4aWtqv_tmfgAAXA72saSemG-r6QH_G8Wbu0gvxjnNyVQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.longinesheritageavigationwatchtypea7"
-  },
-  {
-    "appname": "Stack 2048",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
-  },
-  {
-    "appname": "Sudus - Hexa Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/AYX722iw_8UiTNtVZVh8lZTycNLSu00Nd7tkkVf7m05KONqT-l2E32Ueq8fDNCuNtQeGNayra4JpTocTo8b6Qqk4s5eTFCU7QnQ1MCpqP0iOWmQu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.sudus.hexa.iconpack"
-  },
-  {
-    "appname": "Asphalt - Dark Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/J6ESabM2DBfd2KVY7yt2Z1smquC35RPRQIU-GeASwctIIfBcT6lb0YPKbJqB6ztH-uQ90vOYSmwtFIpD4BBLviDTrUA7Mn-sH96G2MpHyiOMVmNn=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.asphalt.iconpack"
-  },
-  {
-    "appname": "Lime - icon pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/324saQaa34CRtl0Hbffpu3x2LMbnLR2MEC0MkCNK3bLHljcARcp9DHvmGDElmrkkxhPUoZP0GPAuuwy582AFqVq3gl42-Jx5M2y9v3cAr2V2FGU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime"
-  },
-  {
-    "appname": "Rock - Black Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/KESc1Sp61zqd69YEt1I_N3hYg35LMVWsOvysPqcWPSuXjPI5S-1DBMGw8DkQcADfzxFpo1Zz8qg0hjPH3WlASVBynkbCqJ7Dnj9of6N0UfmmneM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyblack"
   }
 ]
