@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Find Those Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
+  },
+  {
+    "appname": "Colorzzle",
+    "appdev": "Darong Studio",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/c-OQPs3BtzySCRBzol-fvzjEIFbokqJAZ64s8mQAZNn86RH1-ZUbg2KC1mtPJ8138ECrAc-yecZFBadaOzHKSw6U0Zx3eVEVGk8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle"
+  },
+  {
+    "appname": "Reminder Pro",
+    "appdev": "made easy",
+    "appprice": "$3.75",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
+  },
+  {
     "appname": "Clock Widget  - Word Clock",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -210,16 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.sudokumaster2023"
   },
   {
-    "appname": "Word Cross Puzzle - Word Games",
-    "appdev": "Premium Quality Apps",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/G4bNiiwG515P_eWHUTdCS6vFZdZIGzrkizuwdMKG6uWaz8IbaQFljh-0w8gp-3Y2zMgO-hTCLaFB8Ofu4Dn8zNXy3GDtldcT_0vkPF-rlDQDD4bJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.geosoftech.wordcross"
-  },
-  {
     "appname": "Water Sort - Color Puzzle Pro",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$2.99",
@@ -320,16 +340,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
   },
   {
-    "appname": "Cyberpunk Deck Watch Face",
-    "appdev": "RazorSharp Design Studio",
-    "appprice": "$2.99",
-    "apprating": "3.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/KFCstxuic5s5XhOwpIxDQeFesBecNRZ2HGcWUuKy-iUtoG-IXxL5cbaVQHBbGETfQsNRjHsJtbtMJlRZ8sXJIO26hdjk99p2IBruGiy2qvi9ML5kYg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rzrdesign.cyberdeck"
-  },
-  {
     "appname": "Longines Heritage AWTA7",
     "appdev": "SA11",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KESc1Sp61zqd69YEt1I_N3hYg35LMVWsOvysPqcWPSuXjPI5S-1DBMGw8DkQcADfzxFpo1Zz8qg0hjPH3WlASVBynkbCqJ7Dnj9of6N0UfmmneM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyblack"
-  },
-  {
-    "appname": "Hexaring - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/QCp2Ms-Dlu26-9SYt96-zhq11J7zGHB2rXKph1cuNP7gGnntR9nj__XKJZrfKUCojnTxioAqFzIuZQNJE-ydumt6zF8uKm87mA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexaring"
   }
 ]
