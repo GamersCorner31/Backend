@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Business Blue Shadow ZKinWatch",
+    "appdev": "ZKin",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/4RslZNHiH3HxkY2ScexJFPQHHqoBm3qkmwCgRmvvFy--vP26_6gK9jbgZNt0HgU5nT9VuEs4OdgsG8H9-a9cCKN66dk2lQuCApdDi5sN3J7OazBa=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.BusinessBlueShadow"
+  },
+  {
     "appname": "SciFi Survivor Premium",
     "appdev": "JoyUp",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
   }
 ]
