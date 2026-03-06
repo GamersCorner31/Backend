@@ -1,5 +1,115 @@
 [
   {
+    "appname": "Space Survival: Mars RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
+  },
+  {
+    "appname": "Compress Video - Resize Video",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
+  },
+  {
+    "appname": "[365fun] Matching Game2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
+  },
+  {
+    "appname": "[365fun] Running Man",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
+  },
+  {
+    "appname": "Avalar: Shadow War Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
+  },
+  {
+    "appname": "Stark Stretch",
+    "appdev": "Stark Fitness Apps",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/N2KVZL5vcYcqP0w_G5TnJ7ES-ohWxH6oDl8pJ28a8OUNF9J82rz88h7UGnmz8XM-cDZt3vur2Imf-c7w3CYd0LBiWP3jIzfO5SWA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=se.virtualtrainer.stretch"
+  },
+  {
+    "appname": "Yaktin Orange - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GstCOr0_95J670R0mppkNxll2oMt3Pjeh0UhvK7XD4pDj0CAQVKLnRcmXEw9WR71LrJXQFaYwYOv28vduskcxA1hh_oI5QWpQCAWHjGZ_Ufd04Pt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack"
+  },
+  {
+    "appname": "Purplediant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rhsfnXU-9zvAuglg8TDJzvGwOq3TCrR80Kk1yOoaK02_0QMwMB748B8idvi8VUA1kRX9x3_MPnMBbREcYmwogOPD42yJgmsNhqoHzhlReOa_O3cZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpurple"
+  },
+  {
+    "appname": "Squid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
+  },
+  {
+    "appname": "Red Carpet - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/KFK4vg5CFue49NRx6LOBubNJUQKae5h_A-uiqJiHz1dSAtmzx3QCgatZV689cKpt7muFMc_1o68Wc0Nh4Yv4M90VHLhesywxS1gMeLT_jABvAbpQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redcarpet"
+  },
+  {
+    "appname": "LineBula White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5CF9fGsJd2pxPLQ_EdSnPlzLWXLCYY6oBFU7_G4A7ys6ha1CSxSg2-m_CKWYLsKv20xTNC_BPcku-OcSzhsjdykHgRAWyUlqEzcK6AioPUDurnMd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwhite"
+  },
+  {
     "appname": "Synonyms PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -288,115 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
-  },
-  {
-    "appname": "Garis Light - Lines Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8gH1t8IMgLnLr7FvVa_IrSXR0571lZtr4bDJGGx2os2Bqo1-GTlOVZE1qM8Rj-qMJ5bzbn5BGX276Z0qouk5XWMl1aXMS8a0vsMd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl"
-  },
-  {
-    "appname": "TD Neon Shoot - Zumba Mayan",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/l-_NgmdNFnyh69qYAhTekJKVt_woV9LckUH-psfLDip5kDiTjOsW61rVg6NGui8UhyVvTNQNzTLwIr-WM6lx3_mF-KQjlrJRGUbrIApIRhhDbd2zGA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tdneonshoot.r"
-  },
-  {
-    "appname": "Mirror - HD Mirror App ◎",
-    "appdev": "Apps360 Team",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "Cutout Premium",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
-  },
-  {
-    "appname": "Stick - Remote Control TV Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
-  },
-  {
-    "appname": "Spy Camera Network Scanner PRO",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
-  },
-  {
-    "appname": "Tank Mini War",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/c-cNt0wyaPipIrMqFNYgCSGfvpG4dhQ0d6Rx4Vq4f--AdDpwRxhmbNnLZ8hTGrBxbxO9aHmexCGMTdLohIP4KH5gWivxduAFLuFzsU0dxRAnZjZIOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankwar.free.r"
-  },
-  {
-    "appname": "Image Converter - HEIC to JPG",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$1.99",
-    "apprating": "4.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
-  },
-  {
-    "appname": "Gallery Slideshow",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
-  },
-  {
-    "appname": "Backrooms",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Iam5bk_jMwescB7O31Bz7NSdQy98k-6smKRa8eOxYsqKYPrcfJDfu08Ge1hfMAtmOXG2irv2SMFhHGRgpGYRKYJ3C4lUYgzv1WrIhqKPvc7TFIG7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms"
-  },
-  {
-    "appname": "MNML Glow: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/x8OUuOlhhyU_yY-W3KI62nP0LErGTJ9nYvSwcOM9vw8s5omC1_kQqwyaf_iw1wGNzGaQ1HHuFriECg2hiD7t9GnLOK0cZNhOsBNTqUdyJVphPrtk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlglow"
   }
 ]
