@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Synonyms PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Nsgzn54S99pYyXizATIGiUxH9eBXu2n5lYvwIwPxCUlqmcAWr_MgpAvMhcStOkHP4G4n-XGXeYUufjkV7A-mv-1JTOyCQBfJU3Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.synonymspro"
+  },
+  {
+    "appname": "Orange - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/KwTN8RYlSVOZS-cnV7qGM2ViX8D3V3526aOk7YLN8aBXlu5Gdm33C8AEh6Ngn-SqyIo_Mzi0hB1I9KKh2BvDGts_Vx-QmNT4G_Dax_6kOyq0BgzA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orange"
+  },
+  {
+    "appname": "The Wordies PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-AbrshwsBIKmx5W-lDCM70hzy1pQ_VHIcsSmT3IiMROU9RAM4QoKDy_gV2tGHtX1hbhwdNL5rKBwks5nH2Nayf3-gRx0S11A2Kw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thewordies"
+  },
+  {
+    "appname": "Stitch Photos: Long Screenshot",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Nw2ws6w0YR9-vq3pnfqgE8NDAjmkPIp2xx8GnLhsR719uyHawJWYwiZuC8tQyzCM-sk4uiJDDQhP8fzaItu41avMSVGJS0SUGX-X6tCRQfxJixIh2A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.stitchphotos"
+  },
+  {
     "appname": "Chain the Color Block",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -130,16 +170,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexgenesis"
   },
   {
-    "appname": "Words & Cards PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
-  },
-  {
     "appname": "Dotted Lines - Snake",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -148,26 +178,6 @@
     "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
-  },
-  {
-    "appname": "Spelling Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/SPO46l8Shb3BdkKVHgoE1vSz-O7L0yp_sTM2pZtPLb0HAVHmJGnr0UJEfAdi1hGyU4D1kCymLzyY4zp2z-rGfjduEfNDjVGl1yo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingchallenge"
-  },
-  {
-    "appname": "Find Those Words PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
   },
   {
     "appname": "Colorzzle",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/x8OUuOlhhyU_yY-W3KI62nP0LErGTJ9nYvSwcOM9vw8s5omC1_kQqwyaf_iw1wGNzGaQ1HHuFriECg2hiD7t9GnLOK0cZNhOsBNTqUdyJVphPrtk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlglow"
-  },
-  {
-    "appname": "Sudoku Master 2023 : Offline",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/pc3USv4R9nwra0vkwSoCxNOgq1SHTxgXQ6IgLfnGGBoDLU_nQRFWo6jqn_iDuIIuNxMQz38oV3Ctj7cq-Akkgr5thQiAlAbhHBbxx7a4PbSiJrs5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.sudokumaster2023"
   }
 ]
