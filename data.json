@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Grow Zombie VIP : Merge Zombie",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
+  },
+  {
+    "appname": "Raya Black Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Ly3Fyw_p_Rd1ps8Re4EBHPdOgc5UptCvp64vLcCtnhVvIAGya7t5PpbADC680_TgQfhn68Zss68yq8YhIMTs9l0hCKH58wYC8A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.raya.black"
+  },
+  {
+    "appname": "RUN 3: Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/A7PgDmHZkeYJcoe9veDERXhl5byIkKr4tRZCS60cV0p8IY-hmbAQhuIyrjowmijl7iR821NK4zKVwF5eopvwDTQONh2fktaBO5DksJlO4k3aWJd-hg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfrun3"
+  },
+  {
+    "appname": "Terminal Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/w4YTwVYdBxMXKGXKPZUM_pBFQ_DWiO8DPFUlc56gTj5lUlN8rDdJyVuA9ciayFVYRnlCmrkSlnOtZDg-KpOCo-lzNeP7crvNS_p9FBnNpgY0aGrW=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfterminal"
+  },
+  {
     "appname": "Sort And Arrange - Thinking",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
-  },
-  {
-    "appname": "Toska - Turqoise icon pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/na4d471xU2fqaHBlwN9f9UT8uq4QgZWEOF4eqrnX5zF_74Km2G2lAyCimkPF1CE1E5XutnY013ElHvxw6Ad45segtEwkYgBZiVF2cUR1Mdnz_Nsc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olytosca"
-  },
-  {
-    "appname": "Pumpkin - Orange Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/m9FTSW8fGQu6vddsIS_oLTlsQZUdta7OXYFcwRPEV-xzjO9Z5JJDz42EojtH799yO3-vjsGSvU3DCouGHNFiuObvw8Zpm7mIMEkBgwoPDg9D4Wdj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkorange"
-  },
-  {
-    "appname": "Red Yellow - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/AOJYYBjKoy8mOSZ-69kEAtW-jsgXsS9f-Rk1zxPbIJignsQcA3LSYNwb_c_u2T_7zrO6JsXqNc4s5AdbKnn6npxFJwSD53Z68bPHEoS3EJFVgts=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.red.yellow.icon.theme.pack"
-  },
-  {
-    "appname": "Pinkdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
   }
 ]
