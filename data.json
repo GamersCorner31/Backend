@@ -1,5 +1,55 @@
 [
   {
+    "appname": "NT Calculator",
+    "appdev": "Lê Trần Ngọc Thành (kineita)",
+    "appprice": "$2.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
+  },
+  {
+    "appname": "Rotation Control",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0NtVKfd-lD7-H5a5ziXS_w2B3EdwVYIYm2PBqYgK1hfFOmOs9Wrh5lmcIfCFyIg0x4snG47V03-bU19BDznfd4HfRwtEWd3hnEw23V2xuPQQ-w1S=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
+  },
+  {
+    "appname": "Contacts Widget - Speed Dial",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
+  },
+  {
+    "appname": "Ghost Speaker Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
+  },
+  {
+    "appname": "Sav PDF Viewer Pro - Read PDFs",
+    "appdev": "Saverio Morelli",
+    "appprice": "$3.49",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/7wxdOzmZYkkfGq-bu1Y00kFnV7H4b7a5gACtpLLeZwlRH1DdeiAJmVzeUvZ8hUJ2gy40f04x0YxQF-wkTUpuj9yOsdLyGoVcn8cbffue3PS03ws_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.saverio.pdfviewer"
+  },
+  {
     "appname": "Frontier 2 Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ugjPrvdyLlU5U0VgcdhUaDEUbUHkXi98n_OJMZucz34ubkSQK8hUXJ0IFRW9lVLAllqS8l-AZug8iaeBtneeKR3MPcuZR7mQb2N_dH9GDTpdCno=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.resumebuilder"
-  },
-  {
-    "appname": "Mini Crossword - Word Fun!",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "Dark Chess Plus",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/kCqZMF2UU56vUuae4w2yGx_rOnedbvMDBDXO4PCokhsfb1NcAWwgZiF7glnnvSxdxt2UgQbDihlQr5UPbafH1ZLfbYkj8kYBdzHOy8CdAKcMSqE7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.darkchess.r"
-  },
-  {
-    "appname": "Image to PDF - PNG to PDF",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
-  },
-  {
-    "appname": "Core X Ignite Watch Face",
-    "appdev": "Futorum",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5fTtIVXVDMzcktQxzXom8GpR38k_sWNSodpjPIb2wrUXniIJ_-4p8M8eP6-e_7V5PsCoMu4bh0qZ8TphUjRvis8QMjdJ6oNumZjcA7yk2DSnf3zX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexignite"
-  },
-  {
-    "appname": "Core X Genesis Watch Face",
-    "appdev": "Futorum",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/gNtE5cF-Rx-SNbWs-PolvKRCp6-ZhP3F88Il1-22am9q1pzE-vi4d1-qBwuv-lRBNU-z0_wWIK0NE3rKcipjUXJAnAMtbsXxbbHhdacpu39jzusbag=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexgenesis"
   }
 ]
