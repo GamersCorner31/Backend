@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Frontier 2 Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/VByiO3Vgni3cZLxaUtB7pTEW4Xf7fJBwcdfSvIUDfH7dgQzoK4XUaBl6u9tzALEfSxulTkoEovURgTjaCW57_gYY8NXqtvixB9yQh35FyublvTAIfg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.frontier2"
+  },
+  {
+    "appname": "Cell Clone Wars:Pro",
+    "appdev": "GOZIPGAMES",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qW3P6QdUfKlZjyCYOLK_37tJ5NBhKLtmBk2TfLIoOoHQ6Au_sYr0tKaOjj_ZF78YPOKHE9PaaGn1EUZJbzUvpSMcpDUGGVhYghVz2w6xWUF8eZYQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gozipgames.cell"
+  },
+  {
+    "appname": "Fruit Frenzy Tiles",
+    "appdev": "Gamezilla",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Pc2nAu7pLhNXgo6yS4ZGQluMzlPO5CuFoE1ALU8AkjbAHgoeSdrxHaAdapV6wtUbjpTfV5e31hvMgaeITmqAcLZWG12Jrb0AjTvjH9hUx2-RULQ8AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.fruitfrenzytiles"
+  },
+  {
     "appname": "Find Picture Different!",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/gNtE5cF-Rx-SNbWs-PolvKRCp6-ZhP3F88Il1-22am9q1pzE-vi4d1-qBwuv-lRBNU-z0_wWIK0NE3rKcipjUXJAnAMtbsXxbbHhdacpu39jzusbag=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexgenesis"
-  },
-  {
-    "appname": "Dotted Lines - Snake",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
-  },
-  {
-    "appname": "Colorzzle",
-    "appdev": "Darong Studio",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/c-OQPs3BtzySCRBzol-fvzjEIFbokqJAZ64s8mQAZNn86RH1-ZUbg2KC1mtPJ8138ECrAc-yecZFBadaOzHKSw6U0Zx3eVEVGk8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.DarongStudio.Colorzzle"
-  },
-  {
-    "appname": "Reminder Pro",
-    "appdev": "made easy",
-    "appprice": "$3.75",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
   }
 ]
