@@ -1,5 +1,15 @@
 [
   {
+    "appname": "White Room",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
+  },
+  {
     "appname": "Train Simulator: metro 3D Pro",
     "appdev": "Gem Jam",
     "appprice": "$0.99",
@@ -318,16 +328,6 @@
     "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "Stark Stretch",
-    "appdev": "Stark Fitness Apps",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/N2KVZL5vcYcqP0w_G5TnJ7ES-ohWxH6oDl8pJ28a8OUNF9J82rz88h7UGnmz8XM-cDZt3vur2Imf-c7w3CYd0LBiWP3jIzfO5SWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=se.virtualtrainer.stretch"
   },
   {
     "appname": "Yaktin Orange - Icon Pack",
