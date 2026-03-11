@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Heroes Infinity Premium",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
+  },
+  {
+    "appname": "Crush the Jelly",
+    "appdev": "UnknownProjectX",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZOIL5dZ4iXgvchBZcCG48OVVX2L6Q1kUzo_P56EqE12J86ODK02p6wR82R6TPnhylLFWi2LQ-Opn3VmAuj-X_b9wQxOKcnceAhACM51Zyq_iM-B6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popjelly.r"
+  },
+  {
+    "appname": "Spirits Wave EVP Scanner",
+    "appdev": "White Light EVP",
+    "appprice": "$1.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
+  },
+  {
     "appname": "Summoners Era: Idle Strategy",
     "appdev": "Fansipan Limited",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "Yaktin Orange - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GstCOr0_95J670R0mppkNxll2oMt3Pjeh0UhvK7XD4pDj0CAQVKLnRcmXEw9WR71LrJXQFaYwYOv28vduskcxA1hh_oI5QWpQCAWHjGZ_Ufd04Pt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack"
-  },
-  {
-    "appname": "Purplediant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rhsfnXU-9zvAuglg8TDJzvGwOq3TCrR80Kk1yOoaK02_0QMwMB748B8idvi8VUA1kRX9x3_MPnMBbREcYmwogOPD42yJgmsNhqoHzhlReOa_O3cZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpurple"
-  },
-  {
-    "appname": "Squid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
   }
 ]
