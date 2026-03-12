@@ -1,13 +1,23 @@
 [
   {
-    "appname": "Spring Season Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/HDblSnJ7xg-pyidEm8h5o4JYjyhNYvPse5ow1s7ijTzMlfOI-Kjz-qDjwpbMmYVY9lUMIMZUPbhOON8p1MvfPdVB8bEu_qXAVWK8h_elcEahtvth=s200-rp-e7",
+    "appname": "Dino Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.springseason"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
+  },
+  {
+    "appname": "Analog M3 Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "3.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/3YoOxWGcOibTFbT-iYamHy1V6J5zihCDoO7m2kXIPsV13wP03t1hSxH4DcKT-A3KtMhFB44hkkzIUWnGFBgkG4A-r5I3pj8e_Avr973y7tpNEZOe=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogm3"
   },
   {
     "appname": "Heroes Infinity Premium",
@@ -198,16 +208,6 @@
     "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
-  },
-  {
-    "appname": "NT Calculator",
-    "appdev": "Lê Trần Ngọc Thành (kineita)",
-    "appprice": "$2.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
   },
   {
     "appname": "Rotation Control",
