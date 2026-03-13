@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Kamsa Squircle - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
+  },
+  {
+    "appname": "Diamond - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/cyDpSzbv4yqbDNzlZEjKGhagOX4frs-Oy9ENZNziFQqKty2fl3qsCc1UggshH3SA0M7-MGj_pFSZTLNaDKASfoCOh4fPuehMYw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.diamond"
+  },
+  {
+    "appname": "Minka Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/QaCCEDzcs2kSC5eoOmYtH6Yk1GC7VEAM50AfkzV2MjRTQTt2-ZrhQUFUmja6Rtsd8HxBKn9NsMgDJe2XCvb-xFbXuXzFG9lprAI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad"
+  },
+  {
     "appname": "Dot - Aline Same Color Dots",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -320,26 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
   },
   {
-    "appname": "Ghost Speaker Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
-  },
-  {
-    "appname": "Sav PDF Viewer Pro - Read PDFs",
-    "appdev": "Saverio Morelli",
-    "appprice": "$3.49",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/7wxdOzmZYkkfGq-bu1Y00kFnV7H4b7a5gACtpLLeZwlRH1DdeiAJmVzeUvZ8hUJ2gy40f04x0YxQF-wkTUpuj9yOsdLyGoVcn8cbffue3PS03ws_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.saverio.pdfviewer"
-  },
-  {
     "appname": "Frontier 2 Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
-  },
-  {
-    "appname": "Stabilize Video: Stable Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
   }
 ]
