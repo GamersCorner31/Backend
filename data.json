@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Full Battery Alarm",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
+  },
+  {
+    "appname": "Number to word convert offline",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/b15fQJTyaIp0proyIPYJ9137LhMkjnq1HuGNbD4hxAGLHMhv5RtHNrauvSVXuwcIVoBAjl1GkHaMQUXY3HEH98ZTTYTozo3Fzyk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.numbertoword"
+  },
+  {
+    "appname": "Survival Dungeon: Loot RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
+  },
+  {
+    "appname": "Find 10 Differences 120 Levels",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YcggZIz824mm0vsporotMVB4NjLfUapUeS_WonT99bAbhwrS70kUwUAOTGSyi3u0oS0Ity4rnt-qqiXDoX5hC3VA0koGwfIMmkdk4QoiUhWgyQ9ojA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.differences.at"
+  },
+  {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
+    "appname": "Pixel Blade M VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
+  },
+  {
+    "appname": "Cooking Kawaii - cooking games",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
+  },
+  {
     "appname": "Outlined Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
-  },
-  {
-    "appname": "Survival Island: Evolve Pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
-  },
-  {
-    "appname": "Adventure in Wonderland",
-    "appdev": "Syntaxity",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5nUOoizHjyz3UFM43eIwniRFwNxKpJ-HpgwsZ5FPI_z_0O2rEZJ5Q18TC2gysNUe0pV4ApttrtFSa_kAfnLJPvc3rOwARFQ0EVw9SyzFlgORKfjtJA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.syntaxity.wonderland"
-  },
-  {
-    "appname": "White Room",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
-  },
-  {
-    "appname": "Train Simulator: metro 3D Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UBVSh49xlp7xExUnzLhMby3HEIvN4ImGBob0qkV_da2FbC9jBMA2kTmrQOiZ1EUcMqe6PkkQxGcyiw74P_ltYNTrlh1EQe6UQmmYBNAyfEsvJz0C=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.notfoundgames.subway.pro"
-  },
-  {
-    "appname": "Gradia - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WH_QJnWEoNCdg_MUe2cWf7X3lM7cAdCdalNzknUuttK1l1rZ_f8DXP879cEr8IP3ht9xydw8EKAOLlfFPuYG2FjBakbWXez2AiaMWD4HUo8Nx7T2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.theme.iconpack.gradia"
-  },
-  {
-    "appname": "Yellowdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
-  },
-  {
-    "appname": "Squirclecut - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9UX9eAjLw2RPwOd2B3hMklTgUJn9AiEQy2FqeQC-zSXzHDbdJRcYeycoX6XTMC-IdV7nVfeTMDSA0BTuGIVk3Eh2IQ3DA_Lbfw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonsq"
   }
 ]
