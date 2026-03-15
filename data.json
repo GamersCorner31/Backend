@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Magnet Balls 2: Physics Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/4UlddLsl0OCS5WFe2u3VGsZWfaaJaVOEPodUs__tXSPushvnfOwZ7r9BUGJIkZK63dYCWOuECVIiT6r1IbqdjCZ-aGk7gfKpF3w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBalls2"
+  },
+  {
+    "appname": "Magnet Balls PRO: Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oSGv8qFESqtbjuhWKnvO0AdFiIrKLQzIi6cJw8_juO-SXfTRvHvva_nI8VhdfNwPwC45OcIApk2yXAAi-tWJHOkR3XI8zWQhNQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBallsProNoAds"
+  },
+  {
+    "appname": "Christmas Puzzle Premium",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/pl4RXR57cbWiQqgyqOakpFLnBMHmeKyBSodIiHInLRBnEn82HJWrvrzRkcHXaVMFEbI4b1eoCG-JVzBu4Nt_Teo3faPYVSjoHtDG7KOW_SVD6BQpRw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.ChristmasPuzzlePremium"
+  },
+  {
+    "appname": "Shuriken Jump",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/lSZXoFusqsRMJITnOSG1RK1ip8DE8G8LcQ0rQk2iITuqRwKG4ASRuU8BmnjE_VKEsiGGz2nsv8kimNhFwqd5prax-HMY_nhUX8E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.ShurikenJump"
+  },
+  {
+    "appname": "Crazy Owls Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/XymoxXF71vEpYzRkllnxgT6dslZVgqhu_P2iLpZsYfgkdTW0trKHv0Hbw1-mknK377niilgDJOII0F616XqG_uyEQERtx4F83Nw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyOwlsPremium"
+  },
+  {
+    "appname": "Magnet Balls: Physics Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/m9Y2hJtAXl4pdbQVlsIg0ghjqQQ8e_Dujfq3jK6k8xkYM2Pp0JTzPGwguH8IZTJTQFPlVVsjtUkivNR331yRGU5EN19bwUynOBA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBalls"
+  },
+  {
+    "appname": "Crazy Halloween Puzzle",
+    "appdev": "crazy owl",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/w_Hx2EpAbwuCOqlNE8ibkwu1uLmYJk6o8gYp7_MTZlhIPOGOukEIkv9ginmZ7WVMPpCPW79Z1YU9-aK5IwsxIUdhpfWaIWANhO60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyHalloweenPuzzle"
+  },
+  {
     "appname": "Full Battery Alarm",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -310,26 +380,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.invitation.maker.invitationcard.generator"
   },
   {
-    "appname": "Spelling Master PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
-  },
-  {
-    "appname": "Math Games PRO 16-in-1",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/4-Eio-imIqIs_TaCWQkT7Cxl7984uSFnH4CTS5aeI4VSmn4HcBjDt26UUl6eEvdie6kZNB-ormMf9m0wgc2YM812BjEVorVWAiBn=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.mathgamespro"
-  },
-  {
     "appname": "Dino Puzzle for Kids",
     "appdev": "profigame.net",
     "appprice": "$0.49",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/3YoOxWGcOibTFbT-iYamHy1V6J5zihCDoO7m2kXIPsV13wP03t1hSxH4DcKT-A3KtMhFB44hkkzIUWnGFBgkG4A-r5I3pj8e_Avr973y7tpNEZOe=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogm3"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
-  },
-  {
-    "appname": "Crush the Jelly",
-    "appdev": "UnknownProjectX",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ZOIL5dZ4iXgvchBZcCG48OVVX2L6Q1kUzo_P56EqE12J86ODK02p6wR82R6TPnhylLFWi2LQ-Opn3VmAuj-X_b9wQxOKcnceAhACM51Zyq_iM-B6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popjelly.r"
-  },
-  {
-    "appname": "Spirits Wave EVP Scanner",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
-  },
-  {
-    "appname": "Effesteria Nombo Card",
-    "appdev": "Effesteria",
-    "appprice": "$0.60",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
   }
 ]
