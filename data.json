@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Deep Void Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/NEDeBuG8Wto7qO32J_VUEHWgfSFSIqlS2b5DHbDBCO15s1NGuCH6nKf0ZlBYqTh5opLtYZJgRloOlQ_McYZG1Hu-LvljLHtrnxxV4ynKX2q7RIxz=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.deepvoid"
+  },
+  {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "MAD PIXEL",
+    "appprice": "$6.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
+    "appname": "[VIP] +9 Blessing Cash Knight",
+    "appdev": "SUPERCLAY Inc",
+    "appprice": "$9.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/CPna5lSZ_jw32HjHMUayh3PCJ9U0v2eoI5utObvbfXCBg3e917ykqtxQczzaRT8YcBGo3cteHtLujYaKxkNlljLplsFMymVLdYU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipfreecashknight"
+  },
+  {
+    "appname": "Merge City Premium -Home decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
+  },
+  {
+    "appname": "Merge Cafe Premium -Home Decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
+  },
+  {
+    "appname": "Soul Evolve: Epic Fantasy Hero",
+    "appdev": "MGIF",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
+  },
+  {
+    "appname": "Empire Warrior: Tower Defense",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
+  },
+  {
+    "appname": "[VIP] Mr. Balcan Idle",
+    "appdev": "SUPERCLAY Inc",
+    "appprice": "$9.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
+  },
+  {
     "appname": "Magnet Balls 2: Physics Puzzle",
     "appdev": "crazy owl",
     "appprice": "$0.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/iivLDIXH5osc78IgQgLiDwRHFB_mhg8CTv5mWwKlT7thk89eVLhbfwEawuP972yXWu2zBZG14Wm0R78R5KnLB-PCHFopJAkoeV9Z8HVGWV8mCZfm=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dot.r"
-  },
-  {
-    "appname": "Garage Ringtones Pro",
-    "appdev": "Appflow Software",
-    "appprice": "$2.49",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
-  },
-  {
-    "appname": "IPTV Smart Player Pro",
-    "appdev": "Dmitri Iasibas",
-    "appprice": "$9.49",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
-  },
-  {
-    "appname": "Mockup for Everything - Design",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$8.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mCBO44YbT7lh6RMx5FKh7J7iI4myBRg03jMqwWijC9Watv7lPLKHWvZ4s2yvNgGv0jmO0nQLDKwkJtY4LqhJw_KDfs_xm3axa-N6vE7YtV5Uk1sWCA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mockupfor.everything"
-  },
-  {
-    "appname": "Fit Workout Pro - AI Trainer",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/eIGZg_pvGYyyHtFhNQU57eFXgtsf1hqMAvqqApSsrP8jViPY5128WTULnQ0CTqcJ_CpdbxeeMMIcDu9NFlUvzIkPg9NpEESn99zos0gkDBwrXsI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anthonyng.workoutpro"
-  },
-  {
-    "appname": "Home Plan Creator Floorplan 3D",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/df9jlZwH6PhekYLHNKUn8Et9mEUAH1kT8LHMNkXQXYdij-caCCFTBlc6EtWnBn0Dm9eWzwgT9KWZ3Mo2_GG2kmkFJQbQoJ3-E_QJkeZXIhl1teaP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.majestic.homeplan3d.creator"
-  },
-  {
-    "appname": "Invitation Card Maker Pro",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/cJEbCr-gjjZbhSDUBzvdg_3X_6EskCsapjKDMtDP4HHXDI7oWmoiU9vMF_8y-1qpp6UmmGWEVvZ_bjy5yLnSWUzNjJhmVbGW8TgmZILF2-viSdI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.invitation.maker.invitationcard.generator"
-  },
-  {
-    "appname": "Dino Puzzle for Kids",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/r-NU1npPmnzZyF7F9cyc2ytPWkZYajs4S55d9jbrvXdo_YLIgdIQiQlyK96yPC5fo9AuaykHBX_x2bGmWKQLwE15qCyC3WeOo3yEQI5Knakn-wo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dpuzzle.at"
-  },
-  {
-    "appname": "Analog M3 Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "3.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3YoOxWGcOibTFbT-iYamHy1V6J5zihCDoO7m2kXIPsV13wP03t1hSxH4DcKT-A3KtMhFB44hkkzIUWnGFBgkG4A-r5I3pj8e_Avr973y7tpNEZOe=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogm3"
   }
 ]
