@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Active 2: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "3.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/pJ5QwTrD5PT9QqGcVuSkLNAHC73QRB0uNzfQLIj94JoIdp0NvwE4THuQHaviCCrcxeH0QoDOKX93eKjZ8njfBVBtNTO6dT2jbLqH020UWLbKr688Hg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.active2"
+  },
+  {
+    "appname": "Lovely Animals Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mOdax1BSE6HG20QPwJ0AJCX331eKqA5ORA85o0R7eETu7o9Ttb8oKOzYe0vAVFOv6Lakegwd-vLzf6_cZHCtS_4DVeRALfeH7-XBCfDrxWcJ50o=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lovepuzzle.at"
+  },
+  {
+    "appname": "Learn to Draw",
+    "appdev": "profigame.net",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/e1nyDtMFTuCFhiAF3FiVILXiBpCsVT2IfPP6Tq4BD2YhANduAykBVhWZr01AKpgCDpOyulF0ZxmZt-ybPO02fop3xLbTgPBU7_0OPVavsn_E_MV4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zeichnenlernen.at"
+  },
+  {
+    "appname": "Piano Composer – Record Music",
+    "appdev": "profigame.net",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/_x097O96AfTh6rIFHTAgF7gAs5Y38LMlX6F897N6P63_h5f3UDcXfkCmll0HqKvKQK0xGafkF29u6AQoMVD4-oaed5ozE6RWe3jJvl9wewoJeWUvDA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.AndroidPiano"
+  },
+  {
+    "appname": "Animal Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
+  },
+  {
+    "appname": "ML2U 183 Watch Face",
+    "appdev": "ML2U",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fekLCO5q32VC9U2k_WX4A1TY3fVvfBJLFNrjqlqRkZWWDF7GDDOD-jNpZwGUAbRbLEoVnnhp92goT3ZHjpzVFc8dOYWDVqcMB8gGvhaM4cVzemE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u183"
+  },
+  {
     "appname": "Deep Void Icon Pack",
     "appdev": "PizzApp Design",
     "appprice": "$0.99",
@@ -140,16 +200,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBalls"
   },
   {
-    "appname": "Crazy Halloween Puzzle",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/w_Hx2EpAbwuCOqlNE8ibkwu1uLmYJk6o8gYp7_MTZlhIPOGOukEIkv9ginmZ7WVMPpCPW79Z1YU9-aK5IwsxIUdhpfWaIWANhO60=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyHalloweenPuzzle"
-  },
-  {
     "appname": "Full Battery Alarm",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -238,26 +288,6 @@
     "appurl": "https://lh3.googleusercontent.com/KSouO9U9mrxhdefKiKXMjuB_aCrEuUptq5D-OmFw1uqkkz-vIysSKLWc7xrYEriypsPUam5NkzZi-uzMUhzhUzNUPOh6geZcfmDCIJq9dKghgI3npg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_3_pay"
-  },
-  {
-    "appname": "Shapy Adaptive Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Px0XaQ85FuiPxkZoG6eC7Dkjk5eoZv4LukfY2uBtviw9Dh5I37BgPGMOg9XuPWbS-N2C3w2LHgXoPP6CmovrzILqcFjoOhLDcvk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.shapy"
-  },
-  {
-    "appname": "Gallery - Photo Gallery Pro",
-    "appdev": "Coocent",
-    "appprice": "$9.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/w-gk6uyDbDPlEEprbDBKV_xwtZ1xlp6q1iKQwjAfY28Ee9w3sMFiUgqsXWPfUiPz09rcQh3j2HCEO_3XnOYlMGh_aeI8oVWpvIdAD7Lf80kUNuqP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=gallery.photomanager.photogallery.hidepictures.pro"
   },
   {
     "appname": "Red Carpet - Lines Icon Pack",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
-  },
-  {
-    "appname": "Diamond - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/cyDpSzbv4yqbDNzlZEjKGhagOX4frs-Oy9ENZNziFQqKty2fl3qsCc1UggshH3SA0M7-MGj_pFSZTLNaDKASfoCOh4fPuehMYw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.diamond"
-  },
-  {
-    "appname": "Minka Dark - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/QaCCEDzcs2kSC5eoOmYtH6Yk1GC7VEAM50AfkzV2MjRTQTt2-ZrhQUFUmja6Rtsd8HxBKn9NsMgDJe2XCvb-xFbXuXzFG9lprAI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad"
-  },
-  {
-    "appname": "Dot - Aline Same Color Dots",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iivLDIXH5osc78IgQgLiDwRHFB_mhg8CTv5mWwKlT7thk89eVLhbfwEawuP972yXWu2zBZG14Wm0R78R5KnLB-PCHFopJAkoeV9Z8HVGWV8mCZfm=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dot.r"
   }
 ]
