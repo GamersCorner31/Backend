@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Car Racer Vr Pro",
+    "appdev": "VR GAMES",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bJDPeS4wtB2wpEtLUiIiG66FWu9xqzxAAA5kuMA1IxHAcxushyZ5cVd-Y-pH1LfAVP7boP1JTdwsc34pZQcrnLMZzBh5u_FPg5KhNtkCUcYyEqd4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
+  },
+  {
     "appname": "InsideVPN: Premium VPN Proxy",
     "appdev": "Xylo Solution LLC",
     "appprice": "$9.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/bQbh6a-ApTJxfQVmbHEjOn-I3Itmwi5abVBdKHyL_oH92OADj6jMHy-QXWWSa3oDSNPKnN7LjvjmNVPl46KLOyqmvUsv88NF5jUBnPSyrHuA2CPpsg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbredcarpet"
-  },
-  {
-    "appname": "Watermelon - Lines Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_0MQnsVjx8AAIt-spuJQoOeMwQBwFuW_LXomalyXPQLrYikSFdFPB3M-iboXxZNVReCQuRuswvt0ax2JtNU5z_xG9Gf0qvGQdDvMlFicCPh1Adw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwatermelon"
   }
 ]
