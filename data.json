@@ -1,5 +1,145 @@
 [
   {
+    "appname": "Master of Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/DkwtoDaWsZlpSPvGJAbPn-ttP-Fvs8NxH56N-m3xcsB-pdb3bt_AADopUR__xBAK_BOQVVrSpBzlkQluiRFMWWa7WksMTD7OJ-uP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordmaster"
+  },
+  {
+    "appname": "Over The Bridge PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jntVC0WIqYyY6hjH03_YyZGjOHuiJaH0mE-IxfWvWCf8eH7tIrXjf7u7A4j7DKofiwpcxszUO9U0Y3j94lNYu1Vi2FSKimTcPwg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge"
+  },
+  {
+    "appname": "Bubble Level PRO",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/YYVXMR4wKkU3Bc-AYY3RRZrM6TqIW1fw-oeC7EsnFf5wJz2JEMTh6b7lP58uFnU-XesKIMfebTIjr3Li-CLeGFIDRYIk0Ih0LLqYue05XkaCJhWu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bubble.level.ruler.pro"
+  },
+  {
+    "appname": "Traffic Jam Cars Puzzle Legend",
+    "appdev": "MobGame Pte. Ltd.",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
+  },
+  {
+    "appname": "The Room Stalker",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Y7Q2DRvRxtRCn8ux89dM37duI8_0sHoogbHLvb8gfjDOXjU0Y8GfYdzfZ1RcVZtfVg2K36T8RGQJeD1tGOCvEtu_olqtpSdVN25Uu3RLj0jYg1L8jw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.manjastudio.theroomstalker"
+  },
+  {
+    "appname": "[365fun] Perfect 3m",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
+  },
+  {
+    "appname": "[365fun] Color Match2",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
+  },
+  {
+    "appname": "[365fun] CatchBee",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
+  },
+  {
+    "appname": "[365fun] Wood Block Travel",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
+  },
+  {
+    "appname": "[365fun] TouchTouchPangPang",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
+  },
+  {
+    "appname": "Zombie Age 3 Premium: Survival",
+    "appdev": "DIVMOB",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
+  },
+  {
+    "appname": "Live or Die: Survival Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
+  },
+  {
+    "appname": "Guardian War: Ultimate Edition",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
+  },
+  {
+    "appname": "Golden Gradient Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/QmuVyR06-DQsKeFGLbwGUPOPITCnw84ZGJ4egFT__fLYu7gTtEakaLIfoaVhJsjR4k8xo-JsXMxVW6kGH-iDpYA_rxO68Gek2LGwUerZ1opZY1XH=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.goldengradient"
+  },
+  {
     "appname": "Dash Analog Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -258,145 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/pl4RXR57cbWiQqgyqOakpFLnBMHmeKyBSodIiHInLRBnEn82HJWrvrzRkcHXaVMFEbI4b1eoCG-JVzBu4Nt_Teo3faPYVSjoHtDG7KOW_SVD6BQpRw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.ChristmasPuzzlePremium"
-  },
-  {
-    "appname": "Shuriken Jump",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/lSZXoFusqsRMJITnOSG1RK1ip8DE8G8LcQ0rQk2iITuqRwKG4ASRuU8BmnjE_VKEsiGGz2nsv8kimNhFwqd5prax-HMY_nhUX8E=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.ShurikenJump"
-  },
-  {
-    "appname": "Crazy Owls Puzzle",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/XymoxXF71vEpYzRkllnxgT6dslZVgqhu_P2iLpZsYfgkdTW0trKHv0Hbw1-mknK377niilgDJOII0F616XqG_uyEQERtx4F83Nw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyOwlsPremium"
-  },
-  {
-    "appname": "Magnet Balls: Physics Puzzle",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/m9Y2hJtAXl4pdbQVlsIg0ghjqQQ8e_Dujfq3jK6k8xkYM2Pp0JTzPGwguH8IZTJTQFPlVVsjtUkivNR331yRGU5EN19bwUynOBA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBalls"
-  },
-  {
-    "appname": "Crazy Halloween Puzzle",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/w_Hx2EpAbwuCOqlNE8ibkwu1uLmYJk6o8gYp7_MTZlhIPOGOukEIkv9ginmZ7WVMPpCPW79Z1YU9-aK5IwsxIUdhpfWaIWANhO60=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.CrazyHalloweenPuzzle"
-  },
-  {
-    "appname": "Full Battery Alarm",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
-  },
-  {
-    "appname": "Number to word convert offline",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/b15fQJTyaIp0proyIPYJ9137LhMkjnq1HuGNbD4hxAGLHMhv5RtHNrauvSVXuwcIVoBAjl1GkHaMQUXY3HEH98ZTTYTozo3Fzyk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.numbertoword"
-  },
-  {
-    "appname": "Survival Dungeon: Loot RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
-  },
-  {
-    "appname": "Find 10 Differences 120 Levels",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YcggZIz824mm0vsporotMVB4NjLfUapUeS_WonT99bAbhwrS70kUwUAOTGSyi3u0oS0Ity4rnt-qqiXDoX5hC3VA0koGwfIMmkdk4QoiUhWgyQ9ojA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.differences.at"
-  },
-  {
-    "appname": "Slime Legends - Survivor",
-    "appdev": "Fori Studio",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
-  },
-  {
-    "appname": "Pixel Blade M VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
-  },
-  {
-    "appname": "Cooking Kawaii - cooking games",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
-  },
-  {
-    "appname": "Outlined Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/sd_DVBz5rkBXbMiqWYo9hHUZvp8eFc5pg1kgy2uZ7kI8o_9tWrWLzgL-yIzTx-cJ1yPCZ9KONNpqdwfZbVm4nT-CPE7iVy_8DOGR3QNLWje8AYEhQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.outlined"
-  },
-  {
-    "appname": "Dungeon Princess 3",
-    "appdev": "Ssicosm",
-    "appprice": "$0.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KSouO9U9mrxhdefKiKXMjuB_aCrEuUptq5D-OmFw1uqkkz-vIysSKLWc7xrYEriypsPUam5NkzZi-uzMUhzhUzNUPOh6geZcfmDCIJq9dKghgI3npg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_3_pay"
-  },
-  {
-    "appname": "Red Carpet - Lines Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/bQbh6a-ApTJxfQVmbHEjOn-I3Itmwi5abVBdKHyL_oH92OADj6jMHy-QXWWSa3oDSNPKnN7LjvjmNVPl46KLOyqmvUsv88NF5jUBnPSyrHuA2CPpsg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbredcarpet"
   }
 ]
