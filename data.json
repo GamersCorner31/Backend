@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Dash Analog Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/sBst1JNmVxTV_zcJV98MxUxu9Fy0F6H9FfvDn4mL7Trkyoyg76FMI7RIh7vv_u-qNiHUMgoG57WxPoTL7qogyLamk-gLWoVdlETMOYqssmKAr6IU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfdashanalog"
+  },
+  {
     "appname": "Car Racer Vr Pro",
     "appdev": "VR GAMES",
     "appprice": "$0.49",
@@ -148,16 +158,6 @@
     "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
-  },
-  {
-    "appname": "ML2U 183 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fekLCO5q32VC9U2k_WX4A1TY3fVvfBJLFNrjqlqRkZWWDF7GDDOD-jNpZwGUAbRbLEoVnnhp92goT3ZHjpzVFc8dOYWDVqcMB8gGvhaM4cVzemE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u183"
   },
   {
     "appname": "Dead God Land - Light Survival",
