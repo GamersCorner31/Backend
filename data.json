@@ -1,5 +1,45 @@
 [
   {
+    "appname": "PIXEL SPORT PRO Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
+  },
+  {
+    "appname": "PIXEL WORLD PRO Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5yHvJx_PB8PdoAgx-r_5IQSYFderQU08_0tREf_iF1JRbTglb4Q9FxtD47lgW02RRnp2xzkaTeIHOM1XMzqENKR6252b7ovSb2rDloclW8S2RYw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelworldpro"
+  },
+  {
+    "appname": "RUN PRO: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/P1ocwzcButsiEqPrm2P5B6B0DkvSAYjPo5mWE_W6yb1_1WBu5OmL7a1xhDEu8pmOjU6XiCRGvbCVzkK0dRbAUDjglcBz03rYMfWNqPWt3x1kepU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfrun"
+  },
+  {
+    "appname": "Mind Games Pro",
+    "appdev": "Mindware Consulting, Inc",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Kys2191JTQrb6fwCqcEKGDx2dQ2srf20JkJM4tIKlihK_Z83M6mh2XRB2pRPFqCpFN4OSi8yE4lCpYZaK8_XyOfAbV9nrywksQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=mindware.mindgamespro"
+  },
+  {
     "appname": "Master of Words PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -128,16 +168,6 @@
     "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
-  },
-  {
-    "appname": "Golden Gradient Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/QmuVyR06-DQsKeFGLbwGUPOPITCnw84ZGJ4egFT__fLYu7gTtEakaLIfoaVhJsjR4k8xo-JsXMxVW6kGH-iDpYA_rxO68Gek2LGwUerZ1opZY1XH=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.goldengradient"
   },
   {
     "appname": "Dash Analog Watch face",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
-  },
-  {
-    "appname": "Magnet Balls 2: Physics Puzzle",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/4UlddLsl0OCS5WFe2u3VGsZWfaaJaVOEPodUs__tXSPushvnfOwZ7r9BUGJIkZK63dYCWOuECVIiT6r1IbqdjCZ-aGk7gfKpF3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBalls2"
-  },
-  {
-    "appname": "Magnet Balls PRO: Puzzle",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/oSGv8qFESqtbjuhWKnvO0AdFiIrKLQzIi6cJw8_juO-SXfTRvHvva_nI8VhdfNwPwC45OcIApk2yXAAi-tWJHOkR3XI8zWQhNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.MagnetBallsProNoAds"
-  },
-  {
-    "appname": "Christmas Puzzle Premium",
-    "appdev": "crazy owl",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/pl4RXR57cbWiQqgyqOakpFLnBMHmeKyBSodIiHInLRBnEn82HJWrvrzRkcHXaVMFEbI4b1eoCG-JVzBu4Nt_Teo3faPYVSjoHtDG7KOW_SVD6BQpRw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crazyowl.ChristmasPuzzlePremium"
   }
 ]
