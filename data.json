@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Accumulator PDF Mini",
+    "appdev": "Salemo Lines",
+    "appprice": "$7.49",
+    "apprating": "5.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kXKfRWoMA_cyFoZdCklVD0oqrP2ABLc3y9yb4AqugM3tnkvPF2dL2b6HwDgeJz5BLQTvQ8s5QBSW9t8_gzTj0oUq2_fMWwB1FmKI0syGXmwCX3Md=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdf_creator_mini"
+  },
+  {
+    "appname": "Bright LED Flashlight Pro",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
+  },
+  {
+    "appname": "Gem Shoot",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rf5bwtyPMmvN6L4HnIc6RZoAF2w6RrHZwDhj8LmWclYKQ6PCxjQqHchsYN9NW5l5jPPknNouTqei2pkv91bCpC0a6PDdizUU73VmxP6zybaTO4o9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.gemshoot.r"
+  },
+  {
     "appname": "PIXEL SPORT PRO Watch Face",
     "appdev": "LIBERTY WATCH FACES™",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
-  },
-  {
-    "appname": "Soul Evolve: Epic Fantasy Hero",
-    "appdev": "MGIF",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
-  },
-  {
-    "appname": "Empire Warrior: Tower Defense",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
-  },
-  {
-    "appname": "[VIP] Mr. Balcan Idle",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
   }
 ]
