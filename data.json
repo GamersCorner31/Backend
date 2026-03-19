@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Minesweeper Pro",
+    "appdev": "Mindware Consulting, Inc",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/lUa-TOPjyimy8QRzsCm9vJ06VE-buNuh7na1vvMLmiQJ00ZO3oudPS1BB60lpx5p4-ylJgl6M87JIDFbLiPCS2GBDYelz8UYEg8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=mindware.minegamespro"
+  },
+  {
     "appname": "Cerita Kelasku",
     "appdev": "Nite Dreamworks",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/CPna5lSZ_jw32HjHMUayh3PCJ9U0v2eoI5utObvbfXCBg3e917ykqtxQczzaRT8YcBGo3cteHtLujYaKxkNlljLplsFMymVLdYU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipfreecashknight"
-  },
-  {
-    "appname": "Merge City Premium -Home decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
   }
 ]
