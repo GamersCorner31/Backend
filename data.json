@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Aesthetic Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/t6SmGdgX0kPsxdvK7bxhWmuvKt3SyDhd7jAndDVJcndPNOx_CgGufjLFLzxPfwzhjwRrVxKXFV_tilFyMz28A14mEIOdNYwCrinv_yJYKRUn_0gt4A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.aesthetic"
+  },
+  {
     "appname": "Sound Meter & Noise Detector",
     "appdev": "Tools Dev",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
-  },
-  {
-    "appname": "Squarecut - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ABQvsxekuuxIj6tBDa9RM17COwHq7nsJXxkOTPoRjUdwQSklsuY_8TvhzQu0zCIVoI2IaKmgTCtpnBgAvT_Wc4WqQ8hk_C0KlY9U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticons"
   }
 ]
