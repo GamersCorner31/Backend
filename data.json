@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Final Castle Defence:Idle RPG",
+    "appdev": "DH GAME",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
+  },
+  {
+    "appname": "Tokyo Debunker: Urban Legends",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
+  },
+  {
+    "appname": "DogTok - Dog Translator Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
+  },
+  {
+    "appname": "Grow Heroes VIP : Idle Rpg",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
+  },
+  {
+    "appname": "Limit app usage - screen time",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ELlh4SG42ecF6ZoO2NIB_JRmLgSHeeaht_zbc105DcwoB9pMXbKhKMEs433uq9wjSIdCqNGmk3mht9TL208ROVPOv6rBriQDb8VXl1LEI5VnfH1h=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.limitapptime"
+  },
+  {
     "appname": "Truth Or Dare Pro",
     "appdev": "TRYONI ARTS",
     "appprice": "$0.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
-  },
-  {
-    "appname": "Bulbs - A game of lights",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
-  },
-  {
-    "appname": "Spelling Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$3.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
-    "appname": "Trivia Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$4.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
-  },
-  {
-    "appname": "Word Connect: Crossword",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/l4L9HFfosFDBsIqrtMoh9fH9yCLsnH4NoXgeqAzKiFdDbE8A2t2PGz2EyICDKcy_dNAtS3R1BRBuDuXW1A0cQMtoJZ7w_mb_ozEAHebU_gw8-bc3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crossword.brain.wordgame.puzzle.board.en"
-  },
-  {
-    "appname": "Words Search - Word Puzzles",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/O7v5lL_iWEJ4Od4RaTR217YgXU6UC2AST3nDMhHOT1KPm9PKiqeKhltpKlYVh8Dy3qF_FkTRFDkyn71ET3GCfLGj35ou0HBxBy2ccjo4bp9shHU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
   }
 ]
