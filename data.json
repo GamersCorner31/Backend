@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Hobby Piano: Real Time Music",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Oldw9sgt9bd_D7RffJdqpWYDiheVxUopd5Z1LgZBv4dgQ6HmZOX3bDV3XNDZ_P7k5BZWHH6TSGPEeLy6cFEUebJEN7nKjc0dWtre5Ln88wn2pKQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.profipiano.at"
+  },
+  {
+    "appname": "Nature Puzzle for Kids",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/cgDhUl1iMjon2Avxexoesnp91ZMRhSwlS83YHyI9_xtkGfrl8lmPRM35E3lFBtL3KQLW-jBgtrnEqxMHGkq_Ib5a4ZtXi4LPOxqH4_cAQez5Lhpv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dppuzzle.at"
+  },
+  {
+    "appname": "Memory 10",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NEi-aGGqOHP1XnPFlReDkRZ-2RO6AkrnQd6EYSKeDzcoUQCmV5mywu6tdekYDamiLLrkZU4vqYAj06_ZRbLvuvFxpfVYUO8-Y6cudEiID8Njj5U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.MemoAndroid"
+  },
+  {
+    "appname": "Number Blocks",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/iBMncr7-FK5nUcwGU5QEyotIFBBBI83-FAYt6Zv09X7b9Fk16MyJ39wU3kq0eFzH8XMrMGdJEaFmlkIt5GzjXRxeQVMSVgK9QrmFvErZpvoWAXk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zb.at"
+  },
+  {
+    "appname": "Drum Time",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/4jsQoR-6nepKQr8kqK__DbylSND_tFK57gpRyS3CMlBvROTf0CAGQny75RqksulrOV6mWEiQ28gBYlSAPx_jC3dIeB-ZfP0wW_On8jlv_YHva6LlHA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=comedrum.at"
+  },
+  {
+    "appname": "Dancing Animals",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PH1qOLcDFvBbnaV7fZ9pUmYpCxfP7BZJR4RufIhEKsANgsuNaeKgh7Ux3pxJWYBLFAO8F5qAv_ClDcBavGFfbmGLx72T8S3llIu7qhTtilrFrFEG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dance.at"
+  },
+  {
+    "appname": "Nature Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/R2JBgULufdp1LhBpoa-srakhgc6_W5BMNy_iX93mciORyRI9gGnOlTPrnONkkH-b1pOoVZx4oNqPT-uqAZBPqsSOjjxeuKrormn7loeX-c1K2xY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.npuzzle30.at"
+  },
+  {
+    "appname": "Block Puzzle",
+    "appdev": "profigame.net",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L4e6-xx3tz0hOgP4VvIbFc9cUTyz9hu1xWgvSAABgH08MLhGuWELOfeZmmLUjAtLTfiCVcXLNZZAPrPQkKZssRYqfeengl1dUfJGeJW1Car0w-E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.block.at"
+  },
+  {
+    "appname": "Text Time Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NprDnW9zdFcnBWlV7FA1Z5kbpHZr0YB6_Oc14peGLS5LZIMeKydVsDszS-kKIbBdSaeNn5vkUwbhoCdZTlfBnBSpdXr8GTKwrggqXxIFwRYPcCsC=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.textTime"
+  },
+  {
+    "appname": "Color Defense - Tower Strategy",
+    "appdev": "McPeppergames",
+    "appprice": "$3.49",
+    "apprating": "4.3",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/wdq5afqelF2oB3D4KvN3MrfNfqq00gtbxkmsyp0S8e03zRscZn56w2-KE7SNDAcMxnobJk0e_NXE2G80X2NiUr31x8_M7GOl5Y1R=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mcpeppergames.ColorDefensePremium2"
+  },
+  {
     "appname": "Final Castle Defence:Idle RPG",
     "appdev": "DH GAME",
     "appprice": "$0.99",
@@ -68,26 +168,6 @@
     "appurl": "https://lh3.googleusercontent.com/nU9GjLjzNrMGXi-WSaErupqMwu1T88aBMpgZJMVNyxJ7qhpzVdzMbTx6LUwP6k7G6gia2NF3ceAgud9eIdn4Dl5yhe8KA_WWOE62uAE4DXJat1ke=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darktosca"
-  },
-  {
-    "appname": "Who Uses My WiFi Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
-  },
-  {
-    "appname": "Net Signal Pro:WiFi & 5G Meter",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
   },
   {
     "appname": "Gummy - Icon Pack",
@@ -168,16 +248,6 @@
     "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
-  },
-  {
-    "appname": "Illuminance - Lux Light Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rbBWEsrUEDNP9LJdKyCkTbYrysnsZ3nFYuAquS_SK-VzHyGzAsNWMFgo-f_Z7DOqG_jqe-mwl7T_1kDnlmRUvGQhR36nTjjuumUgIn7JLUiOceA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.illuminance.luxlight.pro"
   },
   {
     "appname": "The Weapon King VIP",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/QL0s03tWQp5W6RYs7LmnC6bkFdZl1RI5dIvvJDCqKglVHtmUFON6BU2A9kozn8jDgWaf78m0tpCj3HaC5zbNS1nZ6UBU5KHRvAY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tomlocksapps.dealstracker.ebay.pro"
-  },
-  {
-    "appname": "Sound Meter & Noise Detector",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
-  },
-  {
-    "appname": "Speed Math - Mini Math Games",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
-  },
-  {
-    "appname": "Crazy Calculator Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
-  },
-  {
-    "appname": "Tap Rush - Reflex Game",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
-  },
-  {
-    "appname": "Emoji Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
-  },
-  {
-    "appname": "Space Rush",
-    "appdev": "Eggies",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Block Blast - A Retro Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
   }
 ]
