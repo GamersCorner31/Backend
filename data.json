@@ -180,26 +180,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.fluorescent"
   },
   {
-    "appname": "Spelling Right PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/N2dI2Hva0bAhXApEAKv3B6d6ijYczb3zsiCd3MEuI2KjB7ED2cLf7pHW9AHmJFMmQNq6LzO9MCKfctok0Yo1I3pIRsvD8gJ0AA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingrightpro"
-  },
-  {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
-  },
-  {
     "appname": "Green - Icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -248,16 +228,6 @@
     "appurl": "https://lh3.googleusercontent.com/CxwORRM_Oz8PkQPFWNMhInKRdeiD1xAudKVgQ0kt34rKfZgx_Bz4UssH2pZRnwM4n_eD2avdZI3kx4adwIg35mXMzydm_LwPqIWAtbewP2o2y-GHaw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.shield.iconpack"
-  },
-  {
-    "appname": "Sound Meter - Decibel Meter",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
   },
   {
     "appname": "Octacrop - Icon Pack",
@@ -398,5 +368,35 @@
     "appurl": "https://lh3.googleusercontent.com/ELlh4SG42ecF6ZoO2NIB_JRmLgSHeeaht_zbc105DcwoB9pMXbKhKMEs433uq9wjSIdCqNGmk3mht9TL208ROVPOv6rBriQDb8VXl1LEI5VnfH1h=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.limitapptime"
+  },
+  {
+    "appname": "Truth Or Dare Pro",
+    "appdev": "TRYONI ARTS",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
+  },
+  {
+    "appname": "Emerald - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nU9GjLjzNrMGXi-WSaErupqMwu1T88aBMpgZJMVNyxJ7qhpzVdzMbTx6LUwP6k7G6gia2NF3ceAgud9eIdn4Dl5yhe8KA_WWOE62uAE4DXJat1ke=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darktosca"
+  },
+  {
+    "appname": "Gummy - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/eGWIYctpw0F_UqfHy3rU9xH5BeF1pkjoUq8xnpUbdTCn0Z5BZfGXlSZQdi-6dIx8wafD7S3ruPYMyfq9H7fueub3TYBqYuE2ou2IObuMK7Jkl6Vb=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbbubblegum"
   }
 ]
