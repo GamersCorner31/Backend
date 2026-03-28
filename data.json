@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
+    "appname": "Spelling Test & Practice PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
+  },
+  {
+    "appname": "Floreal Rosa Icon Pack",
+    "appdev": "PizzApp Design",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/lkI3gRDNBEQv42F5CIFnrCi-P_mirbS1aae5rCa-8usCL2UGMwSrG-XNZEfUpKiAP60fFSjSD8oDq8s7MIvko_6ZfFvhe8GeW-CehOwsyuWteNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.florealrosa"
+  },
+  {
+    "appname": "Word Connect PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/mX-FeWzBoxRly0LN5BaIvE6-fmAbs-OREhvYjxx-s7k6tNBna0rJL5FleBTi2dqhzdv41UdSDv3sN_Alhw5YDywtYjRqV1ZhLbC-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordconnect"
+  },
+  {
+    "appname": "Rogue Hearts",
+    "appdev": "Ninetail Games",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/KhHpi_fuy3iPYko_4tz8d4L8RzcEjU5wuRG_DuzsayqWzeIsgNbKZ2MKXFsjPyRYdn3Itw47xGIUuQGgAevv7Z189wa6Gdt1uV-b=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid"
+  },
+  {
+    "appname": "Everybody's RPG: Reboot",
+    "appdev": "Nomad Game",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/35Vjf_o0dktr-Oxy9z4eiqrPASMUCKkyqBjTTtuOWtJMOYk2YRqkZlLsOw041BSMl7jApUQvtxFRcaTRd1obj8mQaNSDPHBFtgk2c9SVDE1J7_Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nomadgames.dungeonmaster"
+  },
+  {
     "appname": "Stony Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
-  },
-  {
-    "appname": "Quick Volume Control",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
-  },
-  {
-    "appname": "Fusion Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/m5d5LzAPQeBYutXDbg_hT97owyZxr4ItSWjiTBDpjqi1hGyg9Ln1NT4ME45Ng3558n_o0Nf96vtOGBPjAP2yJvKTVvN2pzvyAnwct2xV13Jj-Si8hw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.fusion"
-  },
-  {
-    "appname": "Fluorescent - Icon Pack",
-    "appdev": "Atanu Sanyal",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/WfqfIrlRd7IpRz4sdrWY-8kmgWCxnRJ8KnJTHzBvhqqDfBkxVaWZjlHXyU7qf1ubBByZ6y8WyARcR0TMIaTKhzXdxnhABTUmXNEppwOeMfNKUKB3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.fluorescent"
-  },
-  {
-    "appname": "Green - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/bSTHxLXO2564MBOXP29b3ZZybsTEm2J8Wnk8tpNnamjzLqEvVRSUe0eIjHqcTVIpGm6kM280eIejLHv0ymOFpKS3dvYXGFI1kVqpt5gw-c-Aji14-g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.green"
-  },
-  {
-    "appname": "Octa Dark - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
-  },
-  {
-    "appname": "Warak Green - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fstrqcKFn3hJHO3Eun8hh34Eu9Fcce1X99gWOwiQB1iOtN2bSvYogHYT7SR4m8C48tcRgyqC-lcIxtQvZmmR8UwzqebAMX9R_XNWQ-wNDRRyaUI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
   }
 ]
