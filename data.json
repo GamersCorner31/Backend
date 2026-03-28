@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Stony Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/wiGJBYeqmpCb_teQ-_YCtaPN81TlbbyAsthZwOPpuNFmBopuMzr3ciHnOGcy-aty1M3_uFN89loL2E0RNUmvcmu1uz4nJaWQvOM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.stony"
+  },
+  {
+    "appname": "The Lonely Hacker",
+    "appdev": "The Lonely Developer Studios - Spain",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/erfP9QLf0-7zQSM2m1uCUcGJs2UL5Q1zcSbnShBeN1WtK3X0PsH4mc-wekIA8iyG1-QZCtTfTGYMhF71RRZeQsJEr0MyDseQIysK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker"
+  },
+  {
     "appname": "Forest - Green Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -110,16 +130,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
   },
   {
-    "appname": "Winter Season Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/YyInE5P6h21PmU-43ulP0GpoHk9fxjInD4LLiH-k2GxGmKj5FTd_hwIVghekfY-Arf8e1I49Ai5uwXtJnETv_89FD6QyZ6W5aQCHVwJoqL5-FG9c=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.winterseason"
-  },
-  {
     "appname": "Warriors' Market Mayhem VIP :",
     "appdev": "Cat Lab",
     "appprice": "$0.99",
@@ -170,16 +180,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
   },
   {
-    "appname": "Mental Hospital VI (Horror)",
-    "appdev": "AGaming+",
-    "appprice": "$2.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Nt8_C-85y2TVob1Y8U7Qghos8Yystt6o44k6ATwsQsNp8X6mUR8cErtNntibo-h8jPLykBm34IFDGeEmvZx0lU6XNGFl27QzVg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.agaming.mentalhospital6"
-  },
-  {
     "appname": "City Destructor HD",
     "appdev": "NODETRACK",
     "appprice": "$2.49",
@@ -208,16 +208,6 @@
     "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "ML2U 102 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/bX8NsRVcLarcI16sXR4-6u-ffdPHdtVXn3wOTZKeVXnuDdpOwOwIDVtj6fjdw8TIUyctW0ELw_1PZyXYoIu63rNSqTzE16WiWr5jalp9lp33I2qW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml102"
   },
   {
     "appname": "QuickPin - Fast Notes Reminder",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
+  },
+  {
+    "appname": "Warak Green - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fstrqcKFn3hJHO3Eun8hh34Eu9Fcce1X99gWOwiQB1iOtN2bSvYogHYT7SR4m8C48tcRgyqC-lcIxtQvZmmR8UwzqebAMX9R_XNWQ-wNDRRyaUI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
   }
 ]
