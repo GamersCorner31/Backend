@@ -1,5 +1,15 @@
 [
   {
+    "appname": "PER32 Ultra Hybrit Watch Face",
+    "appdev": "PERSONA Watch Face",
+    "appprice": "$2.29",
+    "apprating": "4.1",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/1_wUA5SxksXsGdTUyVwkX2rDpvwTbuqmVpEZ6fTZaJtMpNoAK4pjqCMsuHDWv3KBBudkMvdyaWAc1_sfYJOjkTQG8hUANxU7ldWl1931z9WaxMs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.per32"
+  },
+  {
     "appname": "Grow Dungeon Hero VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -18,16 +28,6 @@
     "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
-  },
-  {
-    "appname": "Floreal Rosa Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/lkI3gRDNBEQv42F5CIFnrCi-P_mirbS1aae5rCa-8usCL2UGMwSrG-XNZEfUpKiAP60fFSjSD8oDq8s7MIvko_6ZfFvhe8GeW-CehOwsyuWteNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.florealrosa"
   },
   {
     "appname": "Word Connect PRO",
