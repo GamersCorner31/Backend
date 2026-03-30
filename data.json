@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Meteoroid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
+  },
+  {
     "appname": "DJ Mixer - DJ Music Remix Pro",
     "appdev": "Nuts Mobile Inc.",
     "appprice": "$9.99",
@@ -120,16 +130,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=sleepsounds.whitenoise.relaxmusic.pro"
   },
   {
-    "appname": "Orange Citrus Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/Cgrtf7WmS3c-Elcj6z4LfssX2ibz5AM-gRI3Qlbdc7_BT9otKMZZIFzxNoqxTbgDeoDeVuEdEGF_A1TmHveCnJtONETqUqPn98wjVfZLuZEQJrw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.orangecitrus"
-  },
-  {
     "appname": "Equalizer - Bass Booster EQ",
     "appdev": "1 Bit",
     "appprice": "$2.99",
@@ -148,16 +148,6 @@
     "appurl": "https://lh3.googleusercontent.com/7aYbTTELqp8IDYUoDiq5C4aQcUOC0CR_dVlcXQiTiXcG0dCLsN-x8c3qdYx0am7u2m5Ln28IiX65ENTrE-LjMSVOWTB79zVPT00YwK9R1Wxmr3tFxg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=audio.volumebooster.pro"
-  },
-  {
-    "appname": "Purple Obsidian Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/lLpRHR4nXPy-oURqVCjiHRyk4iG8Ug32DWV2Cpp2EgY8r4-PEldhzLKiuLtYkjd0Bhx4KwaVMEigMGlZ6XtoT1UUjzuzeJgpLBuwL81UCm1dZT16Kg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.purpleobsidian"
   },
   {
     "appname": "Ghost In The Mirror",
@@ -228,16 +218,6 @@
     "appurl": "https://lh3.googleusercontent.com/35Vjf_o0dktr-Oxy9z4eiqrPASMUCKkyqBjTTtuOWtJMOYk2YRqkZlLsOw041BSMl7jApUQvtxFRcaTRd1obj8mQaNSDPHBFtgk2c9SVDE1J7_Y=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nomadgames.dungeonmaster"
-  },
-  {
-    "appname": "Stony Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/wiGJBYeqmpCb_teQ-_YCtaPN81TlbbyAsthZwOPpuNFmBopuMzr3ciHnOGcy-aty1M3_uFN89loL2E0RNUmvcmu1uz4nJaWQvOM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.stony"
   },
   {
     "appname": "The Lonely Hacker",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
+  },
+  {
+    "appname": "Love Stickers Pack - Cute Love",
+    "appdev": "Yepil paid apps pro 2026",
+    "appprice": "$25.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
+  },
+  {
+    "appname": "City Destructor HD",
+    "appdev": "NODETRACK",
+    "appprice": "$2.49",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
   }
 ]
