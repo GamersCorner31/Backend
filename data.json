@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Sky Wings VIP : Pixel Fighters",
+    "appdev": "SHMUP Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
+  },
+  {
+    "appname": "Cherry - Red icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Z8YTpG_Ju-UQgZZ4GpuQS_7GrzlUPSxmFyzGhCNqGPU-qnPvQBJ0Ue7P3lnR4PDs9NbU5brLN9UwSjClPOV3E5vU3qhZSqa6-pwbDMnlh4C95Xi0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyred"
+  },
+  {
+    "appname": "CherryLine - Red Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vKjPL79H6wf0NbntwE7ZhZM433XquTOp2q0vhsprf-RDIuwtVwbsh9lWfbWgSPtv9qCbKIUaGTg2TEjQNKpa1RdF7ItR9MK-KcJIYVNOngsiOs3C5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbred"
+  },
+  {
+    "appname": "Video Speed Editor",
+    "appdev": "SwiperyLab",
+    "appprice": "$4.99",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
+  },
+  {
+    "appname": "CircleDient Icon Pack Gradient",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tduV4TsPrTwY1bqSHTmoPUuI81XA8aVbqB8qJ1j51tC_jvErPopl4i3s4P7YdtxwuWrC4bt0_u6I8xNzHUT8P05R7E_rM6jUT-qSvsaS84d1JQ3d=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.iconpack.circle.gradient"
+  },
+  {
+    "appname": "Circle Crop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/YV1NOwxLrNVmMElaVAxRDOEtCSMKbw1l3v_hiyQyJO9Pn9l0Mv7_Kl46QMAV7qqz1aasoqovUPZa6kBjbxYw0uVQ0wnIsJ5Mpdg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonc"
+  },
+  {
+    "appname": "Norma - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vlqerOUAKJ4SlsFr8BJA3keMItjJNY76Q1-T-omb5W-ClDwJ5tYJnotVo9rZt3q2OuXgq9DPu6SN7ZqEaNVymKBK4j1RPwjfYfA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.norma"
+  },
+  {
+    "appname": "Neo Monsters",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
+  },
+  {
     "appname": "Meteoroid - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
-  },
-  {
-    "appname": "TripleFantasy Premium",
-    "appdev": "Gameplete",
-    "appprice": "$11.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
-  },
-  {
-    "appname": "Undead Slayer: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
-  },
-  {
-    "appname": "Warriors' Market Mayhem VIP :",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
-  },
-  {
-    "appname": "Defense Zone 3 Ultra HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
-  },
-  {
-    "appname": "Defense Zone HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
-  },
-  {
-    "appname": "Cooking Quest VIP : Food Wagon",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Love Stickers Pack - Cute Love",
-    "appdev": "Yepil paid apps pro 2026",
-    "appprice": "$25.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
-  },
-  {
-    "appname": "City Destructor HD",
-    "appdev": "NODETRACK",
-    "appprice": "$2.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
   }
 ]
