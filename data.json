@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Iris Light - 3D App Icons",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
+  },
+  {
+    "appname": "AuditBricks - Site Auditing",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/wvOa6p17v0NBOGWUtP25nun5MRlscmpGrcom3IGhSjEmxkVAQahoNG11aUWVhX6tE9pAHxZ0lHErzucrg4paMj9z0nzwnN7Kf7E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.auditbricks"
+  },
+  {
     "appname": "Word Search Champion PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Love Stickers Pack - Cute Love",
-    "appdev": "Yepil paid apps pro 2026",
-    "appprice": "$25.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
-  },
-  {
-    "appname": "City Destructor HD",
-    "appdev": "NODETRACK",
-    "appprice": "$2.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ap55bSOaewpadNu-RDSPj0DowtjSHYU2wEI1jq2VzmDgpT4QyyiJWn5Ol1Z3G6XPQek3spP9Pga2dqS-Xc4jjlEpJDdeABYYwA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nodetrack.citydeshd"
   }
 ]
