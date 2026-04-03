@@ -1,5 +1,15 @@
 [
   {
+    "appname": "WhitArt Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/X3qYkUEMIEBdmBEa6r31UfPa2qM30REd6fAm-Foj1JvO_JNe8prYURlAKjFzLM8YEgnpuplYUXBOY5qDsFKiKPq4k6tl0W8CGgGEilD2UffAdkE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.whitart"
+  },
+  {
     "appname": "Amerta",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -18,16 +28,6 @@
     "appurl": "https://lh3.googleusercontent.com/qqNBSaFazPnffFp5QeQWcUnmR3elg084BvkAS7Z1Wy9nwJQRw6tWMYmPEZmBTjeYpeO3mInqK90gcuvO8DXEwM435b07BCQJoOwwa8Lrdz7CQTz4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.mnmlanalog"
-  },
-  {
-    "appname": "Halloween Pumpkin Icon Pack",
-    "appdev": "PizzApp Design",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/wVAH-cSoPCJ9QJCijC8Ge-Yw3xRTlvSVBaLOxLn-cOdvQJbAsgXj9mP5jsimEZ9g_8yH3pyffa_Eo68wVD4YxYtLcVnrfPgArsNrpZS77827vY-V=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.italiano.halloweenpumpkin"
   },
   {
     "appname": "Monster Killer Pro - Shooter",
@@ -138,26 +138,6 @@
     "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
-  },
-  {
-    "appname": "Flappy Frog",
-    "appdev": "Quantic Bit",
-    "appprice": "$0.05",
-    "apprating": "3.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-ULJ9lQ3oUUIXw7mFDkiq4c3BMktUy88jBJr2t0ihp6kpOMxXIHN8rImgj0lnroENJ9B-EwsbejKN7yJsqfMG_4obz-2gkZ-IbKCfRRbBs4JvxHdug=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.FlappyFrog"
-  },
-  {
-    "appname": "Fall Animals Arena Multiplayer",
-    "appdev": "Quantic Bit",
-    "appprice": "$0.05",
-    "apprating": "3.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xMHA_LhfBdPjukVwpLYzKhFjkjZi633zbowJZw7wL_2zD7rqu7iGC68lwCQKIELhXMfbPeCl6XUXBM5cETZmvNJ1YlNBUeZT-4QGv8D_gEyYKYZL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.FallAnimalsArena"
   },
   {
     "appname": "Space Shooter: Galaxy Attack",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
+  },
+  {
+    "appname": "TripleFantasy Premium",
+    "appdev": "Gameplete",
+    "appprice": "$11.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
+  },
+  {
+    "appname": "Warriors' Market Mayhem VIP :",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
   }
 ]
