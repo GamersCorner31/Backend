@@ -1,5 +1,45 @@
 [
   {
+    "appname": "My English Grammar Test PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
+  },
+  {
+    "appname": "One Swipe Notes - Quick Notes",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PsE5inLF8S7xr6PjL_OBYgFvgg9kDpwZAW4OQDq88cSmc9ntQ1kS85LR1ZBGFSJsTRoUaSgGJ4zxvDoMuAaBRF9YHiS5TCnOGN_hPSUsupwMID-P=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.oneswipenotes"
+  },
+  {
+    "appname": "Words Everywhere PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
+  },
+  {
+    "appname": "Sudoku.org - LAN Battle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
+  },
+  {
     "appname": "Dark screen filter",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/YV1NOwxLrNVmMElaVAxRDOEtCSMKbw1l3v_hiyQyJO9Pn9l0Mv7_Kl46QMAV7qqz1aasoqovUPZa6kBjbxYw0uVQ0wnIsJ5Mpdg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonc"
-  },
-  {
-    "appname": "Norma - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vlqerOUAKJ4SlsFr8BJA3keMItjJNY76Q1-T-omb5W-ClDwJ5tYJnotVo9rZt3q2OuXgq9DPu6SN7ZqEaNVymKBK4j1RPwjfYfA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.norma"
-  },
-  {
-    "appname": "Neo Monsters",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
-  },
-  {
-    "appname": "Meteoroid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
-  },
-  {
-    "appname": "Grow Dungeon Hero VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
   }
 ]
