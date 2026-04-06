@@ -1,5 +1,95 @@
 [
   {
+    "appname": "Stack 2048",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
+  },
+  {
+    "appname": "[365fun] Fortress2",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
+  },
+  {
+    "appname": "CircleDock 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ZJp9KGKYENvrXqVsl3smJUm6cXT_Xe2qA5r6JDj36fQCnAFPgX3O93xvoC4euR7K3_irHQXdb9UKV2ol534t_MHfzUmesSa2vw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle"
+  },
+  {
+    "appname": "Pixel Cubic 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
+  },
+  {
+    "appname": "Linios Purple - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/UpQsQozZkSJZZNkWsw5VXyMFbSPtrfyQ9S9fDJynh6scsHxl_QWEGpXEAcdXS7dx2F5lt7u1O09HJ58n0t32xgcA3tc-LQaGGgZZbC82Vl5c3pE0wg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lnopurple"
+  },
+  {
+    "appname": "GrapeLine - Purple Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/BdpvtmiP2NCLsi9vKqODO87ox37k1rZlWNkqKZD8iHNFxCLkBjNovtJQRzveJrm3igP7h4UYFUNkCpclcxiFmYVUdeNSl0cTe3bHX_q37HcGy_sLOQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpurple"
+  },
+  {
+    "appname": "Inab Purple - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/W44i3udiaLHpr3DF8DG057AbjHjVEp7KnwqZ7a1x6IUpipH2mU25AOkit54yCorRAUgs-yGQsU-fTyqZrDsdIrBYSPmyopkYqcX7EcSZz9bT2ZWMmA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack"
+  },
+  {
+    "appname": "Dock 3D - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/iWwoGg1LiZpy6iZUyuviCUvnmVEdJusya65s0l-VkRoEUzdydKNSvuNrAtN-cKK_fKAEPODdjkTRucMHwiZUQf66mVY5E_8hho8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock"
+  },
+  {
+    "appname": "GEO Music Player - Mp3 Player",
+    "appdev": "GEO SOFTECH",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7UCrkIsTvimmmDKR0cbTCqe2qkIZxlx-QEPfOJb9NmzhcOLbZfVfEqat8JNr8X_CV5bi9DUD_VdyPn-BS-Aj0CgLtC0lKw1hHPGaV_GQB85uaR1SnA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.geosoftech.musicplayer"
+  },
+  {
     "appname": "Concentric 1: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/HdRE5ssoBSmQ1spBVH-WY_yB2g8_kh17-oGRyL4A0JNM41vBul_2JMq_O_ukO-UeL0GqEPdkBesqmRcEWByrwSpIpF9jfobePPfLAW6bFvPNxjk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.throwbomb.r"
-  },
-  {
-    "appname": "Tap and Popping Battle Puzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/__Qv8ndHiRHYt1KrcduXuI2ynrc0PE1ZWmiVgbmn7DNr5om0T0oKBL4VrPpSb7PoqdQB9S9j8ClhtCUwFDcvC0ovDwG0xLzXovTn6z1d3hWfNszd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popbattle.r"
-  },
-  {
-    "appname": "Amerta",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/yIF8_ouxeRKZwbuxaD45OoQOctSBFwhfU5LEUipMc6VdeD_kkSuOfe6RDajgU1rR82PewxE5e9sthinwUsLbeVuptNsckp0JrsAB9vbq4pVSb2Ci=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.amerta"
-  },
-  {
-    "appname": "MNML Analog: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqNBSaFazPnffFp5QeQWcUnmR3elg084BvkAS7Z1Wy9nwJQRw6tWMYmPEZmBTjeYpeO3mInqK90gcuvO8DXEwM435b07BCQJoOwwa8Lrdz7CQTz4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.mnmlanalog"
-  },
-  {
-    "appname": "Monster Killer Pro - Shooter",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
-  },
-  {
-    "appname": "Iris Light - 3D App Icons",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
-  },
-  {
-    "appname": "Crazy Running Bird",
-    "appdev": "UnknownProjectX",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JwFyEFQBdmGz5jZv3F1xeIFZ6RiA5qdLTwtYDK5B_26yCjdENDDNwopNgZ7C7xJtwCcew6om7ijKZEEdYR4J65srJAjpG1fSGx3Yb3nFBb3E03Wj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.crazy.running.bird.r"
-  },
-  {
-    "appname": "VPN Pro - Secure VPN Premium",
-    "appdev": "AZTTY LLC",
-    "appprice": "$4.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
-  },
-  {
-    "appname": "Clear Wave - Water Eject Pro",
-    "appdev": "Appchi",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
-  },
-  {
-    "appname": "EVP Phone Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Ng1hpgYEbBCL_hrouThILi0XanWwJ9tjqRK2vuCcu2ScDJwRI1Rlc11pFonVndcJpGztwil9BJwfNx3pVdm4At7dnRILx6JlXx_omOuRnhcPLnQf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Evp_phone_spiritbox"
   }
 ]
