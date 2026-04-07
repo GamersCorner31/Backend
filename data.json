@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Material You 2: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/4jFvxOiLDO1JoPaYb2D0lCk3iZHI0eTZEFiTL1AxelPre__e19Ef9LOVO4qEdgKDoRajQlUtQ6YmlxWN4FjQZzQSShQohKy0VqtsskP1FSiDIRzT2w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2"
+  },
+  {
+    "appname": "Spooky: Halloween Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/QTf0pWD-65gtyqU0aKnCsy43ksp-fmxNJODGLcHjUX1Sm5r8JaggCtgCxbjiIbhwD3BrilFjryAOZxcA8tzJK4YM355ACd4lc1Q6NHB7afyp5g2e=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.spooky"
+  },
+  {
     "appname": "Stack 2048",
     "appdev": "AK Studio Mobile",
     "appprice": "$1.99",
@@ -220,16 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.games.bar10n.find5x4p"
   },
   {
-    "appname": "My English Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
-  },
-  {
     "appname": "One Swipe Notes - Quick Notes",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -238,16 +248,6 @@
     "appurl": "https://lh3.googleusercontent.com/PsE5inLF8S7xr6PjL_OBYgFvgg9kDpwZAW4OQDq88cSmc9ntQ1kS85LR1ZBGFSJsTRoUaSgGJ4zxvDoMuAaBRF9YHiS5TCnOGN_hPSUsupwMID-P=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.oneswipenotes"
-  },
-  {
-    "appname": "Words Everywhere PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
   },
   {
     "appname": "Sudoku.org - LAN Battle",
@@ -298,16 +298,6 @@
     "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
-  },
-  {
-    "appname": "monocles chat, ethical pioneer",
-    "appdev": "Arne-Brün Vogelsang",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Tm9qOvk75dZO5bT-SymnFHiDz00pvBp3-Z81LRPWG2rBg_2JMOkCrPknPtoT3BpnJk2pcQnLRPS0QzRGlvBbwilG81QH7EfAqfraHOfIpZ3ag_g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=eu.monocles.chat"
   },
   {
     "appname": "Mawaz Yellow - Icon Pack",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/HdRE5ssoBSmQ1spBVH-WY_yB2g8_kh17-oGRyL4A0JNM41vBul_2JMq_O_ukO-UeL0GqEPdkBesqmRcEWByrwSpIpF9jfobePPfLAW6bFvPNxjk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.throwbomb.r"
+  },
+  {
+    "appname": "Tap and Popping Battle Puzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/__Qv8ndHiRHYt1KrcduXuI2ynrc0PE1ZWmiVgbmn7DNr5om0T0oKBL4VrPpSb7PoqdQB9S9j8ClhtCUwFDcvC0ovDwG0xLzXovTn6z1d3hWfNszd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popbattle.r"
   }
 ]
