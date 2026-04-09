@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Perpetual Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/CljcZNBtyGrqsp88kwojWi8ayYtg7lYwcN6yIZjAhyEPHc73rYPUBeosbBoAx3p-jm5aNA1gBOL9lCY7GCG6-Z_svymlLujNIOjo1iB7_Hq6FO88=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.perpetual"
+  },
+  {
     "appname": "HD Wallpapers Gallery",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -168,16 +178,6 @@
     "appurl": "https://lh3.googleusercontent.com/iWwoGg1LiZpy6iZUyuviCUvnmVEdJusya65s0l-VkRoEUzdydKNSvuNrAtN-cKK_fKAEPODdjkTRucMHwiZUQf66mVY5E_8hho8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dock"
-  },
-  {
-    "appname": "GEO Music Player - Mp3 Player",
-    "appdev": "GEO SOFTECH",
-    "appprice": "$0.49",
-    "apprating": "3.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7UCrkIsTvimmmDKR0cbTCqe2qkIZxlx-QEPfOJb9NmzhcOLbZfVfEqat8JNr8X_CV5bi9DUD_VdyPn-BS-Aj0CgLtC0lKw1hHPGaV_GQB85uaR1SnA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.geosoftech.musicplayer"
   },
   {
     "appname": "Concentric 1: Watch face",
