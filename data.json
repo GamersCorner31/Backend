@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Haunted Radio Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/yVi9L61KKESnXzmYBxp6_Lt7WEE-ENVaubPPLA3gBTJ02NJ5IPZCZPaNmzZ2rZAvEtfmmJpASZK_prH5Q-i6mP69VP3sS6hNwum2z_avx7OHHeTNhA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Haunted_Radio_Spiritbox"
+  },
+  {
+    "appname": "Image Converter - HEIC to JPG",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
+  },
+  {
+    "appname": "Spy Camera Network Scanner PRO",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
+  },
+  {
+    "appname": "Stick - Remote Control TV Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
+  },
+  {
+    "appname": "Word Tower - Premium Puzzle",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
+  },
+  {
+    "appname": "Word Search Game: Offline",
+    "appdev": "otto games",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ovvv8VSTWDtScLnG5jmm94eWWMHsp9V1b00x0gSx373F0Be0jL0C-7HCXjsvz0MyfI6wC4_FmPuP688ZbaAO0KZiTBBpa3KZJZdr6GL9-j-UUlpmng=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordscapesWordSearchGame"
+  },
+  {
     "appname": "Perpetual Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6pDLO2afuRRGdVp3SkyuOW9bCpiIKJt6Ctt6G-a9py2dTyU0YDb5Khg3dxT2oJwASliz3oPCX46k74WpuKMyxvzKHiHQMjTAw9Yt4Os1hThtY2vwfA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro"
-  },
-  {
-    "appname": "Empire Defender Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/D25nU36vzW6EAY-gAwg5IjjJZ74Dvpv4Uw0FoZ8n7KQQ3wWEVZXGoH6-weYX9RXVK-c67bWYZpH9VI8MKUQAAwAXw5tvK-nuXfX9rK8wd_pMheFP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush"
-  },
-  {
-    "appname": "Grow Spaceship VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
-  },
-  {
-    "appname": "Stickman Master Premium",
-    "appdev": "Unimob",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
-  },
-  {
-    "appname": "Mawaz Yellow - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/skj05l2DdXpn-gupoy81oQgguyWWqtDqwrrxQPDNmadbmJpHGaficOVg19SXwI9C3HeM7O7Xcwfv1Zdc3dHFGPadbyHZ7oLniUNAfPpUFMeiDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowblack"
-  },
-  {
-    "appname": "Lines Circle - White Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
-  },
-  {
-    "appname": "You-R Circle Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
   }
 ]
