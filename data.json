@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Image to PDF - PNG to PDF",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
+  },
+  {
     "appname": "Mix Alchemy",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Material You 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/4jFvxOiLDO1JoPaYb2D0lCk3iZHI0eTZEFiTL1AxelPre__e19Ef9LOVO4qEdgKDoRajQlUtQ6YmlxWN4FjQZzQSShQohKy0VqtsskP1FSiDIRzT2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2"
   }
 ]
