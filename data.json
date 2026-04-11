@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Mini Crossword - Word Fun!",
+    "appdev": "Eggies",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
+  },
+  {
     "appname": "Image to PDF - PNG to PDF",
     "appdev": "TAPUNIVERSE",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/1aBiQjYz7c8tk_EUMlWijSpQd4edO33JKgAOzWvkBvXaht44x78he3wfGEE3i9dpkXrPJkNqFJbfm1hfNn_T_iaULZAdT1cSS1av3WqejzpiXuFZuA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.gun.games.shooting.shooter.strike.fps.csgo.combat.sniper.zombie.modern.action.ops"
-  },
-  {
-    "appname": "EHW Premium & stick fight",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
   }
 ]
