@@ -110,16 +110,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.tosca"
   },
   {
-    "appname": "Spelling Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/SPO46l8Shb3BdkKVHgoE1vSz-O7L0yp_sTM2pZtPLb0HAVHmJGnr0UJEfAdi1hGyU4D1kCymLzyY4zp2z-rGfjduEfNDjVGl1yo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingchallenge"
-  },
-  {
     "appname": "Toska - Turqoise icon pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/lBg1TAXcdjhTc_ZOnU3mH-mFirJh22ETH-ROJTP0EzYfkE6DRbTeLT7pC6a9ymKrVv1hpQZ0I-8h6mFV0rTWcPh0S3Kv_cE-w68bX7EIWR-qOX7m=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.paintmonster"
+  },
+  {
+    "appname": "[365fun] Jewel Match",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
   }
 ]
