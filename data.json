@@ -290,16 +290,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.barcode.qrcode.scanner.reader.pro"
   },
   {
-    "appname": "Reminder Pro",
-    "appdev": "made easy",
-    "appprice": "$3.75",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
-  },
-  {
     "appname": "Hexaring - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/324saQaa34CRtl0Hbffpu3x2LMbnLR2MEC0MkCNK3bLHljcARcp9DHvmGDElmrkkxhPUoZP0GPAuuwy582AFqVq3gl42-Jx5M2y9v3cAr2V2FGU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime"
+  },
+  {
+    "appname": "[365fun] Swipe Break Out PvP P",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/6tu4iQ7VLKsxnZBlGpU_XN8O-w_BL-KYxQ1WaMnJ0c0nJq2wLGx2S7DgkICsTMswyZpCDj4XhStmHCHoe5tWLxaUvjHJcfxvkalGUnUV-oTGsR77=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.swipe"
   }
 ]
