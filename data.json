@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Grow Zombie VIP : Merge Zombie",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
+  },
+  {
+    "appname": "Heroes Infinity Premium",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
+  },
+  {
+    "appname": "Prismatic Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YTO-4ckxNCa6A4Jdlpz2DuEx5t9e1N2Zy_ZJM1eN3Yd0iDsYac1--y6gVeieTkVVaZGUvZBDHZU36zp4DeK5QISzPPZZ90vAxJuDJaQWWngJr4W9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Prismatic.Iconpack"
+  },
+  {
+    "appname": "Firefly Neon Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/A2LMTNUeeIx4bch52blhtTbC6MQl-7PlWyXV0v2moiDnF5pUF725NOJhnSsPodv31DFATE21MZYwK-VuqofzXKX7mrXARFki5j6C1VQo22enfg0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.fireflyneon.iconpack.app"
+  },
+  {
+    "appname": "Summoners Era: Idle Strategy",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
+  },
+  {
     "appname": "Chain the Color Block",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
-  },
-  {
-    "appname": "Avalar: Shadow War Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "King of Defense 2: TD Premium",
-    "appdev": "JoyUp",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/g3PFjJ_VehoSfeoBY9Dua2GUhdd3hRmIgOQiRz-IV7ttlY7LxE4EV5MgaMv3ThTDwwd-6mGCz4B5CwIIUoGTuOt2yr9S15Vasi_V5rdOzLGcaOua=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium"
-  },
-  {
-    "appname": "Last Survivor: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
-  },
-  {
-    "appname": "Mini Crossword - Word Fun!",
-    "appdev": "Eggies",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "Image to PDF - PNG to PDF",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
   }
 ]
