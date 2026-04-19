@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Fruit Frenzy Tiles",
+    "appdev": "Gamezilla",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Pc2nAu7pLhNXgo6yS4ZGQluMzlPO5CuFoE1ALU8AkjbAHgoeSdrxHaAdapV6wtUbjpTfV5e31hvMgaeITmqAcLZWG12Jrb0AjTvjH9hUx2-RULQ8AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.fruitfrenzytiles"
+  },
+  {
     "appname": "Undead City: Survivor Premium",
     "appdev": "Unimob Global",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/na4d471xU2fqaHBlwN9f9UT8uq4QgZWEOF4eqrnX5zF_74Km2G2lAyCimkPF1CE1E5XutnY013ElHvxw6Ad45segtEwkYgBZiVF2cUR1Mdnz_Nsc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olytosca"
-  },
-  {
-    "appname": "Space Survival: Mars RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
   }
 ]
