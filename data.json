@@ -1,5 +1,25 @@
 [
   {
+    "appname": "My Medicine Pro - Health Log",
+    "appdev": "made easy",
+    "appprice": "$2.49",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
+  },
+  {
+    "appname": "Alphabets game - Numbers game",
+    "appdev": "Abuzz",
+    "appprice": "$6.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/lf-r-qus9VejOkNNl6wSLaSkxLiYoIek7UMaGsQ4SrRLUK0a1HL1vzMqa8_XnnK1gJU7um9rKJA2upIstaPjYp9hiXENFw_SCZI7=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.apk.ConnectTheDotsAll"
+  },
+  {
     "appname": "Sword Fight: Knight Arena Pro",
     "appdev": "Gem Jam",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/A2LMTNUeeIx4bch52blhtTbC6MQl-7PlWyXV0v2moiDnF5pUF725NOJhnSsPodv31DFATE21MZYwK-VuqofzXKX7mrXARFki5j6C1VQo22enfg0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.fireflyneon.iconpack.app"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
-  },
-  {
-    "appname": "Chain the Color Block",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
   }
 ]
