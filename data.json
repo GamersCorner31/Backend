@@ -1,5 +1,155 @@
 [
   {
+    "appname": "Math Shot",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/xC0py1Vbzd1Y09s-Asauc_fuJnAf2hmuQ3zj3wfGrYvuD2P7XQC6QCtmu9lmPLfkAMAppUnM3mwR3kPqPl-LXWT64oMCrgPEhjEQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.mathshot"
+  },
+  {
+    "appname": "Add and subtract fractions",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/-SzT-Neb1AiAo3ad_tVaeBreZc65aJDDbHCocQKUxqg1PVXYqffcjTjGNhW3hVBqfMvWqbnBmn9xOb5IbfG5jPsWOAmcBuvtow=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math38"
+  },
+  {
+    "appname": "Gravity Math",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Juh5Q8whL2ehYzuVNJS485NZsgjVuT3Tweq5p3xD-S60AFFBHgkL-C-mg1OOLD5rq4pKepnZ8MsZSQjXi7wyZFdPaXmeQY8FzvQnwC_3vtJuMYQh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math044g"
+  },
+  {
+    "appname": "Adding Fractions Math Trainer",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/gtHk8T4Zw3t5fp1dqV3dgPzUR9Ht0L_u7coUMhI1hatvApcp1vLtc6z2t54ht0zl3-9LMn1OC0rYzQKsccucnK38kxKGM_nDea7A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project002.full"
+  },
+  {
+    "appname": "Fractions and Decimals",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/swwh_G0QbxWGGnxw6Zy38tl0bbQu_1J7ULSRJdaV_WSls_o2S2eXkXPosJtigR6tWNISXG-21gzMbcnDQea6iGkzPdsFyfA3bl4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.thirdgradefractionsdecimals027"
+  },
+  {
+    "appname": "First grade Math - Addition",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LQfAxfLy8N6QVoSNVz8N5Gkn0XXNWstUPTFXq87Z71-f_brS_0olL8NKaj38Af7I7MRw45I0aZ4hrrMHa5e4l0mc6T_riI7LdBw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math018g"
+  },
+  {
+    "appname": "Fractions - 4th grade Math",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sRI3Je31YXfaH_uFcew6610qkK5F9ZtXGITrKegdu-Lj1BkPVjWV2ZlfW3O8GEw2LtaP-v2lhGQvZ_Fw7b5H_lHjeGbcdDklCfU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math35"
+  },
+  {
+    "appname": "Adding Fractions Math Game",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rVUI-MqDtZXV4NyHGMThDL6fBUJM80JnpeHoUhfhCyBN9Bgh34uuEuDDLp2n0GpSQJEa0JybMsvmxdilvqAiYr0WIojSXqlz5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project001.full"
+  },
+  {
+    "appname": "Division 4th grade Math skills",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/kW8T32jcC4Eo9oIIHSR4wZVT7d28RIi_SBZozgvZUqgX7YbCDqJ-2_UW2yMYo-q603lC2ETgS5J4YX3StsJtq0ibCIrh2mooCkI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math34"
+  },
+  {
+    "appname": "Third grade Math - Division",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QGZd7n5C_uGaOxG32VZocyZeBVvw1uQHF8HCawk-7dWyLynPU7M5Thhxrz2gbr3zMYfaagGqYFyToUXZ8MXTW3Ea99x4H4b34ebQamkRWNAzUAX7=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math026g"
+  },
+  {
+    "appname": "Decimals 4th grade Math skills",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PEHtLQ1Bhw3_k2au7kSx_nALGwbgVbiVfMOqTXF-4UQqi8c95v4B0NrHU_xQ2XA_P9mLPGVTyL7OtOvFaEjrmLHFegHD5kBYZQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math36"
+  },
+  {
+    "appname": "Fractions and mixed numbers",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TzvJb0c2DNnw9CZ-NErHuUxitOcj7YTqnfkBwRzHIlCSzg6d60PZYsT4WkWIczG6vM6W4jliUrG7oMvhj8qa9rmwCskT1mlbSdw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math41"
+  },
+  {
+    "appname": "Dividing Fractions",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/We7Ekf8YWvE7mLcW49OAj-12Coj7xPSDoM7FI-mkfAHYQ4LU_Zk4068lLEmdWH0Zn9sZ1kf9nE_8ID13zVQCh_UDLkoQChC8mbs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project005.full"
+  },
+  {
+    "appname": "Mathe 2. Klasse",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IobEqJ2YBJN3RjPmsjWZTbdmtwbX0jTRAby0LRDYuhFdbWPEuRgKqPEyKorw2PJmNvxRr0hDv0DFPtVD4fxmpHmXMMzJXktHzM7mNSHmpKVBouSq8g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math65"
+  },
+  {
+    "appname": "Decimals - 5th grade Math",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hQV_kcDvljZsQjvB1a0qt2QbURznDLdZJ6c3_4xu_3xBxI4NF76_ziLzu2Olj2FahO1RZMjstUH1gVC3iIFMlLcdMrYSHPgEwmI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math37"
+  },
+  {
     "appname": "Over The Bridge PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -248,155 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/FZo7fvaBoqf-DTUI6qOB5uPgVW9LqgrYQNKtCC5scMdefYxME1nOW68sBL9wahNxXZbjHG3XRGs4UQu_lUcJ_HoLAMV6r00kiaUARzvcC_qx8Nnq=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mountain"
-  },
-  {
-    "appname": "[365fun] Matching Game2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
-  },
-  {
-    "appname": "[365fun] Running Man",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
-  },
-  {
-    "appname": "Ghost Speaker Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
-  },
-  {
-    "appname": "Red Carpet - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/KFK4vg5CFue49NRx6LOBubNJUQKae5h_A-uiqJiHz1dSAtmzx3QCgatZV689cKpt7muFMc_1o68Wc0Nh4Yv4M90VHLhesywxS1gMeLT_jABvAbpQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redcarpet"
-  },
-  {
-    "appname": "Squid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
-  },
-  {
-    "appname": "Purplediant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/rhsfnXU-9zvAuglg8TDJzvGwOq3TCrR80Kk1yOoaK02_0QMwMB748B8idvi8VUA1kRX9x3_MPnMBbREcYmwogOPD42yJgmsNhqoHzhlReOa_O3cZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpurple"
-  },
-  {
-    "appname": "Yaktin Orange - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GstCOr0_95J670R0mppkNxll2oMt3Pjeh0UhvK7XD4pDj0CAQVKLnRcmXEw9WR71LrJXQFaYwYOv28vduskcxA1hh_oI5QWpQCAWHjGZ_Ufd04Pt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack"
-  },
-  {
-    "appname": "LineBula Black - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/EkZ6vKTQ83PX85B7faWO1bFGRVHcYTgEREWt-EqiO5WMa0GKA9zLt-BDC_V8P8Jkv50tPXQrck2t6ISjcHZrywTQgDmgdsW6s9jHP7rUz32431su=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbblack"
-  },
-  {
-    "appname": "Rose - Red Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/4b45saay-W_ivA-XL_RgXB1AoRtb7kMEVlJ8PILuaZZABag1L9iy0vlEGZwVwTp_1d_UubNObHA3LkPmVoDcumwzzuDN6CWFyizewdKqy6D7shq_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkred"
-  },
-  {
-    "appname": "Dots Live Wallpaper - Battery",
-    "appdev": "JustNewDesigns",
-    "appprice": "$0.49",
-    "apprating": "5.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/h7IgFKwWPRnXTc2HEHgeQlKnXA9S8LHGL3ntMuNFwu7nZU54qEI38emQXmDInwRyKRVcTkAmFl5p7gcZICtOMLsd89RmFNM99yjbroiEpED2jAJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jnd.nothing.live.wallpaper"
-  },
-  {
-    "appname": "QR and Barcode Scanner PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$5.99",
-    "apprating": "4.8",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
-  },
-  {
-    "appname": "Circle Jump",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/k3ILmxT_u82mB8LaqknOT_IISQDSmg8dgH7XdRLmLqQL-d7SIsHWrg8tDWf6N5_ycgY_xXMBwTh_BnC3wXYxvclcztpOyEqdnOBe8OqhZIHoWnc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.circlejump.r"
-  },
-  {
-    "appname": "Cell Clone Wars:Pro",
-    "appdev": "GOZIPGAMES",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/qW3P6QdUfKlZjyCYOLK_37tJ5NBhKLtmBk2TfLIoOoHQ6Au_sYr0tKaOjj_ZF78YPOKHE9PaaGn1EUZJbzUvpSMcpDUGGVhYghVz2w6xWUF8eZYQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gozipgames.cell"
-  },
-  {
-    "appname": "Stabilize Video: Stable Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
-  },
-  {
-    "appname": "Reverse Video",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/aAfQy4Tqldk9-VXC8DbGF8uEXADMPEy0GNrk9n1wBV4YisDqVu6OycUGkO1lPVdkKnadnarwGsyqBD2c5u9l19Do4n5PZt8TBu_yX492Q7hjqoEl=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.reversevideo"
   }
 ]
