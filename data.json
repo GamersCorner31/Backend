@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Sword Fight: Knight Arena Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/1Ij30poPCqvkOKCr6mGe_bZNClcuUtPMMkeg7DrqJrz7OCDibdp8DhmbxtZ7EsGf6YYD5BDMqueKvj2M-tvEZq0ux63kLJgKwtPp1PUtdlHqU1BHYA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.sword.fight.pro.medieval.knight.fighter.duel.fighting.pvp.arena.rpg.games"
+  },
+  {
+    "appname": "Survival Dungeon: Loot RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
+  },
+  {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.49",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
     "appname": "Math Shot",
     "appdev": "Sergey Malugin",
     "appprice": "$1.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
-  },
-  {
-    "appname": "Braincup",
-    "appdev": "Simon Schubert",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
-  },
-  {
-    "appname": "Survival Island: Evolve Pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/AazsiuO_hb3ngqTV8eSfvSNeXFyvNAkHxw4x1XiT1VVWj5WQwPKnaF6eyC4-dD5QvHBXh-Q1X6WaTcFkPt_AsNr5tFbMXtCNEg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survival.evo.pro"
-  },
-  {
-    "appname": "[365fun] Mountain Climbing",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FZo7fvaBoqf-DTUI6qOB5uPgVW9LqgrYQNKtCC5scMdefYxME1nOW68sBL9wahNxXZbjHG3XRGs4UQu_lUcJ_HoLAMV6r00kiaUARzvcC_qx8Nnq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mountain"
   }
 ]
