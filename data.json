@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Bookmark Manager - URL manager",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
+  },
+  {
+    "appname": "Hidden Numbers PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vtNW68R0mIyz9aRxk-EmrxpyZgUmtSMx-NCAql_3Ng3P3gLVRBdzHc3oTDoltCrEcLJVH0riqvObjBm_0i79k3O7w410xAFMCw8a=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.hiddennumberspro"
+  },
+  {
+    "appname": "Dot - Aline Same Color Dots",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iivLDIXH5osc78IgQgLiDwRHFB_mhg8CTv5mWwKlT7thk89eVLhbfwEawuP972yXWu2zBZG14Wm0R78R5KnLB-PCHFopJAkoeV9Z8HVGWV8mCZfm=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dot.r"
+  },
+  {
     "appname": "React: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/1w8wgHih_IG4pI1-jNdV9VsLZffglBPk750oxhaKsFsaBllyUq6LhKBfargLIcuC5bBJ3474njS-zIrSvRLUJ0nSKRIq91d9_0k=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nariworks.Highway"
-  },
-  {
-    "appname": "Dark Chess Plus",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/kCqZMF2UU56vUuae4w2yGx_rOnedbvMDBDXO4PCokhsfb1NcAWwgZiF7glnnvSxdxt2UgQbDihlQr5UPbafH1ZLfbYkj8kYBdzHOy8CdAKcMSqE7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.darkchess.r"
-  },
-  {
-    "appname": "Grow Zombie VIP : Merge Zombie",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
   }
 ]
