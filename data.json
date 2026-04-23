@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Empire Warrior: Tower Defense",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
+  },
+  {
+    "appname": "Falltopia Plus: Epic Space RPG",
+    "appdev": "Pusilung",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
+  },
+  {
     "appname": "Bookmark Manager - URL manager",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -250,16 +270,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math37"
   },
   {
-    "appname": "Over The Bridge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jntVC0WIqYyY6hjH03_YyZGjOHuiJaH0mE-IxfWvWCf8eH7tIrXjf7u7A4j7DKofiwpcxszUO9U0Y3j94lNYu1Vi2FSKimTcPwg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge"
-  },
-  {
     "appname": "Outback Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UhJzq2mwZ0KSTGeCPIECePmnkt1BKEzcTDKFkUohBJCHWlmNzo_6dyLPOR5sFegtr5MJUoChB7qgdPHPdV5uleX0eirH0bsAGzCDlxJWOIlP4IQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.circledash"
-  },
-  {
-    "appname": "Infinity Highway",
-    "appdev": "Nari Works",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/1w8wgHih_IG4pI1-jNdV9VsLZffglBPk750oxhaKsFsaBllyUq6LhKBfargLIcuC5bBJ3474njS-zIrSvRLUJ0nSKRIq91d9_0k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nariworks.Highway"
   }
 ]
