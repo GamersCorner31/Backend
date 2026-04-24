@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Kamsa Squircle - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
+  },
+  {
+    "appname": "Kumza - Squircle Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nIH5tGYikno8_eAOstog6oliNtRlP7tAUnb4-9B3liWJMDmsubQTUW6p4FYd_MOeGrce0bBboOVco5DrTKMLpkjQ-3mv_gNdcpnLIDmOmJs_l202=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkadsq"
+  },
+  {
+    "appname": "Diamond - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/cyDpSzbv4yqbDNzlZEjKGhagOX4frs-Oy9ENZNziFQqKty2fl3qsCc1UggshH3SA0M7-MGj_pFSZTLNaDKASfoCOh4fPuehMYw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.diamond"
+  },
+  {
+    "appname": "Minka Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/QaCCEDzcs2kSC5eoOmYtH6Yk1GC7VEAM50AfkzV2MjRTQTt2-ZrhQUFUmja6Rtsd8HxBKn9NsMgDJe2XCvb-xFbXuXzFG9lprAI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad"
+  },
+  {
+    "appname": "Belga Light - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
+  },
+  {
+    "appname": "Zombie Age 3 Premium: Survival",
+    "appdev": "RedAntz",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
+  },
+  {
+    "appname": "Guardian War: Ultimate Edition",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
+  },
+  {
+    "appname": "Live or Die: Survival Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
+  },
+  {
     "appname": "Contact Edge side bar",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -118,16 +198,6 @@
     "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
-  },
-  {
-    "appname": "Alphabets game - Numbers game",
-    "appdev": "Abuzz",
-    "appprice": "$6.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/lf-r-qus9VejOkNNl6wSLaSkxLiYoIek7UMaGsQ4SrRLUK0a1HL1vzMqa8_XnnK1gJU7um9rKJA2upIstaPjYp9hiXENFw_SCZI7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.apk.ConnectTheDotsAll"
   },
   {
     "appname": "Sword Fight: Knight Arena Pro",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
-  },
-  {
-    "appname": "IPTV Smart Player Pro",
-    "appdev": "Dmitri Iasibas",
-    "appprice": "$9.49",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
-  },
-  {
-    "appname": "Varwil Pink - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
-  },
-  {
-    "appname": "Star - Yellow Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ihFqVZwAPbksaG4f0WW8K8SDI5LBa8nMibr8DZJjB-k03XyLnwGjXfrCrK07iiVKemXzE3Lo3fzLTI2eqjzzVKuIR3V1m4FjoVhsxMpBLwBhzHcaDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
-  },
-  {
-    "appname": "Yellowdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
-  },
-  {
-    "appname": "Squircle Dark - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ffu7x41eXZwvVC2-Q2FCZxoJgsdWkZZOMZ4nJE02qcOmMAWHH9SdGuVYcgAZaFmr77NzVaYjMv7VczSJ6c5P3_U_K1dAk5I_9fZlawbr5wMdMtA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squircledark"
-  },
-  {
-    "appname": "Garage Ringtones Pro",
-    "appdev": "Appflow Software",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
-  },
-  {
-    "appname": "Burning Sky VIP",
-    "appdev": "SHMUP Games",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
   }
 ]
