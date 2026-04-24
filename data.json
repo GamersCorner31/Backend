@@ -1,5 +1,15 @@
 [
   {
+    "appname": "S4U Ancient Winter watch face",
+    "appdev": "styles4you",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/aBDwwDOPJOgn-kGTM6Plwv9FcpIYuVblwCAjgcn0GV4BlWLmIIyQxXdEuaCjClMxW6cUzBLy3qUG2ZlE2MRd_I5uI6baQPKehV2I_Nn9tWP5zJKj=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.s4uancientwinter"
+  },
+  {
     "appname": "Effesteria Nombo Card",
     "appdev": "Effesteria",
     "appprice": "$0.60",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/cyDpSzbv4yqbDNzlZEjKGhagOX4frs-Oy9ENZNziFQqKty2fl3qsCc1UggshH3SA0M7-MGj_pFSZTLNaDKASfoCOh4fPuehMYw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.diamond"
-  },
-  {
-    "appname": "Minka Dark - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/QaCCEDzcs2kSC5eoOmYtH6Yk1GC7VEAM50AfkzV2MjRTQTt2-ZrhQUFUmja6Rtsd8HxBKn9NsMgDJe2XCvb-xFbXuXzFG9lprAI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad"
   }
 ]
