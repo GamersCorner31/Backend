@@ -1,5 +1,355 @@
 [
   {
+    "appname": "Azulox Blue Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/eScql6eBkNf46UA5S86zqx84X4aRngfyTdefwnl-qwUbQ_WLzWjXAvaPw-AeLCF1FQVK1Ug70_4J-5YuIDyJTKoFj3Zbbu0SYcU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.azulox"
+  },
+  {
+    "appname": "Mathe 5. Klasse",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lsnM6IilcBqGbyEmZRCgfTZU-L7VI49F4R_x54YqOJqh-cULf3sN6W_CLNl-pgow0Y8e-Hy6E8BprV5KBvOb19SU1HWjX5gj5iftG_XLUt2rg8dU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math68"
+  },
+  {
+    "appname": "Third grade Math - Addition",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vkQ-I45wNNWOkv3kPmAx4D4LcJlNgOs2Jh15Te78WxjVgfm1kuUJEzuSbwzMU_aH2K1ytHTa9Gh1ewLv1C5lrphO95dBRsv3LQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math023g"
+  },
+  {
+    "appname": "Mathe 1. Klasse",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ivUKfl--huGTeka3d7_WtFWf22JRBwGuRZg8IXm1ex0sElomof3j5g5VTCb4uS7uR-9-vVFlD09Co9aDxLPNke8dnAKznjpmnw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math64"
+  },
+  {
+    "appname": "Subtraction 2nd grade Math",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/61cLOWP7IXXCfo-4hBONCr0QojZ-3RpjlWIupm9_8f9Qx85MpDpgOYnIBrZErJ4TpjGTioDZ4TLCjgRl50E_lhyoK2nvBofa9EM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math021g"
+  },
+  {
+    "appname": "Multiplication Tables 10x10",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/H_ZVIe7vLgWf7hHTJyZCMuz20FlalGFIjIqXUvbeAZ_BH1LBiPkczA45GOEscMyaWqTuenQ5C4fJNX59_P-1gGfmipoN6O-Jj9U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.daskleineeinmaleins"
+  },
+  {
+    "appname": "Subtract Fractions Trainer",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/y-qHXWIWtRqk7_nDqS01u8a6y8TvpC7KjA5CWoKIrRgbMcYNynO2zbdHCshLlI5WM7QVwvE02INNPm6i_nOKjoL2ZyHpQH8Hi4fQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project013.full"
+  },
+  {
+    "appname": "Operations with integers",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/gXxGdlbjMMOd0YQJgqtcZzshhPza32pA3qyydCoUogYpTf-uRs61Nk6gycS5epkRccDPI9Jgy6mKA9XNIOnWH6t4XdLpuRsRsQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math42"
+  },
+  {
+    "appname": "Second grade Math - Addition",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/UAGQvIFX8Bk1xr_r9DX_FtHlq_0rc8Um3JJcy2blDS8GcOAn7stze1vcBA89a5IR0FeYBTJuGzXnSnq1KzK6TFjfneDOn8sssCGn86pXccKGw5I1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math020g"
+  },
+  {
+    "appname": "Multiplication 3rd grade Math",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tjKW_hvno0YrdK0_xDwjvr7-eQNPZozrmPVD2iqJFAYqNQRa23GGRb8hqEOa8SYNGNkDlX85Ad1_Ka20tSSZpBralhLwGt-XhSjyZns-7VGnwtSe=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math025g"
+  },
+  {
+    "appname": "Multiplying Fractions",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/BNjgSbNJFrQXtz98ntxR3khRJ-DOJDvhEeJ01tjKttTt5BnkLnztYYFWwWIkqAn3HXHr0yF92GkNE_hf7NQMubStWVt3sBZbtTo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project012.full"
+  },
+  {
+    "appname": "Multiplying Fractions Trainer",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/W6tD3G-aWYaAC_tV9Y8KZ2a4XZ7yINGTDgEDVO8JZkhJqrQV48JDfnavDO896_ZAhS7RqoOqa6zKs-jNuOAAqI2yuI_WOSlb2PJw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project011.full"
+  },
+  {
+    "appname": "Subtract Fractions Math Game",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KDmsvxMawxCYrKOFd2KBSYIutiDSmqpRaBeRD6ymsexMZ7izdpTX5ENYEIyqxd3D-8O0iiNiEwar5vTWK51ANn0eUoYgxwG6oucI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project014.full"
+  },
+  {
+    "appname": "Multiply and divide fractions",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/buR8tveFGZ5zI4hNUoDOpfMs5uAy0HQOvC_plff3K6GBlQDY1ojCkuq0lJSVJux80KF6nieeU6M3BnLs50Yh4seDemX3Y4LRCQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math39"
+  },
+  {
+    "appname": "Multiplication 4th grade Math",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/O45SgJsNa863GmxKtzR4o66BP7iFoILWhjevGcNzE7k20sxVjYYR5EeyQ1HE-Aftf8bkfY9SWyEGoPwecWfc4QZZLi0VTmZAyrc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.fourthgrademultiplication028"
+  },
+  {
+    "appname": "Multiplication and Division",
+    "appdev": "Sergey Malugin",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ygH1WH5qZ6zBtgwDD907PSQt9dtHIqTwZm89VdDjIj6kL74jMBWDb9a-f_7N7X5vuIeIccaq4GQ2mZGFeQkfLKe7BiEsI6JAHYzyOAq6mPjM6vzr=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math022g"
+  },
+  {
+    "appname": "Fake call screen - Prank call",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
+  },
+  {
+    "appname": "Dotted Lines - Snake",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
+  },
+  {
+    "appname": "Spirits Wave EVP Scanner",
+    "appdev": "White Light EVP",
+    "appprice": "$1.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
+  },
+  {
+    "appname": "Viorange - Line Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iSwIEuzK73v98YThFls0RG3oCvE4WWUUqCgQ6EAFtEeUkpIiGWsBc1RUZCoRWGldwkkiSbFo6eXHjq4-755aq3WAQzLlmcy6d21EbSAUbz47M7z4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbviorange"
+  },
+  {
+    "appname": "Sun Flower - Line Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tqo0j9R1c0R7yxiFCA6a7FxyPH3HqARAckuqxnUt1OVvvQJaJOM-SL7RB27eh3zdSb4kTlEDOmqsIO4flTLfg08DmJ7jFJOC5E96RIgYlehkIThS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbsunflower"
+  },
+  {
+    "appname": "Red Carpet - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bQbh6a-ApTJxfQVmbHEjOn-I3Itmwi5abVBdKHyL_oH92OADj6jMHy-QXWWSa3oDSNPKnN7LjvjmNVPl46KLOyqmvUsv88NF5jUBnPSyrHuA2CPpsg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbredcarpet"
+  },
+  {
+    "appname": "Bubble Gum - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OG2a09k3eWOYhwRraq79y-7OhFi7VqByC76hwMA2i-F1bQm1l4-V8Okow40eP23aCOwX7xwRXoXldAPjrk4LA3Henz0enozYg5EVTB1de9P2nHM3yg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbbubblegum"
+  },
+  {
+    "appname": "Kathleen - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
+  },
+  {
+    "appname": "Earth - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5-0-LHzmkTAKeuCzCAb6I-SsKZg5zumhJGFswU6IHGf8LgUJlBXTt1V4mJSXuI-BoZp4eNSEEOTUaO8MGJFQyXPkP0M7lKH50S_dUdf292dKaRI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbearth"
+  },
+  {
+    "appname": "[365fun] TouchTouchPangPang",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
+  },
+  {
+    "appname": "[365fun] CatchBee",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
+  },
+  {
+    "appname": "[365fun] Perfect 3m",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
+  },
+  {
+    "appname": "[365fun] Color Match2",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
+  },
+  {
+    "appname": "Marigold - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/zeXu_HYWnGP3BgaMJAj_ec5d6N3Nf4Iyb-Lqlq3OQwXkW5EGMO94UWBhxKdA1BP5LpvKD8pdxA7xeKMJ2iu4erKnvk4RZn5In_oX7hFRtKl6k3TT=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbmarigold"
+  },
+  {
+    "appname": "Traffic Jam Cars Puzzle Legend",
+    "appdev": "MobGame Pte. Ltd.",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
+  },
+  {
+    "appname": "[365fun] Wood Block Travel",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
+  },
+  {
+    "appname": "Mockup for Everything - Design",
+    "appdev": "AUSTECH STUDIO",
+    "appprice": "$8.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mCBO44YbT7lh6RMx5FKh7J7iI4myBRg03jMqwWijC9Watv7lPLKHWvZ4s2yvNgGv0jmO0nQLDKwkJtY4LqhJw_KDfs_xm3axa-N6vE7YtV5Uk1sWCA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mockupfor.everything"
+  },
+  {
+    "appname": "Invitation Card Maker Pro",
+    "appdev": "AUSTECH STUDIO",
+    "appprice": "$3.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/cJEbCr-gjjZbhSDUBzvdg_3X_6EskCsapjKDMtDP4HHXDI7oWmoiU9vMF_8y-1qpp6UmmGWEVvZ_bjy5yLnSWUzNjJhmVbGW8TgmZILF2-viSdI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.invitation.maker.invitationcard.generator"
+  },
+  {
+    "appname": "Fit Workout Pro - AI Trainer",
+    "appdev": "AUSTECH STUDIO",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/eIGZg_pvGYyyHtFhNQU57eFXgtsf1hqMAvqqApSsrP8jViPY5128WTULnQ0CTqcJ_CpdbxeeMMIcDu9NFlUvzIkPg9NpEESn99zos0gkDBwrXsI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anthonyng.workoutpro"
+  },
+  {
     "appname": "Kamsa Squircle - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -48,355 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
-  },
-  {
-    "appname": "Zombie Age 3 Premium: Survival",
-    "appdev": "RedAntz",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
-  },
-  {
-    "appname": "Guardian War: Ultimate Edition",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
-  },
-  {
-    "appname": "Live or Die: Survival Pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
-  },
-  {
-    "appname": "Contact Edge side bar",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5FheGpOQzNyLBkbKupy-VbUoGYAORrEd9la0QjjXjWdx-dYmxrXziuaKKLjMSkTFvE2H6pCgQ9XsIdHH0kQnV8X34T_wvahoYdH9XmD6yvi38EYc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar"
-  },
-  {
-    "appname": "Warrior In Dungeon",
-    "appdev": "NextEntryCo",
-    "appprice": "$0.80",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/mXM2AizU6GTrZ7SXT2izniqvZsIMWewKm2m5VBKaHOHirImOh47KmPGQ_FtXWLcbst11Q0QMTMchXepLtKS4sP2i4y_UsyEztalQxQilDiPHWpeW0w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.NextEntry.WS"
-  },
-  {
-    "appname": "Stick Warrior SuperHero Dragon",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
-  },
-  {
-    "appname": "Stickman Warriors Dragon Hero",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
-  },
-  {
-    "appname": "Empire Warrior: Tower Defense",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
-  },
-  {
-    "appname": "Falltopia Plus: Epic Space RPG",
-    "appdev": "Pusilung",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
-  },
-  {
-    "appname": "Bookmark Manager - URL manager",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
-  },
-  {
-    "appname": "Hidden Numbers PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtNW68R0mIyz9aRxk-EmrxpyZgUmtSMx-NCAql_3Ng3P3gLVRBdzHc3oTDoltCrEcLJVH0riqvObjBm_0i79k3O7w410xAFMCw8a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.hiddennumberspro"
-  },
-  {
-    "appname": "Dot - Aline Same Color Dots",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iivLDIXH5osc78IgQgLiDwRHFB_mhg8CTv5mWwKlT7thk89eVLhbfwEawuP972yXWu2zBZG14Wm0R78R5KnLB-PCHFopJAkoeV9Z8HVGWV8mCZfm=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dot.r"
-  },
-  {
-    "appname": "React: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/S3i7Xtco6g0Oj9Otl5Lp5jbncyIGgxisjsDzkdFz0Fbmz72V6_DTmVK_RYNQJDhIGPweWMZ9EFEiuxuW1DdvZSFCLNiekNiOL6DJz-FlzvYcUMzffA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.react"
-  },
-  {
-    "appname": "[VIP] Mr. Balcan Idle",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
-  },
-  {
-    "appname": "My Medicine Pro - Health Log",
-    "appdev": "made easy",
-    "appprice": "$2.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
-  },
-  {
-    "appname": "Sword Fight: Knight Arena Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/1Ij30poPCqvkOKCr6mGe_bZNClcuUtPMMkeg7DrqJrz7OCDibdp8DhmbxtZ7EsGf6YYD5BDMqueKvj2M-tvEZq0ux63kLJgKwtPp1PUtdlHqU1BHYA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.sword.fight.pro.medieval.knight.fighter.duel.fighting.pvp.arena.rpg.games"
-  },
-  {
-    "appname": "Survival Dungeon: Loot RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ro-tACQ-KBh_5XKBzfV2Ts4d3_tt5KJWcWpb_foKxlll5XzCzJTHCPCQz4syeapcOAtpL30slwv7K7ppw_8EcDYHE-oLpZh12ZP_A6wzT-DGWO92=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.rpg.games.roguelike.dungeon.crawler.dragons.adventure.dark.souls.survival.fantasy.action.pro"
-  },
-  {
-    "appname": "Slime Legends - Survivor",
-    "appdev": "Fori Studio",
-    "appprice": "$0.49",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
-  },
-  {
-    "appname": "Math Shot",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/xC0py1Vbzd1Y09s-Asauc_fuJnAf2hmuQ3zj3wfGrYvuD2P7XQC6QCtmu9lmPLfkAMAppUnM3mwR3kPqPl-LXWT64oMCrgPEhjEQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.mathshot"
-  },
-  {
-    "appname": "Add and subtract fractions",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-SzT-Neb1AiAo3ad_tVaeBreZc65aJDDbHCocQKUxqg1PVXYqffcjTjGNhW3hVBqfMvWqbnBmn9xOb5IbfG5jPsWOAmcBuvtow=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math38"
-  },
-  {
-    "appname": "Gravity Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Juh5Q8whL2ehYzuVNJS485NZsgjVuT3Tweq5p3xD-S60AFFBHgkL-C-mg1OOLD5rq4pKepnZ8MsZSQjXi7wyZFdPaXmeQY8FzvQnwC_3vtJuMYQh=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math044g"
-  },
-  {
-    "appname": "Adding Fractions Math Trainer",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/gtHk8T4Zw3t5fp1dqV3dgPzUR9Ht0L_u7coUMhI1hatvApcp1vLtc6z2t54ht0zl3-9LMn1OC0rYzQKsccucnK38kxKGM_nDea7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project002.full"
-  },
-  {
-    "appname": "Fractions and Decimals",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/swwh_G0QbxWGGnxw6Zy38tl0bbQu_1J7ULSRJdaV_WSls_o2S2eXkXPosJtigR6tWNISXG-21gzMbcnDQea6iGkzPdsFyfA3bl4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.thirdgradefractionsdecimals027"
-  },
-  {
-    "appname": "First grade Math - Addition",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LQfAxfLy8N6QVoSNVz8N5Gkn0XXNWstUPTFXq87Z71-f_brS_0olL8NKaj38Af7I7MRw45I0aZ4hrrMHa5e4l0mc6T_riI7LdBw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math018g"
-  },
-  {
-    "appname": "Fractions - 4th grade Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sRI3Je31YXfaH_uFcew6610qkK5F9ZtXGITrKegdu-Lj1BkPVjWV2ZlfW3O8GEw2LtaP-v2lhGQvZ_Fw7b5H_lHjeGbcdDklCfU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math35"
-  },
-  {
-    "appname": "Adding Fractions Math Game",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rVUI-MqDtZXV4NyHGMThDL6fBUJM80JnpeHoUhfhCyBN9Bgh34uuEuDDLp2n0GpSQJEa0JybMsvmxdilvqAiYr0WIojSXqlz5g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project001.full"
-  },
-  {
-    "appname": "Division 4th grade Math skills",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/kW8T32jcC4Eo9oIIHSR4wZVT7d28RIi_SBZozgvZUqgX7YbCDqJ-2_UW2yMYo-q603lC2ETgS5J4YX3StsJtq0ibCIrh2mooCkI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math34"
-  },
-  {
-    "appname": "Third grade Math - Division",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/QGZd7n5C_uGaOxG32VZocyZeBVvw1uQHF8HCawk-7dWyLynPU7M5Thhxrz2gbr3zMYfaagGqYFyToUXZ8MXTW3Ea99x4H4b34ebQamkRWNAzUAX7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math026g"
-  },
-  {
-    "appname": "Decimals 4th grade Math skills",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PEHtLQ1Bhw3_k2au7kSx_nALGwbgVbiVfMOqTXF-4UQqi8c95v4B0NrHU_xQ2XA_P9mLPGVTyL7OtOvFaEjrmLHFegHD5kBYZQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math36"
-  },
-  {
-    "appname": "Fractions and mixed numbers",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TzvJb0c2DNnw9CZ-NErHuUxitOcj7YTqnfkBwRzHIlCSzg6d60PZYsT4WkWIczG6vM6W4jliUrG7oMvhj8qa9rmwCskT1mlbSdw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math41"
-  },
-  {
-    "appname": "Dividing Fractions",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/We7Ekf8YWvE7mLcW49OAj-12Coj7xPSDoM7FI-mkfAHYQ4LU_Zk4068lLEmdWH0Zn9sZ1kf9nE_8ID13zVQCh_UDLkoQChC8mbs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project005.full"
-  },
-  {
-    "appname": "Mathe 2. Klasse",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IobEqJ2YBJN3RjPmsjWZTbdmtwbX0jTRAby0LRDYuhFdbWPEuRgKqPEyKorw2PJmNvxRr0hDv0DFPtVD4fxmpHmXMMzJXktHzM7mNSHmpKVBouSq8g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math65"
-  },
-  {
-    "appname": "Decimals - 5th grade Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/hQV_kcDvljZsQjvB1a0qt2QbURznDLdZJ6c3_4xu_3xBxI4NF76_ziLzu2Olj2FahO1RZMjstUH1gVC3iIFMlLcdMrYSHPgEwmI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math37"
-  },
-  {
-    "appname": "Outback Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/h_kAbna8WDRLN5lnxdYaYvyJwi6-P08YhoSCWLr2GJJi3dm8RtjjNC5qJfMVyrPksXNNXe9z6htuoAMSgSgikUeZbUVi7Qx5AGYm1QGlXCk5sRo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfoutback"
-  },
-  {
-    "appname": "Survival Island: Ark Craft pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
   }
 ]
