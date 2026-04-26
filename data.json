@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Solitaire Pro : Card Games",
+    "appdev": "VR GAMES",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
+  },
+  {
+    "appname": "Boxing Cash - Earn Money",
+    "appdev": "Minos Lab",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
+  },
+  {
+    "appname": "Cash Quiz - Animal Edition",
+    "appdev": "Minos Lab",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
+  },
+  {
     "appname": "Incredible Box - RollingPuzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
-  },
-  {
-    "appname": "[365fun] Perfect 3m",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
-  },
-  {
-    "appname": "[365fun] Color Match2",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
-  },
-  {
-    "appname": "Marigold - Lines Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/zeXu_HYWnGP3BgaMJAj_ec5d6N3Nf4Iyb-Lqlq3OQwXkW5EGMO94UWBhxKdA1BP5LpvKD8pdxA7xeKMJ2iu4erKnvk4RZn5In_oX7hFRtKl6k3TT=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbmarigold"
   }
 ]
