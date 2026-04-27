@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Clock Widget  - Word Clock",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bsiq9kH-DAl-Pt9AgAKFQcxuY8ug-jyAkqZXRZCci-T-3R7896JTpbZNvXjSCLm0_0Kx3iIwuf-r78Hfbce7K0_FmubFERBrwqYj33cVu6UjUYM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simpleclockwidget"
+  },
+  {
+    "appname": "Super Tank Battle - Sandbox",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Mbk8TYqWh1LgkzgQRDBUV5dTzsF6CRQleN0erRavAZLoeK712vtZhpKFDWj_LgsZ78ALm26OLXgbTK2T3hm0y1dqF4UsP6HGgbLntHmchsn-6SuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
+  },
+  {
+    "appname": "Find Picture Different!",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/3Re3GGJUz5_MLkd2qAXiDe1wiLrd1A092HniWvCzYaXOUceffkXY6i1rVsVW-HsdnwiNh3SXMWKdGNDxK-kuY9V0K-932hEO2mG--LKwMwlX1M8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picfind.space.r"
+  },
+  {
+    "appname": "Samak Blue - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ncUZTxlIDQ0NkYdfLnfsgWpeEgCu3JU4fvZR6iPhnckvBOkgb9nhDsKMX06zFzT71SujDomu4MwSG0mwnpvAKanp4hsKojhnby_0nKVNPh14pp43=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blueblack"
+  },
+  {
+    "appname": "SeaLine - Blue - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/SPgn6B2HkhmqaqhfPyxpZqRDoHPDBWBXDMTzwerbt--aVhkljk2D8eEVJ_CAoUJb4HG3YjFB-9ZLTWgpE9gHn_DW0aOC2hF5pvRD-SbCIzSQWKF3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbblue"
+  },
+  {
     "appname": "Square Clear - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ivUKfl--huGTeka3d7_WtFWf22JRBwGuRZg8IXm1ex0sElomof3j5g5VTCb4uS7uR-9-vVFlD09Co9aDxLPNke8dnAKznjpmnw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math64"
-  },
-  {
-    "appname": "Subtraction 2nd grade Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/61cLOWP7IXXCfo-4hBONCr0QojZ-3RpjlWIupm9_8f9Qx85MpDpgOYnIBrZErJ4TpjGTioDZ4TLCjgRl50E_lhyoK2nvBofa9EM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math021g"
-  },
-  {
-    "appname": "Multiplication Tables 10x10",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/H_ZVIe7vLgWf7hHTJyZCMuz20FlalGFIjIqXUvbeAZ_BH1LBiPkczA45GOEscMyaWqTuenQ5C4fJNX59_P-1gGfmipoN6O-Jj9U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.daskleineeinmaleins"
-  },
-  {
-    "appname": "Subtract Fractions Trainer",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/y-qHXWIWtRqk7_nDqS01u8a6y8TvpC7KjA5CWoKIrRgbMcYNynO2zbdHCshLlI5WM7QVwvE02INNPm6i_nOKjoL2ZyHpQH8Hi4fQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project013.full"
-  },
-  {
-    "appname": "Operations with integers",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/gXxGdlbjMMOd0YQJgqtcZzshhPza32pA3qyydCoUogYpTf-uRs61Nk6gycS5epkRccDPI9Jgy6mKA9XNIOnWH6t4XdLpuRsRsQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math42"
-  },
-  {
-    "appname": "Second grade Math - Addition",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/UAGQvIFX8Bk1xr_r9DX_FtHlq_0rc8Um3JJcy2blDS8GcOAn7stze1vcBA89a5IR0FeYBTJuGzXnSnq1KzK6TFjfneDOn8sssCGn86pXccKGw5I1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math020g"
   }
 ]
