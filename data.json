@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Square Clear - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/UqAKcHRQOjqOpWtEeHZQEGzlMcrTC_M3PCcoR7yUsw2GcsHdbM8rzkDHHw-UitNi-LoWLnOFnyKVgHsh8lNfOekadvK_8pSgw_fd1c3-wmmT6X4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squareclear"
+  },
+  {
+    "appname": "Squarecut - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ABQvsxekuuxIj6tBDa9RM17COwHq7nsJXxkOTPoRjUdwQSklsuY_8TvhzQu0zCIVoI2IaKmgTCtpnBgAvT_Wc4WqQ8hk_C0KlY9U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticons"
+  },
+  {
+    "appname": "Fledermaus - Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/EgIgpvsUGp5M-ZqKp_Uec1yPEjfYEU-jsC29Whcki9ec_F7KDc4PiR2-mdCjmUrdDdFSobG2En1sdQDtbe7XzRjzS-BhJ9t6Lr4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.fledermaus"
+  },
+  {
+    "appname": "Material You Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/s14ABN-aiXjeJMoljN_0ID958te14HarRVFBeC9GsevK93RwPQxTh3VddpZKPqWdMdjXZ6TnYcxyblVz21WrKMM7RjrUz_6i1h4DMjNJjtr1GS3c=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.square.icon.pack.theme"
+  },
+  {
+    "appname": "Sharp - Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mE1UCMNSp3RAsdxjabzE4LpNCNH9ED_zGdgwohE3wjZsgwMnlwvDlHOMs0yfphl7O0yVbcol7I1O0zmxTiOXKrvjBsCVnnRKKZa99RZ19bJkwfoK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sharp.square.iconpack"
+  },
+  {
     "appname": "Add Frames to photos",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -260,16 +310,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.universe.invaders.alien.war.attack.V2.Pro"
   },
   {
-    "appname": "S4U Ancient Winter watch face",
-    "appdev": "styles4you",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/aBDwwDOPJOgn-kGTM6Plwv9FcpIYuVblwCAjgcn0GV4BlWLmIIyQxXdEuaCjClMxW6cUzBLy3qUG2ZlE2MRd_I5uI6baQPKehV2I_Nn9tWP5zJKj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.s4uancientwinter"
-  },
-  {
     "appname": "Effesteria Nombo Card",
     "appdev": "Effesteria",
     "appprice": "$0.60",
@@ -278,16 +318,6 @@
     "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
-  },
-  {
-    "appname": "Azulox Blue Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/eScql6eBkNf46UA5S86zqx84X4aRngfyTdefwnl-qwUbQ_WLzWjXAvaPw-AeLCF1FQVK1Ug70_4J-5YuIDyJTKoFj3Zbbu0SYcU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.azulox"
   },
   {
     "appname": "Mathe 5. Klasse",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UAGQvIFX8Bk1xr_r9DX_FtHlq_0rc8Um3JJcy2blDS8GcOAn7stze1vcBA89a5IR0FeYBTJuGzXnSnq1KzK6TFjfneDOn8sssCGn86pXccKGw5I1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math020g"
-  },
-  {
-    "appname": "Multiplication 3rd grade Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/tjKW_hvno0YrdK0_xDwjvr7-eQNPZozrmPVD2iqJFAYqNQRa23GGRb8hqEOa8SYNGNkDlX85Ad1_Ka20tSSZpBralhLwGt-XhSjyZns-7VGnwtSe=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math025g"
-  },
-  {
-    "appname": "Multiplying Fractions",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/BNjgSbNJFrQXtz98ntxR3khRJ-DOJDvhEeJ01tjKttTt5BnkLnztYYFWwWIkqAn3HXHr0yF92GkNE_hf7NQMubStWVt3sBZbtTo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project012.full"
-  },
-  {
-    "appname": "Multiplying Fractions Trainer",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/W6tD3G-aWYaAC_tV9Y8KZ2a4XZ7yINGTDgEDVO8JZkhJqrQV48JDfnavDO896_ZAhS7RqoOqa6zKs-jNuOAAqI2yuI_WOSlb2PJw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project011.full"
   }
 ]
