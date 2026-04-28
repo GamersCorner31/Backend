@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Ludo 3D - Aeroplane Chess",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/3cifOM9cR14de4grXh5lA8E9UH53Lc8X_aAWhwwlv2ZFWGYcCyCJVo592TOx_AGrVqYo1uqaqjBZte5gp1ax1-Yu9Oab8O5jHr-rmbcmNzeeQDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.waterpower.ludo3d.r"
+  },
+  {
+    "appname": "Master of Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/DkwtoDaWsZlpSPvGJAbPn-ttP-Fvs8NxH56N-m3xcsB-pdb3bt_AADopUR__xBAK_BOQVVrSpBzlkQluiRFMWWa7WksMTD7OJ-uP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordmaster"
+  },
+  {
+    "appname": "Shadow Knight: Ninja Fighting",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
+  },
+  {
+    "appname": "Tokyo Debunker: Urban Legends",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
+  },
+  {
     "appname": "Bible Master – Quiz & Trivia",
     "appdev": "Eggies",
     "appprice": "$2.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
-  },
-  {
-    "appname": "Universe Invader 2: Premium",
-    "appdev": "GCenter",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/YGYUjjvJYGzoF6hgOzD8yfpRhCex04Jg5AWamOGs0e3qVTIY9N_FRKQGn6iGhw0ktPR4Q0hD7xepy8gwIL-BJWyjIn96enH2ol8soocxkSgpJAcs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.universe.invaders.alien.war.attack.V2.Pro"
-  },
-  {
-    "appname": "Mathe 5. Klasse",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lsnM6IilcBqGbyEmZRCgfTZU-L7VI49F4R_x54YqOJqh-cULf3sN6W_CLNl-pgow0Y8e-Hy6E8BprV5KBvOb19SU1HWjX5gj5iftG_XLUt2rg8dU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math68"
-  },
-  {
-    "appname": "Third grade Math - Addition",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vkQ-I45wNNWOkv3kPmAx4D4LcJlNgOs2Jh15Te78WxjVgfm1kuUJEzuSbwzMU_aH2K1ytHTa9Gh1ewLv1C5lrphO95dBRsv3LQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math023g"
-  },
-  {
-    "appname": "Mathe 1. Klasse",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ivUKfl--huGTeka3d7_WtFWf22JRBwGuRZg8IXm1ex0sElomof3j5g5VTCb4uS7uR-9-vVFlD09Co9aDxLPNke8dnAKznjpmnw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math64"
   }
 ]
