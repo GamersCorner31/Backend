@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Bible Master – Quiz & Trivia",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
+  },
+  {
+    "appname": "Truth Or Dare Pro",
+    "appdev": "TRYONI ARTS",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
+  },
+  {
     "appname": "Clock Widget  - Word Clock",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -320,16 +340,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
   },
   {
-    "appname": "Word Search Ultimate PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nKUjsm-uV_WnugK9qpJdJaYxeFCxrsXdl-bNrKqgIsXGQIBJ_rp3EuRc_ft2G5utUSI0WSZRaAPIAiX1QLEquqMdw0NqRTCsXXQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchunlimited"
-  },
-  {
     "appname": "Pixel Blade M VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -358,16 +368,6 @@
     "appurl": "https://lh3.googleusercontent.com/YGYUjjvJYGzoF6hgOzD8yfpRhCex04Jg5AWamOGs0e3qVTIY9N_FRKQGn6iGhw0ktPR4Q0hD7xepy8gwIL-BJWyjIn96enH2ol8soocxkSgpJAcs=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.universe.invaders.alien.war.attack.V2.Pro"
-  },
-  {
-    "appname": "Effesteria Nombo Card",
-    "appdev": "Effesteria",
-    "appprice": "$0.60",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
   },
   {
     "appname": "Mathe 5. Klasse",
