@@ -1,5 +1,15 @@
 [
   {
+    "appname": "PDF Reader & Editor (PRO)",
+    "appdev": "Apps360 Team",
+    "appprice": "$5.99",
+    "apprating": "5.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
+  },
+  {
     "appname": "Ludo 3D - Aeroplane Chess",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
-  },
-  {
-    "appname": "Soul Evolve: Epic Fantasy Hero",
-    "appdev": "MGIF",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
   }
 ]
