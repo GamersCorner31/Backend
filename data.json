@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Final Castle Defence:Idle RPG",
+    "appdev": "DH GAME",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
+  },
+  {
+    "appname": "Cytus II",
+    "appdev": "RAYARK",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/8wEV_JZ216fHe9n2bQutfOhGq-bm-rXkTs_0vrxmQyZX54oJmIwUXwt9upSDTsTcxG5RBNOhZlbxi-8__a0Isvvx3Lec04VeQD8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rayark.cytus2"
+  },
+  {
     "appname": "PDF Reader & Editor (PRO)",
     "appdev": "Apps360 Team",
     "appprice": "$5.99",
@@ -190,16 +210,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=sudoku.no.ads"
   },
   {
-    "appname": "Fluffy Icons - One UI Style",
-    "appdev": "Project Fluffy",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/S0ozNuPtaGqlpK5iMYQ9R5hFW2QanSO2T70LmPI2ffLO30PbLTLbm_PRdcAEFfmEGj9a_raL3TrxyP1wBl8NBYt9QeKhf22GKEO6952aB5U9UGlh=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.projectfluffy.icons"
-  },
-  {
     "appname": "Kids' Puzzle: Toddlers Game 3+",
     "appdev": "GiftBox Games",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/bJDPeS4wtB2wpEtLUiIiG66FWu9xqzxAAA5kuMA1IxHAcxushyZ5cVd-Y-pH1LfAVP7boP1JTdwsc34pZQcrnLMZzBh5u_FPg5KhNtkCUcYyEqd4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
-  },
-  {
-    "appname": "Pixel Blade M VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
   }
 ]
