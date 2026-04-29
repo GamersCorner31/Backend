@@ -1,5 +1,45 @@
 [
   {
+    "appname": "yourSudoku - Over 10000 Sudoku",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
+  },
+  {
+    "appname": "DogTok - Dog Translator Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
+  },
+  {
+    "appname": "Word Mania - Brainy Word Games",
+    "appdev": "Eggies",
+    "appprice": "$6.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
+  },
+  {
+    "appname": "Evertale",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MV3yO8Pe03nI_K6_eDFj8wvJ3bUUDbJZxmKWhesAFoeywC9hQcm784lQAh-12TvVwTAd7Fa1zS05cVKu0TSsA-2ZuU_2f76rMQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale"
+  },
+  {
     "appname": "Final Castle Defence:Idle RPG",
     "appdev": "DH GAME",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
-  },
-  {
-    "appname": "Incredible Box - RollingPuzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
-  },
-  {
-    "appname": "Gallery Slideshow",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
-  },
-  {
-    "appname": "RW108 Momentum",
-    "appdev": "rens watchfaces",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/oPTqVBKFQhz4u93pWQcuOFky6TPhKMcce0-TZssHAWN_7I-S1hcWCCvuhGU-pS9JiMHKVAg5O2NXhLu-KOqL1RV6Saaze3snKwfoQy9Txt_FJE0arA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rw_108"
-  },
-  {
-    "appname": "Car Racer Vr Pro",
-    "appdev": "VR GAMES",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/bJDPeS4wtB2wpEtLUiIiG66FWu9xqzxAAA5kuMA1IxHAcxushyZ5cVd-Y-pH1LfAVP7boP1JTdwsc34pZQcrnLMZzBh5u_FPg5KhNtkCUcYyEqd4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
   }
 ]
