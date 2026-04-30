@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Analog Minimal Watch face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KaxNS31dv_NwkUPpmKsnVeHBNnTnRF4ZSPAC3Jz0hjnOjv1hmQpfNG5O3Aqagn3IPQSZEIFY70NTuBVANfFidhv4rOkiWaFhMqiBnBFuSa2FfNvX1A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.zirens"
+  },
+  {
     "appname": "yourSudoku - Over 10000 Sudoku",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_3_4gP_r49KkR1A_bAr4tGaonHJ35tdUAuShJUo88U1_KSggSuryRXGETqINOvJ9zNjVgR4OUGGnJLKffPTEUg5qhNhFwG1BxQqm0iAHe9YZ4J5VYQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.boxingcash"
-  },
-  {
-    "appname": "Cash Quiz - Animal Edition",
-    "appdev": "Minos Lab",
-    "appprice": "$0.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Lh_ulwaXTrczZNtT6HDQ5WnTalz2M_6bJtoSY_GQmkqmLv7VzutIAvts0ZyKj6chDUctQ2UfRA6FSkDncOx-7UR4u8ZR2CC8y7D4Ys2Dmfcn-qY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal"
   }
 ]
