@@ -1,5 +1,15 @@
 [
   {
+    "appname": "MSafe - Pro",
+    "appdev": "Codfishworks",
+    "appprice": "$9.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/VmzpjEy-YwOf7CliG-H9cVF7cW27wEXIfLb9TO0N6RZ2sr-BPJG45Kv2VZhDeDlzK78OhEhpWBJEtqi34zbzkwpvTu38jYZlIfk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
+  },
+  {
     "appname": "InsideVPN: Premium VPN Proxy",
     "appdev": "Xylo Solution LLC",
     "appprice": "$9.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
-  },
-  {
-    "appname": "Solitaire Pro : Card Games",
-    "appdev": "VR GAMES",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
   }
 ]
