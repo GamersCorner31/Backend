@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Z Town Chapter 5 The Reunion",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sJGwCFvcIOqMIjuCuPhutBdLgRuya_QEPYv6h6IPdLtnG05753RbH1_geYHyb9cqVKV-RWlg8780Ps3WDS9_-AshI1yPHnRZHZGfUmMchoq8fn54=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5thereunion"
+  },
+  {
+    "appname": "Z Town Chapter 4 The Messenger",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/v4SFptDWwJBiy5zs0stowGhmjaXC3hhMYduCUxuBAuUNaPVBUAoTNkvddFmA5_fQiQ5ccgFLmry8kFsk6RCf401iCjdwkyUauoEm5hkDBvihlKEN=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5themessenger"
+  },
+  {
+    "appname": "Z Town Chapter 6 The Rebellion",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/reuhz-6yNmIK8bDikXyMuxPcUs0Fx5A2S5YX4LCJQecB4XgDYNNe9hDuLl_wEd2CmxpKNIYrHkFN1V1JNpr9_xtnz5aGYcsPkeEntQ-ZUhP_Bk2I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter6therebellion"
+  },
+  {
+    "appname": "Z Town Chapter 8- Chaos Begins",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NbifkKwctRO_pdIhmZUpyJwH2PRkWJ4E4xduSNaFAIk411WISCdzJeeVXA5ee3zZpviEt3W_qHVrYATAHCh_-j9TpXz7mJZvfFNztz_MhcSnPBdP-A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter8thechaosbegins"
+  },
+  {
     "appname": "Active Analog Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/VmzpjEy-YwOf7CliG-H9cVF7cW27wEXIfLb9TO0N6RZ2sr-BPJG45Kv2VZhDeDlzK78OhEhpWBJEtqi34zbzkwpvTu38jYZlIfk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
-  },
-  {
-    "appname": "InsideVPN: Premium VPN Proxy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$9.49",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
-  },
-  {
-    "appname": "Analog Minimal Watch face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/KaxNS31dv_NwkUPpmKsnVeHBNnTnRF4ZSPAC3Jz0hjnOjv1hmQpfNG5O3Aqagn3IPQSZEIFY70NTuBVANfFidhv4rOkiWaFhMqiBnBFuSa2FfNvX1A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.zirens"
-  },
-  {
-    "appname": "yourSudoku - Over 10000 Sudoku",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
-  },
-  {
-    "appname": "DogTok - Dog Translator Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
   }
 ]
