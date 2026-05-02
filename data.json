@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Image Resizer",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
+  },
+  {
+    "appname": "Bricks Breaker Fun Pro - BBFP",
+    "appdev": "The Gamers Zone",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/3FYqiyTYCvhOrqvlHIptwqXuVkQd_FRXh1knSYE7aTRwmt444ZR6EJkMVhCoOtwz1oHfk0CA-1M3wFd_zlMI-uPtYuZbDJxYxjiad0Y5Lynazdbh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thegamerszone.bricksbreakerfunpro"
+  },
+  {
+    "appname": "1945 Sky Shooter: Premium",
+    "appdev": "GCenter",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8KywDbm-QnyICeGkLRTHiJIsV5WoJY1k6jqn-Uzpy_tt9CEPaEVFbCLk7ObEuoyG5YqIilz2R2cQP2q60v6ipYvfkO9z6vVojcP3-Qjc9ZqPUMT8Og=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.War1945.SkyShooter.ShootEmUp.Pro"
+  },
+  {
+    "appname": "Grow Heroes VIP : Idle Rpg",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
+  },
+  {
+    "appname": "Chloe Puzzle Game Pro",
+    "appdev": "Rojeh Video Games",
+    "appprice": "$0.49",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/2qaXfPWC0Z9Su2qqXVcnvIqT4GJCqBmKpqv5ZDVasmdNUIIMjX5C-_5W8A4P6euuRXyjsx7lteUbt7PEmC9AKKWWTop_j9BY-qeJWwajF8UfgiJ5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rmstudios.chloee"
+  },
+  {
+    "appname": "Galaxy Vanguard I",
+    "appdev": "Galaxy Vanguard",
+    "appprice": "$2.50",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/gQTMAZ1UF5dTYvGt_SC2yBKqR3xx71YVnxuC6bjakfNRnfLYqCj5miyxmocDsXoU0cDz4ykZtPcl9b2me2VhfCQ0fqW6PvdIM5wSV3tSOSF224hD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thpereiras.galaxyvanguard.premium"
+  },
+  {
+    "appname": "Zombie Age 2 Premium: Shooter",
+    "appdev": "RedAntz",
+    "appprice": "$0.49",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
+  },
+  {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appdev": "EA Publishing",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
     "appname": "Z Town Chapter 5 The Reunion",
     "appdev": "Maxwell O'Connor",
     "appprice": "$0.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LMgOaw33gfLPspslPSMsV1D5m7FqJTieEUfyVRa7Q2pVgOAT07L0FTeL5Wrz3EqKyuHk-Nh1iWmcDJWcdpBoxX_PkFT5FkB6i9UOSfh8T-uUYb0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.athleticdigital"
-  },
-  {
-    "appname": "ODYSSEY Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
-  },
-  {
-    "appname": "Dash Digital: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/V0LK5QFf5vWWvSj_yXLZSGqjvplbcVQopEdiREaXpCja512Y88mX_yR7tQwOKwfqBf5KC7doQVki-xIAx17rVG_gpII59ozUrQqFIgnqVkT3CG4l=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfdashdigital"
-  },
-  {
-    "appname": "Defense Zone HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
-  },
-  {
-    "appname": "Athlete 1 Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CnHofvsEQXkGyWNt72PP7l6dp2EMXBVohO9pbEkL3u1lRk1KMXcQkKJkIYAEStcR5p_ndkWBfyshh_5cmSVVafewI2Pd5VuA4Xy9L5EaOeArQH3E=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.athlete1"
-  },
-  {
-    "appname": "Railways - Train Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.49",
-    "apprating": "3.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/_pLhVCcde-J-gsPmo2UxlnwoKlFkPLr6pIiHj_-wyoYaDtuowCRUmnCQz4QO413x4gmXPhM2eWRWdct93nCcvcLbPFWZ5EpSOFY8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.railways"
-  },
-  {
-    "appname": "Defense Zone 3 Ultra HD",
-    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
-  },
-  {
-    "appname": "Traffix: Traffic Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.49",
-    "apprating": "4.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
-  },
-  {
-    "appname": "MSafe - Pro",
-    "appdev": "Codfishworks",
-    "appprice": "$9.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/VmzpjEy-YwOf7CliG-H9cVF7cW27wEXIfLb9TO0N6RZ2sr-BPJG45Kv2VZhDeDlzK78OhEhpWBJEtqi34zbzkwpvTu38jYZlIfk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
   }
 ]
