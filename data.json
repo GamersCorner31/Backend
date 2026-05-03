@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Starry Night Widget ZKin Watch",
+    "appdev": "ZKin",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZHIztEKlgSw987wfmyRt6okyuGoBbq_Knx8JAnI6BQ55qh1Re4RxpZ8n8Ur6E5mzkO9qAdGa4pIbGv4tktVbca_6l2Lvf9U9fV82aTZMFsMmjudN=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.StarryNightWidget"
+  },
+  {
+    "appname": "Shortcut Maker - App Shortcuts",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/G6zpqRABxuFha-nn9tOJCEYASTZ9LOcQYwuiCt1YVW5YV9OYFlZTmW3LaiwHFx2ZzGFvgI10fOEnIeYtlON9umvB4RbYIM3BJGc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleshortcutmaker"
+  },
+  {
+    "appname": "Shortcuts widget - Apps Folder",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/NXb0l301epohW5-Q83bosABWGssJGNHNs2aa1kvq9mLzdGgvo040TeGeH_dzzgQlYTTdBgAdebD3iiPyc46GOdSPbcvO3hC-AXc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.shortcutswidget"
+  },
+  {
+    "appname": "Planet Gravity - Newton's law",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/zGhMe3sfHAVKDj5g2Gvn1xMR6RhwAG83DohOpVC4UcuR3FV7jg1rmMHLEJQh2CXc8Eag0SjrxDHgHikK735UNpyb5uxCu14CWE8LsNS81nb-hL8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.planetgravity.r"
+  },
+  {
     "appname": "Minimal Watch Face 3",
     "appdev": "Galaxy Design Watch Face",
     "appprice": "$1.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
-  },
-  {
-    "appname": "Emerald - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nU9GjLjzNrMGXi-WSaErupqMwu1T88aBMpgZJMVNyxJ7qhpzVdzMbTx6LUwP6k7G6gia2NF3ceAgud9eIdn4Dl5yhe8KA_WWOE62uAE4DXJat1ke=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darktosca"
-  },
-  {
-    "appname": "Espana - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/E7lRHbz70cRZQQWqxItk6NtUkqFkrAs5f2WrnCIFK2LL-Nam-Toy2IJ1-ky8NQH4657rn6MDMu96uiweQcnltn00GrWL1X6HvKKlEJyXgWz5cTI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbredcarpet"
-  },
-  {
-    "appname": "Carol - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
-  },
-  {
-    "appname": "EmeraLine  - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9jqXBWfZRqi-caKhWO1DO_-MSGEtavqt7edPGvN1avlCK-hvkX7J4lIvouSSjCBzN_4llzUb1vxD1dUgadekKOWxRl8whf4rN_h17D0CjMLo3kbS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbtosca"
   }
 ]
