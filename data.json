@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Dungeon Shooter : Dark Temple",
+    "appdev": "IMCrazy",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
+  },
+  {
+    "appname": "Warriors' Market Mayhem VIP :",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
+  },
+  {
+    "appname": "rens watchface81",
+    "appdev": "rens watchfaces",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fftn08QKyAzadZcw5vZskNQstN6oUGhF3YS8ytfiZAF9gL9fpS6-4LA4xhLTc1KHfEbcbw2iw744tPIMHNnToHvFPZleKKmHffH2KuKpvuCAo7Wg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rens_watchface81"
+  },
+  {
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
+  },
+  {
+    "appname": "Hybrid Warrior VIP",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/HI8-lWVHrexb4QHFl3JHLlVCTlPvlYlWae6rueArV64tL2B-LGHxeLI_-nTkry6LwgCnvvu1xlt7FFFnnFgBnU43mHDq8C1qBNzeVur7xUsAyqgu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.hybridglobalvip"
+  },
+  {
     "appname": "Starry Night Widget ZKin Watch",
     "appdev": "ZKin",
     "appprice": "$2.99",
@@ -240,16 +290,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfactiveanalog"
   },
   {
-    "appname": "Ciclo Circle Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/1ppEKIukZozN8JxF9JSNsWzyZ7U4uK2TT70yCfrkN7r2ZnlJQiFJErm7T7W9MID8NCB7MJZ22u0XhoUJkjcw_kLI3YnMaVvporw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.ciclo"
-  },
-  {
     "appname": "Memorize Prime Numbers",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -310,16 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=eu.siacs.conversations"
   },
   {
-    "appname": "Sound Meter & Noise Detector",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
-  },
-  {
     "appname": "Tech Quiz Master - Quiz Games",
     "appdev": "Eggies",
     "appprice": "$2.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SVll8_GGUgoT5_cYl-mtZ74nnUTI4CCJ2OyyNmKcmmKQxPXsi8GBuqJt4DcJryeqmvkOWW6YTOlE5ZEkHSWEQxXzk2wShjynftdgfYQZzrlAm74x=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dropdark"
-  },
-  {
-    "appname": "[365fun] Fishing",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
-  },
-  {
-    "appname": "[365fun] SurvivalGame3",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
-  },
-  {
-    "appname": "[365fun] AirComando",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
   }
 ]
