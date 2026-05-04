@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Backrooms",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Iam5bk_jMwescB7O31Bz7NSdQy98k-6smKRa8eOxYsqKYPrcfJDfu08Ge1hfMAtmOXG2irv2SMFhHGRgpGYRKYJ3C4lUYgzv1WrIhqKPvc7TFIG7=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms"
+  },
+  {
+    "appname": "Simple App Locker",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/lEHslF02nNN6I8yJ10rE03dY9slXyBcX3BbB5pEI_4AQb_GP1bxitkqJmFNQ_JV4-mlFFonoKFAx_it5joYk9SnR8sYlZ6tYLzynR8FvGMBwytAf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleapplocker"
+  },
+  {
     "appname": "Chicken Slide and Jump",
     "appdev": "Gamezilla",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/reuhz-6yNmIK8bDikXyMuxPcUs0Fx5A2S5YX4LCJQecB4XgDYNNe9hDuLl_wEd2CmxpKNIYrHkFN1V1JNpr9_xtnz5aGYcsPkeEntQ-ZUhP_Bk2I=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter6therebellion"
-  },
-  {
-    "appname": "Z Town Chapter 8- Chaos Begins",
-    "appdev": "Maxwell O'Connor",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NbifkKwctRO_pdIhmZUpyJwH2PRkWJ4E4xduSNaFAIk411WISCdzJeeVXA5ee3zZpviEt3W_qHVrYATAHCh_-j9TpXz7mJZvfFNztz_MhcSnPBdP-A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter8thechaosbegins"
-  },
-  {
-    "appname": "Active Analog Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EkUhz8ZsbkmtqVlHSxxY6dnHXrwkjHoYH7N8oLMzA-emjW_WSta9fC83r8pkySPKseaXgU4X-u3GRNG8hIMJb8ntaXD8USF5QQ7-bf2lEJbnX8Wb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfactiveanalog"
   }
 ]
