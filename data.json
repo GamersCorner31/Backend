@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Police Department Tycoon Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
+  },
+  {
+    "appname": "Spelling Master PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
+  },
+  {
     "appname": "Sand And Water",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "Limit app usage - screen time",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ELlh4SG42ecF6ZoO2NIB_JRmLgSHeeaht_zbc105DcwoB9pMXbKhKMEs433uq9wjSIdCqNGmk3mht9TL208ROVPOv6rBriQDb8VXl1LEI5VnfH1h=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.limitapptime"
-  },
-  {
-    "appname": "Image Resizer",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
   }
 ]
