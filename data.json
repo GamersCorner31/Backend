@@ -1,5 +1,25 @@
 [
   {
+    "appname": "The Weapon King VIP",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
+  },
+  {
+    "appname": "Apex SE Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9UBAPDFtbawzMiAt8DcUjr6ATm3lrvFE6S_NE84ZcsFBZKYi7i1ft3mlKsDZNzTd4rxpot02b_aCgtNgh78WzEivu6kkR_a02y7T692qBp2xxvnZMA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.apex"
+  },
+  {
     "appname": "PicPu - Dog Picture Puzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -28,16 +48,6 @@
     "appurl": "https://lh3.googleusercontent.com/USWciJ0E3D0vosIKSWgNW-QNecvEolOi78mJ70Rc_9hZm4ZO9HgbPo9cV-9GPDCDR3GVR9Br14_CTtLV3JguI1YMAbhCbhgCCUp8E5KYIc3H7Qtv=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.yeeiwatchface.youngcolors"
-  },
-  {
-    "appname": "HMKWatch Digital 123",
-    "appdev": "HMKWatch",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ZP-VRrCwv_VdllCOe187GtpvwCs5_VIvDb76dmyWFZnWx8Yl_Lk-aJviZlkM3weutzMt1ha0QM1Tj08gnXRG4zTvB4jYYfeYh9IQpgnVrk9YGs8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_123"
   },
   {
     "appname": "Video Speed Editor",
@@ -118,16 +128,6 @@
     "appurl": "https://lh3.googleusercontent.com/V7JtONReJP6eBOuibjjeQalqJ8eDAUErzdAEeF5EGzXuxG-lMH9IawoqgAbAHGLkXU81UDlWhLrz9REnmzGRDD_4bQ6be6g6J2nNvIxgugAUMF0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
-  },
-  {
-    "appname": "Bubble Level PRO",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/YYVXMR4wKkU3Bc-AYY3RRZrM6TqIW1fw-oeC7EsnFf5wJz2JEMTh6b7lP58uFnU-XesKIMfebTIjr3Li-CLeGFIDRYIk0Ih0LLqYue05XkaCJhWu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bubble.level.ruler.pro"
   },
   {
     "appname": "Merge City Premium -Home decor",
@@ -330,16 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
   },
   {
-    "appname": "rens watchface81",
-    "appdev": "rens watchfaces",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fftn08QKyAzadZcw5vZskNQstN6oUGhF3YS8ytfiZAF9gL9fpS6-4LA4xhLTc1KHfEbcbw2iw744tPIMHNnToHvFPZleKKmHffH2KuKpvuCAo7Wg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rens_watchface81"
-  },
-  {
     "appname": "Cooking Quest VIP : Food Wagon",
     "appdev": "Cat Lab",
     "appprice": "$0.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/NIoTsrAsixGVH3KrlPk8cAYDURC8PGeWyv2r-2ZlKuKP1LvWj0-ZkagDHET_EvHDuO8oOxIcpIHtCcZh0OWkMA9dnaI96SAObkx5mRwDm3J40JRf=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outlineanalog.galaxydesign"
+  },
+  {
+    "appname": "Minimal Watch Face 2",
+    "appdev": "Galaxy Design Watch Face",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/flW4kwI0uAgXOJq0N1A3gNeeR1v8ETrnhGpcMXq-tWy0fSWYNnSKc5HEd_yC-QvXUrd7-KFsvsKrJrTjZ651jqge07IHOrlg5XRfM9ny0lxhIpmt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outline.galaxydesign"
   }
 ]
