@@ -1,5 +1,95 @@
 [
   {
+    "appname": "90s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.80",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MsdFvhlBHhTXooqmoSkKKGJKr7TdCj9Mh8j4xkbDmhr7ocqvRj80oRDFRPbuIKLOWAcEigUTPFlYZp7BC98nKRGcre5i9GqMFZg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.nineties.pro"
+  },
+  {
+    "appname": "80s Music Radio Pro",
+    "appdev": "GK Apps",
+    "appprice": "$0.70",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
+  },
+  {
+    "appname": "Tech VPN Pro / Protect Privacy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
+  },
+  {
+    "appname": "Greendiant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/m45uA9UKX-sch021rUdVOIEVsyTy_mHMaKhg3ibIQ2W08m7qFm9qn7ZohiJb_HmAbKNrhOSkqbW5G687B-ShG1-0Guwp934iT_vFLlXZyvQzeLoT=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdgreen"
+  },
+  {
+    "appname": "[365fun] Find the Differences2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
+  },
+  {
+    "appname": "Mikan Orange - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iouc84DMQ9qPPmJQf-HUvrCG-S9iABl6wvpo8m5UyOEeZ7CJEHrgB5YEWOjzc7od7m0iwPJW-dmMxyVwcdkR8ZjaYlVVi0AaG1rjlpyf4hx2FN_a=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangetr"
+  },
+  {
+    "appname": "Hinos Harpa Cristã Completa",
+    "appdev": "Série Manancial",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mn_ecpQPGLuqBtMzwJ84WchOknyEedL1Zj5Pw_ilODySkC8Mh1jq1gf3ZWHuXK5lAFBoewlY6HXnF3_X2q1-nbn736uEQ95YVA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=harpa.crista.corinhos.pro"
+  },
+  {
+    "appname": "Ichigo Red - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EAuYdUxnxqwVD4QltSHtHbs2vQ-s6cZvpOcu0YpetsXrJRKK4rkChJJ9rYzQ4iO3J5wuUgdKTF4uYbe9X7wrP7jOn6gwzWHWMAnIke6PHW5mRP8l=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redtr"
+  },
+  {
+    "appname": "TripleFantasy Premium",
+    "appdev": "Gameplete",
+    "appprice": "$11.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
+  },
+  {
     "appname": "The Weapon King VIP",
     "appdev": "NextDoors",
     "appprice": "$0.99",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SreHZIIrnD4NCIQ1h5zXn6fWWAnCOpPU5rLWZMfGE2hpJAI2cwPwhCtNshzvyKA-SKLnDmg33QAyd-ZYvI3vt7zq9VCV7mHiTWQA-J_-ni6hLpFRQA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdblue"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "Warriors' Market Mayhem VIP :",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
-  },
-  {
-    "appname": "Cooking Quest VIP : Food Wagon",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Hybrid Warrior VIP",
-    "appdev": "Cat Lab",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/HI8-lWVHrexb4QHFl3JHLlVCTlPvlYlWae6rueArV64tL2B-LGHxeLI_-nTkry6LwgCnvvu1xlt7FFFnnFgBnU43mHDq8C1qBNzeVur7xUsAyqgu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.hybridglobalvip"
-  },
-  {
-    "appname": "Shortcut Maker - App Shortcuts",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/G6zpqRABxuFha-nn9tOJCEYASTZ9LOcQYwuiCt1YVW5YV9OYFlZTmW3LaiwHFx2ZzGFvgI10fOEnIeYtlON9umvB4RbYIM3BJGc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleshortcutmaker"
-  },
-  {
-    "appname": "Shortcuts widget - Apps Folder",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/NXb0l301epohW5-Q83bosABWGssJGNHNs2aa1kvq9mLzdGgvo040TeGeH_dzzgQlYTTdBgAdebD3iiPyc46GOdSPbcvO3hC-AXc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.shortcutswidget"
-  },
-  {
-    "appname": "Planet Gravity - Newton's law",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/zGhMe3sfHAVKDj5g2Gvn1xMR6RhwAG83DohOpVC4UcuR3FV7jg1rmMHLEJQh2CXc8Eag0SjrxDHgHikK735UNpyb5uxCu14CWE8LsNS81nb-hL8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.planetgravity.r"
-  },
-  {
-    "appname": "Minimal Watch Face 3",
-    "appdev": "Galaxy Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NIoTsrAsixGVH3KrlPk8cAYDURC8PGeWyv2r-2ZlKuKP1LvWj0-ZkagDHET_EvHDuO8oOxIcpIHtCcZh0OWkMA9dnaI96SAObkx5mRwDm3J40JRf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outlineanalog.galaxydesign"
-  },
-  {
-    "appname": "Minimal Watch Face 2",
-    "appdev": "Galaxy Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/flW4kwI0uAgXOJq0N1A3gNeeR1v8ETrnhGpcMXq-tWy0fSWYNnSKc5HEd_yC-QvXUrd7-KFsvsKrJrTjZ651jqge07IHOrlg5XRfM9ny0lxhIpmt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outline.galaxydesign"
   }
 ]
