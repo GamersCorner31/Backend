@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Alpine Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/QxVCoknvNVFIxGgHUxnzM822uyDNafb64i5iRhIazIFaFtxh34sK2EixO8_i6mh0ywbLoIq_PvK7Dkuyx1dHXDoQJPUKTli57FzQ7NB7Q4TaKq_3Sg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.alpine"
+  },
+  {
+    "appname": "Space Shooter: Galaxy Attack",
+    "appdev": "1SOFT",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
+  },
+  {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
     "appname": "90s Music Radio Pro",
     "appdev": "GK Apps",
     "appprice": "$0.80",
@@ -178,16 +208,6 @@
     "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
-  },
-  {
-    "appname": "Spelling Master PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
   },
   {
     "appname": "Sand And Water",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
-  },
-  {
-    "appname": "Shield - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/CxwORRM_Oz8PkQPFWNMhInKRdeiD1xAudKVgQ0kt34rKfZgx_Bz4UssH2pZRnwM4n_eD2avdZI3kx4adwIg35mXMzydm_LwPqIWAtbewP2o2y-GHaw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.shield.iconpack"
-  },
-  {
-    "appname": "Bluediant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/SreHZIIrnD4NCIQ1h5zXn6fWWAnCOpPU5rLWZMfGE2hpJAI2cwPwhCtNshzvyKA-SKLnDmg33QAyd-ZYvI3vt7zq9VCV7mHiTWQA-J_-ni6hLpFRQA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdblue"
   }
 ]
