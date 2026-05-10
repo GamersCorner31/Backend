@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Monster Killer Pro - Shooter",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
+  },
+  {
+    "appname": "Word Search Games PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/MiW-E1D40lbzqTZxXGx4FFcr2nRwFoEFZwnBs0OGsDOFlt7XoT66KvFx_443YgVmEHnpS4Qq-p6YW6DDWvwrex_jAQWN8mYgdF8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchgames"
+  },
+  {
     "appname": "Word Search Challenge PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/fstrqcKFn3hJHO3Eun8hh34Eu9Fcce1X99gWOwiQB1iOtN2bSvYogHYT7SR4m8C48tcRgyqC-lcIxtQvZmmR8UwzqebAMX9R_XNWQ-wNDRRyaUI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
-  },
-  {
-    "appname": "Sort And Arrange - Thinking",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FiM2Ye4WawWW2u1XlLX4CHE0HRbOHPH982zPTF3rzFC0GAGBkQeOJG0rdDn4vCOdLt_GkVf8zDtn6LRw9MIEJA5Lesr9OzrY4HzhbWsSSO8i8Tc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sortandarrange.r"
-  },
-  {
-    "appname": "Highway Game",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
   }
 ]
