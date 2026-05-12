@@ -60,26 +60,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
   },
   {
-    "appname": "Word Search Games PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/MiW-E1D40lbzqTZxXGx4FFcr2nRwFoEFZwnBs0OGsDOFlt7XoT66KvFx_443YgVmEHnpS4Qq-p6YW6DDWvwrex_jAQWN8mYgdF8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchgames"
-  },
-  {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
-  },
-  {
     "appname": "SPL - Smarter Player Pro",
     "appdev": "BRILIC MEDIA",
     "appprice": "$4.99",
@@ -368,35 +348,5 @@
     "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Cooking Kawaii - cooking games",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
-  },
-  {
-    "appname": "Merge Cafe Premium -Home Decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
   }
 ]
