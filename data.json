@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Square Doodle",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0vub1f0n9bCcH54UX9J-Z4dHPtSo8SbvxCeVOBdU_QXU_U8FikzQva8jTPou_44YfttKnviraHcRuw2xNYjFh0TD_xjMm2QsofRkgMYOGmrE_UY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.squaredoodle"
+  },
+  {
+    "appname": "Cube cube",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/VmrRi9v21BNiZEj0B6BE4P0vemIoz1Dck3Xilx3GaEzCSZeMyVUI1WCD3MahASkOhNTAl8Ila9lJd6zPaIuE2GiAPE7jUjfm98H8sigzF0-71__P=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.cubecube"
+  },
+  {
+    "appname": "How much can I spend? Premium",
+    "appdev": "Alexander Y. Ivanov",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
+  },
+  {
+    "appname": "Terminal Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/w4YTwVYdBxMXKGXKPZUM_pBFQ_DWiO8DPFUlc56gTj5lUlN8rDdJyVuA9ciayFVYRnlCmrkSlnOtZDg-KpOCo-lzNeP7crvNS_p9FBnNpgY0aGrW=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfterminal"
+  },
+  {
+    "appname": "Offline Password Manager",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
+  },
+  {
     "appname": "Lineblack - Red icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
