@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Color Wheel",
+    "appdev": "Roman Sevastianov",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jZ-EA2lUGJu7r6Jck1RUe3MyF218-4ZgeX0YPneDccQqSRQku7LtdRNMeBe4_88CLWCtuWm2DuD6cWgoBxgleqzqiKWCsgq_Pudj=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel"
+  },
+  {
     "appname": "Balloons Pop PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
-  },
-  {
-    "appname": "Sky Wings VIP : Pixel Fighters",
-    "appdev": "SHMUP Games",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
   }
 ]
