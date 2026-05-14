@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Stack 2048",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
+  },
+  {
     "appname": "Color Wheel",
     "appdev": "Roman Sevastianov",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/USWciJ0E3D0vosIKSWgNW-QNecvEolOi78mJ70Rc_9hZm4ZO9HgbPo9cV-9GPDCDR3GVR9Br14_CTtLV3JguI1YMAbhCbhgCCUp8E5KYIc3H7Qtv=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.yeeiwatchface.youngcolors"
-  },
-  {
-    "appname": "Video Speed Editor",
-    "appdev": "SwiperyLab",
-    "appprice": "$4.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
   }
 ]
