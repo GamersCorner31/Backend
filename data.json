@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Business Card Maker: Logo Card",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
+  },
+  {
+    "appname": "Pixel Net White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bja-4nCZ89PE6832-57wPPQ3XgOFi-ZPPKOtkqoI31dSRCRvQ9e4a-vzeiu3GrkFpaxzVem4RzSxhx1MReiM-pLa2lNjSGszHg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
+  },
+  {
+    "appname": "Mawaz Yellow - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/skj05l2DdXpn-gupoy81oQgguyWWqtDqwrrxQPDNmadbmJpHGaficOVg19SXwI9C3HeM7O7Xcwfv1Zdc3dHFGPadbyHZ7oLniUNAfPpUFMeiDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowblack"
+  },
+  {
+    "appname": "Lineblack - Yellow icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/f50XUVxKAWR4YoDf-kWMesBFWyY3Yh0yJwYYxb2Hl6jiRTM5UN5ucEGodq8V5uvQeyZ3AFD8VlQjxoHlpz-t3u8ATEOlDDUs9SAfukL-ay2_PYEO=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkyellow"
+  },
+  {
+    "appname": "FPS Gun Game 3D: Shooter Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/1aBiQjYz7c8tk_EUMlWijSpQd4edO33JKgAOzWvkBvXaht44x78he3wfGEE3i9dpkXrPJkNqFJbfm1hfNn_T_iaULZAdT1cSS1av3WqejzpiXuFZuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.gun.games.shooting.shooter.strike.fps.csgo.combat.sniper.zombie.modern.action.ops"
+  },
+  {
+    "appname": "Lines Circle - White Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
+  },
+  {
+    "appname": "FASTAR VIP - Rhythm Game",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
+  },
+  {
+    "appname": "Iris Light - 3D App Icons",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/GSoj9ZLixsO7DOvKQDzz9w-ZBVx4ryc2aoyL5HmSdjHntFoKMQsLVWhwfmGaPTHmXihPb3oZuYux9HeQcFX_ZI05gKyWbq13CESUtCL5-uGVYAU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.irislight.iconpack.app"
+  },
+  {
     "appname": "[365fun] DinoRun4",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/46-UlyVx9u0lb8mLSDYbNeniJIb6Z_rlXjPXZHG2h27729riolE4Yzv4-PmyMWW0QQ6RjiK9xmNOZ-SYGmTggja0FAu8R6s0vg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gkapps.radio.eighties.pro"
-  },
-  {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$4.99",
-    "apprating": "3.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
-  },
-  {
-    "appname": "Greendiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/m45uA9UKX-sch021rUdVOIEVsyTy_mHMaKhg3ibIQ2W08m7qFm9qn7ZohiJb_HmAbKNrhOSkqbW5G687B-ShG1-0Guwp934iT_vFLlXZyvQzeLoT=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdgreen"
-  },
-  {
-    "appname": "[365fun] Find the Differences2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
-  },
-  {
-    "appname": "Mikan Orange - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iouc84DMQ9qPPmJQf-HUvrCG-S9iABl6wvpo8m5UyOEeZ7CJEHrgB5YEWOjzc7od7m0iwPJW-dmMxyVwcdkR8ZjaYlVVi0AaG1rjlpyf4hx2FN_a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangetr"
-  },
-  {
-    "appname": "Hinos Harpa Cristã Completa",
-    "appdev": "Série Manancial",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mn_ecpQPGLuqBtMzwJ84WchOknyEedL1Zj5Pw_ilODySkC8Mh1jq1gf3ZWHuXK5lAFBoewlY6HXnF3_X2q1-nbn736uEQ95YVA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=harpa.crista.corinhos.pro"
-  },
-  {
-    "appname": "Ichigo Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EAuYdUxnxqwVD4QltSHtHbs2vQ-s6cZvpOcu0YpetsXrJRKK4rkChJJ9rYzQ4iO3J5wuUgdKTF4uYbe9X7wrP7jOn6gwzWHWMAnIke6PHW5mRP8l=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redtr"
-  },
-  {
-    "appname": "TripleFantasy Premium",
-    "appdev": "Gameplete",
-    "appprice": "$11.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
-  },
-  {
-    "appname": "The Weapon King VIP",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
   }
 ]
