@@ -1,5 +1,55 @@
 [
   {
+    "appname": "[365fun] DinoRun4",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/p_MKL9T4SwMGY0I3LvUdsV2C5PjbbTyn-KO7wU_Bc3okv2MFCBTcBjQ1w7UpCX4P3DvEcvEA0DatBp3l2KOJ5uqUjyep2lOen4P7kiJD6YrshNvI1Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.dinorun4"
+  },
+  {
+    "appname": "[365fun] Match3D",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9leU7HHVFmG4RsfQrcWAuqy8oiRq_MnsRCH2FKreckBQ4h2z-NI82tR5pB1acuIndMI7IFptRL4dlQUXGxnfdfoCscKa326_JjgeXCNomMVKginD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.match3d"
+  },
+  {
+    "appname": "[365fun] Fortress2",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
+  },
+  {
+    "appname": "RFS - Real Flight Simulator",
+    "appdev": "RORTOS",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/9IjV-N3_1d5FMvkXAoUZdo_r6zTRY4xnYXm2OCqkDNgUGW62Q89impmjHT4NRGv2TOuERiOlfaKsFE3gI4gaxXIltG8gRwOrt0U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator"
+  },
+  {
+    "appname": "EHW Premium & stick fight",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
+  },
+  {
     "appname": "Stack 2048",
     "appdev": "AK Studio Mobile",
     "appprice": "$1.99",
@@ -18,16 +68,6 @@
     "appurl": "https://lh3.googleusercontent.com/jZ-EA2lUGJu7r6Jck1RUe3MyF218-4ZgeX0YPneDccQqSRQku7LtdRNMeBe4_88CLWCtuWm2DuD6cWgoBxgleqzqiKWCsgq_Pudj=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel"
-  },
-  {
-    "appname": "Balloons Pop PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EuN4GgwdIhz72aTng6s0F3UK7lmycXKc1OC2iVzWAFBo87smdFUCGTBOf6Tt6IIjhkrZt-HDGitAHXGeI3VJNKQ8BjDev4eyOhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.balloonspop"
   },
   {
     "appname": "Gradient Watch Face",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
-  },
-  {
-    "appname": "Apex SE Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9UBAPDFtbawzMiAt8DcUjr6ATm3lrvFE6S_NE84ZcsFBZKYi7i1ft3mlKsDZNzTd4rxpot02b_aCgtNgh78WzEivu6kkR_a02y7T692qBp2xxvnZMA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.apex"
-  },
-  {
-    "appname": "PicPu - Dog Picture Puzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xUi302jryG5j-laQHaqOuVFTPrx6dPzrRoW58EE6o1AECo9fVVd9QbulrpLWLi3ezbBeDLLHDOuF80cShzM8p9M3wW4x5RyU9bjsR4PNzSdwx-ct=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.dog.r"
-  },
-  {
-    "appname": "Re:Bounding - Bubble Breaker",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uvWTcb6eGZ6RlWQ5zKCbJDuxvnEEugDii51bfuk_zXBslS_958K6ivcT4X7vtL-blEWgQDzayYeur0xUnV2Wizyr9M981ZSBiaf3c2oxs-7pn-7M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.rebounding.r"
-  },
-  {
-    "appname": "Young Colors: Watch Face",
-    "appdev": "Yeei Watch Face",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/USWciJ0E3D0vosIKSWgNW-QNecvEolOi78mJ70Rc_9hZm4ZO9HgbPo9cV-9GPDCDR3GVR9Br14_CTtLV3JguI1YMAbhCbhgCCUp8E5KYIc3H7Qtv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yeeiwatchface.youngcolors"
   }
 ]
