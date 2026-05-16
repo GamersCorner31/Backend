@@ -1,5 +1,75 @@
 [
   {
+    "appname": "APPtoSD PRO",
+    "appdev": "Detective Studio",
+    "appprice": "$5.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/p94ZYBzvbDoq7vpxuuA228RlzVHTMDnAkb0Fkq0e4tO-xKVqWDSaa6BTSUixPDfdBw9lR67-cdOm3rTZFFNbXIR8154Icr_u3g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=app.to.sdcard.pro"
+  },
+  {
+    "appname": "Video Compressor PRO",
+    "appdev": "Detective Studio",
+    "appprice": "$5.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/PKok313llvAoJ-mD8Dhp5m-bRH0ksUpRULqbZEy3tfWKtr6GOSfcMhjmFYI5YfPwmkqc4d-FHS556LAZf2I87T2-rwOWHwn0Gg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=video.compress.optimizasyonpro"
+  },
+  {
+    "appname": "QR & Barcode Scanner - GOLD",
+    "appdev": "Detective Studio",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/6Gmo3bZ6r5vxd1zre4haHHEvVoepdB8oNTiDdVxvbPQeF3emX08Rj133zkRXxRiTapDkskjVsxR6XJeCaU1uh7IIz_EpNj0YzkB2FgSRPXaExjod=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=qrcode.barcode.scannergold"
+  },
+  {
+    "appname": "DS PRO - Recover All Deleted",
+    "appdev": "Detective Studio",
+    "appprice": "$5.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/3Fjp-73ExQyyby9-r2_DSgvW0W-DAuvmOiBW3En1umeLktEbqus7BoR-6F9kjDlwel5ZiDcZq_PQLeocLsKb9cs9mB0zYGr_s9O4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.photoandvideo.recoveryfilepro"
+  },
+  {
+    "appname": "Notch Effects Notch Animations",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/PzJIj6bpcDLfZhWCTeCdvPaykmjnv6i7yvB_wtNJFbDGUT2VL4jvEju9A_ZC_5NMFv3TuPgLDnzbHNERBjJFpFrqoZRTbxtVfBYzJzN19g5Bv1PKhw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.notchanimation"
+  },
+  {
+    "appname": "Haunted Radio Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/yVi9L61KKESnXzmYBxp6_Lt7WEE-ENVaubPPLA3gBTJ02NJ5IPZCZPaNmzZ2rZAvEtfmmJpASZK_prH5Q-i6mP69VP3sS6hNwum2z_avx7OHHeTNhA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Haunted_Radio_Spiritbox"
+  },
+  {
+    "appname": "Live or Die 1: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
+  },
+  {
     "appname": "Grow Spaceship VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -328,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
-  },
-  {
-    "appname": "SPL - Smarter Player Pro",
-    "appdev": "BRILIC MEDIA",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LZvVgEerPuSHlVCZ2pRkDLwuAPA1SoLgtCNIC1HVagbKAo35PHmd3lEqi5ozmH4xFXEOxAOOLi328Cst7yi2f-9wpIVgOaOBhiCPDXIGO_qvSrI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=extreme.player.iptv.smart.xciptv.xtream.m3u.live.tv.channels.app"
-  },
-  {
-    "appname": "Clear Wave - Water Eject Pro",
-    "appdev": "Appchi",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
   }
 ]
