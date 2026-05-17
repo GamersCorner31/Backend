@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Food Fever Premium: Restaurant",
+    "appdev": "Unimob Games",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
+  },
+  {
+    "appname": "Analog M3 Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "3.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/3YoOxWGcOibTFbT-iYamHy1V6J5zihCDoO7m2kXIPsV13wP03t1hSxH4DcKT-A3KtMhFB44hkkzIUWnGFBgkG4A-r5I3pj8e_Avr973y7tpNEZOe=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogm3"
+  },
+  {
+    "appname": "Image Converter - HEIC to JPG",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
+  },
+  {
+    "appname": "Mini Restaurant Premium",
+    "appdev": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/avwaR5uQV56Fm0mGFLvRt2JMQTIlOSGHQGPmjC4kf-2nqHuGeUsW0O-9G4C0h1QK-7nKKCXAkgNbrJlL4lk23WYhnQQZ4ypvipAjG9i1KijVnRPD-Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium"
+  },
+  {
+    "appname": "Reminder Pro",
+    "appdev": "made easy",
+    "appprice": "$3.75",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
+  },
+  {
+    "appname": "Documentus Pro: Passport Photo",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
+  },
+  {
+    "appname": "Stick - Remote Control TV Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
+  },
+  {
+    "appname": "Spy Camera Network Scanner PRO",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
+  },
+  {
     "appname": "Spelling Test & Practice PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -318,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
-  },
-  {
-    "appname": "Lineblack - Red icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/XkSsXvNvwAOAsyPFzPu-Rw_injuX7AaTUk8hHPoljGIaoseHbqHeUFRfqpb-dOJ8aKOoo01HaTCaFBsnwwiAjthhz6OBIq67KKs1AQ25ufwCHHQO=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkred"
-  },
-  {
-    "appname": "Karaz Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9HPsdYFYmPRa9edyWeEJFyAFEQjG_TeWGAqoZwdxw4VJgTfxWfbr4r_MN9h5J18WOJQXNuq6Zqu2RVUnUBcGWBw9FjyoNYe0bzrnGTdgtI7e2L0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redblack"
-  },
-  {
-    "appname": "Circle Clear Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/rbPh5NK7jsIiboKGrwh_5xOU1eweyiqHLjRp5YOAA10N_Abg5eq-vmsb22rQOlc6rxMcAoPAgL-BOd1OwjKI3Fl8OCGrkPnTegcUExq0SlTfhQ4kJQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circleclear"
-  },
-  {
-    "appname": "You-R Circle Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
-  },
-  {
-    "appname": "Nomad Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/yx7P3I685v2PhKqozVCYtk4wErey1DXIx5D9fR6a6DF73f0qHV2A2s8hMAwqx90477zcRYkcB203o6416bSYnpfowYoSjWtJvSuK9Pdp5YhIjMw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.nomad"
-  },
-  {
-    "appname": "Monster Killer Pro - Shooter",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
   }
 ]
