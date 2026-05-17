@@ -1,43 +1,23 @@
 [
   {
-    "appname": "APPtoSD PRO",
-    "appdev": "Detective Studio",
-    "appprice": "$5.99",
-    "apprating": "3.8",
+    "appname": "Spelling Test & Practice PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.7",
     "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/p94ZYBzvbDoq7vpxuuA228RlzVHTMDnAkb0Fkq0e4tO-xKVqWDSaa6BTSUixPDfdBw9lR67-cdOm3rTZFFNbXIR8154Icr_u3g=s200-rp-e7",
+    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=app.to.sdcard.pro"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
   },
   {
-    "appname": "Video Compressor PRO",
-    "appdev": "Detective Studio",
-    "appprice": "$5.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/PKok313llvAoJ-mD8Dhp5m-bRH0ksUpRULqbZEy3tfWKtr6GOSfcMhjmFYI5YfPwmkqc4d-FHS556LAZf2I87T2-rwOWHwn0Gg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=video.compress.optimizasyonpro"
-  },
-  {
-    "appname": "QR & Barcode Scanner - GOLD",
-    "appdev": "Detective Studio",
-    "appprice": "$0.99",
+    "appname": "Stickman Master Premium",
+    "appdev": "Unimob",
+    "appprice": "$1.99",
     "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/6Gmo3bZ6r5vxd1zre4haHHEvVoepdB8oNTiDdVxvbPQeF3emX08Rj133zkRXxRiTapDkskjVsxR6XJeCaU1uh7IIz_EpNj0YzkB2FgSRPXaExjod=s200-rp-e7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=qrcode.barcode.scannergold"
-  },
-  {
-    "appname": "DS PRO - Recover All Deleted",
-    "appdev": "Detective Studio",
-    "appprice": "$5.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/3Fjp-73ExQyyby9-r2_DSgvW0W-DAuvmOiBW3En1umeLktEbqus7BoR-6F9kjDlwel5ZiDcZq_PQLeocLsKb9cs9mB0zYGr_s9O4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.photoandvideo.recoveryfilepro"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
   },
   {
     "appname": "Notch Effects Notch Animations",
