@@ -1,5 +1,65 @@
 [
   {
+    "appname": "InfoBlock Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/K_Za9GvovfnRBEqL7K_4VYOu-gVhuJdSCc-vF602J1oCpnpDmHbZBvkA7So2ArDLphLewY62517LbSHWjKks7-AcJmSOBSNkSWLhda3r76NU-ybmvg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.infoblock"
+  },
+  {
+    "appname": "Analog PRO: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/E89TCZq5m7BaYDkEp16LW6g7KYcrddnDSNq8wc9w0sPg1ibetOwRLrl_lBMhOMXU6fBGoaIhqYOspXycwS-vBXQUq5m_d7uKSfBMfi62CI-TY8wq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogpro"
+  },
+  {
+    "appname": "The Hearts PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
+  },
+  {
+    "appname": "Inverted Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/s3ENyh907z-PpUDgs7Nio0EkwCSopoxQiHXeDgKyHHqhUL_IfllLIalPFIBDGXV0QmTUYlYiDyK6YHtMZ1cE1XZA9ZdgDdJ5XF980Jlv-F5vsNS5nw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.inverted"
+  },
+  {
+    "appname": "【Customize】Year Of The Horse",
+    "appdev": "ZKin",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fBWJrvCFUsmaCoueHO1_b-aLbrUXoDy5iPEZBfbalgjwmo3tt5y4EC0lmwzIVKDZZbMooIDGNNklBROfWxmgyea1iMs5we3wE67MtPSkRp54YzI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.YearOfTheHorse"
+  },
+  {
+    "appname": "Math Games PRO 16-in-1",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/4-Eio-imIqIs_TaCWQkT7Cxl7984uSFnH4CTS5aeI4VSmn4HcBjDt26UUl6eEvdie6kZNB-ormMf9m0wgc2YM812BjEVorVWAiBn=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.mathgamespro"
+  },
+  {
     "appname": "Core X Ignite Watch Face",
     "appdev": "Futorum",
     "appprice": "$1.99",
@@ -180,16 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
   },
   {
-    "appname": "Spelling Test & Practice PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
-  },
-  {
     "appname": "Stickman Master Premium",
     "appdev": "Unimob",
     "appprice": "$1.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
-  },
-  {
-    "appname": "RFS - Real Flight Simulator",
-    "appdev": "RORTOS",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/9IjV-N3_1d5FMvkXAoUZdo_r6zTRY4xnYXm2OCqkDNgUGW62Q89impmjHT4NRGv2TOuERiOlfaKsFE3gI4gaxXIltG8gRwOrt0U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=it.rortos.realflightsimulator"
-  },
-  {
-    "appname": "EHW Premium & stick fight",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Stack 2048",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
-  },
-  {
-    "appname": "Color Wheel",
-    "appdev": "Roman Sevastianov",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jZ-EA2lUGJu7r6Jck1RUe3MyF218-4ZgeX0YPneDccQqSRQku7LtdRNMeBe4_88CLWCtuWm2DuD6cWgoBxgleqzqiKWCsgq_Pudj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel"
-  },
-  {
-    "appname": "Gradient Watch Face",
-    "appdev": "Galaxy Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RjfmGwFnLYsBqVWoyHsbrQsQvDm1uAZNP_ys5kjKWgEZNVNW7iFdR69lprNUWnxsmPUODzPFBQKFzo7LyJkNigwnYUJ-qFeLP4A6eTbJ-XLgSBgA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.gradient.galaxydesign"
   }
 ]
