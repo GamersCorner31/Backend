@@ -1,5 +1,35 @@
 [
   {
+    "appname": "[365fun] Apart2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LhvEHG3ebHeW-UXj8XLbUyI02G9cJdDtoBbPQzaZVLtsBswFRGFWwu3zcosLruovKgCjL0ni11us6xi-_n-9--PUa1qrdlZABaGXWJltmwq3P6O-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.apart2"
+  },
+  {
+    "appname": "[365fun] Balance Game",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/BORq8Z-iDlOVUb7BUt3JFaV-hN0k1Mi-gssPJUv_7BxzY0EuFulQZ6z9BPrEtLPI3CLL_uDCQ2r_99UOrkH8QETzNRU95icDs4utsYrhaMQOvXgE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
+  },
+  {
+    "appname": "Word Search 1560 PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/3PDpd3Ys2sGSai5ryDiu03QZIsVAJlJjUjb1t33u2hhNyi16Vzn8GW6R9qxO8K37ON90pEMADsunANq_6IxkfTvzbguQLnYb00s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearch400"
+  },
+  {
     "appname": "ZKinWatch Green Shad Turntable",
     "appdev": "ZKin",
     "appprice": "$2.99",
@@ -210,26 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.YearOfTheHorse"
   },
   {
-    "appname": "Core X Ignite Watch Face",
-    "appdev": "Futorum",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5fTtIVXVDMzcktQxzXom8GpR38k_sWNSodpjPIb2wrUXniIJ_-4p8M8eP6-e_7V5PsCoMu4bh0qZ8TphUjRvis8QMjdJ6oNumZjcA7yk2DSnf3zX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexignite"
-  },
-  {
-    "appname": "Core X Genesis Watch Face",
-    "appdev": "Futorum",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/gNtE5cF-Rx-SNbWs-PolvKRCp6-ZhP3F88Il1-22am9q1pzE-vi4d1-qBwuv-lRBNU-z0_wWIK0NE3rKcipjUXJAnAMtbsXxbbHhdacpu39jzusbag=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.futorum.corexgenesis"
-  },
-  {
     "appname": "Tank Mini War",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
-  },
-  {
-    "appname": "Stickman Master Premium",
-    "appdev": "Unimob",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/6O2y8McJUE--KK-ISHGsqc3u2aHVQ6oNfX0VFYoF-_OyKYJ5IAr4d3kM-hGyppCHxiQGbLrHwXKy7Y0ij3djLyiDKWJ1flhlWg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.stickman.master.shadow.premium"
   }
 ]
