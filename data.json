@@ -1,5 +1,125 @@
 [
   {
+    "appname": "Beautiful Line - Maths is fun",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/saOECQjq0E4d7yMp9bpVhG04pBTUYXXZYhmxVEvnDcAR4YndyrFqnqByPErK6Isem-ZwXpZ8Jb_UE_Kb5JPhF8AGOZyaYwW6WfLxcG5CCIw_isk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.drawingline.r"
+  },
+  {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "MAD PIXEL",
+    "appprice": "$6.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
+    "appname": "Brain teaser puzzles",
+    "appdev": "ExoPlay Interactive",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
+  },
+  {
+    "appname": "Hexa Crop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kjk51FeRS7GY25ENnC7eOOT3tn3g_krD_eNfDMyevGbZZv2b2tWqIUqK1WPWODLnmEQ0IdurIMF7cfwAVl-pbyHqvvi-rBHzIhQP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonh"
+  },
+  {
+    "appname": "Lime - icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/324saQaa34CRtl0Hbffpu3x2LMbnLR2MEC0MkCNK3bLHljcARcp9DHvmGDElmrkkxhPUoZP0GPAuuwy582AFqVq3gl42-Jx5M2y9v3cAr2V2FGU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime"
+  },
+  {
+    "appname": "Hexanet White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/G5sffgDxmRgRtqzmNamFYJ_-OQFf6n5yFhCwdbM3HnfksM656Udy6eYZi4GkmtugheQG3MGgg7hEsSrRB3XG3jUURy0D5Ad2nL0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.hexanet"
+  },
+  {
+    "appname": "Hexaring - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/QCp2Ms-Dlu26-9SYt96-zhq11J7zGHB2rXKph1cuNP7gGnntR9nj__XKJZrfKUCojnTxioAqFzIuZQNJE-ydumt6zF8uKm87mA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexaring"
+  },
+  {
+    "appname": "Compress Video - Resize Video",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
+  },
+  {
+    "appname": "NT Calculator",
+    "appdev": "Lê Trần Ngọc Thành (kineita)",
+    "appprice": "$2.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
+  },
+  {
+    "appname": "[365fun] Jewel Match",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
+  },
+  {
+    "appname": "[365fun] PipeMan",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5Cpr9PEeiPgQxNIyDuv5hh1tVVohSjdakHzAqDWFxZ8XTricBjHaII_8L0KkIJNsC7bmdSkcgepoU5IxmYxkEfPQ_M4wwGFOcSlkJJ0CaNuVGtY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.pipeman"
+  },
+  {
+    "appname": "[365fun] Scroll Match3",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/7xlAEj8s1h-Kb1ItJzmazsiC0WHHEWAYgMrgH-cjCuZdp6SvHoWBbXhs5iz8S-CDKIGo5-FZkyGfeoZXsAOCsyD-MbC8RCS10yWS_wZlz1sTh_g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.scrollmatch3"
+  },
+  {
     "appname": "[365fun] Apart2",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -278,125 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/W44i3udiaLHpr3DF8DG057AbjHjVEp7KnwqZ7a1x6IUpipH2mU25AOkit54yCorRAUgs-yGQsU-fTyqZrDsdIrBYSPmyopkYqcX7EcSZz9bT2ZWMmA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack"
-  },
-  {
-    "appname": "Cubic Dark Mode - 3D Icon pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/n0n5V3k4Gqd7_JBUUTZnwUFi-EQCwtE8GbKuQoFiHFgdyQkNcAkUsooBMr0rGjBUgwXRlb8N3cR8sSk7MEHz6hCgaDxyL24k7g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.cubicdark"
-  },
-  {
-    "appname": "Cubic Light - 3D Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
-  },
-  {
-    "appname": "[VIP]UFO DUDE RPG : idle wars",
-    "appdev": "Artifact Games",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IhR7AASaom8c5lPpGdzkzB9Y_6zNtnAxb4Dq9ceyuescwNCIv3mOEVdzyNFo3aGTKedPkUaR2tqwvOKGnNxco41rUjNv6jm_Ezia13yFVChaQ-Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.artifact.uforpgvip"
-  },
-  {
-    "appname": "The Lost Treasure",
-    "appdev": "Syntaxity",
-    "appprice": "$3.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/HFyOB6erpM8DRv-GTnMtHId93ClVLZEXNkXYMdjl2EAEJ-L2gP7ReH94e6B4hgxUtxZ5KrmSQCoZkOY_ZJ3RI60RcJqW0YhW6g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lonewolfgames.losttreasure"
-  },
-  {
-    "appname": "Food Fever Premium: Restaurant",
-    "appdev": "Unimob Games",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
-  },
-  {
-    "appname": "Analog M3 Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "3.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/3YoOxWGcOibTFbT-iYamHy1V6J5zihCDoO7m2kXIPsV13wP03t1hSxH4DcKT-A3KtMhFB44hkkzIUWnGFBgkG4A-r5I3pj8e_Avr973y7tpNEZOe=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogm3"
-  },
-  {
-    "appname": "Image Converter - HEIC to JPG",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
-  },
-  {
-    "appname": "Mini Restaurant Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/avwaR5uQV56Fm0mGFLvRt2JMQTIlOSGHQGPmjC4kf-2nqHuGeUsW0O-9G4C0h1QK-7nKKCXAkgNbrJlL4lk23WYhnQQZ4ypvipAjG9i1KijVnRPD-Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.mini.restaurant.premium"
-  },
-  {
-    "appname": "Reminder Pro",
-    "appdev": "made easy",
-    "appprice": "$3.75",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
-  },
-  {
-    "appname": "Documentus Pro: Passport Photo",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
-  },
-  {
-    "appname": "Stick - Remote Control TV Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
-  },
-  {
-    "appname": "Spy Camera Network Scanner PRO",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
   }
 ]
