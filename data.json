@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Blocks Falling - Puzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ryYhGnvV_zMQ0AuE1AZls2ttPQP9UIOsya4T_cyLiYBZKDwnvO5nfGpq1llnKfMfawAXHArA_7zlLhbiuwobwvubAz2C2hJFivkisIi91Cwaa8pf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockfalling"
+  },
+  {
     "appname": "World Of Chess 3D (Pro)",
     "appdev": "SkyIsland Games",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/K_Za9GvovfnRBEqL7K_4VYOu-gVhuJdSCc-vF602J1oCpnpDmHbZBvkA7So2ArDLphLewY62517LbSHWjKks7-AcJmSOBSNkSWLhda3r76NU-ybmvg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.infoblock"
-  },
-  {
-    "appname": "Analog PRO: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/E89TCZq5m7BaYDkEp16LW6g7KYcrddnDSNq8wc9w0sPg1ibetOwRLrl_lBMhOMXU6fBGoaIhqYOspXycwS-vBXQUq5m_d7uKSfBMfi62CI-TY8wq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogpro"
   }
 ]
