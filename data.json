@@ -210,16 +210,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
   },
   {
-    "appname": "Word Search 1560 PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3PDpd3Ys2sGSai5ryDiu03QZIsVAJlJjUjb1t33u2hhNyi16Vzn8GW6R9qxO8K37ON90pEMADsunANq_6IxkfTvzbguQLnYb00s=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearch400"
-  },
-  {
     "appname": "ZKinWatch Green Shad Turntable",
     "appdev": "ZKin",
     "appprice": "$2.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/K_Za9GvovfnRBEqL7K_4VYOu-gVhuJdSCc-vF602J1oCpnpDmHbZBvkA7So2ArDLphLewY62517LbSHWjKks7-AcJmSOBSNkSWLhda3r76NU-ybmvg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.infoblock"
+  },
+  {
+    "appname": "Analog PRO: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/E89TCZq5m7BaYDkEp16LW6g7KYcrddnDSNq8wc9w0sPg1ibetOwRLrl_lBMhOMXU6fBGoaIhqYOspXycwS-vBXQUq5m_d7uKSfBMfi62CI-TY8wq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.analogpro"
   }
 ]
