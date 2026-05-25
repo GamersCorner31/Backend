@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Chicken Tournament",
+    "appdev": "Sascha Hlusiak",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/M6LCiGTrW-07rgIWDKMDU87orgp4fd_guv3-MycwNynWfuOG57P2q2kduZe_Oq94TfqseBYQAwdxtrGqynokgvANcc98D0-F4w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.ct"
+  },
+  {
     "appname": "h802 Statement Digital",
     "appdev": "Happy Watch Faces",
     "appprice": "$3.49",
@@ -88,16 +98,6 @@
     "appurl": "https://lh3.googleusercontent.com/M5LRKWujhggd4J3etms-PY58VvNmDKBDRzjqtCSBDU27QEW58rHh2PvVwmi23C64CPDXtdC4U4Ef7VwX52rRCLEfZQhkjqvdjQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.skyisland.game.chess3d"
-  },
-  {
-    "appname": "Word Search Champion PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
   },
   {
     "appname": "Spirits Gate Ghost Box",
@@ -280,16 +280,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.balance"
   },
   {
-    "appname": "ZKinWatch Green Shad Turntable",
-    "appdev": "ZKin",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vYX3opp-VRsWTb-NWvpVMQvFp5R5gB1YsVqdfgGPlCVXB_RE8FHn71ilZF2ZVGQHtCCWV2lLsUP3K0w63GZdmTV9QnrzuTCvc5qM4sp6dQuswHbX2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.GreenShadTurntable"
-  },
-  {
     "appname": "Aeroplane Chess 3D - Ludo Game",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
+  },
+  {
+    "appname": "Word Search Game: Offline",
+    "appdev": "otto games",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ovvv8VSTWDtScLnG5jmm94eWWMHsp9V1b00x0gSx373F0Be0jL0C-7HCXjsvz0MyfI6wC4_FmPuP688ZbaAO0KZiTBBpa3KZJZdr6GL9-j-UUlpmng=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordscapesWordSearchGame"
   }
 ]
