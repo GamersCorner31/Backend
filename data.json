@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Garis Light - Lines Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8gH1t8IMgLnLr7FvVa_IrSXR0571lZtr4bDJGGx2os2Bqo1-GTlOVZE1qM8Rj-qMJ5bzbn5BGX276Z0qouk5XWMl1aXMS8a0vsMd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl"
+  },
+  {
+    "appname": "Pinkdiant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
+  },
+  {
+    "appname": "Summoners Era: Idle Strategy",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
+  },
+  {
     "appname": "Informer X: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -50,16 +80,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.ct"
   },
   {
-    "appname": "h802 Statement Digital",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_E5VwZeJ1i2LQaZ7q2NeFxitTAOz5hmGD5C4ENWdD5jwkhs7RfkxyvS5jgpO4NKrWP1HnNXB_xzvK9IEQXRIlbnNoGCAAMVq0IgBmarncX2l3hLe=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h802"
-  },
-  {
     "appname": "Big Ben Bonger PLUS",
     "appdev": "UMike Apps : Real Apps filling Real Needs",
     "appprice": "$1.99",
@@ -68,26 +88,6 @@
     "appurl": "https://lh3.googleusercontent.com/thj54EMVRy5Va25c5_fr9_wI2sKpd9LJmE_4vxcmI2YkR16H3q3jX5q8vp5Zc7q3GS0roFXPQjqIs-J3Fc1pj2D8mh6nxNYxZzY0VXZO_xGyJEMkUg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.phonegap.bigbenplus"
-  },
-  {
-    "appname": "My English Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
-  },
-  {
-    "appname": "Synonyms PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Nsgzn54S99pYyXizATIGiUxH9eBXu2n5lYvwIwPxCUlqmcAWr_MgpAvMhcStOkHP4G4n-XGXeYUufjkV7A-mv-1JTOyCQBfJU3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.synonymspro"
   },
   {
     "appname": "Mirror - HD Mirror App ◎",
@@ -260,16 +260,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
   },
   {
-    "appname": "NT Calculator",
-    "appdev": "Lê Trần Ngọc Thành (kineita)",
-    "appprice": "$2.49",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
-  },
-  {
     "appname": "[365fun] Jewel Match",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
+  },
+  {
+    "appname": "Mix Alchemy",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mEuf3VO6Vf40oMgIO0VtyeLu9WdH18pKJWlEGHN8gPjhb36aDA2Cnpma6OWfJ8PUp6ub2aKN6kOxjaIStZEP2jpx6e9CJonl_c3FV1oAeWftpiMW=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.mixalchemy"
   }
 ]
