@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Pixel Analog Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/mvTnKdfMPdkuJkSusEy4GNszULAxhJPuE1iInlA_ulxNmF20ekDb8hBKliMz0SVTEDgrmCH5eMZUqW5z6jCGn6b8fJXZhfiwu0cdCiI1XPe-UVeI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpixelanalog"
+  },
+  {
     "appname": "Spelling Right PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -128,16 +138,6 @@
     "appurl": "https://lh3.googleusercontent.com/M6LCiGTrW-07rgIWDKMDU87orgp4fd_guv3-MycwNynWfuOG57P2q2kduZe_Oq94TfqseBYQAwdxtrGqynokgvANcc98D0-F4w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.ct"
-  },
-  {
-    "appname": "Big Ben Bonger PLUS",
-    "appdev": "UMike Apps : Real Apps filling Real Needs",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/thj54EMVRy5Va25c5_fr9_wI2sKpd9LJmE_4vxcmI2YkR16H3q3jX5q8vp5Zc7q3GS0roFXPQjqIs-J3Fc1pj2D8mh6nxNYxZzY0VXZO_xGyJEMkUg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phonegap.bigbenplus"
   },
   {
     "appname": "Mirror - HD Mirror App ◎",
