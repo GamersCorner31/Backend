@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Fruit Frenzy Tiles",
+    "appdev": "Gamezilla",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Pc2nAu7pLhNXgo6yS4ZGQluMzlPO5CuFoE1ALU8AkjbAHgoeSdrxHaAdapV6wtUbjpTfV5e31hvMgaeITmqAcLZWG12Jrb0AjTvjH9hUx2-RULQ8AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.fruitfrenzytiles"
+  },
+  {
     "appname": "Stickman Legends Offline Games",
     "appdev": "Putaleng",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/__Qv8ndHiRHYt1KrcduXuI2ynrc0PE1ZWmiVgbmn7DNr5om0T0oKBL4VrPpSb7PoqdQB9S9j8ClhtCUwFDcvC0ovDwG0xLzXovTn6z1d3hWfNszd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popbattle.r"
-  },
-  {
-    "appname": "Space Survival: Mars RPG Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
   }
 ]
