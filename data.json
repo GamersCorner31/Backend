@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Burning Sky VIP",
+    "appdev": "SHMUP Games",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
+  },
+  {
     "appname": "Fruit Frenzy Tiles",
     "appdev": "Gamezilla",
     "appprice": "$0.99",
@@ -38,16 +48,6 @@
     "appurl": "https://lh3.googleusercontent.com/mvTnKdfMPdkuJkSusEy4GNszULAxhJPuE1iInlA_ulxNmF20ekDb8hBKliMz0SVTEDgrmCH5eMZUqW5z6jCGn6b8fJXZhfiwu0cdCiI1XPe-UVeI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpixelanalog"
-  },
-  {
-    "appname": "Spelling Right PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/N2dI2Hva0bAhXApEAKv3B6d6ijYczb3zsiCd3MEuI2KjB7ED2cLf7pHW9AHmJFMmQNq6LzO9MCKfctok0Yo1I3pIRsvD8gJ0AA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingrightpro"
   },
   {
     "appname": "Turqoise - Icon Pack",
