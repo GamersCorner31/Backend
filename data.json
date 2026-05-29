@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Rotaeno",
+    "appdev": "X.D. Network",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/aqfP7tvGkippqVs1LfdCsqR5yhevnOL0b5EGQUXbsgTfAVKaqIR0SGYHlrNvFcPul8oDzDUdvJZqnKMjAL_3cirjGsQSnATmh9-tIqVFNhC6zUcY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.xd.rotaeno.googleplay"
+  },
+  {
+    "appname": "Word Tower - Premium Puzzle",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
+  },
+  {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
     "appname": "Chain the Color Block",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/324saQaa34CRtl0Hbffpu3x2LMbnLR2MEC0MkCNK3bLHljcARcp9DHvmGDElmrkkxhPUoZP0GPAuuwy582AFqVq3gl42-Jx5M2y9v3cAr2V2FGU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime"
-  },
-  {
-    "appname": "Hexanet White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/G5sffgDxmRgRtqzmNamFYJ_-OQFf6n5yFhCwdbM3HnfksM656Udy6eYZi4GkmtugheQG3MGgg7hEsSrRB3XG3jUURy0D5Ad2nL0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.hexanet"
-  },
-  {
-    "appname": "Hexaring - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/QCp2Ms-Dlu26-9SYt96-zhq11J7zGHB2rXKph1cuNP7gGnntR9nj__XKJZrfKUCojnTxioAqFzIuZQNJE-ydumt6zF8uKm87mA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexaring"
-  },
-  {
-    "appname": "Compress Video - Resize Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
   }
 ]
