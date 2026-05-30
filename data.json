@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Firefly Neon Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/A2LMTNUeeIx4bch52blhtTbC6MQl-7PlWyXV0v2moiDnF5pUF725NOJhnSsPodv31DFATE21MZYwK-VuqofzXKX7mrXARFki5j6C1VQo22enfg0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.fireflyneon.iconpack.app"
+  },
+  {
+    "appname": "Prismatic Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YTO-4ckxNCa6A4Jdlpz2DuEx5t9e1N2Zy_ZJM1eN3Yd0iDsYac1--y6gVeieTkVVaZGUvZBDHZU36zp4DeK5QISzPPZZ90vAxJuDJaQWWngJr4W9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Prismatic.Iconpack"
+  },
+  {
+    "appname": "MDS380 Digital Watch Face",
+    "appdev": "MDS Watch Faces",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/exqzNRnCL3bwvFn_HBLROkG_TIWirBUhhfwnHOEsHm25U-DoJWxkuEVaVl7b5hGaVYpq30XWRu8rjY-qOpfZv20PZm4UDGSDYW1pRg9HjuwwmmUs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.mds380"
+  },
+  {
+    "appname": "Grow Zombie VIP : Merge Zombie",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
+  },
+  {
+    "appname": "Crossword Quest Premium",
+    "appdev": "A.V.A - puzzles games",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/O2QvPrMRiLdbi_34QDKwLT6kZY_vVEzOSbkEc80nS6tYXCeWNeQrO-ruQQW5p_BkvHGWpAPpUeKE1TuzdrhzaX7MA_yOflsBc_A1HMBNTQWXGwOo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.CrosswordQuestPremiumGames"
+  },
+  {
     "appname": "[365fun] Mountain Climbing",
     "appdev": "wind",
     "appprice": "$0.99",
@@ -118,16 +168,6 @@
     "appurl": "https://lh3.googleusercontent.com/QL0s03tWQp5W6RYs7LmnC6bkFdZl1RI5dIvvJDCqKglVHtmUFON6BU2A9kozn8jDgWaf78m0tpCj3HaC5zbNS1nZ6UBU5KHRvAY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tomlocksapps.dealstracker.ebay.pro"
-  },
-  {
-    "appname": "Crosswords Word Fill PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
   },
   {
     "appname": "IPTV Smart Player Pro",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/nN_f64sSkL7PldzLSNW3e3TMQb4ToWNtMaVrFT1PioqtVrjRRqbC2svdJuIkAgTBiQxdafZAgVbOKbLxNSD3WtmynZkkoxcphMQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.barcode.qrcode.scanner.reader.pro"
-  },
-  {
-    "appname": "Smart navigation bar - navbar",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/inpgHbbqT-hhp-Hm9OijK7rYmwGNjRAq7CIaX6zqS0qRXcevFwoSssJAy7SBmlcztwsEmH9VcwmK_8wbhxBqKTERAxKVxe7YFaMz=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.smartnavbar"
-  },
-  {
-    "appname": "Blocks Falling - Puzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ryYhGnvV_zMQ0AuE1AZls2ttPQP9UIOsya4T_cyLiYBZKDwnvO5nfGpq1llnKfMfawAXHArA_7zlLhbiuwobwvubAz2C2hJFivkisIi91Cwaa8pf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockfalling"
-  },
-  {
-    "appname": "Spirits Gate Ghost Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqSNfKDsYyQsBvxUwC0O60SD0F4cccZZWn82gilvVaiUbjo3bTBTZbY_w-pMpNxjVThO3UxSF8hBmSKVCu_zAqUMtDcj8GNvUg5DMr-5sPbIpNGD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder"
-  },
-  {
-    "appname": "Stabilize Video: Stable Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
   }
 ]
