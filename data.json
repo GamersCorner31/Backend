@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Word Connect PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/mX-FeWzBoxRly0LN5BaIvE6-fmAbs-OREhvYjxx-s7k6tNBna0rJL5FleBTi2dqhzdv41UdSDv3sN_Alhw5YDywtYjRqV1ZhLbC-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordconnect"
+  },
+  {
+    "appname": "[VIP] Mr. Balcan Idle",
+    "appdev": "SUPERCLAY Inc",
+    "appprice": "$9.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
+  },
+  {
+    "appname": "HMK WD159",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mRmq2rPDWkUpT2C0BIwq2F2fVaCiSKdaYuMKJ7_K-m9Aoz66ewJT8PlBKpW1tjoIkgflH74P80iujgMNN6QdDroslg6-jDjI128Qi0trWvfKm4aJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_wd159"
+  },
+  {
     "appname": "Firefly Neon Icon Pack",
     "appdev": "Creativepixels",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
-  },
-  {
-    "appname": "Chicken Tournament",
-    "appdev": "Sascha Hlusiak",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/M6LCiGTrW-07rgIWDKMDU87orgp4fd_guv3-MycwNynWfuOG57P2q2kduZe_Oq94TfqseBYQAwdxtrGqynokgvANcc98D0-F4w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.ct"
-  },
-  {
-    "appname": "Mirror - HD Mirror App ◎",
-    "appdev": "Apps360 Team",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "QR Code Scanner & Generator",
-    "appdev": "Apps360 Team",
-    "appprice": "$5.99",
-    "apprating": "4.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/nN_f64sSkL7PldzLSNW3e3TMQb4ToWNtMaVrFT1PioqtVrjRRqbC2svdJuIkAgTBiQxdafZAgVbOKbLxNSD3WtmynZkkoxcphMQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.barcode.qrcode.scanner.reader.pro"
   }
 ]
