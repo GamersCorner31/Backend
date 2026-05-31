@@ -1,13 +1,13 @@
 [
   {
-    "appname": "Audio Player with Volume Boost",
-    "appdev": "HARDCODED JOY S.R.L.",
+    "appname": "Empire Warrior: Tower Defense",
+    "appdev": "Putaleng",
     "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5UEebzIQVmWUfxlHDr5DDPbhVhIIlieKuU603BPOxyv6JKVGwb8xXc9NO-cU7_nFbpfRihC0C4Xx4BsKPdop0WmjCjDGISzbF2WkkrD2r3GG-LOx=s200-rp-e7",
+    "apprating": "4.2",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.hardcodedjoy.audioplayer"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
   },
   {
     "appname": "Word Connect PRO",
@@ -28,16 +28,6 @@
     "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
-  },
-  {
-    "appname": "HMK WD159",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mRmq2rPDWkUpT2C0BIwq2F2fVaCiSKdaYuMKJ7_K-m9Aoz66ewJT8PlBKpW1tjoIkgflH74P80iujgMNN6QdDroslg6-jDjI128Qi0trWvfKm4aJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_wd159"
   },
   {
     "appname": "Firefly Neon Icon Pack",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
+  },
+  {
+    "appname": "Photos Charging Slideshow",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
   }
 ]
