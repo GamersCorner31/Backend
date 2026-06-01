@@ -1,5 +1,205 @@
 [
   {
+    "appname": "Super Shortcut: Productivity",
+    "appdev": "Geeks Empire",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
+  },
+  {
+    "appname": "Equalizer - Bass Booster EQ",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OhLzNnTPVw7WdRWKPqRreyO-kxKPrNgqG-U9oQTk1vmOXIocZQu82aJtbANaqxRfOpVxlKNnqJoUfWA0MmbaSUPFCf6i4qEiO7WnkVSudUqhJC0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.equalizer.pro"
+  },
+  {
+    "appname": "DJ Mixer - DJ Music Remix Pro",
+    "appdev": "Nuts Mobile Inc.",
+    "appprice": "$9.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XJHSMGkoadFeqp_0zQ5gt1CmQopHCSCBi9QbH6HUOorurBx235aWZfR7Tz7XUDcvKosmSjyWXgQRUNLuWhED4Ln_wqQCpAGafMyDpdwytEkTW2k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.music.mixer.pro"
+  },
+  {
+    "appname": "Equalizer & Volume Boost PRO",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/26FHLoRX16hysD4KUywdlkINoKzx-bLbXj884yTUX_bRWKpJ7CH4oDe_IgsdqbyyEwMGJu_SgvnHCkUaPubgZgbkjCFipPvHX_Rcy1TiD_wDDF4d=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bass.volume.pro"
+  },
+  {
+    "appname": "Bass Booster & Equalizer PRO",
+    "appdev": "Coocent",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/IY_5PY7wl3ONZ1k3rsQHcELNYf3nqNk8CsySABZp-mmjNxt3C27FH34_w8ouv9q-XBZ-qCjJVqxD9DJewbqO4TC1fbHzgkchG3_8nvrUU2f1-94=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.sound.effect.bass.virtrualizer.equalizer.pay"
+  },
+  {
+    "appname": "Volume Booster - Loud Speaker",
+    "appdev": "Coocent",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/mct-kd78HbRf2zM3lphaxUIIF9qun8KxGcODo12BqWTz_yIRgMcBtx8fJfLCpZScTVZH91jT-IyFt4S1vtDdGfWUAqtbPYQKm3vZ31XThyKgG_Rp=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=volume.booster.sound.enhance.pro"
+  },
+  {
+    "appname": "KX Music Player Pro",
+    "appdev": "Coocent",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jU-Vail6_faNRJ4-mk8wQfG22z2Mu6gp80SOeg3S_7sCGvlYrtUtkX5SyofR_5TPMfBrsg2jE5eGRhVcbM1SO2nJhHfGo_twkoHD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=kx.music.equalizer.player.pro"
+  },
+  {
+    "appname": "Equalizer & Bass Booster Pro",
+    "appdev": "Coocent",
+    "appprice": "$2.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/RzDW7s2GjtHpjw_KIcgADqWM9vf8N8m-jfDooo04Jpl0LNE67J2-Hhpa7zHAhvZ6-rctSS9eN7gzQYvWxrvx6YLi6sxLDRVH0AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=music.bassbooster.equalizer.pay"
+  },
+  {
+    "appname": "DJ Mix Studio - DJ Music Mixer",
+    "appdev": "Coocent",
+    "appprice": "$12.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/imZqRtUaw20eIAYl-MNwKWCVYobWtpkZXi4NdKRKfciyE7E_Tw9I0iz_gexb_J-p8_l8KKSAoT1eh1ec3BDVOyZFu42j0FMC3qoCEklrWEV8o0C1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.effects.pro"
+  },
+  {
+    "appname": "QR and Barcode Scanner PRO",
+    "appdev": "Apps360 Team",
+    "appprice": "$5.99",
+    "apprating": "4.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
+  },
+  {
+    "appname": "DJ Music mixer - DJ Studio Pro",
+    "appdev": "KUCO Apps",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9ws7Im21YNbSDP_wYGDJ5KqwL3x06nq4dvwTeVeQSejDFMvpw_cWZ55vegwf29gt0FkVrNlsU7PGfWvt7bdad05VHzxA-JMaSn-GbKGRzr0thWc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.djmusicmixer.effects.pro"
+  },
+  {
+    "appname": "Music Equalizer - Bass Booster",
+    "appdev": "KUCO Apps",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/CuyfyHkVQmA2lUdjfkTTdnl83zHOI2XB3ZH6vAvTf5qnku7jHEGjfl14Cz7to6UsTIvREmstBYiMUdlHq2X0lZZpu8YGxUI4VOj_6minuoOuTwB9qA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.pay"
+  },
+  {
+    "appname": "Sleep Souds FM - Sound Oasis",
+    "appdev": "KUCO Apps",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/UMHz4vHFiz5xPyyA43YgDuQRoCWQf9PR-OsY9J1Yl5GcmuD18wqyRExHY_oAsg0CCoG83QqCJ1mu-7RKtE50cdWo_h5WTv0O0if9H1E4-nqdQM0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=sleepsounds.whitenoise.relaxmusic.pro"
+  },
+  {
+    "appname": "DJ Mixer Pro - DJ Music Mix",
+    "appdev": "KUCO Apps",
+    "appprice": "$9.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/bVGDYcnX_QIsxyQkSS1bL2vXhfWqq4egKydLwsdC8vx4g30venV2cISon_9PPkdvnz4B5BJSY31vZ_Y58Xw8eFSyNMzkEGtXW1TUndd9FnhkULQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.pro"
+  },
+  {
+    "appname": "Undead City: Survivor Premium",
+    "appdev": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
+  },
+  {
+    "appname": "Varwil Pink - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
+  },
+  {
+    "appname": "Squid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Spz3Vam1WAqbQOpz76f3LJuhjeqg7jQ8FV5aFSTUDOn1J0leYuE1onIwULytJhaeH82Ey9szoUazhiYv1P9sp_c2NrU9sTd4MhwzrqloWfFuzn6dsA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.squid.theme"
+  },
+  {
+    "appname": "Squirclecut - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9UX9eAjLw2RPwOd2B3hMklTgUJn9AiEQy2FqeQC-zSXzHDbdJRcYeycoX6XTMC-IdV7nVfeTMDSA0BTuGIVk3Eh2IQ3DA_Lbfw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonsq"
+  },
+  {
+    "appname": "Rigoletto - Squircle Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/m6xFVw415-czA7csdgbbR0MegffKg3cXslIcdcHRXbdHb_zHQAoUkRf_2lmNQ2qH75gpN47O8E8LTv9MZ06GY2hiC2-DWSLK074=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.rigoletto"
+  },
+  {
+    "appname": "Crush the Jelly",
+    "appdev": "UnknownProjectX",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZOIL5dZ4iXgvchBZcCG48OVVX2L6Q1kUzo_P56EqE12J86ODK02p6wR82R6TPnhylLFWi2LQ-Opn3VmAuj-X_b9wQxOKcnceAhACM51Zyq_iM-B6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popjelly.r"
+  },
+  {
     "appname": "Volume Booster & Sound Booster",
     "appdev": "KX Camera Team",
     "appprice": "$2.99",
@@ -198,205 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KFK4vg5CFue49NRx6LOBubNJUQKae5h_A-uiqJiHz1dSAtmzx3QCgatZV689cKpt7muFMc_1o68Wc0Nh4Yv4M90VHLhesywxS1gMeLT_jABvAbpQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redcarpet"
-  },
-  {
-    "appname": "LineBula Black - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/EkZ6vKTQ83PX85B7faWO1bFGRVHcYTgEREWt-EqiO5WMa0GKA9zLt-BDC_V8P8Jkv50tPXQrck2t6ISjcHZrywTQgDmgdsW6s9jHP7rUz32431su=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbblack"
-  },
-  {
-    "appname": "Rotaeno",
-    "appdev": "X.D. Network",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/aqfP7tvGkippqVs1LfdCsqR5yhevnOL0b5EGQUXbsgTfAVKaqIR0SGYHlrNvFcPul8oDzDUdvJZqnKMjAL_3cirjGsQSnATmh9-tIqVFNhC6zUcY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.xd.rotaeno.googleplay"
-  },
-  {
-    "appname": "Word Tower - Premium Puzzle",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
-  },
-  {
-    "appname": "Slime Legends - Survivor",
-    "appdev": "Fori Studio",
-    "appprice": "$0.49",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
-  },
-  {
-    "appname": "Chain the Color Block",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
-  },
-  {
-    "appname": "IPTV Smart Player Pro",
-    "appdev": "Dmitri Iasibas",
-    "appprice": "$9.49",
-    "apprating": "3.9",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
-  },
-  {
-    "appname": "Garage Ringtones Pro",
-    "appdev": "Appflow Software",
-    "appprice": "$2.49",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
-  },
-  {
-    "appname": "Circle Dash",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/UhJzq2mwZ0KSTGeCPIECePmnkt1BKEzcTDKFkUohBJCHWlmNzo_6dyLPOR5sFegtr5MJUoChB7qgdPHPdV5uleX0eirH0bsAGzCDlxJWOIlP4IQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.circledash"
-  },
-  {
-    "appname": "Survival Island: Ark Craft pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
-  },
-  {
-    "appname": "Burning Sky VIP",
-    "appdev": "SHMUP Games",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
-  },
-  {
-    "appname": "Fruit Frenzy Tiles",
-    "appdev": "Gamezilla",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Pc2nAu7pLhNXgo6yS4ZGQluMzlPO5CuFoE1ALU8AkjbAHgoeSdrxHaAdapV6wtUbjpTfV5e31hvMgaeITmqAcLZWG12Jrb0AjTvjH9hUx2-RULQ8AA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.fruitfrenzytiles"
-  },
-  {
-    "appname": "Stickman Legends Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Crazy Running Bird",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JwFyEFQBdmGz5jZv3F1xeIFZ6RiA5qdLTwtYDK5B_26yCjdENDDNwopNgZ7C7xJtwCcew6om7ijKZEEdYR4J65srJAjpG1fSGx3Yb3nFBb3E03Wj=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.crazy.running.bird.r"
-  },
-  {
-    "appname": "Pixel Analog Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/mvTnKdfMPdkuJkSusEy4GNszULAxhJPuE1iInlA_ulxNmF20ekDb8hBKliMz0SVTEDgrmCH5eMZUqW5z6jCGn6b8fJXZhfiwu0cdCiI1XPe-UVeI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpixelanalog"
-  },
-  {
-    "appname": "Turqoise - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/KG8wMW4IjwOB9rqWG8pWnSiSTQ0nHetLYt5LUJ5MQOdH2HuaAYmgv9ofOhRJmw-Ywck_g0WT6DDDOMOPYGyZZINjJ6O7iloilIv5DJkaVilJM8W7GA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.tosca"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
-  },
-  {
-    "appname": "ToscaLine - Turqoise Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
-  },
-  {
-    "appname": "Zamrud Turqoise - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3mpe730rvK59BzwwXzNIUqDDx7oLGAZjBa8QZarhTHpehtpqGsB_da9SA60xbqQObArjdTY2wOLpIXSV4v1MTJW_ssZTAuRwzL96G0gsjPP5ADy6Nw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscablack"
-  },
-  {
-    "appname": "Garis Light - Lines Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/8gH1t8IMgLnLr7FvVa_IrSXR0571lZtr4bDJGGx2os2Bqo1-GTlOVZE1qM8Rj-qMJ5bzbn5BGX276Z0qouk5XWMl1aXMS8a0vsMd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.garisl"
-  },
-  {
-    "appname": "Pinkdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
   }
 ]
