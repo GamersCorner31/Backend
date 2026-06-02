@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Contacts Widget - Speed Dial",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
+  },
+  {
     "appname": "OniOn watchface 005 Pixel",
     "appdev": "Yangpa",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/1w8wgHih_IG4pI1-jNdV9VsLZffglBPk750oxhaKsFsaBllyUq6LhKBfargLIcuC5bBJ3474njS-zIrSvRLUJ0nSKRIq91d9_0k=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nariworks.Highway"
-  },
-  {
-    "appname": "LineBula White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5CF9fGsJd2pxPLQ_EdSnPlzLWXLCYY6oBFU7_G4A7ys6ha1CSxSg2-m_CKWYLsKv20xTNC_BPcku-OcSzhsjdykHgRAWyUlqEzcK6AioPUDurnMd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwhite"
   }
 ]
