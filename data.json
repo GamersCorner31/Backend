@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Dot - Aline Same Color Dots",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iivLDIXH5osc78IgQgLiDwRHFB_mhg8CTv5mWwKlT7thk89eVLhbfwEawuP972yXWu2zBZG14Wm0R78R5KnLB-PCHFopJAkoeV9Z8HVGWV8mCZfm=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dot.r"
+  },
+  {
+    "appname": "Glow Digital: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nlWmHHUWV9hapF0c-C2rAPR_xZkh_BfdFnDDwuFfb-UwJhuCDm4GCCmFnQ35jAg2SLKYrBfJX_iwIf_u8z8eNzEOgly5D-7BDML3w2tn-eA2CO8vsg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.glow"
+  },
+  {
+    "appname": "Sound Meter & Noise Detector",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
+  },
+  {
+    "appname": "Solitaire Pro : Card Games",
+    "appdev": "VR GAMES",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
+  },
+  {
     "appname": "Hidden Numbers PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/exqzNRnCL3bwvFn_HBLROkG_TIWirBUhhfwnHOEsHm25U-DoJWxkuEVaVl7b5hGaVYpq30XWRu8rjY-qOpfZv20PZm4UDGSDYW1pRg9HjuwwmmUs=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.mds380"
-  },
-  {
-    "appname": "Grow Zombie VIP : Merge Zombie",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
-  },
-  {
-    "appname": "Crossword Quest Premium",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/O2QvPrMRiLdbi_34QDKwLT6kZY_vVEzOSbkEc80nS6tYXCeWNeQrO-ruQQW5p_BkvHGWpAPpUeKE1TuzdrhzaX7MA_yOflsBc_A1HMBNTQWXGwOo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.CrosswordQuestPremiumGames"
-  },
-  {
-    "appname": "[365fun] Mountain Climbing",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FZo7fvaBoqf-DTUI6qOB5uPgVW9LqgrYQNKtCC5scMdefYxME1nOW68sBL9wahNxXZbjHG3XRGs4UQu_lUcJ_HoLAMV6r00kiaUARzvcC_qx8Nnq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mountain"
-  },
-  {
-    "appname": "[365fun] Running Man",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
   }
 ]
