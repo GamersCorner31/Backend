@@ -1,5 +1,15 @@
 [
   {
+    "appname": "PDF Reader & Editor (PRO)",
+    "appdev": "Apps360 Team",
+    "appprice": "$9.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
+  },
+  {
     "appname": "My Medicine Pro - Health Log",
     "appdev": "made easy",
     "appprice": "$2.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
-  },
-  {
-    "appname": "Navigator for Mi Band",
-    "appdev": "Francesco Re",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/9rJf4lnVXhRelIsP3E6UWJQtcAwnvmoiOteuP4e092mJgGpaTHonptlH_orW8vVnlcC8VFBWN6EJ4iH-ljJFzgcKmSN6g6EyLGq7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.re.mibandmaps"
   }
 ]
