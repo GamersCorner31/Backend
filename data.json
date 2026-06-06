@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Falltopia Plus: Epic Space RPG",
+    "appdev": "Pusilung",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
+  },
+  {
+    "appname": "Cherry Blossom : Flower Tiles",
+    "appdev": "Gamezilla",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/BInaSAFKNtB2nmFESv6c7aUqYDmX0xbWkeLPav_qHfTxGAvACjXP0MW6tf_t5xctkwm7cs3ow6PbJswfGOPpTcGd7h8L-dUtJ-v4EeMlKQxyKH6G=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.cherryblossom.flowertiles"
+  },
+  {
+    "appname": "Dotted Lines - Snake",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
+  },
+  {
+    "appname": "Super Tank Battle - Sandbox",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Mbk8TYqWh1LgkzgQRDBUV5dTzsF6CRQleN0erRavAZLoeK712vtZhpKFDWj_LgsZ78ALm26OLXgbTK2T3hm0y1dqF4UsP6HGgbLntHmchsn-6SuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
+  },
+  {
     "appname": "PDF Reader & Editor (PRO)",
     "appdev": "Apps360 Team",
     "appprice": "$9.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
-  },
-  {
-    "appname": "Crazy Calculator Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
-  },
-  {
-    "appname": "Spelling Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$3.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
-    "appname": "Trivia Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$4.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
-  },
-  {
-    "appname": "Zombie Age 3 Premium: Survival",
-    "appdev": "RedAntz",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
   }
 ]
