@@ -50,16 +50,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
   },
   {
-    "appname": "My Medicine Pro - Health Log",
-    "appdev": "made easy",
-    "appprice": "$2.49",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
-  },
-  {
     "appname": "Word Mania - Brainy Word Games",
     "appdev": "Eggies",
     "appprice": "$6.49",
@@ -290,16 +280,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.glow"
   },
   {
-    "appname": "Sound Meter & Noise Detector",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
-  },
-  {
     "appname": "Solitaire Pro : Card Games",
     "appdev": "VR GAMES",
     "appprice": "$2.99",
@@ -308,16 +288,6 @@
     "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
-  },
-  {
-    "appname": "Hidden Numbers PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtNW68R0mIyz9aRxk-EmrxpyZgUmtSMx-NCAql_3Ng3P3gLVRBdzHc3oTDoltCrEcLJVH0riqvObjBm_0i79k3O7w410xAFMCw8a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.hiddennumberspro"
   },
   {
     "appname": "Car Racer Vr Pro",
@@ -398,5 +368,35 @@
     "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
+  },
+  {
+    "appname": "Crazy Calculator Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
+  },
+  {
+    "appname": "Spelling Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$3.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
+  },
+  {
+    "appname": "Trivia Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "3.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
   }
 ]
