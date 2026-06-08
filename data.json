@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Blueberry - icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/BwyDmN7FQuqnbh5QtjIgvkjzLXj9MXLBa5GSEGThLuGYoCzBJlW1J9167BMkj5gj7mVjlqPK9IiDWFDnF3BKzDXzneMl-6M2sh0Gugc4eTQ_V2vCMg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyblue"
+  },
+  {
+    "appname": "InsideVPN: Premium VPN Proxy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$9.49",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
+  },
+  {
+    "appname": "h020 Happy Minimalistic Analog",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5hokIlOEEYWy6f_HWTjGtMNGHt0b447u7N-1Z4cMZ8zhNbrQ9F-nGIHWS7dKYz2Y9gFh8TsI5_Z731DvXRWTwrHZWowNXjcRyX7SwzGjcW2L4Ac=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h020"
+  },
+  {
+    "appname": "yourSudoku - Over 10000 Sudoku",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
+  },
+  {
     "appname": "Tech Quiz Master - Quiz Games",
     "appdev": "Eggies",
     "appprice": "$2.49",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
-  },
-  {
-    "appname": "Shadow Knight: Ninja Fighting",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
-  },
-  {
-    "appname": "Tokyo Debunker: Urban Legends",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
-  },
-  {
-    "appname": "Tag Connected watch face",
-    "appdev": "PiT Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_l7qY7-MIp50u3H2QdlXmsY83FVeg_UZjAtnmFd8-hdiWXfShQqRFJA2JvSybNDDWgfZjY0_ZzdN-aMbOaS1-sM0kWHAKX3YkTD5POhvy61HxMt_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.denewage"
-  },
-  {
-    "appname": "Tag Heuer Connected watch face",
-    "appdev": "PiT Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lHfmeOupy5zaAQti0vbpcM8yZHauwOOkOaQAGPuUx4UiZ3WNZ20V9F77a6ROigAY3yebUG4XOQKdZZPwkIFEZYNzH-SlDCbDfLnhzyO_rQhGOUOp=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hercon2"
   }
 ]
