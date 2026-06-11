@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Arkanoid",
+    "appdev": "Fauchelevent",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/oRq-0orXA6CjGUjVJiK5avvEnKl5b0wov8jGNRIeztfm8nKJflpW6A39r-Aa5RN26tHuZQp4FzI3WckSYWU5LJlgFpQqeSq5NvumslfRA5XwCJ-V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fauchelevent.arkanoid"
+  },
+  {
     "appname": "Bubble Level PRO",
     "appdev": "1 Bit",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/BInaSAFKNtB2nmFESv6c7aUqYDmX0xbWkeLPav_qHfTxGAvACjXP0MW6tf_t5xctkwm7cs3ow6PbJswfGOPpTcGd7h8L-dUtJ-v4EeMlKQxyKH6G=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.cherryblossom.flowertiles"
-  },
-  {
-    "appname": "Dotted Lines - Snake",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/nC2xezl_1jdu0ONJralzhigjmLSZuVnZGeAII6XCYmxaxJm-kwNuvPSc921341QLix-NLgwg2d8qQmwW-VbpqGJvQBgJeQZca4hTdd776uHmPVM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.dottedlines.r"
   }
 ]
