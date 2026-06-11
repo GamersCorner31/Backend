@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Warriors' Market Mayhem VIP :",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
+  },
+  {
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
+  },
+  {
+    "appname": "Hybrid Warrior VIP",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/HI8-lWVHrexb4QHFl3JHLlVCTlPvlYlWae6rueArV64tL2B-LGHxeLI_-nTkry6LwgCnvvu1xlt7FFFnnFgBnU43mHDq8C1qBNzeVur7xUsAyqgu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.hybridglobalvip"
+  },
+  {
+    "appname": "Undead Slayer: Offline Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
+  },
+  {
+    "appname": "h021 Happy Colorful Analog",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iP1S1dvLxO-8ymlI2oub34rBPRJ8SQ_NRsFUQoI7XdeIVHHFMYVQPp5kxiVaQY2Zl-v3Y5ZjXZms_VGyqlGPXScKbgEUfyLLiq6mf2bggHds748=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h021"
+  },
+  {
     "appname": "Contact Edge side bar",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -18,16 +68,6 @@
     "appurl": "https://lh3.googleusercontent.com/3Re3GGJUz5_MLkd2qAXiDe1wiLrd1A092HniWvCzYaXOUceffkXY6i1rVsVW-HsdnwiNh3SXMWKdGNDxK-kuY9V0K-932hEO2mG--LKwMwlX1M8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picfind.space.r"
-  },
-  {
-    "appname": "HMKWatch Digital 264",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OJXSqyAOXu9LSiZd1r1gLLHIK2_f6AFNBN_dPT9S2heeArr0Wwf4bWybCDw833iKVZuAvokIRD3fefaDsEhQdkhANTSbEwQ0yl2byPUHUCL1OUk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_264"
   },
   {
     "appname": "TrackMate Watch Face",
@@ -178,16 +218,6 @@
     "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
-  },
-  {
-    "appname": "h020 Happy Minimalistic Analog",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5hokIlOEEYWy6f_HWTjGtMNGHt0b447u7N-1Z4cMZ8zhNbrQ9F-nGIHWS7dKYz2Y9gFh8TsI5_Z731DvXRWTwrHZWowNXjcRyX7SwzGjcW2L4Ac=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h020"
   },
   {
     "appname": "yourSudoku - Over 10000 Sudoku",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Mbk8TYqWh1LgkzgQRDBUV5dTzsF6CRQleN0erRavAZLoeK712vtZhpKFDWj_LgsZ78ALm26OLXgbTK2T3hm0y1dqF4UsP6HGgbLntHmchsn-6SuA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
-  },
-  {
-    "appname": "PDF Reader & Editor (PRO)",
-    "appdev": "Apps360 Team",
-    "appprice": "$9.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
-  },
-  {
-    "appname": "Word Mania - Brainy Word Games",
-    "appdev": "Eggies",
-    "appprice": "$6.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
-  },
-  {
-    "appname": "Pixel Blade M VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
   }
 ]
