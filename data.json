@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Merge City Premium -Home decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
+  },
+  {
+    "appname": "Defense Zone HD",
+    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
+    "appprice": "$2.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
+  },
+  {
+    "appname": "Defense Zone 3 Ultra HD",
+    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
+  },
+  {
+    "appname": "Cooking Kawaii - cooking games",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
+  },
+  {
+    "appname": "Dungeon Shooter : Dark Temple",
+    "appdev": "IMCrazy",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
+  },
+  {
+    "appname": "Merge Cafe Premium -Home Decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
+  },
+  {
+    "appname": "[365fun] AirComando",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
+  },
+  {
+    "appname": "[365fun] Fishing",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
+  },
+  {
+    "appname": "[365fun] SurvivalGame3",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
+  },
+  {
+    "appname": "[365fun] One Shot",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
+  },
+  {
     "appname": "Arkanoid",
     "appdev": "Fauchelevent",
     "appprice": "$0.49",
@@ -150,26 +250,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
   },
   {
-    "appname": "Bright LED Flashlight Pro",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
-  },
-  {
-    "appname": "Words Everywhere PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
-  },
-  {
     "appname": "Ghost Speaker Spirit Box",
     "appdev": "White Light EVP",
     "appprice": "$0.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/5yHvJx_PB8PdoAgx-r_5IQSYFderQU08_0tREf_iF1JRbTglb4Q9FxtD47lgW02RRnp2xzkaTeIHOM1XMzqENKR6252b7ovSb2rDloclW8S2RYw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelworldpro"
-  },
-  {
-    "appname": "PIXEL SPORT PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
-  },
-  {
-    "appname": "MOON KNIGHT Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Hs87qgbY4R-XFfpHmR5fMop-k7q1sJzLSO8MnuiXBtpaq-0-R4WWmO7zt37LxjZi_KWFaS0i-Ne_5A0dr6byKJZaGC7jbzCsNaaiSAAd5NcnrHbY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.moonknight"
-  },
-  {
-    "appname": "PIXEL INSTINCT 3 Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OEBQW9aXIrW5IgLOxkm0yeOm2hQl9Rx2Dg2ohOuiE3_3RPhwG7Ej8unmcGZKQdIT8o9P4mHQVzhbGZAf52BAvwAPP1F3FTwJt6w0umrgwTtw9354=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelinstinct3"
-  },
-  {
-    "appname": "ODYSSEY Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
-  },
-  {
-    "appname": "DogTok - Dog Translator Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "Falltopia Plus: Epic Space RPG",
-    "appdev": "Pusilung",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
-  },
-  {
-    "appname": "Cherry Blossom : Flower Tiles",
-    "appdev": "Gamezilla",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/BInaSAFKNtB2nmFESv6c7aUqYDmX0xbWkeLPav_qHfTxGAvACjXP0MW6tf_t5xctkwm7cs3ow6PbJswfGOPpTcGd7h8L-dUtJ-v4EeMlKQxyKH6G=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.cherryblossom.flowertiles"
   }
 ]
