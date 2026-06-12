@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Distraction Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ymkNDOadj4ADfdQ0RES-FMnTGieUHKJE9rhIcMclst4esRMc6TYmFj02DqrrlQG8RmX8DNrRt_0Vnwp4wZ8kkFMA42gDhf5bdw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.distraction.free.icon.pack"
+  },
+  {
     "appname": "Fit OLED: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
-  },
-  {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
   }
 ]
