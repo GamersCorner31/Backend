@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Super Tank Battle R - Type X",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/w-DE0F-XTiVTE5JQRKdFoeXDoVLTkFbRyqRkrBEL-Sqgphx5gOCkfbLFH6yUoD8gK7VBYsPkyXcfw2OYtUW1Ygu-BC6lksAQ1BdAh9cKypBM2ZI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownproject.tank.remaster.r"
+  },
+  {
+    "appname": "Sportive Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.99",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/d8RI3i72cG3BtAsVNwQlAfR-N-WMuXgFX5SjlmvBxHeh2Qsq6erlxipRQjUBcn9qgc1LfGfkeX30ILtgGcz6ZwXfxrkgOoFJd21nYXodn80Cd68r=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.sportive"
+  },
+  {
+    "appname": "Police Department Tycoon Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
+  },
+  {
+    "appname": "Grow Heroes VIP : Idle Rpg",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
+  },
+  {
     "appname": "Soul Evolve: Epic Fantasy Hero",
     "appdev": "MGIF",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/xMnXdfPttd2xXXg_ptc6vZNbp1Y81l1jRwWJmBn5o429B2cQGrHmsP61pzfcsveUv1MsiNrFvSG2iWA37Jq89v6IbUb6E4VIW6TtlcQA4LxEnCG8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ab23.aab"
-  },
-  {
-    "appname": "Rotating Skull Watch Face",
-    "appdev": "RazorSharp Design Studio",
-    "appprice": "$1.59",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qQ8VF38yQNQHnGnbMixk3T-Y-xAYhQuk4ljJouVAM4OfM1gsgfK8RbUQ6mzJvBVNUhMez8Nu1nYnkG0-JJL5FT3iC15T9kwlexdNV25lQ1dRUSx7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rzrdesign.demake"
-  },
-  {
-    "appname": "Effesteria Nombo Card",
-    "appdev": "Effesteria",
-    "appprice": "$0.60",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/14GSbfTLsEk580Ypv-aMpIa0U9949EiSh3pP5IyI1UDtOCiCOFaui-NqthSOSDPBAI0cfJClN_71xdDeQ65Ixrl5i8_eZcUlPsys9OHr0lNx7FTz1w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.effesteria.nombo"
-  },
-  {
-    "appname": "Ghost Speaker Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
-  },
-  {
-    "appname": "Bookmark Manager - URL manager",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
   }
 ]
