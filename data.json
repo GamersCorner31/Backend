@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Orgi - Icon Pack",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/cpQ2uhfUvpUxO7RVP9akH8bse9LZSqgtU_To4aWLiWyGM_MAHest3J-FA2wHoQ-ZyI4WVVLseI1u8SKmhlcdc9_bEDBu7bW1DXU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.orgi"
+  },
+  {
     "appname": "Super Tank Battle R - Type X",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "Analog Basic 23 WEAR OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xMnXdfPttd2xXXg_ptc6vZNbp1Y81l1jRwWJmBn5o429B2cQGrHmsP61pzfcsveUv1MsiNrFvSG2iWA37Jq89v6IbUb6E4VIW6TtlcQA4LxEnCG8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ab23.aab"
   }
 ]
