@@ -1,5 +1,25 @@
 [
   {
+    "appname": "h1401 Space Plasma Door",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RS6NlDuFNIxgft9pJ9Tziou8uah1QPRnuT3r0VSW9iZbVl0x5-MOfOQp2V1msn9yvThDl4OGmZwhMEob_fHlj6r6j5O0wKWi8n4gXnW5yAW4ODf8iQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1401"
+  },
+  {
+    "appname": "Accumulator PDF creator",
+    "appdev": "Salemo Lines",
+    "appprice": "$29.99",
+    "apprating": "4.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/hycL0J7F078fbpgo391WTDsif-eEgxdRO4u8J-4v4D2B-kk-F4VfDqCFmdFOFQ5FWC0Umsj5QJQxeY9aFAX45ZvF2mKcVMJcw9tR=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdfcreator"
+  },
+  {
     "appname": "Video Speed Editor",
     "appdev": "SwiperyLab",
     "appprice": "$4.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
-  },
-  {
-    "appname": "Contact Edge side bar",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5FheGpOQzNyLBkbKupy-VbUoGYAORrEd9la0QjjXjWdx-dYmxrXziuaKKLjMSkTFvE2H6pCgQ9XsIdHH0kQnV8X34T_wvahoYdH9XmD6yvi38EYc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar"
-  },
-  {
-    "appname": "Find Picture Different!",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/3Re3GGJUz5_MLkd2qAXiDe1wiLrd1A092HniWvCzYaXOUceffkXY6i1rVsVW-HsdnwiNh3SXMWKdGNDxK-kuY9V0K-932hEO2mG--LKwMwlX1M8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picfind.space.r"
   }
 ]
