@@ -1,5 +1,25 @@
 [
   {
+    "appname": "MSafe - Pro",
+    "appdev": "Codfishworks",
+    "appprice": "$5.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/VmzpjEy-YwOf7CliG-H9cVF7cW27wEXIfLb9TO0N6RZ2sr-BPJG45Kv2VZhDeDlzK78OhEhpWBJEtqi34zbzkwpvTu38jYZlIfk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
+  },
+  {
+    "appname": "OniOn watchface 009",
+    "appdev": "Yangpa",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xG3TuICbd4X7z4-R0LJndmdNbDKyhGDoPyHYj6FTuyU7tQe0-xZNUGvE4I3GH1t6CxLj7yxd45oEf_37axY_4uPeCufNj9yQ-87_63APOPjpwxYD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.onion009"
+  },
+  {
     "appname": "Words & Cards PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
-  },
-  {
-    "appname": "[365fun] Fishing",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
-  },
-  {
-    "appname": "[365fun] SurvivalGame3",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
   }
 ]
