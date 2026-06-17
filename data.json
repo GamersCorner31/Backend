@@ -1,5 +1,75 @@
 [
   {
+    "appname": "h015 Happy Analog Hybrid",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$3.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QbO1Tq-jEZXskM9A2IXJ6UfoCriokTZAnd1cSb4_wvTpsb3-eWonnkgWrmwdsLeQIdZP0LUUp4dkyU_EpLhfVCFwbihE9wgcbsinIToESMAV1TIV=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h015"
+  },
+  {
+    "appname": "Monster Killer Pro - Shooter",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
+  },
+  {
+    "appname": "Infinity Tank Battle - 8 bit",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rEeO8XcC5DYOOYDP-eb0N6SchEn1tcBk6UtWmdYms79z-m1cFyTP2tM_giKvYObr00qm4Ug_N6SDZ96I4xPJimWdpA9tSTXcgD17dWSgyer8ZWM8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankbattle2.r"
+  },
+  {
+    "appname": "Clear Wave - Water Eject Pro",
+    "appdev": "Appchi",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
+  },
+  {
+    "appname": "SPL - Smarter Player Pro",
+    "appdev": "BRILIC MEDIA",
+    "appprice": "$4.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LZvVgEerPuSHlVCZ2pRkDLwuAPA1SoLgtCNIC1HVagbKAo35PHmd3lEqi5ozmH4xFXEOxAOOLi328Cst7yi2f-9wpIVgOaOBhiCPDXIGO_qvSrI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=extreme.player.iptv.smart.xciptv.xtream.m3u.live.tv.channels.app"
+  },
+  {
+    "appname": "VPN Pro - Secure VPN Premium",
+    "appdev": "AZTTY LLC",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
+  },
+  {
+    "appname": "Dash Digital: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/V0LK5QFf5vWWvSj_yXLZSGqjvplbcVQopEdiREaXpCja512Y88mX_yR7tQwOKwfqBf5KC7doQVki-xIAx17rVG_gpII59ozUrQqFIgnqVkT3CG4l=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfdashdigital"
+  },
+  {
     "appname": "Zombie Age 2 Premium: Shooter",
     "appdev": "RedAntz",
     "appprice": "$0.49",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/SVll8_GGUgoT5_cYl-mtZ74nnUTI4CCJ2OyyNmKcmmKQxPXsi8GBuqJt4DcJryeqmvkOWW6YTOlE5ZEkHSWEQxXzk2wShjynftdgfYQZzrlAm74x=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dropdark"
-  },
-  {
-    "appname": "Dropicon Cut - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/oTRq5tt9wcu5UKH0CRIywYlQrirFdRHuHBXjZ8PSR4J7PS5ckfN6qt5mASahtHgYMltDG-9iffzLH7y1R0v_kTexnxqoY_3PaQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticond"
-  },
-  {
-    "appname": "Pixel Ring Drop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/09lodLQL4jTqkCagKFWkPrpbvVhDSTAe9MEM2n_jf6W-gxsgz4WKDghOYGtzeSwZDbXJwxzC1wmgYFf1KdSZ-3M4kcZElu33bQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pdrop"
-  },
-  {
-    "appname": "Linea - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/AEOOPxum8iLtlICinnJ0l39eJEaCN4FBlkhY3HcdLHnSf1O66Yysvg74QoDWyASM2xvZFnoYQqyVdmAg37zwNO3rzBswDLNHIuJzOd5YMsMigEobRQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.icon.pack.linea.theme"
-  },
-  {
-    "appname": "Stickman Warriors Dragon Hero",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
-  },
-  {
-    "appname": "Stick Warrior SuperHero Dragon",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
-  },
-  {
-    "appname": "Merge City Premium -Home decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
-  },
-  {
-    "appname": "Cooking Kawaii - cooking games",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
   }
 ]
