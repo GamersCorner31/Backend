@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Pixel Net - Neon Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/9HDKEJlXc_jCpOvC9HY9Qd2OuL74oVFhlIJhxQMXKOMAlPDqQHBd5z08R8-zRflKjEYBtoCp02m15GFrSJbw5jf5WsY-u8mgzkY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net"
+  },
+  {
+    "appname": "Android 12 Colors - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/cYRBhWKSIPbHN1qmTiqQuPh83RrpnueiOCQIkjKm9M-FFJTIpBVk1L7-gc4JKHdsIEYvOIHOmFjlxXKKR5pnE-jTHQmRbPx0f1_uVPGvlBGlWfqn=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.android12vibes"
+  },
+  {
+    "appname": "The Weapon King VIP",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
+  },
+  {
+    "appname": "Ichigo Red - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EAuYdUxnxqwVD4QltSHtHbs2vQ-s6cZvpOcu0YpetsXrJRKK4rkChJJ9rYzQ4iO3J5wuUgdKTF4uYbe9X7wrP7jOn6gwzWHWMAnIke6PHW5mRP8l=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redtr"
+  },
+  {
+    "appname": "Himawari Yellow - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sAKvPswPRoMynEDWJK-daLTiiiLCOTyqL-a4i-ZdLogMRcrvsP5J-ehSErF3LjvXpNrhBmBFCxq63zW66gsLGqLrqDFrVeYRdNtT2whKd5bPd-ye=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowtr"
+  },
+  {
+    "appname": "[365fun] Find the Differences2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
+  },
+  {
     "appname": "PicPu - Cat Picture Puzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -20,16 +80,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
   },
   {
-    "appname": "HMK D043",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Ipuf_EKEXIAVJfVqW-WJSiN6gWdVcxDPWCPuisdXTD2TXMql8Vhth07PQE-9StDLxWKzHiyW4jRuHKJuK_dxLtMIYga7bIgpPtyA7Dx05cEBBuVrDw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_d043"
-  },
-  {
     "appname": "Sprint Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -48,16 +98,6 @@
     "appurl": "https://lh3.googleusercontent.com/vIa5kzpt_cW-A2vnJmvUJGe_ve_a1GVrUCUUBRTx15BTiO76pnX59y73xVnSSCYvZmEj-7reGjRq6KqT6tsbnwsYPy0ns-mBRgfQGeeF817c3uJj-g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.react2"
-  },
-  {
-    "appname": "h015 Happy Analog Hybrid",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/QbO1Tq-jEZXskM9A2IXJ6UfoCriokTZAnd1cSb4_wvTpsb3-eWonnkgWrmwdsLeQIdZP0LUUp4dkyU_EpLhfVCFwbihE9wgcbsinIToESMAV1TIV=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h015"
   },
   {
     "appname": "Monster Killer Pro - Shooter",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
-  },
-  {
-    "appname": "Soul Evolve: Epic Fantasy Hero",
-    "appdev": "MGIF",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
-  },
-  {
-    "appname": "Chicken Road 2",
-    "appdev": "Ardent Time",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/T0fM2OkiHe8QDTQHl9RvsB6pDQ8do2rM-vCeaBpWf5nYCcFqcD6sXUNGuRt30bru4j5-8yXc6ApAGE4G_PIPQXs1rq2rSXXHbwyQ2E5OYtFaYuhW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.udan_urx114"
-  },
-  {
-    "appname": "Fit OLED: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vFXoiZnrXB67LExTl2AJ1q1jl1PiFCIfnu8jxktBzHmttFJ07YhSeoZgNeHVuRyWV84HhgnWyXZcP0uns7ZzUeu57INPSRfaqK9W25MIFu_8zR0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.fitoled"
-  },
-  {
-    "appname": "Carol - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
   }
 ]
