@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Jewels Charm: Match 3 Game Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
+  },
+  {
+    "appname": "Water Sort - Color Puzzle Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
+  },
+  {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
+    "appname": "Ludo 3D - Aeroplane Chess",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/3cifOM9cR14de4grXh5lA8E9UH53Lc8X_aAWhwwlv2ZFWGYcCyCJVo592TOx_AGrVqYo1uqaqjBZte5gp1ax1-Yu9Oab8O5jHr-rmbcmNzeeQDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.waterpower.ludo3d.r"
+  },
+  {
     "appname": "Friendly Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
-  },
-  {
-    "appname": "Neo Monsters",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/luUzs_cE0y2Wpj8Xk3RAy1PGmykg2hL5BCLB3CaJ6ftTezZmEk1FIYpxJb9OGYRiKy-MfyKy0U8KOMI-QXtKk8jikj8oGXns3A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pockettrend.neomonsters"
-  },
-  {
-    "appname": "Super Tank Battle R - Type X",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/w-DE0F-XTiVTE5JQRKdFoeXDoVLTkFbRyqRkrBEL-Sqgphx5gOCkfbLFH6yUoD8gK7VBYsPkyXcfw2OYtUW1Ygu-BC6lksAQ1BdAh9cKypBM2ZI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownproject.tank.remaster.r"
-  },
-  {
-    "appname": "Sportive Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/d8RI3i72cG3BtAsVNwQlAfR-N-WMuXgFX5SjlmvBxHeh2Qsq6erlxipRQjUBcn9qgc1LfGfkeX30ILtgGcz6ZwXfxrkgOoFJd21nYXodn80Cd68r=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.sportive"
-  },
-  {
-    "appname": "Police Department Tycoon Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
   }
 ]
