@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Cytus II",
+    "appdev": "RAYARK",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/8wEV_JZ216fHe9n2bQutfOhGq-bm-rXkTs_0vrxmQyZX54oJmIwUXwt9upSDTsTcxG5RBNOhZlbxi-8__a0Isvvx3Lec04VeQD8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.rayark.cytus2"
+  },
+  {
     "appname": "Move: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -148,16 +158,6 @@
     "appurl": "https://lh3.googleusercontent.com/6AoIGR2QOBkjvpUNFa38ffPcW9DuJmqO_V4xDAG69cpV05qjyWwkXkTNQ8Exkpua-Y1e4BRDAc66js5cCgVGFcRbR6sppHSX4lv2T_xAd1DqkU0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.cat.r"
-  },
-  {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
   },
   {
     "appname": "Sprint Watch Face",
@@ -390,13 +390,13 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.gemshoot.r"
   },
   {
-    "appname": "Accumulator PDF creator",
-    "appdev": "Salemo Lines",
-    "appprice": "$29.99",
-    "apprating": "4.6",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/hycL0J7F078fbpgo391WTDsif-eEgxdRO4u8J-4v4D2B-kk-F4VfDqCFmdFOFQ5FWC0Umsj5QJQxeY9aFAX45ZvF2mKcVMJcw9tR=s200-rp-e7",
+    "appname": "Video Speed Editor",
+    "appdev": "SwiperyLab",
+    "appprice": "$4.99",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdfcreator"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
   }
 ]
