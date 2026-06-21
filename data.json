@@ -1,5 +1,25 @@
 [
   {
+    "appname": "The Room Stalker",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Y7Q2DRvRxtRCn8ux89dM37duI8_0sHoogbHLvb8gfjDOXjU0Y8GfYdzfZ1RcVZtfVg2K36T8RGQJeD1tGOCvEtu_olqtpSdVN25Uu3RLj0jYg1L8jw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.manjastudio.theroomstalker"
+  },
+  {
+    "appname": "Spelling Master PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
+  },
+  {
     "appname": "Cytus II",
     "appdev": "RAYARK",
     "appprice": "$1.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/CxwORRM_Oz8PkQPFWNMhInKRdeiD1xAudKVgQ0kt34rKfZgx_Bz4UssH2pZRnwM4n_eD2avdZI3kx4adwIg35mXMzydm_LwPqIWAtbewP2o2y-GHaw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.shield.iconpack"
-  },
-  {
-    "appname": "Gem Shoot",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rf5bwtyPMmvN6L4HnIc6RZoAF2w6RrHZwDhj8LmWclYKQ6PCxjQqHchsYN9NW5l5jPPknNouTqei2pkv91bCpC0a6PDdizUU73VmxP6zybaTO4o9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.gemshoot.r"
-  },
-  {
-    "appname": "Video Speed Editor",
-    "appdev": "SwiperyLab",
-    "appprice": "$4.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
   }
 ]
