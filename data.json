@@ -1,5 +1,95 @@
 [
   {
+    "appname": "Circle Crop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/YV1NOwxLrNVmMElaVAxRDOEtCSMKbw1l3v_hiyQyJO9Pn9l0Mv7_Kl46QMAV7qqz1aasoqovUPZa6kBjbxYw0uVQ0wnIsJ5Mpdg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonc"
+  },
+  {
+    "appname": "Meteoroid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
+  },
+  {
+    "appname": "Linios Red - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/cerBioO2fRBrlbyHZlyr3eT7KGid59i29P7UEWcRAtS1bSRzMLhDjrvExT1APG9-xv75eay7aEbyR93AoiGjsgkCptHUrFdc0Q9dTViBNzOt_Taw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lnored"
+  },
+  {
+    "appname": "Business Card Maker: Logo Card",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
+  },
+  {
+    "appname": "CherryLine - Red Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vKjPL79H6wf0NbntwE7ZhZM433XquTOp2q0vhsprf-RDIuwtVwbsh9lWfbWgSPtv9qCbKIUaGTg2TEjQNKpa1RdF7ItR9MK-KcJIYVNOngsiOs3C5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbred"
+  },
+  {
+    "appname": "CircleDient Icon Pack Gradient",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tduV4TsPrTwY1bqSHTmoPUuI81XA8aVbqB8qJ1j51tC_jvErPopl4i3s4P7YdtxwuWrC4bt0_u6I8xNzHUT8P05R7E_rM6jUT-qSvsaS84d1JQ3d=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.iconpack.circle.gradient"
+  },
+  {
+    "appname": "Karaz Red - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9HPsdYFYmPRa9edyWeEJFyAFEQjG_TeWGAqoZwdxw4VJgTfxWfbr4r_MN9h5J18WOJQXNuq6Zqu2RVUnUBcGWBw9FjyoNYe0bzrnGTdgtI7e2L0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redblack"
+  },
+  {
+    "appname": "Black and White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uXc1p1hpywQ4a7pNHarbuCU4DwbeimlWH3sOCmyjyN2Y4fk1TvB0NrFyN0nWgHwA6cdini6701VKiFFIg11FlJkmIx9u2YV8E1-e69gumg8-0hgs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blacknwhite"
+  },
+  {
+    "appname": "Stack 2048",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
+  },
+  {
     "appname": "Iris Light - 3D App Icons",
     "appdev": "Creativepixels",
     "appprice": "$0.99",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
-  },
-  {
-    "appname": "2 Player Quiz Ultimate",
-    "appdev": "Simon Schubert-OLD",
-    "appprice": "$1.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/0aAIUwDgKrADdUovj4FfTnuBswn3xL1rpeStOkwTUq8sN5beBjA91ybbbvmh-zZ_zzBWN4zDIgfkFfHLpxD7Ac5zlioIUsd0bbo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.twoplayerquizultimate"
-  },
-  {
-    "appname": "Incredible Box - RollingPuzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
-  },
-  {
-    "appname": "Spirits Wave EVP Scanner",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
-  },
-  {
-    "appname": "Graffiti Simulator",
-    "appdev": "Foxelix",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Undm8lv9fzIOjPywitmWrcCkTweEAGQ_dGe3VY7MOalJ1pXPhCDNhoPIRffwuiT3TKxnF7h01d267l7TUlZpnnljZ3MG8SF-C3py-RIW6OdcQaWV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Foxelix.GraffitiSimulator"
-  },
-  {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$10.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
-  },
-  {
-    "appname": "MSafe - Pro",
-    "appdev": "Codfishworks",
-    "appprice": "$5.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/VmzpjEy-YwOf7CliG-H9cVF7cW27wEXIfLb9TO0N6RZ2sr-BPJG45Kv2VZhDeDlzK78OhEhpWBJEtqi34zbzkwpvTu38jYZlIfk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
-  },
-  {
-    "appname": "OniOn watchface 009",
-    "appdev": "Yangpa",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xG3TuICbd4X7z4-R0LJndmdNbDKyhGDoPyHYj6FTuyU7tQe0-xZNUGvE4I3GH1t6CxLj7yxd45oEf_37axY_4uPeCufNj9yQ-87_63APOPjpwxYD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.onion009"
-  },
-  {
-    "appname": "Leaf - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/b_ayMl7mmX9Maf8Gg22HjryzKY8YHawbGyFF6VppIfIJOomj3EbqNpUBY29noDvBHsrh_YCFOiozrwN-CmoPFUOidwUBPEl9KUBxGW82LGynAOhL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olygreen"
-  },
-  {
-    "appname": "Octa Dark - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
   }
 ]
