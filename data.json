@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Digital Iwasa Watch Face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YDCdNUzc9g2fvd8g2nF9Q8_XguulLlUzTXMTI3p0BDOri68wmv2poxafetQy5Xtnf-G3ucBlXM80JMtCv4n7u1HhcBJhvgieDgRbVY2ucz8Khvw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.sawisa"
+  },
+  {
+    "appname": "Analog Minimal Watch face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KaxNS31dv_NwkUPpmKsnVeHBNnTnRF4ZSPAC3Jz0hjnOjv1hmQpfNG5O3Aqagn3IPQSZEIFY70NTuBVANfFidhv4rOkiWaFhMqiBnBFuSa2FfNvX1A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.zirens"
+  },
+  {
     "appname": "Hybrid Zanes Watch Face",
     "appdev": "Magnum Watch Faces",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/EAuYdUxnxqwVD4QltSHtHbs2vQ-s6cZvpOcu0YpetsXrJRKK4rkChJJ9rYzQ4iO3J5wuUgdKTF4uYbe9X7wrP7jOn6gwzWHWMAnIke6PHW5mRP8l=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redtr"
-  },
-  {
-    "appname": "Himawari Yellow - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sAKvPswPRoMynEDWJK-daLTiiiLCOTyqL-a4i-ZdLogMRcrvsP5J-ehSErF3LjvXpNrhBmBFCxq63zW66gsLGqLrqDFrVeYRdNtT2whKd5bPd-ye=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowtr"
-  },
-  {
-    "appname": "[365fun] Find the Differences2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
   }
 ]
