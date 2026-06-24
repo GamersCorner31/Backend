@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Hybrid Zanes Watch Face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/lls9Nu9NyxAOigjdsmQKwsTp-wfruEg9ih8nhQcvPU6X-S6Mzz5cJLiNN7Y6uZq_pxfz_H_dx88KqKyVhBv-vhjoRhEm25p8R1TibNGU4TntU-r_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.senmz"
+  },
+  {
+    "appname": "Gallery Slideshow",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
+  },
+  {
+    "appname": "Image Converter - HEIC to JPG",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
+  },
+  {
     "appname": "Toon Block Blast Toys: Match 3",
     "appdev": "Super Unicorn Studio",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
-  },
-  {
-    "appname": "PicPu - Cat Picture Puzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/6AoIGR2QOBkjvpUNFa38ffPcW9DuJmqO_V4xDAG69cpV05qjyWwkXkTNQ8Exkpua-Y1e4BRDAc66js5cCgVGFcRbR6sppHSX4lv2T_xAd1DqkU0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.cat.r"
-  },
-  {
-    "appname": "Sprint Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Z3SqYTvQ6AP_cX-RDj3_qd-nQnklQbsBCeZt0bmtX3AAmCDCBLYhrXkKtEnlbZOtRWqxQbcUOah4Dcp8oYtcgztbc3opd75pQbxcVq8a7sPwZKwPdw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.sprint"
-  },
-  {
-    "appname": "React 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/vIa5kzpt_cW-A2vnJmvUJGe_ve_a1GVrUCUUBRTx15BTiO76pnX59y73xVnSSCYvZmEj-7reGjRq6KqT6tsbnwsYPy0ns-mBRgfQGeeF817c3uJj-g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.react2"
   }
 ]
