@@ -1,5 +1,35 @@
 [
   {
+    "appname": "PicPu - Dog Picture Puzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xUi302jryG5j-laQHaqOuVFTPrx6dPzrRoW58EE6o1AECo9fVVd9QbulrpLWLi3ezbBeDLLHDOuF80cShzM8p9M3wW4x5RyU9bjsR4PNzSdwx-ct=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.dog.r"
+  },
+  {
+    "appname": "TripleFantasy Premium",
+    "appdev": "Gameplete",
+    "appprice": "$11.99",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
+  },
+  {
+    "appname": "Bus Frenzy : Color Sort",
+    "appdev": "Gamezilla",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RnfDe-yuBMkYTjlAfQ-V81OxZ82q3E7O4BM9Er60WASoaeH0q3yqtLPwBuK77WV8BKz0a4SmFV46dk1yl99SnGu7NTy3DDeXJSudhEy-RoEjm9iv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.busfrenzy.colorsort"
+  },
+  {
     "appname": "Digital Iwasa Watch Face",
     "appdev": "Magnum Watch Faces",
     "appprice": "$0.99",
@@ -58,16 +88,6 @@
     "appurl": "https://lh3.googleusercontent.com/YDBF6VnuADYFHPy_54n2yjzeuBuDYq6uHEKRenRH4HX9Bi0Z2Cm9wfCGsdEbAx8tIVuwL7a31fPcPCLHtE1X0FIemWqAAB19MmsXHhOEjEiSOTM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unicornstudio.pop.blocks.toon.blast.toy.block.candy.crush.merge.match3.puzzle.games"
-  },
-  {
-    "appname": "HMKWatch Analog 134",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/W0J3EDIgbBMmkFVLK1czrVz9KJQ9PnwACUtexvOUxdR3zBpQ0h_d1KqYEf_6O9CwcATWly69RgZB1Mx9hE8n5KgoHoVWbRMr00IxBt_3gWXKoarK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_analog_134"
   },
   {
     "appname": "Digital Rotes Watch Face",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/cYRBhWKSIPbHN1qmTiqQuPh83RrpnueiOCQIkjKm9M-FFJTIpBVk1L7-gc4JKHdsIEYvOIHOmFjlxXKKR5pnE-jTHQmRbPx0f1_uVPGvlBGlWfqn=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.android12vibes"
-  },
-  {
-    "appname": "The Weapon King VIP",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
-  },
-  {
-    "appname": "Ichigo Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EAuYdUxnxqwVD4QltSHtHbs2vQ-s6cZvpOcu0YpetsXrJRKK4rkChJJ9rYzQ4iO3J5wuUgdKTF4uYbe9X7wrP7jOn6gwzWHWMAnIke6PHW5mRP8l=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redtr"
   }
 ]
