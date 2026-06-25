@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Digital Tree v3 Watch Face",
+    "appdev": "Monkey's Dream",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/tCXclXvovgRxjoet8AFHNT56q_ui5r-BeUY__t5q4PMHFhcqiMqMV3HwNccUnHfwbw8shPQZxQSP4PB2HoFOusxYadONE9IdtqK5InispKkZZcqK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitaltreev3"
+  },
+  {
     "appname": "Reminder Pro",
     "appdev": "made easy",
     "appprice": "$3.75",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/j9PVfGu2BYw302DS5uzE1VZe3naGzjtvHcJxCErZJh5XbU4nB6dulJCFl7YPUCVDIpcK-w8cqDXHO9TUcqSfKwqI4GQmaP-mgrTXkal-SFf22rrhKQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.arcsd5"
-  },
-  {
-    "appname": "How much can I spend? Premium",
-    "appdev": "Alexander Y. Ivanov",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
   }
 ]
