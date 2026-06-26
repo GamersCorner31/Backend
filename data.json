@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Mini Crossword - Word Fun!",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
+  },
+  {
     "appname": "Sinfonia Minimal Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/HkCzAPAX4P_q1d-KnRvdji1iIjm930F79kvej6c8VIYvzCHf_y3XAPputGSB-DtJC_6903d-KBjp3qJRlVF0-MPPoqG3AIIb9AFTMmWf2Yd7oj8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.imageconverter"
-  },
-  {
-    "appname": "Toon Block Blast Toys: Match 3",
-    "appdev": "Super Unicorn Studio",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YDBF6VnuADYFHPy_54n2yjzeuBuDYq6uHEKRenRH4HX9Bi0Z2Cm9wfCGsdEbAx8tIVuwL7a31fPcPCLHtE1X0FIemWqAAB19MmsXHhOEjEiSOTM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unicornstudio.pop.blocks.toon.blast.toy.block.candy.crush.merge.match3.puzzle.games"
   }
 ]
