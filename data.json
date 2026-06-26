@@ -1,5 +1,145 @@
 [
   {
+    "appname": "Sinfonia Minimal Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/STF8Sy1tK4U5r14sTHE34-THZHnRbJOzl6JciBNIsICGAkXmnR3F1KU1YNloZRkmbUPna2ZX7SA-XEa1ICDmnd2th48GKQ36-SXS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.sinfonia"
+  },
+  {
+    "appname": "Master of Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/DkwtoDaWsZlpSPvGJAbPn-ttP-Fvs8NxH56N-m3xcsB-pdb3bt_AADopUR__xBAK_BOQVVrSpBzlkQluiRFMWWa7WksMTD7OJ-uP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordmaster"
+  },
+  {
+    "appname": "Planet Gravity - Newton's law",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/zGhMe3sfHAVKDj5g2Gvn1xMR6RhwAG83DohOpVC4UcuR3FV7jg1rmMHLEJQh2CXc8Eag0SjrxDHgHikK735UNpyb5uxCu14CWE8LsNS81nb-hL8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.planetgravity.r"
+  },
+  {
+    "appname": "n-Digital 2: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/T8PwZSO8a2QLHhthqtxRw-4mRO5GBEq2P5-_RMbCJnkwNcI49ZQFxN7fOM9A9C0HhYs-1SBKQXWkQ0fW0OVgu1KTyvU-qS04-c6rLtRWJ6dlSObg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfnewdigital2"
+  },
+  {
+    "appname": "HoneyLine Yellow - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ycnmIlcKj7McMWl9FhzUNzosWTybT-iOGFcFaRe0ZnXdg3cYnybipaDQtj9D1_mrnFm3n7tt7YpLwILzsT2G_pLX8rwBQNTZLz8q1F8271rVgC97WQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbyellow"
+  },
+  {
+    "appname": "Yellow - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/wFfu_zmb8qqOXTbZY3v9f6G4WWXMbqc_fis_hOlVpBsbFwlYrRG35Q5c4fqxmD4bagpltJG5YPNpkFn6tiHy2QEKNtLcej0eITUUNLozAQECyKfH=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellow"
+  },
+  {
+    "appname": "You-R Circle Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
+  },
+  {
+    "appname": "Lines Circle - Neon Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/d28eTJX7AjB8YrHnxlbqYBoKag5S5glTZtrSiNi_wv6iTXqWzWDq1FvbmlBdF3pwrZSfXIgj6XmOLsligBFj7COevcr7sBuwNnp1XncmmU5QeiXVPA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circlelines"
+  },
+  {
+    "appname": "Circle Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZVAxv4d6VHvNlHCl8eqRqiKTAFZTEkpw6_m1V-58X-J5LRYWwP85DxtewweWcOgFahYCQ-mCrJAAxr5gVffFI6zmBxDNjwegum0ih_3ZY9SmiKi3Ag=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.circle.dark.iconpack"
+  },
+  {
+    "appname": "Soul Huntress: RPG Premium",
+    "appdev": "PANTHERA GLOBAL",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/KL-WIjlHLfYXtVB7dfHjCO4AnOi7vXVuyD3Z4ZAsLXH84F_JHS1UuqpmHxHr8cIpScNKu-uKX9bT7noDWXWMNA4Stg3iOeKsqg4JTnAM-fFQpuHPIw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium"
+  },
+  {
+    "appname": "Image to PDF - PNG to PDF",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
+  },
+  {
+    "appname": "Lines Circle - White Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
+  },
+  {
+    "appname": "Notch Effects Notch Animations",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/PzJIj6bpcDLfZhWCTeCdvPaykmjnv6i7yvB_wtNJFbDGUT2VL4jvEju9A_ZC_5NMFv3TuPgLDnzbHNERBjJFpFrqoZRTbxtVfBYzJzN19g5Bv1PKhw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.notchanimation"
+  },
+  {
+    "appname": "Outline 3D - Line icon pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Sp1iXhnoMfAp6S6y_lH3eFeLH0UyLW7JvdtNBXKJ_xFg-UyLBDb_D4FJggGHv-3aoYbyveOe9o7bi_E9fo4qZskBF_1UjdUXZ8xwdVF9IN2dYVbm=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nambula3d"
+  },
+  {
     "appname": "FASTAR VIP - Rhythm Game",
     "appdev": "NextDoors",
     "appprice": "$0.99",
@@ -258,145 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/YDBF6VnuADYFHPy_54n2yjzeuBuDYq6uHEKRenRH4HX9Bi0Z2Cm9wfCGsdEbAx8tIVuwL7a31fPcPCLHtE1X0FIemWqAAB19MmsXHhOEjEiSOTM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unicornstudio.pop.blocks.toon.blast.toy.block.candy.crush.merge.match3.puzzle.games"
-  },
-  {
-    "appname": "Digital Rotes Watch Face",
-    "appdev": "Magnum Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IP9YSyRJTbD8Ss_qWODuyQ6MAWYTP_OlZtKfmyJCon85mTq2N_vgMUscCNZ3n8VCu0uzcLxexdEnaNa7ieRW88Ti9hK3kHHLno00DpOpysYmfhJS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.DigSpace"
-  },
-  {
-    "appname": "Number Puzzle - Sudoku Style",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iiOeTQsivF6QSIJM34gUYB3o7g4sjOPNq6syTTRGn8AXF00Dwpqmli-TJT4rU7x_denGZZXru5xyVbEd0UQVu0qjbUl8j5tjpny4vMSKT2w9YPFc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.number.puzzle"
-  },
-  {
-    "appname": "EVP Phone Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Ng1hpgYEbBCL_hrouThILi0XanWwJ9tjqRK2vuCcu2ScDJwRI1Rlc11pFonVndcJpGztwil9BJwfNx3pVdm4At7dnRILx6JlXx_omOuRnhcPLnQf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Evp_phone_spiritbox"
-  },
-  {
-    "appname": "Limit app usage - screen time",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ELlh4SG42ecF6ZoO2NIB_JRmLgSHeeaht_zbc105DcwoB9pMXbKhKMEs433uq9wjSIdCqNGmk3mht9TL208ROVPOv6rBriQDb8VXl1LEI5VnfH1h=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.limitapptime"
-  },
-  {
-    "appname": "Live or Die 1: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
-  },
-  {
-    "appname": "Circle Crop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/YV1NOwxLrNVmMElaVAxRDOEtCSMKbw1l3v_hiyQyJO9Pn9l0Mv7_Kl46QMAV7qqz1aasoqovUPZa6kBjbxYw0uVQ0wnIsJ5Mpdg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonc"
-  },
-  {
-    "appname": "Meteoroid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
-  },
-  {
-    "appname": "Linios Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/cerBioO2fRBrlbyHZlyr3eT7KGid59i29P7UEWcRAtS1bSRzMLhDjrvExT1APG9-xv75eay7aEbyR93AoiGjsgkCptHUrFdc0Q9dTViBNzOt_Taw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lnored"
-  },
-  {
-    "appname": "Business Card Maker: Logo Card",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/K42uJNprUZ_zF0lPnCfmoy2KzYdQLE414O7m5nWCDprv0sj-lRXeVc6h5BpFTDezXGcYe_KpT15_uJJEfCwwruBCX9d85sDR42L4-UNpk2qkizU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.businesscardmaker"
-  },
-  {
-    "appname": "CherryLine - Red Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vKjPL79H6wf0NbntwE7ZhZM433XquTOp2q0vhsprf-RDIuwtVwbsh9lWfbWgSPtv9qCbKIUaGTg2TEjQNKpa1RdF7ItR9MK-KcJIYVNOngsiOs3C5g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbred"
-  },
-  {
-    "appname": "CircleDient Icon Pack Gradient",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/tduV4TsPrTwY1bqSHTmoPUuI81XA8aVbqB8qJ1j51tC_jvErPopl4i3s4P7YdtxwuWrC4bt0_u6I8xNzHUT8P05R7E_rM6jUT-qSvsaS84d1JQ3d=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.iconpack.circle.gradient"
-  },
-  {
-    "appname": "Karaz Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9HPsdYFYmPRa9edyWeEJFyAFEQjG_TeWGAqoZwdxw4VJgTfxWfbr4r_MN9h5J18WOJQXNuq6Zqu2RVUnUBcGWBw9FjyoNYe0bzrnGTdgtI7e2L0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redblack"
-  },
-  {
-    "appname": "Black and White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/uXc1p1hpywQ4a7pNHarbuCU4DwbeimlWH3sOCmyjyN2Y4fk1TvB0NrFyN0nWgHwA6cdini6701VKiFFIg11FlJkmIx9u2YV8E1-e69gumg8-0hgs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blacknwhite"
-  },
-  {
-    "appname": "Stack 2048",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
   }
 ]
