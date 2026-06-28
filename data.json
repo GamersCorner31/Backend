@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Word Connect: Crossword",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/l4L9HFfosFDBsIqrtMoh9fH9yCLsnH4NoXgeqAzKiFdDbE8A2t2PGz2EyICDKcy_dNAtS3R1BRBuDuXW1A0cQMtoJZ7w_mb_ozEAHebU_gw8-bc3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.crossword.brain.wordgame.puzzle.board.en"
+  },
+  {
+    "appname": "Chinese Checkers Master",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JJ6d7fdFoXN6KTiry81AD4cpILmQoblXxgZ3Fulnk5HJytYRo1RxiPdxfCCLX-5v434qmdtO_19zjciX9Q7CHpPlf59jxwdJ4ruQi7JZM-PQt7nX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.chinese.checkers.r"
+  },
+  {
+    "appname": "Space Survival: Mars RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
+  },
+  {
+    "appname": "SciFi Survivor Premium",
+    "appdev": "JoyUp",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/VBLcyX0pehCAA9T657iDw2KOHqFxjAL4Gp-5vlOD1eLMjkOQjCbvFWplJ52X65llBFH-bfRU57N-NpJspMrOFmBeJWcAbmlYC2HtCNn1Im9UjXN-qg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium"
+  },
+  {
+    "appname": "NT Calculator",
+    "appdev": "Lê Trần Ngọc Thành (kineita)",
+    "appprice": "$2.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
+  },
+  {
+    "appname": "Defense legend 4 HD: Sci-fi TD",
+    "appdev": "JoyUp",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
+  },
+  {
+    "appname": "King of Defense Premium",
+    "appdev": "JoyUp",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/f1w9234A7IbkXzZsrbT5QBvDqTdRuqNo0qiCMIH7StQoUP92j-NrQYBywpOzUv1dwvWmD46BSybQDEyE-Aj0awwn8XGSbBNkIPPK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gcenter.kingofdefense.merge.tower.td"
+  },
+  {
+    "appname": "Sand And Water",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/2W8tFnK5Ub4mdApeTwgmB6eDsNEf2ZgzK0QzYTr4CDQuQsusnCv5ttHnvY_PBElMu5-TJ0I96HGvI5DmPq8TM2yFN842-2UDpRRa-GmHxuGn4W1lgg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sandnwater.r"
+  },
+  {
+    "appname": "King of Defense 2: TD Premium",
+    "appdev": "JoyUp",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/g3PFjJ_VehoSfeoBY9Dua2GUhdd3hRmIgOQiRz-IV7ttlY7LxE4EV5MgaMv3ThTDwwd-6mGCz4B5CwIIUoGTuOt2yr9S15Vasi_V5rdOzLGcaOua=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium"
+  },
+  {
+    "appname": "Words Search - Word Puzzles",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/O7v5lL_iWEJ4Od4RaTR217YgXU6UC2AST3nDMhHOT1KPm9PKiqeKhltpKlYVh8Dy3qF_FkTRFDkyn71ET3GCfLGj35ou0HBxBy2ccjo4bp9shHU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
+  },
+  {
     "appname": "Re:Bounding - Bubble Breaker",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/v4SFptDWwJBiy5zs0stowGhmjaXC3hhMYduCUxuBAuUNaPVBUAoTNkvddFmA5_fQiQ5ccgFLmry8kFsk6RCf401iCjdwkyUauoEm5hkDBvihlKEN=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5themessenger"
-  },
-  {
-    "appname": "Digital Tree v3 Watch Face",
-    "appdev": "Monkey's Dream",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/tCXclXvovgRxjoet8AFHNT56q_ui5r-BeUY__t5q4PMHFhcqiMqMV3HwNccUnHfwbw8shPQZxQSP4PB2HoFOusxYadONE9IdtqK5InispKkZZcqK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitaltreev3"
-  },
-  {
-    "appname": "Reminder Pro",
-    "appdev": "made easy",
-    "appprice": "$3.75",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
-  },
-  {
-    "appname": "Documentus Pro: Passport Photo",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HEf1l3NF_jyptPX1T_YgHRVKqbyfcw1prg5scwexdohAI1bFXWrCQOG6nQH2YQglpSLKYd5B16v4nFSgwz5kmrAR6bzcmJGkKrBvEQgT4eXw4lI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=id.photo.maker.passport.photo.visa.print"
-  },
-  {
-    "appname": "Passport Photo: ID Photo Print",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/2s0D97Ox8OG91eIETbJlJi3YJyEBhKVSpR2JaOT_Iisi-_bInERNJBzg_Ar88uVyVAv5SBIpQsPGw_nzrwd3vDwTs4gNfcjkL98Zg-TF2yr4-5uUyg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.passportphoto"
-  },
-  {
-    "appname": "Stick - Remote Control TV Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/GB0g39P6Vdqq-73T3N_vDw0t34ebgnsxl2xTgqs-Ez4MZJW0VZGDkyDwlA465pEQltVLS4-MKUM1qWBT-KaRSpYw6GT90anmO1SOBcWxWActQsrrRw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.universal.smart.plus.tcl"
-  },
-  {
-    "appname": "Spy Camera Network Scanner PRO",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/9CMDmrlnqXoginDp3XL-NW7op6bcaeJVd0t2rkp-JvW25JqRjsqm9peF-hz6OTW9DBLRAfPD8n8KJR9zFJ3V75mQ99fxYr0Uj3utAFYLi-bx2BX26w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=hidden.camera.detector.spyware.spy.scanner"
-  },
-  {
-    "appname": "h1402 Forecast Modern Space",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oXL6lJo6CxAHOHkuY3qwz7le_iRDaaEocz7Oj0PGbaEo3I_RKL8Qjrewnv917kRZLcDuQIPWYn8Yq7nfvcGnz6X89TZilMPLD79UdpEZZc7Sc2_rnQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1402"
-  },
-  {
-    "appname": "PicPu - Dog Picture Puzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xUi302jryG5j-laQHaqOuVFTPrx6dPzrRoW58EE6o1AECo9fVVd9QbulrpLWLi3ezbBeDLLHDOuF80cShzM8p9M3wW4x5RyU9bjsR4PNzSdwx-ct=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.dog.r"
-  },
-  {
-    "appname": "TripleFantasy Premium",
-    "appdev": "Gameplete",
-    "appprice": "$11.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
-  },
-  {
-    "appname": "Bus Frenzy : Color Sort",
-    "appdev": "Gamezilla",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RnfDe-yuBMkYTjlAfQ-V81OxZ82q3E7O4BM9Er60WASoaeH0q3yqtLPwBuK77WV8BKz0a4SmFV46dk1yl99SnGu7NTy3DDeXJSudhEy-RoEjm9iv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.busfrenzy.colorsort"
   }
 ]
