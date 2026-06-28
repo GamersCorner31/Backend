@@ -1,5 +1,15 @@
 [
   {
+    "appname": "HMKWatch Analog 163 C",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IrFyf6ZtAexVsf_gLmgCKzs245Md7bTYWNU2eRmcAajaADkaeXa1uUXrPhuQ6smORwgPNAD4Xp2IErvb492m5td9I96g0CUcxtmFKnPwKLd12zFd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_analog_163_c"
+  },
+  {
     "appname": "Word Connect: Crossword",
     "appdev": "A.V.A - Smart Games",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/reuhz-6yNmIK8bDikXyMuxPcUs0Fx5A2S5YX4LCJQecB4XgDYNNe9hDuLl_wEd2CmxpKNIYrHkFN1V1JNpr9_xtnz5aGYcsPkeEntQ-ZUhP_Bk2I=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter6therebellion"
-  },
-  {
-    "appname": "Z Town Chapter 4 The Messenger",
-    "appdev": "Maxwell O'Connor",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/v4SFptDWwJBiy5zs0stowGhmjaXC3hhMYduCUxuBAuUNaPVBUAoTNkvddFmA5_fQiQ5ccgFLmry8kFsk6RCf401iCjdwkyUauoEm5hkDBvihlKEN=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5themessenger"
   }
 ]
