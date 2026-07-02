@@ -1,14 +1,11 @@
+
 import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs-extra";
 
-async function scrapePage(page) { 
+async function scrapePage(page) {
   const url = `https://www.app-sales.net/nowfree/?page=${page}`;
-  const agent = new https.Agent({ //error fix temp code
-  rejectUnauthorized: false, //error fix temp code
-}); //error fix temp code
   const response = await axios.get(url, {
-    httpsAgent: agent, //error fix temp code
     headers: {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
       "Accept-Language": "en-US,en;q=0.9"
