@@ -1,3 +1,4 @@
+import https from "https"; //error fix temp code
 import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs-extra";
