@@ -58,6 +58,12 @@ async function scrapeFreeApps() {
     await fs.writeJson("data.json", allData, { spaces: 2 });
     console.log(`✅ Scraping complete! Total apps: ${allData.length}`);
   } catch (error) {
+     console.error("Message:", error.message);
+  console.error("Code:", error.code);
+  console.error("URL:", error.config?.url);
+  console.error(error);
+  process.exit(1);
+    
     console.error("❌ Error scraping data:", error.message);
     process.exit(1);
   }
