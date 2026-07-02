@@ -2,9 +2,13 @@ import axios from "axios";
 import * as cheerio from "cheerio";
 import fs from "fs-extra";
 
-async function scrapePage(page) {
+async function scrapePage(page) { 
   const url = `https://www.app-sales.net/nowfree/?page=${page}`;
+  const agent = new https.Agent({ //error fix temp code
+  rejectUnauthorized: false, //error fix temp code
+}); //error fix temp code
   const response = await axios.get(url, {
+    httpsAgent: agent, //error fix temp code
     headers: {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
       "Accept-Language": "en-US,en;q=0.9"
@@ -58,11 +62,6 @@ async function scrapeFreeApps() {
     await fs.writeJson("data.json", allData, { spaces: 2 });
     console.log(`✅ Scraping complete! Total apps: ${allData.length}`);
   } catch (error) {
-     console.error("Message:", error.message);
-  console.error("Code:", error.code);
-  console.error("URL:", error.config?.url);
-  console.error(error);
-  process.exit(1);
     
     console.error("❌ Error scraping data:", error.message);
     process.exit(1);
