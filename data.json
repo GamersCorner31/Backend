@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Countdown Widget - Time Until",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f7THBYBR_IY8Ye7lCJ3qQmYcw7a9pyONUm9KbJVdwRNMn2DQn2CQgMvGbPebdbsrUB7wI8W8UbSJLZt8E1rSOrPxfn5qLWF65jSLQREpYVVE7m4f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.countdownwidgetpro"
+  },
+  {
     "appname": "Contact Organizer",
     "appdev": "Yogesh Dama",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/uvWTcb6eGZ6RlWQ5zKCbJDuxvnEEugDii51bfuk_zXBslS_958K6ivcT4X7vtL-blEWgQDzayYeur0xUnV2Wizyr9M981ZSBiaf3c2oxs-7pn-7M=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.rebounding.r"
-  },
-  {
-    "appname": "Simple App Locker",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/lEHslF02nNN6I8yJ10rE03dY9slXyBcX3BbB5pEI_4AQb_GP1bxitkqJmFNQ_JV4-mlFFonoKFAx_it5joYk9SnR8sYlZ6tYLzynR8FvGMBwytAf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simpleapplocker"
   }
 ]
