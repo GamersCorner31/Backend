@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Food Fever Premium: Restaurant",
+    "appdev": "Unimob Games",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
+  },
+  {
+    "appname": "Pocket Academy",
+    "appdev": "Kairosoft",
+    "appprice": "$6.49",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/sCMvFnAcPGEJIb3nBBF2LnIENWkF5thRNYd99x-eB0juR2QJIRylxgSQxXn-draP_4ahHBzquklIL_iX2IPCBj3nmWnZ2-g5pA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.kairosoft.android.school2_en"
+  },
+  {
+    "appname": "HD Wallpapers Gallery",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KFO_fJgRmyriyrDNcRQwtBOY_ztyaNw_1smhKcjSNjgXjXxxtdLIMQQvgDERoUYha-dXrtY5d0Gtsr6sVtigTzHDuqSOYmsFKBq1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.wallpapergallery"
+  },
+  {
+    "appname": "Hybrid Vir Watch Face",
+    "appdev": "Magnum Watch Faces",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OT_fXGpSYTIQ1RlxvbvWNjsNJjzYIEDhHVFAgVkUQxYAOK8m9T0F4sCMp8mdPFGQv0QNePx3L_xu3tNeLdjbPpMFtctkxsdYyX7F-xICLZbpCPe9WQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rivid"
+  },
+  {
+    "appname": "Edge Side Bar - App Shortcuts",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ka8Pb5PV8qlrSpl6GxT49sgNEVhfnfdeBHKRbJfUt0Cx2t6_Uvhz463QEWFnFGPzngO6BGrB1bGab2T8uCQ0HRQPxa868v1WRMNjFkvmZrBC6f-5BA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplesidebar"
+  },
+  {
+    "appname": "Brain teaser puzzles",
+    "appdev": "ExoPlay Interactive",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
+  },
+  {
+    "appname": "Rock - Black Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/KESc1Sp61zqd69YEt1I_N3hYg35LMVWsOvysPqcWPSuXjPI5S-1DBMGw8DkQcADfzxFpo1Zz8qg0hjPH3WlASVBynkbCqJ7Dnj9of6N0UfmmneM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyblack"
+  },
+  {
+    "appname": "Lime - icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/324saQaa34CRtl0Hbffpu3x2LMbnLR2MEC0MkCNK3bLHljcARcp9DHvmGDElmrkkxhPUoZP0GPAuuwy582AFqVq3gl42-Jx5M2y9v3cAr2V2FGU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olylime"
+  },
+  {
+    "appname": "Heroes Infinity Premium",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
+  },
+  {
+    "appname": "Digital Basic 3b Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/-XZaeoQQUSYCh7yiFvu_qzlycOUsn2fmVNDsBQOz-vC6lJP2kc1RapIFEb4ateIj1roH9Ih7eoRTtA7n5BTxNlNN2juyWZs_hIKywI5p7bAosn_x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic3"
+  },
+  {
     "appname": "Stickman Master Premium",
     "appdev": "Unimob",
     "appprice": "$1.99",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/aAfQy4Tqldk9-VXC8DbGF8uEXADMPEy0GNrk9n1wBV4YisDqVu6OycUGkO1lPVdkKnadnarwGsyqBD2c5u9l19Do4n5PZt8TBu_yX492Q7hjqoEl=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.reversevideo"
-  },
-  {
-    "appname": "CWF 008 Luxury Watch Face",
-    "appdev": "Calkanos Watch Faces Studio",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iWCqeK8zifWx4sapP_AVLqRwZYEhmCUA_n8unMKCDHVQw0O7teiBkXDyqrPvVWUGxzp1-Pn88ClxZCvCvOOvhvB7eXbzhJ9gse5iSfUrIJbhNt2_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.cwf_008_luxury_watch_face"
-  },
-  {
-    "appname": "CWF018 Blue Watch Face",
-    "appdev": "Calkanos Watch Faces Studio",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GASSWxBngDvH-sj13k4Puwr9h7Y98gqo8bnBuuY3CE22idTBem3CvbZqzNTeQPI4KPW8gzVuqyPG4_onga8aQ_4Gb48kQTlXPKi4QtuqmytmgciWQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.cwf018_blue_watch_face"
-  },
-  {
-    "appname": "CFS112 Sport Watch",
-    "appdev": "CFS Creative Face Studio",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Xpoxs4JUpEtb1gg1GL1CeN7dVIykWY_-csd4zHRC9ZAO57ZpkK95-IN8ZHUg4d-TSjalJ6EoQt_uGIc_tr0PYjoYlh0okASHqj7J3Xol_EDibccdUQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.cfs112sportwatch"
-  },
-  {
-    "appname": "White Room",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
-  },
-  {
-    "appname": "Sort And Arrange - Thinking",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FiM2Ye4WawWW2u1XlLX4CHE0HRbOHPH982zPTF3rzFC0GAGBkQeOJG0rdDn4vCOdLt_GkVf8zDtn6LRw9MIEJA5Lesr9OzrY4HzhbWsSSO8i8Tc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sortandarrange.r"
-  },
-  {
-    "appname": "Inab Purple - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/W44i3udiaLHpr3DF8DG057AbjHjVEp7KnwqZ7a1x6IUpipH2mU25AOkit54yCorRAUgs-yGQsU-fTyqZrDsdIrBYSPmyopkYqcX7EcSZz9bT2ZWMmA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.purpleblack"
-  },
-  {
-    "appname": "Cubic Light - 3D Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
-  },
-  {
-    "appname": "CircleDock 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ZJp9KGKYENvrXqVsl3smJUm6cXT_Xe2qA5r6JDj36fQCnAFPgX3O93xvoC4euR7K3_irHQXdb9UKV2ol534t_MHfzUmesSa2vw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle"
-  },
-  {
-    "appname": "GrapeLine - Purple Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/BdpvtmiP2NCLsi9vKqODO87ox37k1rZlWNkqKZD8iHNFxCLkBjNovtJQRzveJrm3igP7h4UYFUNkCpclcxiFmYVUdeNSl0cTe3bHX_q37HcGy_sLOQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpurple"
-  },
-  {
-    "appname": "Pixel Cubic 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
   }
 ]
