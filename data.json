@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Image Cropper - Crop photos",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/xHJ190I82OPKH-zIVRgRVNQ1LORFXZ-iYbmH2InIpdhxyGxeaICJaDYIubP9_DT5ZfTOar_PoaN4QxsZH5m-i2RsivhPUedxTVagRgcn8-bbUVhZzw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
+  },
+  {
     "appname": "Conversations (Jabber / XMPP)",
     "appdev": "Daniel Gultsch",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KIP-LIEXKAqhTus1Pk7Jz2HcmvVm6hWk22DDYG7_YzZQywjmYW_G4wdEVjaN-pIAIvJwaW9FLHqovmuGd2_59i35y73K6ckWfKA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.asteroid"
-  },
-  {
-    "appname": "Beautiful Line - Maths is fun",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/saOECQjq0E4d7yMp9bpVhG04pBTUYXXZYhmxVEvnDcAR4YndyrFqnqByPErK6Isem-ZwXpZ8Jb_UE_Kb5JPhF8AGOZyaYwW6WfLxcG5CCIw_isk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.drawingline.r"
   }
 ]
