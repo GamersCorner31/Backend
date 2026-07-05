@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Burning Sky VIP",
+    "appdev": "SHMUP Games",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
+  },
+  {
+    "appname": "Tap and Popping Battle Puzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/__Qv8ndHiRHYt1KrcduXuI2ynrc0PE1ZWmiVgbmn7DNr5om0T0oKBL4VrPpSb7PoqdQB9S9j8ClhtCUwFDcvC0ovDwG0xLzXovTn6z1d3hWfNszd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popbattle.r"
+  },
+  {
     "appname": "Image Cropper - Crop photos",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -350,16 +370,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
   },
   {
-    "appname": "Spelling Test & Practice PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
-  },
-  {
     "appname": "Water Sort Puzzle - Premium",
     "appdev": "otto games",
     "appprice": "$2.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/QMSSCP8R-407WmT4RcKUfpLafjq3FVdt2G1-__3edY-A-AUDCU4NtWEg4EWoma-5vmEFcs_y75Y7mwFxW_6-AI0v4PRAzkdwewsK1Sn4nHYh-pn6=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rotary_urx39"
-  },
-  {
-    "appname": "Asteroid",
-    "appdev": "Atanu Sanyal",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/KIP-LIEXKAqhTus1Pk7Jz2HcmvVm6hWk22DDYG7_YzZQywjmYW_G4wdEVjaN-pIAIvJwaW9FLHqovmuGd2_59i35y73K6ckWfKA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.asteroid"
   }
 ]
