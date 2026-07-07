@@ -1,5 +1,15 @@
 [
   {
+    "appname": "BlockStorm Survival",
+    "appdev": "Modular Game Technologies",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/wK3G8abcqNB3v8-wC8tRaLumiW4kJ0945jcSI741HlGBj5UQpNLTnCHwk8WiDEWsWGfb2J7nekgAaBJQfhu0h7WlxyAjuAQuyJydG0_9-JgTsiue=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.game.blockstromsurvival"
+  },
+  {
     "appname": "Pace PRO: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
-  },
-  {
-    "appname": "Photos Charging Slideshow",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
   }
 ]
