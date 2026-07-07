@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Monster Survivors",
+    "appdev": "GameSA",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/WzDVZQOwkqOyYjMZyiuLAx4-XWdHGA_J-mMpmmmCoZM_XIX8VaUE3QBCG5Wwq0XMNIrNMIMAGt3EqBEa0wucd6gAIDZiTG8EU8_eM1IU8I44yzM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameSA.MonsterSurvivorsSA"
+  },
+  {
     "appname": "W6 Style WF Wear OS 5+",
     "appdev": "OQ Watchfaces",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/bVGDYcnX_QIsxyQkSS1bL2vXhfWqq4egKydLwsdC8vx4g30venV2cISon_9PPkdvnz4B5BJSY31vZ_Y58Xw8eFSyNMzkEGtXW1TUndd9FnhkULQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.pro"
-  },
-  {
-    "appname": "Music Equalizer - Bass Booster",
-    "appdev": "KUCO Apps",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CuyfyHkVQmA2lUdjfkTTdnl83zHOI2XB3ZH6vAvTf5qnku7jHEGjfl14Cz7to6UsTIvREmstBYiMUdlHq2X0lZZpu8YGxUI4VOj_6minuoOuTwB9qA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.pay"
   }
 ]
