@@ -1,5 +1,15 @@
 [
   {
+    "appname": "CWF016 Raptor X Watch Face",
+    "appdev": "Calkanos Watch Faces Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/h0DrMrpQi5w-cnCApPXKXp5rD8p9iSEH27SPRrlQ96pxWHBRrebE3J7z0OGycfVk_HyT3ejhJpPUMz6jurnI8_FR-fP-MUuiRl6enzMNC8d4wHO4ag=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.cwf016_raptor_x_watch_face"
+  },
+  {
     "appname": "Monster Survivors",
     "appdev": "GameSA",
     "appprice": "$1.99",
@@ -250,56 +260,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
   },
   {
-    "appname": "KX Music Player Pro",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jU-Vail6_faNRJ4-mk8wQfG22z2Mu6gp80SOeg3S_7sCGvlYrtUtkX5SyofR_5TPMfBrsg2jE5eGRhVcbM1SO2nJhHfGo_twkoHD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=kx.music.equalizer.player.pro"
-  },
-  {
-    "appname": "Equalizer & Bass Booster Pro",
-    "appdev": "Coocent",
-    "appprice": "$2.49",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/RzDW7s2GjtHpjw_KIcgADqWM9vf8N8m-jfDooo04Jpl0LNE67J2-Hhpa7zHAhvZ6-rctSS9eN7gzQYvWxrvx6YLi6sxLDRVH0AA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=music.bassbooster.equalizer.pay"
-  },
-  {
-    "appname": "DJ Mix Studio - DJ Music Mixer",
-    "appdev": "Coocent",
-    "appprice": "$12.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/imZqRtUaw20eIAYl-MNwKWCVYobWtpkZXi4NdKRKfciyE7E_Tw9I0iz_gexb_J-p8_l8KKSAoT1eh1ec3BDVOyZFu42j0FMC3qoCEklrWEV8o0C1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.effects.pro"
-  },
-  {
-    "appname": "Volume Booster & Sound Booster",
-    "appdev": "KX Camera Team",
-    "appprice": "$2.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/7aYbTTELqp8IDYUoDiq5C4aQcUOC0CR_dVlcXQiTiXcG0dCLsN-x8c3qdYx0am7u2m5Ln28IiX65ENTrE-LjMSVOWTB79zVPT00YwK9R1Wxmr3tFxg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.volumebooster.pro"
-  },
-  {
-    "appname": "DJ Music mixer - DJ Mix Studio",
-    "appdev": "KX Camera Team",
-    "appprice": "$12.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3f4nOEYmJd1HtDfazDkJkdyEwYY_Cx8Vo8vwDTwFOujLYf1rQSm6eatALlg1m1FkazPMT4YE1egqc9rF3R5xL2iJR_EPG0GbzvTAYmxJeqNGY5c=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=music.mixer.dj.mixer.pro"
-  },
-  {
     "appname": "Smart navigation bar - navbar",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -308,36 +268,6 @@
     "appurl": "https://lh3.googleusercontent.com/inpgHbbqT-hhp-Hm9OijK7rYmwGNjRAq7CIaX6zqS0qRXcevFwoSssJAy7SBmlcztwsEmH9VcwmK_8wbhxBqKTERAxKVxe7YFaMz=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.smartnavbar"
-  },
-  {
-    "appname": "Equalizer - Bass Booster EQ",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OhLzNnTPVw7WdRWKPqRreyO-kxKPrNgqG-U9oQTk1vmOXIocZQu82aJtbANaqxRfOpVxlKNnqJoUfWA0MmbaSUPFCf6i4qEiO7WnkVSudUqhJC0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.equalizer.pro"
-  },
-  {
-    "appname": "Volume Booster - Loud Speaker",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/mct-kd78HbRf2zM3lphaxUIIF9qun8KxGcODo12BqWTz_yIRgMcBtx8fJfLCpZScTVZH91jT-IyFt4S1vtDdGfWUAqtbPYQKm3vZ31XThyKgG_Rp=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=volume.booster.sound.enhance.pro"
-  },
-  {
-    "appname": "Bass Booster & Equalizer PRO",
-    "appdev": "Coocent",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/IY_5PY7wl3ONZ1k3rsQHcELNYf3nqNk8CsySABZp-mmjNxt3C27FH34_w8ouv9q-XBZ-qCjJVqxD9DJewbqO4TC1fbHzgkchG3_8nvrUU2f1-94=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=audio.sound.effect.bass.virtrualizer.equalizer.pay"
   },
   {
     "appname": "Garage Ringtones Pro",
@@ -370,33 +300,103 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
   },
   {
-    "appname": "Equalizer & Volume Boost PRO",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.4",
+    "appname": "Burning Sky VIP",
+    "appdev": "SHMUP Games",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
+  },
+  {
+    "appname": "Tap and Popping Battle Puzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/__Qv8ndHiRHYt1KrcduXuI2ynrc0PE1ZWmiVgbmn7DNr5om0T0oKBL4VrPpSb7PoqdQB9S9j8ClhtCUwFDcvC0ovDwG0xLzXovTn6z1d3hWfNszd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.popbattle.r"
+  },
+  {
+    "appname": "Image Cropper - Crop photos",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.8",
     "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/26FHLoRX16hysD4KUywdlkINoKzx-bLbXj884yTUX_bRWKpJ7CH4oDe_IgsdqbyyEwMGJu_SgvnHCkUaPubgZgbkjCFipPvHX_Rcy1TiD_wDDF4d=s200-rp-e7",
+    "appurl": "https://lh3.googleusercontent.com/xHJ190I82OPKH-zIVRgRVNQ1LORFXZ-iYbmH2InIpdhxyGxeaICJaDYIubP9_DT5ZfTOar_PoaN4QxsZH5m-i2RsivhPUedxTVagRgcn8-bbUVhZzw=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bass.volume.pro"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
   },
   {
-    "appname": "DJ Mixer - DJ Music Remix Pro",
-    "appdev": "Nuts Mobile Inc.",
-    "appprice": "$9.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/XJHSMGkoadFeqp_0zQ5gt1CmQopHCSCBi9QbH6HUOorurBx235aWZfR7Tz7XUDcvKosmSjyWXgQRUNLuWhED4Ln_wqQCpAGafMyDpdwytEkTW2k=s200-rp-e7",
+    "appname": "TRON Dark: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/dr-TBoGGdlHAvbcxX961KAkpIrlXkCGEX1-yMQ5ECiqdQQfgy6HPNnqNo9cvBSGgmblPvmHArzvudokbs6w-QfcmcpuC-bYcF2vKd2FV3qyJFGns=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.music.mixer.pro"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awftrondark"
   },
   {
-    "appname": "DJ Mixer Pro - DJ Music Mix",
-    "appdev": "KUCO Apps",
-    "appprice": "$9.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/bVGDYcnX_QIsxyQkSS1bL2vXhfWqq4egKydLwsdC8vx4g30venV2cISon_9PPkdvnz4B5BJSY31vZ_Y58Xw8eFSyNMzkEGtXW1TUndd9FnhkULQ=s200-rp-e7",
+    "appname": "Braincup",
+    "appdev": "Simon Schubert",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.pro"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
+  },
+  {
+    "appname": "Photos Charging Slideshow",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
+  },
+  {
+    "appname": "Rogue Hearts",
+    "appdev": "Ninetail Games",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/KhHpi_fuy3iPYko_4tz8d4L8RzcEjU5wuRG_DuzsayqWzeIsgNbKZ2MKXFsjPyRYdn3Itw47xGIUuQGgAevv7Z189wa6Gdt1uV-b=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid"
+  },
+  {
+    "appname": "Aeroplane Chess 3D - Ludo Game",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GVboJHo_RdVp1KGMWnAjLfiVYbaYt5D_LUO7AYF6COJu40QeiBNg9dtnQm7_j-wg87uaBN9ZLuXtGiDhlBfxnqmzwp_eeJx3LsuCDZmMbJw8oN20=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.aeroplane.chess.r"
+  },
+  {
+    "appname": "Food Fever Premium: Restaurant",
+    "appdev": "Unimob Games",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vtaVfL0rmeC4YMlZEHZ0k5ZeprgDHjrBHb_8ZxmUSvQk5h-QoeEe_94ydtnKxxTvnXvNw1gGT72SsyR7y4wc4RIOPAIdTU8w27xNwYPq4X3ol9s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.foodfever.premium"
+  },
+  {
+    "appname": "Pocket Academy",
+    "appdev": "Kairosoft",
+    "appprice": "$6.49",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/sCMvFnAcPGEJIb3nBBF2LnIENWkF5thRNYd99x-eB0juR2QJIRylxgSQxXn-draP_4ahHBzquklIL_iX2IPCBj3nmWnZ2-g5pA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.kairosoft.android.school2_en"
   }
 ]
