@@ -1,5 +1,115 @@
 [
   {
+    "appname": "Tank Mini War",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/c-cNt0wyaPipIrMqFNYgCSGfvpG4dhQ0d6Rx4Vq4f--AdDpwRxhmbNnLZ8hTGrBxbxO9aHmexCGMTdLohIP4KH5gWivxduAFLuFzsU0dxRAnZjZIOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankwar.free.r"
+  },
+  {
+    "appname": "Spirits Gate Ghost Box",
+    "appdev": "White Light EVP",
+    "appprice": "$1.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/qqSNfKDsYyQsBvxUwC0O60SD0F4cccZZWn82gilvVaiUbjo3bTBTZbY_w-pMpNxjVThO3UxSF8hBmSKVCu_zAqUMtDcj8GNvUg5DMr-5sPbIpNGD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder"
+  },
+  {
+    "appname": "Trivia Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "3.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
+  },
+  {
+    "appname": "Space Rush",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
+  },
+  {
+    "appname": "Tap Rush - Reflex Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
+  },
+  {
+    "appname": "Speed Math - Mini Math Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
+  },
+  {
+    "appname": "Emoji Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
+  },
+  {
+    "appname": "Bulbs - A game of lights",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
+  },
+  {
+    "appname": "Crazy Calculator Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
+  },
+  {
+    "appname": "Logo Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
+  },
+  {
+    "appname": "Spelling Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$3.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
+  },
+  {
     "appname": "Block Blast - A Retro Game",
     "appdev": "Eggies",
     "appprice": "$2.49",
@@ -288,115 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/mCBO44YbT7lh6RMx5FKh7J7iI4myBRg03jMqwWijC9Watv7lPLKHWvZ4s2yvNgGv0jmO0nQLDKwkJtY4LqhJw_KDfs_xm3axa-N6vE7YtV5Uk1sWCA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.mockupfor.everything"
-  },
-  {
-    "appname": "My Medicine Pro - Health Log",
-    "appdev": "made easy",
-    "appprice": "$2.49",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/AiCyz8XRgS746vMI-2a-n7eqY05KBkeHTYYmEWxHRITkJ78Ji8VaKuph0mhmydUyIYPIkZ0n6ThyRBZBgP4HZl1hUQlqFPZmnYKeDsT2b2BlBrJ5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=health.doctor.pill.my_medicine.pro"
-  },
-  {
-    "appname": "Invitation Card Maker Pro",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/cJEbCr-gjjZbhSDUBzvdg_3X_6EskCsapjKDMtDP4HHXDI7oWmoiU9vMF_8y-1qpp6UmmGWEVvZ_bjy5yLnSWUzNjJhmVbGW8TgmZILF2-viSdI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.invitation.maker.invitationcard.generator"
-  },
-  {
-    "appname": "CWF016 Raptor X Watch Face",
-    "appdev": "Calkanos Watch Faces Studio",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/h0DrMrpQi5w-cnCApPXKXp5rD8p9iSEH27SPRrlQ96pxWHBRrebE3J7z0OGycfVk_HyT3ejhJpPUMz6jurnI8_FR-fP-MUuiRl6enzMNC8d4wHO4ag=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.cwf016_raptor_x_watch_face"
-  },
-  {
-    "appname": "Monster Survivors",
-    "appdev": "GameSA",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WzDVZQOwkqOyYjMZyiuLAx4-XWdHGA_J-mMpmmmCoZM_XIX8VaUE3QBCG5Wwq0XMNIrNMIMAGt3EqBEa0wucd6gAIDZiTG8EU8_eM1IU8I44yzM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameSA.MonsterSurvivorsSA"
-  },
-  {
-    "appname": "W6 Style WF Wear OS 5+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/tYMSmLqBzJWzVD84NaQqCKkxbDwLZQe6el2RgO7qjwa1_A3j7PhFf7XRsmxCwgTEfXYmbIdSMj1yUKWnm_amS4z7ea2ogO1Ki1CbA9s8A_5SrcEJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.w6style"
-  },
-  {
-    "appname": "W6 Dark Style Wear OS 5+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-Z1-lPKU3x4XjqKHYssUlzUxHqNXO0RcfRLFLaJIOSiYvYW7SsVXv5l_GiwlH2RxS_5hErM1pzVrJklMtoSOwEVhjzOExtSQLm3CpHmCDHPaAnkb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.w6dark"
-  },
-  {
-    "appname": "W6 Gradient Style Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IsH7CPkDSzK5pAuOYHMQqtT9BzXER0jGs2_b-MgxUt40OHe_mrZiqxJSsAMJLIeZ_K7HlgCEx_geAY31UJjV6NxvbZxik8r_GP5b_XOYZQol6JUJnw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.w6g"
-  },
-  {
-    "appname": "b-hyve Pro",
-    "appdev": "B-hyve",
-    "appprice": "$9.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/lPf8GvjtK66CXmByqPDYqlb9TNLP4-W47YhusE2Dkt39lMPgyUiDIUdwGS8Ik-0OCOo2SSYNNh1up_PVO6lw_aAJZmRedYOn7ew=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.orbit.orbitsmarthome.pro"
-  },
-  {
-    "appname": "Core Watch Face",
-    "appdev": "Galaxy Design Watch Face",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/LA7iOAyFGXfXqxAr3JBS06Rkbvl_oShcDCBI4z31R8HZDa549dEwhYCbvl_gh-NMZe_SZdBrgcbIpmL6xaRrZdim_uHKIU9IrGfwCCqPPxqC32mw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.core.galaxydesign"
-  },
-  {
-    "appname": "Backrooms",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Iam5bk_jMwescB7O31Bz7NSdQy98k-6smKRa8eOxYsqKYPrcfJDfu08Ge1hfMAtmOXG2irv2SMFhHGRgpGYRKYJ3C4lUYgzv1WrIhqKPvc7TFIG7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms"
-  },
-  {
-    "appname": "[VIP] Mr. Balcan Idle",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
   }
 ]
