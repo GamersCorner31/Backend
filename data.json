@@ -1,5 +1,25 @@
 [
   {
+    "appname": "h1103 World of Rainbow",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Y0BvbscSPn6cHem8Tsr-atqYJve51j3WUpHqWqoHQ3bZysf4xJ88O-yRhG-jz4Xk6gweInfbGZr3FVFyviz6lEL7caOfz5UsxXtoVXnTu6x2gVI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1103"
+  },
+  {
+    "appname": "Hard Colors Metal Classic CWF6",
+    "appdev": "Calkanos Watch Faces Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NGppDoJs9-s3hwIbIXTtgpWI8KCygAILPUzRUyURqm28zpSBt2VPL1TgIk0dIZJtPedB3oDQI6NiHwy9FlPPrPT-ON4xol_QevTPn_tG9vF97PpiIg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.hard_colors_metal_watch_face_cwf006"
+  },
+  {
     "appname": "Tank Mini War",
     "appdev": "UnknownProjectX",
     "appprice": "$9.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/C3J_u4u-pPr9Vq8hD09uiLr20-clgSsaGNEbyI4MTXj8Ixc2pbnJkXmDcv8K2K7qCgHPLvfg1iza-uBiXCXqb0Lz1dE9JWwcnKOj65iDuJKGRE3a=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.soft.festivalpostmaker"
-  },
-  {
-    "appname": "Fit Workout Pro - AI Trainer",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/eIGZg_pvGYyyHtFhNQU57eFXgtsf1hqMAvqqApSsrP8jViPY5128WTULnQ0CTqcJ_CpdbxeeMMIcDu9NFlUvzIkPg9NpEESn99zos0gkDBwrXsI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anthonyng.workoutpro"
-  },
-  {
-    "appname": "Mockup for Everything - Design",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$8.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/mCBO44YbT7lh6RMx5FKh7J7iI4myBRg03jMqwWijC9Watv7lPLKHWvZ4s2yvNgGv0jmO0nQLDKwkJtY4LqhJw_KDfs_xm3axa-N6vE7YtV5Uk1sWCA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mockupfor.everything"
   }
 ]
