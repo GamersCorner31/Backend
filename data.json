@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Block Blast - A Retro Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
+  },
+  {
+    "appname": "Love Stickers WASticker App",
+    "appdev": "Yepil paid apps pro 2026",
+    "appprice": "$25.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
+  },
+  {
+    "appname": "Grow Zombie VIP : Merge Zombie",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
+  },
+  {
+    "appname": "Keep Calm App relaxing mind",
+    "appdev": "Yepil paid apps pro 2026",
+    "appprice": "$23.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/a4Nwju8Id6apq1iu4acDfJoU_d0zla30oOucRc6bH89_tYiIFiaeYG_aw4T8QFU6gSxhSxEHJUDQKFq1y2virbadvSS3u4kRcBGs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.brainboosterapp"
+  },
+  {
     "appname": "Egg Journey",
     "appdev": "Malaga Games",
     "appprice": "$0.49",
@@ -220,16 +260,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
   },
   {
-    "appname": "h1205 Statement",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/KgPBMvlz8_6kWVWCB5CJ8KTtf8X1D7aD2SRA5DImn1UnyfFZTI2Id6pRQKTpktFUDUo3evhQf28xYo9S0g1IvmDJrDJO-fhtqmH5LijcgBlQAhxb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1205"
-  },
-  {
     "appname": "Poster Maker Pro Banner Create",
     "appdev": "AUSTECH STUDIO",
     "appprice": "$3.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
-  },
-  {
-    "appname": "BlockStorm Survival",
-    "appdev": "Modular Game Technologies",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/wK3G8abcqNB3v8-wC8tRaLumiW4kJ0945jcSI741HlGBj5UQpNLTnCHwk8WiDEWsWGfb2J7nekgAaBJQfhu0h7WlxyAjuAQuyJydG0_9-JgTsiue=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.game.blockstromsurvival"
-  },
-  {
-    "appname": "Pace PRO: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/XOb9v14HfhgRbqDgNQo9586luEcW8WitWYaQARp0qtRI2C2lDW9TG6OYpZiDFO8oHHrrmjmfhLcCRLyBV6ehNFzADTJTvQTfgzFFMuSdQZMp5OO-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpacepro"
-  },
-  {
-    "appname": "Zamrud Turqoise - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3mpe730rvK59BzwwXzNIUqDDx7oLGAZjBa8QZarhTHpehtpqGsB_da9SA60xbqQObArjdTY2wOLpIXSV4v1MTJW_ssZTAuRwzL96G0gsjPP5ADy6Nw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscablack"
   }
 ]
