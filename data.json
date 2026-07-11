@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Gotto",
+    "appdev": "QodeZone",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/t45Xmux6yAe7Pv4L7OQTJVW8WUzvMij7Utz7iyo5ggybv4t0IaziTBX0IF8pKHTspMZfo0dxNDqLTQmMbaYnIARZDNicOY1z3P0L4Jn-afpTSBiP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qodezone.gotto"
+  },
+  {
     "appname": "h1103 World of Rainbow",
     "appdev": "Happy Watch Faces",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
-  },
-  {
-    "appname": "Poster Maker Pro Banner Create",
-    "appdev": "AUSTECH STUDIO",
-    "appprice": "$3.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/C3J_u4u-pPr9Vq8hD09uiLr20-clgSsaGNEbyI4MTXj8Ixc2pbnJkXmDcv8K2K7qCgHPLvfg1iza-uBiXCXqb0Lz1dE9JWwcnKOj65iDuJKGRE3a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.soft.festivalpostmaker"
   }
 ]
