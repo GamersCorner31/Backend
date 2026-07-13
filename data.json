@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Bible Master – Quiz & Trivia",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
+  },
+  {
+    "appname": "Star - Yellow Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ihFqVZwAPbksaG4f0WW8K8SDI5LBa8nMibr8DZJjB-k03XyLnwGjXfrCrK07iiVKemXzE3Lo3fzLTI2eqjzzVKuIR3V1m4FjoVhsxMpBLwBhzHcaDQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
+  },
+  {
+    "appname": "Gradia - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/WH_QJnWEoNCdg_MUe2cWf7X3lM7cAdCdalNzknUuttK1l1rZ_f8DXP879cEr8IP3ht9xydw8EKAOLlfFPuYG2FjBakbWXez2AiaMWD4HUo8Nx7T2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.theme.iconpack.gradia"
+  },
+  {
+    "appname": "Yellowdiant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
+  },
+  {
+    "appname": "Watermelon - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_0MQnsVjx8AAIt-spuJQoOeMwQBwFuW_LXomalyXPQLrYikSFdFPB3M-iboXxZNVReCQuRuswvt0ax2JtNU5z_xG9Gf0qvGQdDvMlFicCPh1Adw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwatermelon"
+  },
+  {
+    "appname": "Bubble Gum - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OG2a09k3eWOYhwRraq79y-7OhFi7VqByC76hwMA2i-F1bQm1l4-V8Okow40eP23aCOwX7xwRXoXldAPjrk4LA3Henz0enozYg5EVTB1de9P2nHM3yg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbbubblegum"
+  },
+  {
+    "appname": "Red Carpet - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bQbh6a-ApTJxfQVmbHEjOn-I3Itmwi5abVBdKHyL_oH92OADj6jMHy-QXWWSa3oDSNPKnN7LjvjmNVPl46KLOyqmvUsv88NF5jUBnPSyrHuA2CPpsg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbredcarpet"
+  },
+  {
+    "appname": "Rigoletto - Squircle Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/m6xFVw415-czA7csdgbbR0MegffKg3cXslIcdcHRXbdHb_zHQAoUkRf_2lmNQ2qH75gpN47O8E8LTv9MZ06GY2hiC2-DWSLK074=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.rigoletto"
+  },
+  {
+    "appname": "Earth - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5-0-LHzmkTAKeuCzCAb6I-SsKZg5zumhJGFswU6IHGf8LgUJlBXTt1V4mJSXuI-BoZp4eNSEEOTUaO8MGJFQyXPkP0M7lKH50S_dUdf292dKaRI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbearth"
+  },
+  {
+    "appname": "Kathleen - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
+  },
+  {
     "appname": "Word Game Wonders: Crossword",
     "appdev": "A.V.A - puzzles games",
     "appprice": "$2.99",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/vcbq4MwJjQoTQm3BJHOo8HW4_y948xhmjieYtnsdYS7i2MnLLSm-uD5uV_hKJeJPxHjGZpzKBsqjolfiBvnCI3kkbekvMBli5-gFPtYmJ2UjhKsb=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.stairwaytoheaven"
-  },
-  {
-    "appname": "[365fun] Matching Game2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
-  },
-  {
-    "appname": "[365fun] Mountain Climbing",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FZo7fvaBoqf-DTUI6qOB5uPgVW9LqgrYQNKtCC5scMdefYxME1nOW68sBL9wahNxXZbjHG3XRGs4UQu_lUcJ_HoLAMV6r00kiaUARzvcC_qx8Nnq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mountain"
-  },
-  {
-    "appname": "Stickman Legends Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Firefly Neon Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/A2LMTNUeeIx4bch52blhtTbC6MQl-7PlWyXV0v2moiDnF5pUF725NOJhnSsPodv31DFATE21MZYwK-VuqofzXKX7mrXARFki5j6C1VQo22enfg0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.fireflyneon.iconpack.app"
-  },
-  {
-    "appname": "Prismatic Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YTO-4ckxNCa6A4Jdlpz2DuEx5t9e1N2Zy_ZJM1eN3Yd0iDsYac1--y6gVeieTkVVaZGUvZBDHZU36zp4DeK5QISzPPZZ90vAxJuDJaQWWngJr4W9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Prismatic.Iconpack"
-  },
-  {
-    "appname": "Project Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/dSczG9JN9chAttGXx8L2q5Hw9AkyhfFrBV65F-jty0YVdRg40nYp2Z-UojzYsDPi5uVIPM2LekSXPK--gdHLJD2Efk-KJ8IFzyTa_esWguwvJLtn=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.project.iconpack.app"
-  },
-  {
-    "appname": "Mirror - HD Mirror App ◎",
-    "appdev": "Apps360 Team",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/mEliigsndykQz8h7U-fvBbkh45qR6CRC0OBAzlSd8k37cOoqW2X9GaYDRnzkhcoC1f0hRgnRPd_MM_dciChK2kBy-g11zdu4ApuOqDMlx9Kr3jI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mirror.makeup.cam"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
-  },
-  {
-    "appname": "Live or Die: Survival Pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
-  },
-  {
-    "appname": "Chain the Color Block",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
   }
 ]
