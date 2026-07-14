@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Solitaire Pro : Card Games",
+    "appdev": "VR GAMES",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
+  },
+  {
+    "appname": "Word Mania - Brainy Word Games",
+    "appdev": "Eggies",
+    "appprice": "$6.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
+  },
+  {
     "appname": "Car Racer Vr Pro",
     "appdev": "VR GAMES",
     "appprice": "$0.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/4Xy9ukeCgIRgR-08TYi38OSi7qwWMOaS2p37zJhcu2nB-NRTwWM_pbQIXP10nDfbKsLDOY-ShiUibuZPKD8BqyPKCiyl8oqLnGTRAgWhrSLKRhs=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=malagagames.eggjourney"
-  },
-  {
-    "appname": "MangoLine - Orange Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/BmjpHy9i7rIbxQ3uGtq1lb-I5fXcjuNcoDRXRRte-L0BQJiiDv5tNGLbGGjadXIwqoneEeuSs864L6sARUixrbtM2WM89g43rs1cnoP3AM4zWaM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lborange"
-  },
-  {
-    "appname": "Infinity Highway",
-    "appdev": "Nari Works",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/1w8wgHih_IG4pI1-jNdV9VsLZffglBPk750oxhaKsFsaBllyUq6LhKBfargLIcuC5bBJ3474njS-zIrSvRLUJ0nSKRIq91d9_0k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nariworks.Highway"
   }
 ]
