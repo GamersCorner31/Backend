@@ -1,5 +1,95 @@
 [
   {
+    "appname": "xViper: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/HRJq25sNnlD4ngqQDzGLGICdtIoe5o473cZn3U7IaA0wlzLp4AAA-EpgAFCw_9GF9G3sxwggmZMqGkKsqA8Pe7TFkypFFVUV1N_6cYVRbqc_-MCzcA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.xviper"
+  },
+  {
+    "appname": "Offline Password Manager",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
+  },
+  {
+    "appname": "Spelling Right PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/N2dI2Hva0bAhXApEAKv3B6d6ijYczb3zsiCd3MEuI2KjB7ED2cLf7pHW9AHmJFMmQNq6LzO9MCKfctok0Yo1I3pIRsvD8gJ0AA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingrightpro"
+  },
+  {
+    "appname": "DogTok - Dog Translator Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
+  },
+  {
+    "appname": "PIXEL WORLD PRO Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5yHvJx_PB8PdoAgx-r_5IQSYFderQU08_0tREf_iF1JRbTglb4Q9FxtD47lgW02RRnp2xzkaTeIHOM1XMzqENKR6252b7ovSb2rDloclW8S2RYw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelworldpro"
+  },
+  {
+    "appname": "ATHLETIC Digital Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LMgOaw33gfLPspslPSMsV1D5m7FqJTieEUfyVRa7Q2pVgOAT07L0FTeL5Wrz3EqKyuHk-Nh1iWmcDJWcdpBoxX_PkFT5FkB6i9UOSfh8T-uUYb0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.athleticdigital"
+  },
+  {
+    "appname": "PIXEL SPORT PRO Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
+  },
+  {
+    "appname": "PIXEL INSTINCT 3 Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OEBQW9aXIrW5IgLOxkm0yeOm2hQl9Rx2Dg2ohOuiE3_3RPhwG7Ej8unmcGZKQdIT8o9P4mHQVzhbGZAf52BAvwAPP1F3FTwJt6w0umrgwTtw9354=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelinstinct3"
+  },
+  {
+    "appname": "MOON KNIGHT Digital Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Hs87qgbY4R-XFfpHmR5fMop-k7q1sJzLSO8MnuiXBtpaq-0-R4WWmO7zt37LxjZi_KWFaS0i-Ne_5A0dr6byKJZaGC7jbzCsNaaiSAAd5NcnrHbY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.moonknight"
+  },
+  {
     "appname": "ODYSSEY Digital Watch Face",
     "appdev": "LIBERTY WATCH FACES™",
     "appprice": "$0.99",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
-  },
-  {
-    "appname": "Space Rush",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
-  },
-  {
-    "appname": "Tap Rush - Reflex Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
-  },
-  {
-    "appname": "Speed Math - Mini Math Games",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
-  },
-  {
-    "appname": "Emoji Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
-  },
-  {
-    "appname": "Bulbs - A game of lights",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
-  },
-  {
-    "appname": "Crazy Calculator Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
-  },
-  {
-    "appname": "Spelling Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$3.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
-    "appname": "Block Blast - A Retro Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
   }
 ]
