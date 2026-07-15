@@ -1,5 +1,55 @@
 [
   {
+    "appname": "ODYSSEY Digital Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
+  },
+  {
+    "appname": "Shadow Knight: Ninja Fighting",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
+  },
+  {
+    "appname": "Guardian War: Ultimate Edition",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
+  },
+  {
+    "appname": "Evertale",
+    "appdev": "ZigZaGame Inc.",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MV3yO8Pe03nI_K6_eDFj8wvJ3bUUDbJZxmKWhesAFoeywC9hQcm784lQAh-12TvVwTAd7Fa1zS05cVKu0TSsA-2ZuU_2f76rMQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale"
+  },
+  {
+    "appname": "AntiBAG Tachograph",
+    "appdev": "ZlojDalnoboy.PL",
+    "appprice": "$3.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/6pLmPNIsg5d7TCu5JsMHFbfHlGIOtD_JukQPmEdsqHBOMH5bQpc6lCa7SijuFHO7lIMs-bnvN4hn6dtHHGajN542_6YIBOmhPAU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.intexsoft.intexsofttahograf"
+  },
+  {
     "appname": "Solitaire Pro : Card Games",
     "appdev": "VR GAMES",
     "appprice": "$2.99",
@@ -200,16 +250,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush.wonders"
   },
   {
-    "appname": "My English Grammar Test PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/dUoB8LsEuF4tuVKVIg1iCyygcnOdOmz93yhDqYab-Ca9QiB2rbXTq3tEA7W1eDen5MNxQhGVc6wQBNIy-Lu7OP2MeTnCm9h2zUW1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.myenglishgrammartestpro"
-  },
-  {
     "appname": "Metal Soldiers 4 Pro",
     "appdev": "Play365",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
-  },
-  {
-    "appname": "Love Stickers WASticker App",
-    "appdev": "Yepil paid apps pro 2026",
-    "appprice": "$25.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oC1glC3Z5chEqq9B9egu0U1fWqfpqeeqNco6Y9Vg6hB49xh9nAp4dUWVfH_InabkROOD2lktPfJq_KG5a1OYUzL5mHcom1Ml4AE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yepillovestickers"
-  },
-  {
-    "appname": "Grow Zombie VIP : Merge Zombie",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
-  },
-  {
-    "appname": "Keep Calm App relaxing mind",
-    "appdev": "Yepil paid apps pro 2026",
-    "appprice": "$23.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/a4Nwju8Id6apq1iu4acDfJoU_d0zla30oOucRc6bH89_tYiIFiaeYG_aw4T8QFU6gSxhSxEHJUDQKFq1y2virbadvSS3u4kRcBGs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.brainboosterapp"
-  },
-  {
-    "appname": "Egg Journey",
-    "appdev": "Malaga Games",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/4Xy9ukeCgIRgR-08TYi38OSi7qwWMOaS2p37zJhcu2nB-NRTwWM_pbQIXP10nDfbKsLDOY-ShiUibuZPKD8BqyPKCiyl8oqLnGTRAgWhrSLKRhs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=malagagames.eggjourney"
   }
 ]
