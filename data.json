@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Amerta",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/yIF8_ouxeRKZwbuxaD45OoQOctSBFwhfU5LEUipMc6VdeD_kkSuOfe6RDajgU1rR82PewxE5e9sthinwUsLbeVuptNsckp0JrsAB9vbq4pVSb2Ci=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.amerta"
+  },
+  {
     "appname": "xViper: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/qqSNfKDsYyQsBvxUwC0O60SD0F4cccZZWn82gilvVaiUbjo3bTBTZbY_w-pMpNxjVThO3UxSF8hBmSKVCu_zAqUMtDcj8GNvUg5DMr-5sPbIpNGD=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder"
-  },
-  {
-    "appname": "Trivia Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$4.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
   }
 ]
