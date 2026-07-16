@@ -1,5 +1,15 @@
 [
   {
+    "appname": "HMKWatch Simple 015",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ao0FbgbGeH3v80hLipcXYLj3FNbAKuqrbgBCBevciJz1cbUXtdtHwYqGjYFagxBiIrkjEulyo7vjhjvs4BUU5KkcsnsFrUKFSFaV0WMGJzw0NOg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_simple_015"
+  },
+  {
     "appname": "Watch Face Digital EasyRead D1",
     "appdev": "Devration",
     "appprice": "$3.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
-  },
-  {
-    "appname": "Word Game Wonders: Crossword",
-    "appdev": "A.V.A - puzzles games",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/G0i1dEfisukeHlrEKas6O_0T4TZ7oA8vH0NiyM5ynoXgGnzfXcGAix8K2Fy3Py0xFsEkES6fRfGOOB-wJ6MFr9MQXQJhL-YC6aImeYek69f4s80=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush.wonders"
   }
 ]
