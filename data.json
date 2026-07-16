@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Watch Face Digital EasyRead D1",
+    "appdev": "Devration",
+    "appprice": "$3.99",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RWbuTUQxwdPhrj5G0qLZr7OE4dRUf7VFBDjqVhw0HRcaKC7_gkX-CB-g3F6Xk6gndqnCTFFSMl2VSUsu44A45diGh_M3BOnsnqE5-qBX_vE0SHzR=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.EasyReadD1"
+  },
+  {
+    "appname": "One Swipe Notes - Quick Notes",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PsE5inLF8S7xr6PjL_OBYgFvgg9kDpwZAW4OQDq88cSmc9ntQ1kS85LR1ZBGFSJsTRoUaSgGJ4zxvDoMuAaBRF9YHiS5TCnOGN_hPSUsupwMID-P=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.oneswipenotes"
+  },
+  {
+    "appname": "InsideVPN: Premium VPN Proxy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$9.49",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
+  },
+  {
+    "appname": "Tech Quiz Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
+  },
+  {
     "appname": "Final Castle Defence:Idle RPG",
     "appdev": "DH GAME",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/G0i1dEfisukeHlrEKas6O_0T4TZ7oA8vH0NiyM5ynoXgGnzfXcGAix8K2Fy3Py0xFsEkES6fRfGOOB-wJ6MFr9MQXQJhL-YC6aImeYek69f4s80=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush.wonders"
-  },
-  {
-    "appname": "Metal Soldiers 4 Pro",
-    "appdev": "Play365",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Ifa0hD9qZWnfbk98eW81sQR67AhIGx7ta23YbhnBaHqq8fkPs8KqiQXJxIUUtSKUPPaCtc6_EdR3kClsDwSuMVPXosS7j595GHHwnWHt2Lc6lhQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.playappking.android.metalsoldiers4pro"
-  },
-  {
-    "appname": "Gotto",
-    "appdev": "QodeZone",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/t45Xmux6yAe7Pv4L7OQTJVW8WUzvMij7Utz7iyo5ggybv4t0IaziTBX0IF8pKHTspMZfo0dxNDqLTQmMbaYnIARZDNicOY1z3P0L4Jn-afpTSBiP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qodezone.gotto"
-  },
-  {
-    "appname": "Hard Colors Metal Classic CWF6",
-    "appdev": "Calkanos Watch Faces Studio",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NGppDoJs9-s3hwIbIXTtgpWI8KCygAILPUzRUyURqm28zpSBt2VPL1TgIk0dIZJtPedB3oDQI6NiHwy9FlPPrPT-ON4xol_QevTPn_tG9vF97PpiIg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.hard_colors_metal_watch_face_cwf006"
-  },
-  {
-    "appname": "Tank Mini War",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/c-cNt0wyaPipIrMqFNYgCSGfvpG4dhQ0d6Rx4Vq4f--AdDpwRxhmbNnLZ8hTGrBxbxO9aHmexCGMTdLohIP4KH5gWivxduAFLuFzsU0dxRAnZjZIOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankwar.free.r"
   }
 ]
