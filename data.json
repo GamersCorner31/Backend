@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Photo Editor Pro",
+    "appdev": "HDM Dev Team",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/T3eXuN9W5yg8YtE5WMZzVCK71W-LIpekI5lxlHT1NMtS3xZqNY655cueTj48KseFaMn8xL8P_3TTMDWKit0cWBtzPRGIMLQb4Hrz8YYBbqkkddlg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=jp.snowlife01.android.photo_editor_pro"
+  },
+  {
+    "appname": "Slideshow Maker Pro",
+    "appdev": "CloudEx Inc.",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EsBPbYQa_pyKReGdqMsBk_gSvGlvl3lSmFoydevENROOvocfD1IXheQ3uLr81uxrLvdQtib_-IYplYUXb_xx0mIqg_qKRgc901CX669Ww4bKHJ76=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snowlife01.slideshowmaker_pro"
+  },
+  {
     "appname": "Lena White: Glyph Icon Pack",
     "appdev": "One4Studio",
     "appprice": "$3.49",
@@ -180,16 +200,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
   },
   {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
     "appname": "Shadow Hunter: Offline Premium",
     "appdev": "EA Publishing",
     "appprice": "$0.99",
@@ -198,16 +208,6 @@
     "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
-  },
-  {
-    "appname": "English Grammar PRO 10-in-1",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$2.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/UCRP5RerrEjWUawdqbiM4aDNHSdS6hOAujTVmc9NC6u1Nulp3pWaVkTET7X6AgKgSiLx9rVr6Y4PlnC81u3lxUIZz6sbSoZ6SkQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.englishlessongames"
   },
   {
     "appname": "HMKWatch Simple 015",
