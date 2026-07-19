@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "MAD PIXEL",
+    "appprice": "$6.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
+    "appname": "Undead City: Survivor Premium",
+    "appdev": "Unimob Global",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
+  },
+  {
+    "appname": "Undead Slayer: Offline Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
+  },
+  {
     "appname": "Theme Park Simulator",
     "appdev": "BestRideSimulators",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/OEBQW9aXIrW5IgLOxkm0yeOm2hQl9Rx2Dg2ohOuiE3_3RPhwG7Ej8unmcGZKQdIT8o9P4mHQVzhbGZAf52BAvwAPP1F3FTwJt6w0umrgwTtw9354=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelinstinct3"
-  },
-  {
-    "appname": "MOON KNIGHT Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Hs87qgbY4R-XFfpHmR5fMop-k7q1sJzLSO8MnuiXBtpaq-0-R4WWmO7zt37LxjZi_KWFaS0i-Ne_5A0dr6byKJZaGC7jbzCsNaaiSAAd5NcnrHbY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.moonknight"
-  },
-  {
-    "appname": "ODYSSEY Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
-  },
-  {
-    "appname": "Shadow Knight: Ninja Fighting",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
   }
 ]
