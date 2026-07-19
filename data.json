@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Ares: Colorful Icon Pack",
+    "appdev": "One4Studio",
+    "appprice": "$3.49",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9HAptwqJ7R-PafdRmJTejsMRMqAriQELF7Wt-qYFHwBwdc-yWItxIOf-u-oRuWMyUtb9MFJNdnwsQyY5hE1ZrXBx3XsDGWsIFimu1ArVX5E5mLQK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=one4studio.iconpack.ares"
+  },
+  {
     "appname": "Dead God Land - Light Survival",
     "appdev": "MAD PIXEL",
     "appprice": "$6.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
-  },
-  {
-    "appname": "PIXEL INSTINCT 3 Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OEBQW9aXIrW5IgLOxkm0yeOm2hQl9Rx2Dg2ohOuiE3_3RPhwG7Ej8unmcGZKQdIT8o9P4mHQVzhbGZAf52BAvwAPP1F3FTwJt6w0umrgwTtw9354=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelinstinct3"
   }
 ]
