@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Theme Park Simulator",
+    "appdev": "BestRideSimulators",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/2Uxys1SEg6dXBeqRkyXkXB0NDc_QJoSDI6_GTCoVdIt8xxlKg0nbkXwmX3SqE-ew6WTbP52JHhdvEAT2jkGjTAOu40h_dFPVhDQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game"
+  },
+  {
+    "appname": "Touch Lock : Lock touch screen",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HxxsSdqHSpLkL8-v-hhZzKOmo-XGegNFi6_xztMTeq3EDDbppqP4eFPuVaovvkclwJYu-FugByfHSG090s7zuD8iKL49odgTYZMCsOiKl6txY5k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.touchlock"
+  },
+  {
     "appname": "Weather Flip Animated",
     "appdev": "PRADO DESIGN ® Watch Faces",
     "appprice": "$1.99",
@@ -48,46 +68,6 @@
     "appurl": "https://lh3.googleusercontent.com/EsBPbYQa_pyKReGdqMsBk_gSvGlvl3lSmFoydevENROOvocfD1IXheQ3uLr81uxrLvdQtib_-IYplYUXb_xx0mIqg_qKRgc901CX669Ww4bKHJ76=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.snowlife01.slideshowmaker_pro"
-  },
-  {
-    "appname": "Lena White: Glyph Icon Pack",
-    "appdev": "One4Studio",
-    "appprice": "$3.49",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Zj_e_vRYSmD5uQWnx3pMGgwZeFrawj4-jJccrxKkcrC0_SGuPGLGnIxeKS21GCzOKPTnivpsJN52_KUKa_gwmTkabLkrXMeQVq1tr4pKCkdVWVbU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=one4studio.iconpack.lenawhite"
-  },
-  {
-    "appname": "Net Signal Pro:WiFi & 5G Meter",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
-  },
-  {
-    "appname": "Who Uses My WiFi Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
-  },
-  {
-    "appname": "Illuminance - Lux Light Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rbBWEsrUEDNP9LJdKyCkTbYrysnsZ3nFYuAquS_SK-VzHyGzAsNWMFgo-f_Z7DOqG_jqe-mwl7T_1kDnlmRUvGQhR36nTjjuumUgIn7JLUiOceA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.illuminance.luxlight.pro"
   },
   {
     "appname": "[365fun] Perfect 3m",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/Hs87qgbY4R-XFfpHmR5fMop-k7q1sJzLSO8MnuiXBtpaq-0-R4WWmO7zt37LxjZi_KWFaS0i-Ne_5A0dr6byKJZaGC7jbzCsNaaiSAAd5NcnrHbY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.moonknight"
+  },
+  {
+    "appname": "ODYSSEY Digital Watch Face",
+    "appdev": "LIBERTY WATCH FACES™",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PW3w_fEkRPGGIZpkElPWFQW9ZWm6iEVoMDMHPWxhPHFp8WNHrGz9rYh--bG6gACm2X84CE9IEOk64vtkJSuhFfELx2LJoEsL8KRSZwQTq-JB0X_V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.odysseydigital"
+  },
+  {
+    "appname": "Shadow Knight: Ninja Fighting",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
   }
 ]
