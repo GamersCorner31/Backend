@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Material You Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/s14ABN-aiXjeJMoljN_0ID958te14HarRVFBeC9GsevK93RwPQxTh3VddpZKPqWdMdjXZ6TnYcxyblVz21WrKMM7RjrUz_6i1h4DMjNJjtr1GS3c=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.square.icon.pack.theme"
+  },
+  {
+    "appname": "Sharp - Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mE1UCMNSp3RAsdxjabzE4LpNCNH9ED_zGdgwohE3wjZsgwMnlwvDlHOMs0yfphl7O0yVbcol7I1O0zmxTiOXKrvjBsCVnnRKKZa99RZ19bJkwfoK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sharp.square.iconpack"
+  },
+  {
+    "appname": "Square Clear - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/UqAKcHRQOjqOpWtEeHZQEGzlMcrTC_M3PCcoR7yUsw2GcsHdbM8rzkDHHw-UitNi-LoWLnOFnyKVgHsh8lNfOekadvK_8pSgw_fd1c3-wmmT6X4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squareclear"
+  },
+  {
+    "appname": "SeaLine - Blue - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/SPgn6B2HkhmqaqhfPyxpZqRDoHPDBWBXDMTzwerbt--aVhkljk2D8eEVJ_CAoUJb4HG3YjFB-9ZLTWgpE9gHn_DW0aOC2hF5pvRD-SbCIzSQWKF3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbblue"
+  },
+  {
+    "appname": "Samak Blue - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ncUZTxlIDQ0NkYdfLnfsgWpeEgCu3JU4fvZR6iPhnckvBOkgb9nhDsKMX06zFzT71SujDomu4MwSG0mwnpvAKanp4hsKojhnby_0nKVNPh14pp43=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blueblack"
+  },
+  {
+    "appname": "Fledermaus - Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/EgIgpvsUGp5M-ZqKp_Uec1yPEjfYEU-jsC29Whcki9ec_F7KDc4PiR2-mdCjmUrdDdFSobG2En1sdQDtbe7XzRjzS-BhJ9t6Lr4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.fledermaus"
+  },
+  {
+    "appname": "Fit TWO Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IqYPM12CvzG9vj2y_uAJ5hQsI-ezNYRTaDDTvf_Htn-JYhYKUQHUD_knQ8aktGBAetXbVchkQoHwsROTXEM5Ilo1oKnr_RzJmu5ViqY3twBaRtpL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awffittwo"
+  },
+  {
     "appname": "Push Up Counter",
     "appdev": "SwiperyLab",
     "appprice": "$2.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ao0FbgbGeH3v80hLipcXYLj3FNbAKuqrbgBCBevciJz1cbUXtdtHwYqGjYFagxBiIrkjEulyo7vjhjvs4BUU5KkcsnsFrUKFSFaV0WMGJzw0NOg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_simple_015"
-  },
-  {
-    "appname": "Watch Face Digital EasyRead D1",
-    "appdev": "Devration",
-    "appprice": "$3.99",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RWbuTUQxwdPhrj5G0qLZr7OE4dRUf7VFBDjqVhw0HRcaKC7_gkX-CB-g3F6Xk6gndqnCTFFSMl2VSUsu44A45diGh_M3BOnsnqE5-qBX_vE0SHzR=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.EasyReadD1"
-  },
-  {
-    "appname": "One Swipe Notes - Quick Notes",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/PsE5inLF8S7xr6PjL_OBYgFvgg9kDpwZAW4OQDq88cSmc9ntQ1kS85LR1ZBGFSJsTRoUaSgGJ4zxvDoMuAaBRF9YHiS5TCnOGN_hPSUsupwMID-P=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.oneswipenotes"
-  },
-  {
-    "appname": "InsideVPN: Premium VPN Proxy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$9.49",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
-  },
-  {
-    "appname": "Tech Quiz Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
-  },
-  {
-    "appname": "Amerta",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/yIF8_ouxeRKZwbuxaD45OoQOctSBFwhfU5LEUipMc6VdeD_kkSuOfe6RDajgU1rR82PewxE5e9sthinwUsLbeVuptNsckp0JrsAB9vbq4pVSb2Ci=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.amerta"
-  },
-  {
-    "appname": "xViper: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/HRJq25sNnlD4ngqQDzGLGICdtIoe5o473cZn3U7IaA0wlzLp4AAA-EpgAFCw_9GF9G3sxwggmZMqGkKsqA8Pe7TFkypFFVUV1N_6cYVRbqc_-MCzcA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.xviper"
   }
 ]
