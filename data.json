@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Push Up Counter",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/D4_U9IjwtNSEYjJyWVhz7xNPxzxho6U_M7g7KvQvEUY4p3hUkHnOtwjbuyuujIH8wbYAzIMpahEuPRpQMq17TAQ-NRPMSHkhooE8jdw6yoKWi8jL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pushupcounter"
+  },
+  {
+    "appname": "Merge City Premium -Home decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
+  },
+  {
+    "appname": "Glide Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/qswW6xscNSTniCzRujE5Cm8psTBPPqt3STKJf_CATyG-5ALcs_ZqWfGatWCHZKha0cI3YNIxut0vm6TgCrHs2GxTHZZizoHSxuKncIBqobIHJT4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.glide"
+  },
+  {
+    "appname": "Cooking Kawaii - cooking games",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
+  },
+  {
+    "appname": "Merge Cafe Premium -Home Decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
+  },
+  {
+    "appname": "Box Head: Roguelike Premium",
+    "appdev": "PANTHERA GLOBAL",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LfF2-WVxqGQoPN2QFkKjP37ehI4U6kIfPeqXTK5nqzlvHPWMg1A2wCIN2205fnW8bdmW8FIABRmxaY7C-Uu3mN4Wurrl1UZx3FqT4miqlH1yyVBZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium"
+  },
+  {
+    "appname": "Super Tank Battle - Sandbox",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Mbk8TYqWh1LgkzgQRDBUV5dTzsF6CRQleN0erRavAZLoeK712vtZhpKFDWj_LgsZ78ALm26OLXgbTK2T3hm0y1dqF4UsP6HGgbLntHmchsn-6SuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
+  },
+  {
     "appname": "Ares: Colorful Icon Pack",
     "appdev": "One4Studio",
     "appprice": "$3.49",
@@ -68,16 +138,6 @@
     "appurl": "https://lh3.googleusercontent.com/vO4O2A8XC2Vf0k0wtylk9b8PuJMokpp295l7lRc9DB0rU8n64VoDRp6UjYhSI0rFsRzXq6TxxHzXbhfYqSj2sg6MP5ab2Qge6ZmNxrCiIeG8OhXItA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.weatherflip"
-  },
-  {
-    "appname": "h010 Cute Dog",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Qvp3pE0iXZkCJPc1w4dTF3X564WFvUhU_164lPW1J7e5Bvc1aPc1PaKMvkg20B0wMSFmvDG7-jwYScMOX10JBDOyTjD_WgYKM3klZZ-WtRJuYfVr=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h010"
   },
   {
     "appname": "Pixel Blade M VIP",
@@ -210,16 +270,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
   },
   {
-    "appname": "Words Everywhere PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
-  },
-  {
     "appname": "Traffic Jam Cars Puzzle Legend",
     "appdev": "MobGame Pte. Ltd.",
     "appprice": "$4.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/HRJq25sNnlD4ngqQDzGLGICdtIoe5o473cZn3U7IaA0wlzLp4AAA-EpgAFCw_9GF9G3sxwggmZMqGkKsqA8Pe7TFkypFFVUV1N_6cYVRbqc_-MCzcA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.xviper"
-  },
-  {
-    "appname": "Offline Password Manager",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
-  },
-  {
-    "appname": "DogTok - Dog Translator Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "PIXEL WORLD PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/5yHvJx_PB8PdoAgx-r_5IQSYFderQU08_0tREf_iF1JRbTglb4Q9FxtD47lgW02RRnp2xzkaTeIHOM1XMzqENKR6252b7ovSb2rDloclW8S2RYw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelworldpro"
-  },
-  {
-    "appname": "ATHLETIC Digital Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LMgOaw33gfLPspslPSMsV1D5m7FqJTieEUfyVRa7Q2pVgOAT07L0FTeL5Wrz3EqKyuHk-Nh1iWmcDJWcdpBoxX_PkFT5FkB6i9UOSfh8T-uUYb0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.athleticdigital"
-  },
-  {
-    "appname": "PIXEL SPORT PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
   }
 ]
