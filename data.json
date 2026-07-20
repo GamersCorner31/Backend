@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Kings Hero 2: Turn Based RPG",
+    "appdev": "SVP-Mobile",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/RPGdWgp8lyCWZs--P7WakOH19uNEMkQgon1ANsNmc1AH0-C8-sc9Lztw9ZvJDMmXNAeagyYl37rIJF12eQ1Y8eFNb2VJFWymHw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.svv.kh2"
+  },
+  {
     "appname": "Material You Square Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
-  },
-  {
-    "appname": "HMKWatch Simple 015",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ao0FbgbGeH3v80hLipcXYLj3FNbAKuqrbgBCBevciJz1cbUXtdtHwYqGjYFagxBiIrkjEulyo7vjhjvs4BUU5KkcsnsFrUKFSFaV0WMGJzw0NOg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_simple_015"
   }
 ]
