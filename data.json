@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Word Search Champion PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
+  },
+  {
     "appname": "Kings Hero 2: Turn Based RPG",
     "appdev": "SVP-Mobile",
     "appprice": "$1.99",
@@ -150,16 +160,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
   },
   {
-    "appname": "Ares: Colorful Icon Pack",
-    "appdev": "One4Studio",
-    "appprice": "$3.49",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9HAptwqJ7R-PafdRmJTejsMRMqAriQELF7Wt-qYFHwBwdc-yWItxIOf-u-oRuWMyUtb9MFJNdnwsQyY5hE1ZrXBx3XsDGWsIFimu1ArVX5E5mLQK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=one4studio.iconpack.ares"
-  },
-  {
     "appname": "Dead God Land - Light Survival",
     "appdev": "MAD PIXEL",
     "appprice": "$6.99",
@@ -238,16 +238,6 @@
     "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
-  },
-  {
-    "appname": "Slideshow Maker Pro",
-    "appdev": "CloudEx Inc.",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EsBPbYQa_pyKReGdqMsBk_gSvGlvl3lSmFoydevENROOvocfD1IXheQ3uLr81uxrLvdQtib_-IYplYUXb_xx0mIqg_qKRgc901CX669Ww4bKHJ76=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snowlife01.slideshowmaker_pro"
   },
   {
     "appname": "[365fun] Perfect 3m",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
+    "appname": "HMKWatch Simple 015",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ao0FbgbGeH3v80hLipcXYLj3FNbAKuqrbgBCBevciJz1cbUXtdtHwYqGjYFagxBiIrkjEulyo7vjhjvs4BUU5KkcsnsFrUKFSFaV0WMGJzw0NOg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_simple_015"
   }
 ]
