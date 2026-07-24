@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Ultra Watch Face 2",
+    "appdev": "Galaxy Design Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hklkJbRam7JdaPnEpJEtzj3LGtNs6s7oiSU-acjF1IfW38HGAFuGwOO8UexYVJ2ESTj5cvNqtM-XWO5CbSyyse1VguRqJ3Tq8Rwi8UAcqnz1WYPN=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.proanalog.galaxydesign"
+  },
+  {
+    "appname": "Defense Zone 3 Ultra HD",
+    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
+    "appprice": "$2.99",
+    "apprating": "4.5",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/TObPTj3cx78x5mBbTDJl6DUT1K7xlJuiCgSO3LIa7RSzNEQ8kqE2xAn3Ws_bcu9qTjHClSlyhH2R849F8IcYYVKkXiICq9pjrsZv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone3.ultra"
+  },
+  {
+    "appname": "Defense Zone HD",
+    "appdev": "HC GLOBAL DISTRIBUTION LIMITED",
+    "appprice": "$2.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ucUAjGDo1Hur8IbRpWcjUAbB2quexCcaK_mxMox5zKx-C57jjE5ZQ31YCDBuXfvxrT_CmxJ-EyanF3bA1HqNwL_nIZw43aeSQDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.defensezone"
+  },
+  {
     "appname": "Sudoku Classic",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/2Uxys1SEg6dXBeqRkyXkXB0NDc_QJoSDI6_GTCoVdIt8xxlKg0nbkXwmX3SqE-ew6WTbP52JHhdvEAT2jkGjTAOu40h_dFPVhDQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game"
-  },
-  {
-    "appname": "Touch Lock : Lock touch screen",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HxxsSdqHSpLkL8-v-hhZzKOmo-XGegNFi6_xztMTeq3EDDbppqP4eFPuVaovvkclwJYu-FugByfHSG090s7zuD8iKL49odgTYZMCsOiKl6txY5k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.touchlock"
-  },
-  {
-    "appname": "Pixel Blade M VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
-  },
-  {
-    "appname": "[VIP] Missile Dude RPG : idle",
-    "appdev": "Artifact Games",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
   }
 ]
