@@ -1,5 +1,135 @@
 [
   {
+    "appname": "[365fun] SurvivalGame3",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
+  },
+  {
+    "appname": "[365fun] AirComando",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
+  },
+  {
+    "appname": "[365fun] Fishing",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
+  },
+  {
+    "appname": "[365fun] Cups and Balls",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TFYnqV8XaOi7xdrhYM3Lk10UMeXQJ2bqiOAHkfwiex1qB8NO_k6fcjO-MkQuf7WM3OFBeXFg2fC_XJEmHolXpzWBuLc28vleNF5PMiruP5LHvVlx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cupsandballs"
+  },
+  {
+    "appname": "[365fun] One Shot",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
+  },
+  {
+    "appname": "Tech VPN Pro / Protect Privacy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$10.99",
+    "apprating": "3.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
+  },
+  {
+    "appname": "PumpkinLine Orange - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Y2AVa7HFsQ3_181bP9-n6fCBUVAXcIFdueGWK5zGQcYOFvIK0aNFwX-46laYGyIme_UGdD-Nu-xiptrMBrTybzZuAhjlnqlJd4IpUawFeSPH_0Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nborange"
+  },
+  {
+    "appname": "EmeraLine  - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9jqXBWfZRqi-caKhWO1DO_-MSGEtavqt7edPGvN1avlCK-hvkX7J4lIvouSSjCBzN_4llzUb1vxD1dUgadekKOWxRl8whf4rN_h17D0CjMLo3kbS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbtosca"
+  },
+  {
+    "appname": "Carol - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
+  },
+  {
+    "appname": "Pixel Ring Drop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/09lodLQL4jTqkCagKFWkPrpbvVhDSTAe9MEM2n_jf6W-gxsgz4WKDghOYGtzeSwZDbXJwxzC1wmgYFf1KdSZ-3M4kcZElu33bQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pdrop"
+  },
+  {
+    "appname": "Dropicon Cut - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/oTRq5tt9wcu5UKH0CRIywYlQrirFdRHuHBXjZ8PSR4J7PS5ckfN6qt5mASahtHgYMltDG-9iffzLH7y1R0v_kTexnxqoY_3PaQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticond"
+  },
+  {
+    "appname": "Linea - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/AEOOPxum8iLtlICinnJ0l39eJEaCN4FBlkhY3HcdLHnSf1O66Yysvg74QoDWyASM2xvZFnoYQqyVdmAg37zwNO3rzBswDLNHIuJzOd5YMsMigEobRQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.icon.pack.linea.theme"
+  },
+  {
+    "appname": "Drop Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/SVll8_GGUgoT5_cYl-mtZ74nnUTI4CCJ2OyyNmKcmmKQxPXsi8GBuqJt4DcJryeqmvkOWW6YTOlE5ZEkHSWEQxXzk2wShjynftdgfYQZzrlAm74x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dropdark"
+  },
+  {
     "appname": "Ultra Watch Face 2",
     "appdev": "Galaxy Design Studio",
     "appprice": "$1.99",
@@ -268,135 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ncUZTxlIDQ0NkYdfLnfsgWpeEgCu3JU4fvZR6iPhnckvBOkgb9nhDsKMX06zFzT71SujDomu4MwSG0mwnpvAKanp4hsKojhnby_0nKVNPh14pp43=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blueblack"
-  },
-  {
-    "appname": "Fledermaus - Square Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EgIgpvsUGp5M-ZqKp_Uec1yPEjfYEU-jsC29Whcki9ec_F7KDc4PiR2-mdCjmUrdDdFSobG2En1sdQDtbe7XzRjzS-BhJ9t6Lr4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.fledermaus"
-  },
-  {
-    "appname": "Fit TWO Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IqYPM12CvzG9vj2y_uAJ5hQsI-ezNYRTaDDTvf_Htn-JYhYKUQHUD_knQ8aktGBAetXbVchkQoHwsROTXEM5Ilo1oKnr_RzJmu5ViqY3twBaRtpL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awffittwo"
-  },
-  {
-    "appname": "Push Up Counter",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/D4_U9IjwtNSEYjJyWVhz7xNPxzxho6U_M7g7KvQvEUY4p3hUkHnOtwjbuyuujIH8wbYAzIMpahEuPRpQMq17TAQ-NRPMSHkhooE8jdw6yoKWi8jL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pushupcounter"
-  },
-  {
-    "appname": "Merge City Premium -Home decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
-  },
-  {
-    "appname": "Glide Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/qswW6xscNSTniCzRujE5Cm8psTBPPqt3STKJf_CATyG-5ALcs_ZqWfGatWCHZKha0cI3YNIxut0vm6TgCrHs2GxTHZZizoHSxuKncIBqobIHJT4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.glide"
-  },
-  {
-    "appname": "Cooking Kawaii - cooking games",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
-  },
-  {
-    "appname": "Merge Cafe Premium -Home Decor",
-    "appdev": "CSCMobi Studios",
-    "appprice": "$4.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
-  },
-  {
-    "appname": "Box Head: Roguelike Premium",
-    "appdev": "PANTHERA GLOBAL",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LfF2-WVxqGQoPN2QFkKjP37ehI4U6kIfPeqXTK5nqzlvHPWMg1A2wCIN2205fnW8bdmW8FIABRmxaY7C-Uu3mN4Wurrl1UZx3FqT4miqlH1yyVBZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium"
-  },
-  {
-    "appname": "Super Tank Battle - Sandbox",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Mbk8TYqWh1LgkzgQRDBUV5dTzsF6CRQleN0erRavAZLoeK712vtZhpKFDWj_LgsZ78ALm26OLXgbTK2T3hm0y1dqF4UsP6HGgbLntHmchsn-6SuA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
-  },
-  {
-    "appname": "Dead God Land - Light Survival",
-    "appdev": "MAD PIXEL",
-    "appprice": "$6.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
-  },
-  {
-    "appname": "Undead City: Survivor Premium",
-    "appdev": "Unimob Global",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/AOv2ab7r3zIBpLAmbV6agoZVoFp-47P5uJDMn1iTcKMjYXue1mKw61GEz5mYvNXek0R7FYJJ0D_af4tIfplYSt1O4NuaVxbsdBkyjjtyiwDymi0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium"
-  },
-  {
-    "appname": "Undead Slayer: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
-  },
-  {
-    "appname": "Theme Park Simulator",
-    "appdev": "BestRideSimulators",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/2Uxys1SEg6dXBeqRkyXkXB0NDc_QJoSDI6_GTCoVdIt8xxlKg0nbkXwmX3SqE-ew6WTbP52JHhdvEAT2jkGjTAOu40h_dFPVhDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bestridesimulators.theme.park.simulator.game"
   }
 ]
