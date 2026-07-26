@@ -1,5 +1,35 @@
 [
   {
+    "appname": "h1101 World of Gradients",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lhPrgaH8cRbohLTXVdLIRxxdJR8jXukBVl7d7Q4to-vTATC4H0vqHBpoVyYlOQLMoHbiGvG7amZPvCvXGWk_iUXr91bCaXvRpyZaYuxW2g_E9Os=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1101"
+  },
+  {
+    "appname": "Sound Meter - Decibel Meter",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
+  },
+  {
+    "appname": "Words & Cards PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
+  },
+  {
     "appname": "Arkane",
     "appdev": "Fauchelevent",
     "appprice": "$0.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/2pfRHA2TGkj0etF126Cc7oe5qY-zQL9g_IFgn8D-XwDSSvgCmCbiijzRH1mqNZ1v8L_EF64tbe9p-SYTV-NDVCCcuLLg8nr1T9wcqEF3fEJzrzg1Cg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfinfograph"
-  },
-  {
-    "appname": "Space Menace",
-    "appdev": "Only4Gamers",
-    "appprice": "$0.69",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/z84ZXDM-HsYF3oOudlJWvIIvGuDHhrKN4Wz9RmZvmKKwoFmmS30ILiZ5xeHwikvra8DXOB1nIC7eXhOBUGXHCfxOZDYSBVRUHdLblhk-8qvTH115=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Only4Gamers.SpaceMenace"
-  },
-  {
-    "appname": "Sky Wings VIP : Pixel Fighters",
-    "appdev": "SHMUP Games",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
-  },
-  {
-    "appname": "Video Speed Editor",
-    "appdev": "SwiperyLab",
-    "appprice": "$4.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ha_EH114MpXKrYsxzZk7e-ycq7IdydX0cIMccgciNUjuuKEI7ufijUKrrPPw0d4VG8UeQlc3adBTO7bjcs3USXppYBkm4_DaD2q-hHQbImJaMBr6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.speedupvideo"
   }
 ]
