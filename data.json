@@ -1,13 +1,13 @@
 [
   {
-    "appname": "HMKWatch Digital 275",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Tt9J8J9-fvbR8tqRj_S1nyrkhpThhLDdDIR6vt0qoyrLokSvawOsmFynVEhk8USfrz13lYPGFcSvDA8TuddGMGYyI3k3QJK6sO5mJkRLwEEmp-QrUQ=s200-rp-e7",
+    "appname": "yourSudoku - Over 10000 Sudoku",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_275"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
   },
   {
     "appname": "h1101 World of Gradients",
@@ -320,16 +320,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfrun"
   },
   {
-    "appname": "Deals Tracker PRO: eBay Alerts",
-    "appdev": "MobileSoft4You",
-    "appprice": "$3.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/QL0s03tWQp5W6RYs7LmnC6bkFdZl1RI5dIvvJDCqKglVHtmUFON6BU2A9kozn8jDgWaf78m0tpCj3HaC5zbNS1nZ6UBU5KHRvAY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tomlocksapps.dealstracker.ebay.pro"
-  },
-  {
     "appname": "Spirits Wave EVP Scanner",
     "appdev": "White Light EVP",
     "appprice": "$1.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/ovvv8VSTWDtScLnG5jmm94eWWMHsp9V1b00x0gSx373F0Be0jL0C-7HCXjsvz0MyfI6wC4_FmPuP688ZbaAO0KZiTBBpa3KZJZdr6GL9-j-UUlpmng=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordscapesWordSearchGame"
+  },
+  {
+    "appname": "InfoGraph Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/2pfRHA2TGkj0etF126Cc7oe5qY-zQL9g_IFgn8D-XwDSSvgCmCbiijzRH1mqNZ1v8L_EF64tbe9p-SYTV-NDVCCcuLLg8nr1T9wcqEF3fEJzrzg1Cg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfinfograph"
   }
 ]
