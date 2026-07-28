@@ -100,16 +100,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
   },
   {
-    "appname": "h1101 World of Gradients",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lhPrgaH8cRbohLTXVdLIRxxdJR8jXukBVl7d7Q4to-vTATC4H0vqHBpoVyYlOQLMoHbiGvG7amZPvCvXGWk_iUXr91bCaXvRpyZaYuxW2g_E9Os=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1101"
-  },
-  {
     "appname": "Sound Meter - Decibel Meter",
     "appdev": "Tools Dev",
     "appprice": "$2.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/I0AYbRm-uTHP2cicSvehuiCp4y0UKEs9qeKQe4TISZvBQP0OV_Tu59DWmIdFTdg0UHNBxNklhNQvZ10-pWBlJowM7MJJMo688IUvvpZPjMXabchzsg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.sudokuclassic"
+  },
+  {
+    "appname": "RUN PRO: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/P1ocwzcButsiEqPrm2P5B6B0DkvSAYjPo5mWE_W6yb1_1WBu5OmL7a1xhDEu8pmOjU6XiCRGvbCVzkK0dRbAUDjglcBz03rYMfWNqPWt3x1kepU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfrun"
   }
 ]
