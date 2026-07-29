@@ -1,5 +1,15 @@
 [
   {
+    "appname": "h1401 Space Plasma Door",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RS6NlDuFNIxgft9pJ9Tziou8uah1QPRnuT3r0VSW9iZbVl0x5-MOfOQp2V1msn9yvThDl4OGmZwhMEob_fHlj6r6j5O0wKWi8n4gXnW5yAW4ODf8iQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1401"
+  },
+  {
     "appname": "Bubble Level PRO",
     "appdev": "1 Bit",
     "appprice": "$2.99",
@@ -138,26 +148,6 @@
     "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
-  },
-  {
-    "appname": "Sound Meter - Decibel Meter",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
-  },
-  {
-    "appname": "Words & Cards PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/itOjJmFswlTNayOLuI6ERDHpfripwS8nB5LFXbYgHbQ-9_d2-X2Ix4PwQBZufgtaLzpKPRQ9Ef7xyp2rh2i3Pn1L2jF3qq34TN0G=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsandcards"
   },
   {
     "appname": "Arkane",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/hklkJbRam7JdaPnEpJEtzj3LGtNs6s7oiSU-acjF1IfW38HGAFuGwOO8UexYVJ2ESTj5cvNqtM-XWO5CbSyyse1VguRqJ3Tq8Rwi8UAcqnz1WYPN=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.proanalog.galaxydesign"
+  },
+  {
+    "appname": "Sudoku Classic",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/I0AYbRm-uTHP2cicSvehuiCp4y0UKEs9qeKQe4TISZvBQP0OV_Tu59DWmIdFTdg0UHNBxNklhNQvZ10-pWBlJowM7MJJMo688IUvvpZPjMXabchzsg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.sudokuclassic"
   }
 ]
