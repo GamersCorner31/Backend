@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Spooky: Halloween Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/QTf0pWD-65gtyqU0aKnCsy43ksp-fmxNJODGLcHjUX1Sm5r8JaggCtgCxbjiIbhwD3BrilFjryAOZxcA8tzJK4YM355ACd4lc1Q6NHB7afyp5g2e=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.spooky"
+  },
+  {
     "appname": "MSafe - Pro",
     "appdev": "Codfishworks",
     "appprice": "$5.99",
@@ -68,16 +78,6 @@
     "appurl": "https://lh3.googleusercontent.com/fx3kDNyIT8VcZThOunEhJkWP-Fi-UTQigtAsXv1fQXwPxu1Qg42EEGrlUtlEWsUW8Vkhl0P99gbZqHiy5EBUB2XNgg-r9g3OSPY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.brickbreakerplus.noads"
-  },
-  {
-    "appname": "h1401 Space Plasma Door",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RS6NlDuFNIxgft9pJ9Tziou8uah1QPRnuT3r0VSW9iZbVl0x5-MOfOQp2V1msn9yvThDl4OGmZwhMEob_fHlj6r6j5O0wKWi8n4gXnW5yAW4ODf8iQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1401"
   },
   {
     "appname": "Bubble Level PRO",
@@ -198,16 +198,6 @@
     "appurl": "https://lh3.googleusercontent.com/erfP9QLf0-7zQSM2m1uCUcGJs2UL5Q1zcSbnShBeN1WtK3X0PsH4mc-wekIA8iyG1-QZCtTfTGYMhF71RRZeQsJEr0MyDseQIysK=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker"
-  },
-  {
-    "appname": "Hidden Numbers PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtNW68R0mIyz9aRxk-EmrxpyZgUmtSMx-NCAql_3Ng3P3gLVRBdzHc3oTDoltCrEcLJVH0riqvObjBm_0i79k3O7w410xAFMCw8a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.hiddennumberspro"
   },
   {
     "appname": "yourSudoku - Over 10000 Sudoku",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/9jqXBWfZRqi-caKhWO1DO_-MSGEtavqt7edPGvN1avlCK-hvkX7J4lIvouSSjCBzN_4llzUb1vxD1dUgadekKOWxRl8whf4rN_h17D0CjMLo3kbS=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbtosca"
+  },
+  {
+    "appname": "Carol - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
   }
 ]
