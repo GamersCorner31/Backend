@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Over The Bridge PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jntVC0WIqYyY6hjH03_YyZGjOHuiJaH0mE-IxfWvWCf8eH7tIrXjf7u7A4j7DKofiwpcxszUO9U0Y3j94lNYu1Vi2FSKimTcPwg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge"
+  },
+  {
+    "appname": "Clock Widget  - Word Clock",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bsiq9kH-DAl-Pt9AgAKFQcxuY8ug-jyAkqZXRZCci-T-3R7896JTpbZNvXjSCLm0_0Kx3iIwuf-r78Hfbce7K0_FmubFERBrwqYj33cVu6UjUYM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simpleclockwidget"
+  },
+  {
+    "appname": "FPS Gun Game 3D: Shooter Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/1aBiQjYz7c8tk_EUMlWijSpQd4edO33JKgAOzWvkBvXaht44x78he3wfGEE3i9dpkXrPJkNqFJbfm1hfNn_T_iaULZAdT1cSS1av3WqejzpiXuFZuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjem.gun.games.shooting.shooter.strike.fps.csgo.combat.sniper.zombie.modern.action.ops"
+  },
+  {
+    "appname": "Digital Tree v3 Watch Face",
+    "appdev": "Monkey's Dream",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tCXclXvovgRxjoet8AFHNT56q_ui5r-BeUY__t5q4PMHFhcqiMqMV3HwNccUnHfwbw8shPQZxQSP4PB2HoFOusxYadONE9IdtqK5InispKkZZcqK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitaltreev3"
+  },
+  {
+    "appname": "Gem Shoot",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rf5bwtyPMmvN6L4HnIc6RZoAF2w6RrHZwDhj8LmWclYKQ6PCxjQqHchsYN9NW5l5jPPknNouTqei2pkv91bCpC0a6PDdizUU73VmxP6zybaTO4o9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.gemshoot.r"
+  },
+  {
+    "appname": "Epic Heroes War Premium",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
+  },
+  {
     "appname": "Spooky: Halloween Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
-  },
-  {
-    "appname": "[365fun] Cups and Balls",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TFYnqV8XaOi7xdrhYM3Lk10UMeXQJ2bqiOAHkfwiex1qB8NO_k6fcjO-MkQuf7WM3OFBeXFg2fC_XJEmHolXpzWBuLc28vleNF5PMiruP5LHvVlx=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cupsandballs"
-  },
-  {
-    "appname": "[365fun] One Shot",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
-  },
-  {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$10.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
-  },
-  {
-    "appname": "PumpkinLine Orange - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Y2AVa7HFsQ3_181bP9-n6fCBUVAXcIFdueGWK5zGQcYOFvIK0aNFwX-46laYGyIme_UGdD-Nu-xiptrMBrTybzZuAhjlnqlJd4IpUawFeSPH_0Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nborange"
-  },
-  {
-    "appname": "EmeraLine  - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9jqXBWfZRqi-caKhWO1DO_-MSGEtavqt7edPGvN1avlCK-hvkX7J4lIvouSSjCBzN_4llzUb1vxD1dUgadekKOWxRl8whf4rN_h17D0CjMLo3kbS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbtosca"
-  },
-  {
-    "appname": "Carol - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/IuOk7pSyXseQEfkcULxVSnnkV73TR2UJeyGydZIGKB79VR79CyWwGqeVQqILF2dk_vZ2UxELJ8VUaWl5h8EifUXUYhJMp11u2kaT0KSzd9DnUA9j=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbwatermelon"
   }
 ]
