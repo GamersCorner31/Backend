@@ -80,16 +80,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
   },
   {
-    "appname": "h020 Happy Minimalistic Analog",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/5hokIlOEEYWy6f_HWTjGtMNGHt0b447u7N-1Z4cMZ8zhNbrQ9F-nGIHWS7dKYz2Y9gFh8TsI5_Z731DvXRWTwrHZWowNXjcRyX7SwzGjcW2L4Ac=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h020"
-  },
-  {
     "appname": "Bright LED Flashlight Pro",
     "appdev": "Tools Dev",
     "appprice": "$2.99",
@@ -138,16 +128,6 @@
     "appurl": "https://lh3.googleusercontent.com/fx3kDNyIT8VcZThOunEhJkWP-Fi-UTQigtAsXv1fQXwPxu1Qg42EEGrlUtlEWsUW8Vkhl0P99gbZqHiy5EBUB2XNgg-r9g3OSPY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.brickbreakerplus.noads"
-  },
-  {
-    "appname": "Bubble Level PRO",
-    "appdev": "1 Bit",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/YYVXMR4wKkU3Bc-AYY3RRZrM6TqIW1fw-oeC7EsnFf5wJz2JEMTh6b7lP58uFnU-XesKIMfebTIjr3Li-CLeGFIDRYIk0Ih0LLqYue05XkaCJhWu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bubble.level.ruler.pro"
   },
   {
     "appname": "PDF Reader & Editor (PRO)",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
+  },
+  {
+    "appname": "[365fun] Cups and Balls",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TFYnqV8XaOi7xdrhYM3Lk10UMeXQJ2bqiOAHkfwiex1qB8NO_k6fcjO-MkQuf7WM3OFBeXFg2fC_XJEmHolXpzWBuLc28vleNF5PMiruP5LHvVlx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cupsandballs"
+  },
+  {
+    "appname": "[365fun] One Shot",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
   }
 ]
