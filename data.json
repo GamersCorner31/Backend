@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Balloons Pop PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/EuN4GgwdIhz72aTng6s0F3UK7lmycXKc1OC2iVzWAFBo87smdFUCGTBOf6Tt6IIjhkrZt-HDGitAHXGeI3VJNKQ8BjDev4eyOhk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.balloonspop"
+  },
+  {
+    "appname": "Contacts Widget - Speed Dial",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
+  },
+  {
+    "appname": "Dark screen filter",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6pDLO2afuRRGdVp3SkyuOW9bCpiIKJt6Ctt6G-a9py2dTyU0YDb5Khg3dxT2oJwASliz3oPCX46k74WpuKMyxvzKHiHQMjTAw9Yt4Os1hThtY2vwfA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro"
+  },
+  {
+    "appname": "EVP Phone Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$1.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Ng1hpgYEbBCL_hrouThILi0XanWwJ9tjqRK2vuCcu2ScDJwRI1Rlc11pFonVndcJpGztwil9BJwfNx3pVdm4At7dnRILx6JlXx_omOuRnhcPLnQf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Evp_phone_spiritbox"
+  },
+  {
+    "appname": "Limit app usage - screen time",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ELlh4SG42ecF6ZoO2NIB_JRmLgSHeeaht_zbc105DcwoB9pMXbKhKMEs433uq9wjSIdCqNGmk3mht9TL208ROVPOv6rBriQDb8VXl1LEI5VnfH1h=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.limitapptime"
+  },
+  {
+    "appname": "Grow Dungeon Hero VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
+  },
+  {
     "appname": "Analog Basic 34 Wear OS 4+",
     "appdev": "OQ Watchfaces",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
-  },
-  {
-    "appname": "Octacrop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fdsNxPD5IMSRdM7AVX-gib75Kw32VEyA6w4YHQjdNCgGgVFPeD13MFIu1xUjx7t9yeRwk5OuQAJwWyqojuYMCZhOzBe9RHbwdvPgMeEkSaIy_fcqZw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticono"
-  },
-  {
-    "appname": "Green - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/bSTHxLXO2564MBOXP29b3ZZybsTEm2J8Wnk8tpNnamjzLqEvVRSUe0eIjHqcTVIpGm6kM280eIejLHv0ymOFpKS3dvYXGFI1kVqpt5gw-c-Aji14-g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.green"
-  },
-  {
-    "appname": "Warak Green - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fstrqcKFn3hJHO3Eun8hh34Eu9Fcce1X99gWOwiQB1iOtN2bSvYogHYT7SR4m8C48tcRgyqC-lcIxtQvZmmR8UwzqebAMX9R_XNWQ-wNDRRyaUI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.greenblack"
-  },
-  {
-    "appname": "The Lonely Hacker",
-    "appdev": "The Lonely Developer Studios - Spain",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/erfP9QLf0-7zQSM2m1uCUcGJs2UL5Q1zcSbnShBeN1WtK3X0PsH4mc-wekIA8iyG1-QZCtTfTGYMhF71RRZeQsJEr0MyDseQIysK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker"
-  },
-  {
-    "appname": "yourSudoku - Over 10000 Sudoku",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
-  },
-  {
-    "appname": "Arkane",
-    "appdev": "Fauchelevent",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/oRq-0orXA6CjGUjVJiK5avvEnKl5b0wov8jGNRIeztfm8nKJflpW6A39r-Aa5RN26tHuZQp4FzI3WckSYWU5LJlgFpQqeSq5NvumslfRA5XwCJ-V=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fauchelevent.arkanoid"
   }
 ]
