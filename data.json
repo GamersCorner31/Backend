@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Analog Basic 34 Wear OS 4+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_Cv05UCN46S8f3ij8IquVm4HZXvEhiA-tYextiHe17KlnXl7f8RwNzkCYfkd4HpOtFeLpkMNU1YTh2QyYyVhn9XXqT-kU3O5Inf_x-fh1qz7FP9uPw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ab34"
+  },
+  {
     "appname": "Long Jelly-Chain",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -8,16 +18,6 @@
     "appurl": "https://lh3.googleusercontent.com/GlWYKtbhCqxmboOkDgHRA90-kzx0saMIM28KEH5PloXBVCRiReSUJTuOTFZldEKfXUAD4I3pP3iPLUFoa5a6DC8qBuYmYzI5igpGOPLLuBexm36Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.longjelly.chain"
-  },
-  {
-    "appname": "HMKWatch Digital 378",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FKJCd9kaKkylh_vfs_vVDj-WYLAM9Ki8xLmISVYSxdBNjnsDUN4ixER_7Mj6rBBpia43eocKH7PnX1w37dOmpI5UovOPc604BOc_UN19c02HIYYS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_378"
   },
   {
     "appname": "Incredible Box - RollingPuzzle",
@@ -240,16 +240,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.codfishworks.msafe.pro"
   },
   {
-    "appname": "Bright LED Flashlight Pro",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
-  },
-  {
     "appname": "Bubbles Charging animation",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -268,16 +258,6 @@
     "appurl": "https://lh3.googleusercontent.com/rEeO8XcC5DYOOYDP-eb0N6SchEn1tcBk6UtWmdYms79z-m1cFyTP2tM_giKvYObr00qm4Ug_N6SDZ96I4xPJimWdpA9tSTXcgD17dWSgyer8ZWM8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankbattle2.r"
-  },
-  {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
   },
   {
     "appname": "Bricks Breaker Pro",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/erfP9QLf0-7zQSM2m1uCUcGJs2UL5Q1zcSbnShBeN1WtK3X0PsH4mc-wekIA8iyG1-QZCtTfTGYMhF71RRZeQsJEr0MyDseQIysK=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker"
+  },
+  {
+    "appname": "yourSudoku - Over 10000 Sudoku",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/uCahdLIiqGfZC3nNaCVXdx6A223a-fKCm-UpWXDrc_YTBy_u6Eb86NO8-LLsYH6KrUJRu3nBNHff53p1hBjZsgV2JGPGa-Orjqs5o1aXf7bxEe8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.r"
+  },
+  {
+    "appname": "Arkane",
+    "appdev": "Fauchelevent",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/oRq-0orXA6CjGUjVJiK5avvEnKl5b0wov8jGNRIeztfm8nKJflpW6A39r-Aa5RN26tHuZQp4FzI3WckSYWU5LJlgFpQqeSq5NvumslfRA5XwCJ-V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fauchelevent.arkanoid"
   }
 ]
