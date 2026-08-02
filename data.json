@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Reminder Pro",
+    "appdev": "made easy",
+    "appprice": "$3.75",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/B5SZ231ejM64Oldrgm2nAZyHOjt_PsvxuqTKb4hN1b5e4pOdYpCvtxkIazCbjYFdmwwRvYappXL99tGBIm8e8AFjmk63d2zihhk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro"
+  },
+  {
     "appname": "Fake call screen - Prank call",
     "appdev": "Yogesh Dama",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UFLVL53dKxmVhTdCpZhE08-x4W43z6IUaxDPgqfNK_E0vf0nXwMYZR7noilh7nQ5n4UGRTruRWteNJ88BbnRzUhHVPisSZl__UU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squarelines"
-  },
-  {
-    "appname": "Shield - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/CxwORRM_Oz8PkQPFWNMhInKRdeiD1xAudKVgQ0kt34rKfZgx_Bz4UssH2pZRnwM4n_eD2avdZI3kx4adwIg35mXMzydm_LwPqIWAtbewP2o2y-GHaw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.shield.iconpack"
   }
 ]
