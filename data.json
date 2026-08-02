@@ -230,16 +230,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
   },
   {
-    "appname": "Over The Bridge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jntVC0WIqYyY6hjH03_YyZGjOHuiJaH0mE-IxfWvWCf8eH7tIrXjf7u7A4j7DKofiwpcxszUO9U0Y3j94lNYu1Vi2FSKimTcPwg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.overthebridge"
-  },
-  {
     "appname": "Clock Widget  - Word Clock",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/CxwORRM_Oz8PkQPFWNMhInKRdeiD1xAudKVgQ0kt34rKfZgx_Bz4UssH2pZRnwM4n_eD2avdZI3kx4adwIg35mXMzydm_LwPqIWAtbewP2o2y-GHaw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icontheme.shield.iconpack"
+  },
+  {
+    "appname": "Octa Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/NHJUhir2uNp5EdRR4nOzM36KrAGkpMbhjNZ1c9uFbkIX1RLP59AXZeJ_iUeKws2Ek-XZ7C3XSLa87gzE-4-9RLqfZ24FyprjbEE5sh1RbHrGxZfS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.octadark"
   }
 ]
