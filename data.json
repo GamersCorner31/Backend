@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Empire Defender Offline Games",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/D25nU36vzW6EAY-gAwg5IjjJZ74Dvpv4Uw0FoZ8n7KQQ3wWEVZXGoH6-weYX9RXVK-c67bWYZpH9VI8MKUQAAwAXw5tvK-nuXfX9rK8wd_pMheFP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.empire.warriors2.premium.epic.tower.td.defender.rush"
+  },
+  {
+    "appname": "Last Survivor: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
+  },
+  {
+    "appname": "Progress Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/7-gnPknRPabPN3GnvbDkZjL2YAq8LjHAmCp76lSRkowTj6WI1TrrjRW_STBEoAJZB1kLniQsWkmN3keqr3Daur95rDP6SpuGj4vU8ycHhYBTLiI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.progress"
+  },
+  {
+    "appname": "Lovely Doll VIP Dress Up Baby",
+    "appdev": "TEATIME",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/oxViNkqxmTpGCTQNEZpYQTd1CgiwzAyEuwkihbzrsQHBDDsvMaAMgfhSNPSdSdMea06lJy4xPhK0ZcMO5M6lTaGuwWYSDYu_jQ_k1ozhAfWtplKZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.teatime.LovelyDollVIP"
+  },
+  {
     "appname": "Image to PDF - PNG to PDF",
     "appdev": "TAPUNIVERSE",
     "appprice": "$2.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
-  },
-  {
-    "appname": "Ichigo Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EAuYdUxnxqwVD4QltSHtHbs2vQ-s6cZvpOcu0YpetsXrJRKK4rkChJJ9rYzQ4iO3J5wuUgdKTF4uYbe9X7wrP7jOn6gwzWHWMAnIke6PHW5mRP8l=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.redtr"
-  },
-  {
-    "appname": "Takoizu Cyan - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/7o4_vVQZ4v6DLLCyXYhX7j7hwA7cmz85zr7AhpxCGBDCscNxodoDcDFJFb3GH-7ocRdQbCH6EsvncxS9D4S7daOT7k-BcKRP436bltOAXmu7OBSd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.toscatr"
-  },
-  {
-    "appname": "Live or Die 1: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
-  },
-  {
-    "appname": "Norma - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vlqerOUAKJ4SlsFr8BJA3keMItjJNY76Q1-T-omb5W-ClDwJ5tYJnotVo9rZt3q2OuXgq9DPu6SN7ZqEaNVymKBK4j1RPwjfYfA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.norma"
   }
 ]
