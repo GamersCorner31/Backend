@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Kids Coloring & Brain games",
+    "appdev": "Abuzz",
+    "appprice": "$6.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/U-yCbJieGd8tnPlVRqd6UykyPkB_ql6-ykrVkD65i6huNQRFaTbCeEAzohX3Sc6__qsbo2StNO-RrwvrFeq4RNsb_MNvWtu48Ow=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iabuzz.ColoringBook"
+  },
+  {
     "appname": "Empire Defender Offline Games",
     "appdev": "Putaleng",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/sAKvPswPRoMynEDWJK-daLTiiiLCOTyqL-a4i-ZdLogMRcrvsP5J-ehSErF3LjvXpNrhBmBFCxq63zW66gsLGqLrqDFrVeYRdNtT2whKd5bPd-ye=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowtr"
-  },
-  {
-    "appname": "The Weapon King VIP",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
   }
 ]
