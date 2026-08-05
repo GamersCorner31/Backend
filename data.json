@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Celestial Glow Pro",
+    "appdev": "Pikootell",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xsQv92bqHfwr9oeXWDClzFKIEKAQWrLSJshk1MmRLAW0TmZPTBIljnDnKH8jV5KLupV4OsPvWUfdaXxFGtBGZLw7_sfqg-nt4okrJ8gZzVvx0q6-=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pikootell.celestialglowpro"
+  },
+  {
+    "appname": "Conversations (Jabber / XMPP)",
+    "appdev": "Daniel Gultsch",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Auc8uO5A7i_Sy8hQq1aq6E6sROy8U5ynWpPYW1ZS_0Wm56DKRyiGsTumbg2_43jRoRfuc3JpHbkIVRmRiwDwlAP46LRHtPPpEAw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=eu.siacs.conversations"
+  },
+  {
+    "appname": "Stack 2048",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
+  },
+  {
+    "appname": "Space Survival: Mars RPG Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
+  },
+  {
+    "appname": "Exile: Wasteland Survival PRO",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UqCoNCuIvJlZ_onvIxQS6iWCBsfSrpUEppKru1a1qtN9zw6yL4eRSQRrrhchjxSgPSnqiven61rLA1jfLH-2iHZEvjcw7s8WXYFF9ehxdRfy6rg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
+  },
+  {
     "appname": "Perpetual Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
-  },
-  {
-    "appname": "Analog Basic 34 Wear OS 4+",
-    "appdev": "OQ Watchfaces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_Cv05UCN46S8f3ij8IquVm4HZXvEhiA-tYextiHe17KlnXl7f8RwNzkCYfkd4HpOtFeLpkMNU1YTh2QyYyVhn9XXqT-kU3O5Inf_x-fh1qz7FP9uPw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ab34"
-  },
-  {
-    "appname": "Long Jelly-Chain",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GlWYKtbhCqxmboOkDgHRA90-kzx0saMIM28KEH5PloXBVCRiReSUJTuOTFZldEKfXUAD4I3pP3iPLUFoa5a6DC8qBuYmYzI5igpGOPLLuBexm36Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.longjelly.chain"
-  },
-  {
-    "appname": "Incredible Box - RollingPuzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$9.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
-  },
-  {
-    "appname": "Contact Edge side bar",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5FheGpOQzNyLBkbKupy-VbUoGYAORrEd9la0QjjXjWdx-dYmxrXziuaKKLjMSkTFvE2H6pCgQ9XsIdHH0kQnV8X34T_wvahoYdH9XmD6yvi38EYc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar"
-  },
-  {
-    "appname": "[365fun] Find the Differences2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
   }
 ]
