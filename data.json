@@ -1,5 +1,15 @@
 [
   {
+    "appname": "SamWatch Signature Analog",
+    "appdev": "Samtree",
+    "appprice": "$3.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eynQW1x38PPN2ZIVVfKvWaK76lrFfDMnCbuX2GX3n3oFhnRi1YgcE5-ne0ZL0EIys6LNuIpKzWve2h_V9YqQAZDNTw-maKPICxf_zEn-cFohGojwMw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_signature_analog"
+  },
+  {
     "appname": "Celestial Glow Pro",
     "appdev": "Pikootell",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ELlh4SG42ecF6ZoO2NIB_JRmLgSHeeaht_zbc105DcwoB9pMXbKhKMEs433uq9wjSIdCqNGmk3mht9TL208ROVPOv6rBriQDb8VXl1LEI5VnfH1h=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.limitapptime"
-  },
-  {
-    "appname": "Grow Dungeon Hero VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
   }
 ]
