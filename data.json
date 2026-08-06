@@ -1,5 +1,15 @@
 [
   {
+    "appname": "SamWatch Signature Digital",
+    "appdev": "Samtree",
+    "appprice": "$3.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/QVjykQZdhxSNUgDqoQM_lDJQHdoG3xdbMCfeX9MYB_ddBP83b3wQrqzAEJ2iY5v24-htKFXTk8Xh38a-bE4J3MnUUrBdm6tvxN-X7j0PR9VgNtI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_signature_digital"
+  },
+  {
     "appname": "DarkonPD - Icon Pack",
     "appdev": "PhunktasticDesigns",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
-  },
-  {
-    "appname": "Contacts Widget - Speed Dial",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
   }
 ]
