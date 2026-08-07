@@ -1,13 +1,13 @@
 [
   {
-    "appname": "SamWatch Signature Digital",
-    "appdev": "Samtree",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/QVjykQZdhxSNUgDqoQM_lDJQHdoG3xdbMCfeX9MYB_ddBP83b3wQrqzAEJ2iY5v24-htKFXTk8Xh38a-bE4J3MnUUrBdm6tvxN-X7j0PR9VgNtI=s200-rp-e7",
+    "appname": "Reverse Video",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/aAfQy4Tqldk9-VXC8DbGF8uEXADMPEy0GNrk9n1wBV4YisDqVu6OycUGkO1lPVdkKnadnarwGsyqBD2c5u9l19Do4n5PZt8TBu_yX492Q7hjqoEl=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_signature_digital"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.reversevideo"
   },
   {
     "appname": "DarkonPD - Icon Pack",
@@ -18,16 +18,6 @@
     "appurl": "https://lh3.googleusercontent.com/uYH1YsqGTOBzQkN4VcAlvvtDw2nINOit1yCm2kQf2GrnWc6uRE9IyxzrclOJk4zQP4VqwW8TN695-9IPQEev5a1uwWYYyw5kZmcaC-ZXrke0NPM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.darkonpd.iconpack"
-  },
-  {
-    "appname": "HMKWatch Digital 214",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LUE5tx2io2DPtimUBqnNpk-Y0rBigUpX-QF3tswhpcsv-wJ4CUD65lYpBA3_A531dOZV7wiTHzmOWCVxf0_n1gk-pPaC5HrENc4JgiwuXq2k25fF=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_214"
   },
   {
     "appname": "King of Defense 2: TD Premium",
@@ -118,26 +108,6 @@
     "appurl": "https://lh3.googleusercontent.com/y5G6Caoh6RAUGNapddcHNa7KpZw2K0aC0Nyc_D7793gjFPJ39PMoLGJ48PxY1gAaJizgs6hf4shZ3_X4RiRHVURkTO6uf6Oqso8bppA1FJnmthQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.nord"
-  },
-  {
-    "appname": "h1102 Gradient King Watch Face",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/yNIQCQ5iOONJBjjPxEJ2Bh2ycDUGeMMe4blqCfenMLEd7Tun_vwVsWl9b5BfGGKPHu7h4_xkN3aglOnkpjbwuCh_Vxhaq4HsWzzJpExyumH1fi2s=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1102"
-  },
-  {
-    "appname": "The Hearts PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
   },
   {
     "appname": "Kids Coloring & Brain games",
@@ -398,5 +368,35 @@
     "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
+  },
+  {
+    "appname": "Contacts Widget - Speed Dial",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/2d-sboX-BecEdr8u59BMShnLTdmbIuERXq5nKx9a96NdYM1GPSbUatW_8LwlCO3Cf98B9EZXZ61M7vRWyAwg4a5vwfNYXedtvFk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.contactswidget"
+  },
+  {
+    "appname": "Dark screen filter",
+    "appdev": "Yogesh Dama",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6pDLO2afuRRGdVp3SkyuOW9bCpiIKJt6Ctt6G-a9py2dTyU0YDb5Khg3dxT2oJwASliz3oPCX46k74WpuKMyxvzKHiHQMjTAw9Yt4Os1hThtY2vwfA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro"
+  },
+  {
+    "appname": "EVP Phone Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$1.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Ng1hpgYEbBCL_hrouThILi0XanWwJ9tjqRK2vuCcu2ScDJwRI1Rlc11pFonVndcJpGztwil9BJwfNx3pVdm4At7dnRILx6JlXx_omOuRnhcPLnQf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Evp_phone_spiritbox"
   }
 ]
