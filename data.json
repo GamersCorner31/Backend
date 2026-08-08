@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Grow Spaceship VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
+  },
+  {
+    "appname": "Train Simulator: metro 3D Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/UBVSh49xlp7xExUnzLhMby3HEIvN4ImGBob0qkV_da2FbC9jBMA2kTmrQOiZ1EUcMqe6PkkQxGcyiw74P_ltYNTrlh1EQe6UQmmYBNAyfEsvJz0C=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.notfoundgames.subway.pro"
+  },
+  {
+    "appname": "Stabilize Video: Stable Video",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
+  },
+  {
+    "appname": "Crazy Sand - Live Wallpaper",
+    "appdev": "DotCode Apps",
+    "appprice": "$5.49",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/6xuJMysd6kRian_7fG2BhVcFKoKUyhMAn8iS6RrPPdoUdjUEtjAF54PN2TGofFK8YUp_pE_GqH7se54IJXUeXpTpbeQ9urUL81tEYakUNsTuhcfY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=cdev.sand"
+  },
+  {
+    "appname": "Avalar: Shadow War Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
+  },
+  {
+    "appname": "Tower Defense: Epic Turret Pro",
+    "appdev": "MAY STUDIO",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/9kboZ-Bj0Rb8UdrhOK95wNxtWvv7vexMFFgtqYM3ia_Z_8v-9eAPOo1BEJ2Wy_wrfr9huOTjbXSdqrj8AH6DBpBcDHtFt7WDnQlk4xLB8CgRgzYJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.may.TowerDefense.TD.EpicTurret.Pro"
+  },
+  {
+    "appname": "Pill Counter",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "3.7",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/xXwD88EsQl9DmGFT__9mI_ol9aLDjt6WWkCTwf_f3GAb4qQzOsLpJ-mRlj0sXOUQxBnkm303RYC62haryh1oYa4YB8G5oJaJtGMvmUPGrKJdncr20A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pillcounter"
+  },
+  {
+    "appname": "ML2U 131",
+    "appdev": "ML2U",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/b_5y0MsNowZWkNiAnZCby-WTGhrd0s7oZW_97BeF3AHJyCIElfGr8n78wkYhhfiHYfy1VoHgGbGVcGiQDZS4dIqZVg1cs0D3KtlGf9NaMMxvu41M=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u131"
+  },
+  {
     "appname": "Onyx - Icon Pack",
     "appdev": "Atanu Sanyal",
     "appprice": "$0.49",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/7-gnPknRPabPN3GnvbDkZjL2YAq8LjHAmCp76lSRkowTj6WI1TrrjRW_STBEoAJZB1kLniQsWkmN3keqr3Daur95rDP6SpuGj4vU8ycHhYBTLiI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.progress"
-  },
-  {
-    "appname": "Lovely Doll VIP Dress Up Baby",
-    "appdev": "TEATIME",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/oxViNkqxmTpGCTQNEZpYQTd1CgiwzAyEuwkihbzrsQHBDDsvMaAMgfhSNPSdSdMea06lJy4xPhK0ZcMO5M6lTaGuwWYSDYu_jQ_k1ozhAfWtplKZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.teatime.LovelyDollVIP"
-  },
-  {
-    "appname": "Image to PDF - PNG to PDF",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
-  },
-  {
-    "appname": "Water Sort - Color Puzzle Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Mini Crossword - Word Fun!",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "HD Video Live Wallpapers",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/VLfsF-zo1llxMH5Jexz0ntVYouMZUv-rJDRKMh1HJStIkRpzo8tXBvhi78_ROu56xBBEJSIRMRvtMbxdRjY8Brngzl8sUOl4uQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.videogallery"
-  },
-  {
-    "appname": "Resize Image - Resize Photos",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/MVSiBcreCcy8wYMC2ZJ7OPini8A98CREA-BGoyEzW5vk0eZHceNho3nkJ7HPebStguNbjuqY9Zrefi-nZFHvYiQb0yTHJ9PSXGryygzXBTnx-W4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.imageresizer"
-  },
-  {
-    "appname": "Lineblack - Red icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/XkSsXvNvwAOAsyPFzPu-Rw_injuX7AaTUk8hHPoljGIaoseHbqHeUFRfqpb-dOJ8aKOoo01HaTCaFBsnwwiAjthhz6OBIq67KKs1AQ25ufwCHHQO=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkred"
   }
 ]
