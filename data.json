@@ -1,5 +1,15 @@
 [
   {
+    "appname": "OT | Sporty Color Watch Face",
+    "appdev": "Omnia Tempore Watch Faces",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/k1aB6kY73ohdtESoqHnSddvdQh3yoaVSnO1y38x2lFzwh5N4fBa9cQRwxhVs5GxH6aPQf9u9R9gLhAy8bPzSeBWuW-hsVGDOfDM1JmPrDd9LcsUa=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.otsportycolor"
+  },
+  {
     "appname": "Grow Spaceship VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
-  },
-  {
-    "appname": "Progress Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/7-gnPknRPabPN3GnvbDkZjL2YAq8LjHAmCp76lSRkowTj6WI1TrrjRW_STBEoAJZB1kLniQsWkmN3keqr3Daur95rDP6SpuGj4vU8ycHhYBTLiI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.progress"
   }
 ]
