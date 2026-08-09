@@ -1,5 +1,15 @@
 [
   {
+    "appname": "HMKWatch Digital 182",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/N9F3tfcH3a3tx7bffi7edvBZo0lKzSge_RbKlgaIFfXL45Afhufaz83XMWuBzNsr3dOiWca0ACSt3m-VvNcuqtNocd5clC8cIADMNWO5aed8fdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_182"
+  },
+  {
     "appname": "Bus Frenzy : Color Sort",
     "appdev": "Gamezilla",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UqCoNCuIvJlZ_onvIxQS6iWCBsfSrpUEppKru1a1qtN9zw6yL4eRSQRrrhchjxSgPSnqiven61rLA1jfLH-2iHZEvjcw7s8WXYFF9ehxdRfy6rg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
-  },
-  {
-    "appname": "Perpetual Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CljcZNBtyGrqsp88kwojWi8ayYtg7lYwcN6yIZjAhyEPHc73rYPUBeosbBoAx3p-jm5aNA1gBOL9lCY7GCG6-Z_svymlLujNIOjo1iB7_Hq6FO88=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.perpetual"
   }
 ]
