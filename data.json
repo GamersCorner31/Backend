@@ -10,16 +10,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.agecalculator"
   },
   {
-    "appname": "HMKWatch Digital 182",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/N9F3tfcH3a3tx7bffi7edvBZo0lKzSge_RbKlgaIFfXL45Afhufaz83XMWuBzNsr3dOiWca0ACSt3m-VvNcuqtNocd5clC8cIADMNWO5aed8fdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_digi_182"
-  },
-  {
     "appname": "Bus Frenzy : Color Sort",
     "appdev": "Gamezilla",
     "appprice": "$0.49",
@@ -58,16 +48,6 @@
     "appurl": "https://lh3.googleusercontent.com/nXm1L2WNISf9bmrqyo-BsQsn580edubq6TKFwK8nUwg3PUtxSyZWwjNzJBvjP_1YCDMXxs4wlvCxvhDzSx8BEWqWJZH6wO-44EE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.jarsilio.android.autoautorotate"
-  },
-  {
-    "appname": "OT | Sporty Color Watch Face",
-    "appdev": "Omnia Tempore Watch Faces",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/k1aB6kY73ohdtESoqHnSddvdQh3yoaVSnO1y38x2lFzwh5N4fBa9cQRwxhVs5GxH6aPQf9u9R9gLhAy8bPzSeBWuW-hsVGDOfDM1JmPrDd9LcsUa=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.otsportycolor"
   },
   {
     "appname": "Grow Spaceship VIP",
@@ -290,16 +270,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
   },
   {
-    "appname": "Master of Words PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/DkwtoDaWsZlpSPvGJAbPn-ttP-Fvs8NxH56N-m3xcsB-pdb3bt_AADopUR__xBAK_BOQVVrSpBzlkQluiRFMWWa7WksMTD7OJ-uP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordmaster"
-  },
-  {
     "appname": "Lineblack - Yellow icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -398,5 +368,35 @@
     "appurl": "https://lh3.googleusercontent.com/MtxDzbFejj4TW_RqF5LS3WQo-QHAy5rpvJWmBhPDlzJGLUMw1u7FFHNB-fopBxrqtgISde_8DWVBPlNyfrIkvPJGKJxbc_A7L7_lDbgLkBGaTd0i=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.space.survival.alien.rpg.spaceship.survivor.no.man.s.sky.pro"
+  },
+  {
+    "appname": "Exile: Wasteland Survival PRO",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UqCoNCuIvJlZ_onvIxQS6iWCBsfSrpUEppKru1a1qtN9zw6yL4eRSQRrrhchjxSgPSnqiven61rLA1jfLH-2iHZEvjcw7s8WXYFF9ehxdRfy6rg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
+  },
+  {
+    "appname": "Perpetual Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/CljcZNBtyGrqsp88kwojWi8ayYtg7lYwcN6yIZjAhyEPHc73rYPUBeosbBoAx3p-jm5aNA1gBOL9lCY7GCG6-Z_svymlLujNIOjo1iB7_Hq6FO88=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.perpetual"
+  },
+  {
+    "appname": "Nord SE: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/y5G6Caoh6RAUGNapddcHNa7KpZw2K0aC0Nyc_D7793gjFPJ39PMoLGJ48PxY1gAaJizgs6hf4shZ3_X4RiRHVURkTO6uf6Oqso8bppA1FJnmthQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.nord"
   }
 ]
