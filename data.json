@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Ghost Speaker Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
+  },
+  {
+    "appname": "Liturgia Horarum Premium",
+    "appdev": "Rafael Cereceda",
+    "appprice": "$9.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/SsWTHZ0-6vDL9ky0brUgoi2Pdgc7u6Xd080_yp6kfEdwd0JLSmffT1wreB9q89ldA_Pgja-vcCjhMgM505HWUeIbYnq_rq5bRw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=rcr.liturgiahorarum.premium"
+  },
+  {
+    "appname": "Number Puzzle - Sudoku Style",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iiOeTQsivF6QSIJM34gUYB3o7g4sjOPNq6syTTRGn8AXF00Dwpqmli-TJT4rU7x_denGZZXru5xyVbEd0UQVu0qjbUl8j5tjpny4vMSKT2w9YPFc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.number.puzzle"
+  },
+  {
     "appname": "Quick Volume Control",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
-  },
-  {
-    "appname": "Reverse Video",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/aAfQy4Tqldk9-VXC8DbGF8uEXADMPEy0GNrk9n1wBV4YisDqVu6OycUGkO1lPVdkKnadnarwGsyqBD2c5u9l19Do4n5PZt8TBu_yX492Q7hjqoEl=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.reversevideo"
-  },
-  {
-    "appname": "DarkonPD - Icon Pack",
-    "appdev": "PhunktasticDesigns",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/uYH1YsqGTOBzQkN4VcAlvvtDw2nINOit1yCm2kQf2GrnWc6uRE9IyxzrclOJk4zQP4VqwW8TN695-9IPQEev5a1uwWYYyw5kZmcaC-ZXrke0NPM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.darkonpd.iconpack"
-  },
-  {
-    "appname": "King of Defense 2: TD Premium",
-    "appdev": "JoyUp",
-    "appprice": "$2.89",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/g3PFjJ_VehoSfeoBY9Dua2GUhdd3hRmIgOQiRz-IV7ttlY7LxE4EV5MgaMv3ThTDwwd-6mGCz4B5CwIIUoGTuOt2yr9S15Vasi_V5rdOzLGcaOua=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium"
   }
 ]
