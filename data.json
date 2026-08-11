@@ -1,5 +1,15 @@
 [
   {
+    "appname": "QuickPin - Fast Notes Reminder",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
+  },
+  {
     "appname": "Ghost Speaker Spirit Box",
     "appdev": "White Light EVP",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/f50XUVxKAWR4YoDf-kWMesBFWyY3Yh0yJwYYxb2Hl6jiRTM5UN5ucEGodq8V5uvQeyZ3AFD8VlQjxoHlpz-t3u8ATEOlDDUs9SAfukL-ay2_PYEO=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkyellow"
-  },
-  {
-    "appname": "Compress Video - Resize Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KPySywl3afab8Z3AyhQwbbO9LFLiKCOUktssHtja_c4D0xVR1xDi6fMkXk7tAHS9z9x-OZkPTjuW2bUGIifAxBpPDk_MmOSaouBCxEaedN9OQdk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videocompressor"
   }
 ]
