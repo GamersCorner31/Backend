@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Ringtone Scheduler",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kL37ZK89Do-3Siv0t3wRfcQdLb1WH-DiatIoQcBybQmODg9zNwM9WsCF9YOHtwC-btTcKn9ZcrybW4WbE2u2zit9Xz1rD2AiGl-_uFE7WpvHynU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.ringtonescheduler"
+  },
+  {
     "appname": "Dark Chess Plus",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Zdbu3gYvFh7WZLNpQ5Izdulv6ZfS6Vl957410fUHqZjAeGOtmghJWIpKpG96lcbsGXSzzJTSurIAQQ9TfvF6JM9zmUVT9nRS4Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pixelring"
-  },
-  {
-    "appname": "FASTAR VIP - Rhythm Game",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
   }
 ]
