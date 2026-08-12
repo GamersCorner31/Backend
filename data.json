@@ -330,16 +330,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.binary"
   },
   {
-    "appname": "VPN Pro - Secure VPN Premium",
-    "appdev": "AZTTY LLC",
-    "appprice": "$4.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/IK_40Q9etYn0YaCZRNPPnypWy1n6rBatltpR2sozNEdBJYxq0snrCdVykzxQ36XapK3QlEn4i1E2CI1gmSpqAq0u9h9-3xtd5bvyxoWTS8eFT_Te=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.voocvpn.moonvpnpro"
-  },
-  {
     "appname": "[365fun] DinoRun4",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/Zdbu3gYvFh7WZLNpQ5Izdulv6ZfS6Vl957410fUHqZjAeGOtmghJWIpKpG96lcbsGXSzzJTSurIAQQ9TfvF6JM9zmUVT9nRS4Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pixelring"
+  },
+  {
+    "appname": "FASTAR VIP - Rhythm Game",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
   }
 ]
