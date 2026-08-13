@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Shortcuts widget - Apps Folder",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/NXb0l301epohW5-Q83bosABWGssJGNHNs2aa1kvq9mLzdGgvo040TeGeH_dzzgQlYTTdBgAdebD3iiPyc46GOdSPbcvO3hC-AXc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.shortcutswidget"
+  },
+  {
+    "appname": "Garage Ringtones Pro",
+    "appdev": "Appflow Software",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
+  },
+  {
+    "appname": "Braincup",
+    "appdev": "Simon Schubert",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
+  },
+  {
+    "appname": "IPTV Smart Player Pro",
+    "appdev": "Dmitri Iasibas",
+    "appprice": "$9.49",
+    "apprating": "4.0",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
+  },
+  {
+    "appname": "Inverted Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/s3ENyh907z-PpUDgs7Nio0EkwCSopoxQiHXeDgKyHHqhUL_IfllLIalPFIBDGXV0QmTUYlYiDyK6YHtMZ1cE1XZA9ZdgDdJ5XF980Jlv-F5vsNS5nw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.inverted"
+  },
+  {
+    "appname": "Spelling Master PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
+  },
+  {
     "appname": "TripleFantasy Premium",
     "appdev": "Gameplete",
     "appprice": "$11.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/xXwD88EsQl9DmGFT__9mI_ol9aLDjt6WWkCTwf_f3GAb4qQzOsLpJ-mRlj0sXOUQxBnkm303RYC62haryh1oYa4YB8G5oJaJtGMvmUPGrKJdncr20A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pillcounter"
-  },
-  {
-    "appname": "ML2U 51 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.64",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/lty2rDvvX3vE_WGh6zOfjX6NHFa2dgJ-z-HzRR0oPKNEPPtXt6NN6QXzf_jntzKuIBpIhnIVq569jjye61XK9Tfrck9kQ6UF1HrXd1EgIkv6JdRL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml51"
-  },
-  {
-    "appname": "Binary Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/57tsOpYzHtk3x102YHDXuAD4Gj3BK6OyNT0Pt2T9cFutJ-hTgn0sw9XM8lpyjk_mDXE0avF2aIkDh84Xslgj8jFOgMHKRy2rwC-gxngpNHFv-s3d=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.binary"
-  },
-  {
-    "appname": "[365fun] DinoRun4",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/p_MKL9T4SwMGY0I3LvUdsV2C5PjbbTyn-KO7wU_Bc3okv2MFCBTcBjQ1w7UpCX4P3DvEcvEA0DatBp3l2KOJ5uqUjyep2lOen4P7kiJD6YrshNvI1Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.dinorun4"
-  },
-  {
-    "appname": "[365fun] Match3D",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9leU7HHVFmG4RsfQrcWAuqy8oiRq_MnsRCH2FKreckBQ4h2z-NI82tR5pB1acuIndMI7IFptRL4dlQUXGxnfdfoCscKa326_JjgeXCNomMVKginD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.match3d"
-  },
-  {
-    "appname": "[365fun] 3Point Shot",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vEh7GBsq9MVCeiSnXAYYYK-8DzNXkjs_Fpj-s1nyxn7EJxyVrpQAuviR0E_eIZx3MO5K8CkExEHnG3shoU6dJ5WUHBj1ZOdMoLZXGVDRL8bt4uWR=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.threepointshot"
-  },
-  {
-    "appname": "Mawaz Yellow - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/skj05l2DdXpn-gupoy81oQgguyWWqtDqwrrxQPDNmadbmJpHGaficOVg19SXwI9C3HeM7O7Xcwfv1Zdc3dHFGPadbyHZ7oLniUNAfPpUFMeiDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowblack"
   }
 ]
