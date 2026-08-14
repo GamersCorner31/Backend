@@ -1,5 +1,25 @@
 [
   {
+    "appname": "[VIP] Mr. Balcan Idle",
+    "appdev": "SUPERCLAY Inc",
+    "appprice": "$9.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
+  },
+  {
+    "appname": "2 Player Quiz Ultimate",
+    "appdev": "Simon Schubert",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/0aAIUwDgKrADdUovj4FfTnuBswn3xL1rpeStOkwTUq8sN5beBjA91ybbbvmh-zZ_zzBWN4zDIgfkFfHLpxD7Ac5zlioIUsd0bbo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.twoplayerquizultimate"
+  },
+  {
     "appname": "Star Blaster: Offline Premium",
     "appdev": "Enigma Publishing Limited",
     "appprice": "$0.99",
@@ -8,16 +28,6 @@
     "appurl": "https://lh3.googleusercontent.com/OLz8qxpy_jWca7aYS2lIiOah3xN4dmBkqWjp-YbEyf5WYif9kUzPvkQ0Qz9m1FheGQpfCnVIektg6-Z-ZjCyIZc8MA7FKSoy2SCWN4qVbYCsyFtd=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.starblaster.athree.epl.gp"
-  },
-  {
-    "appname": "SamWatch Simple Weather",
-    "appdev": "Samtree",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/A6oWISLjNp7PxVEQIh5uZEH_INfbFYCz76wGZtmWte14KJSVkvVlA7jjz87mBLnBQ8ifwt5XW-LuXRRE3ZafG8HwcYwrtChRwB9rsSTFKsPmwCTqlQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_simple_weather"
   },
   {
     "appname": "Shortcuts widget - Apps Folder",
@@ -98,16 +108,6 @@
     "appurl": "https://lh3.googleusercontent.com/MiW-E1D40lbzqTZxXGx4FFcr2nRwFoEFZwnBs0OGsDOFlt7XoT66KvFx_443YgVmEHnpS4Qq-p6YW6DDWvwrex_jAQWN8mYgdF8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchgames"
-  },
-  {
-    "appname": "h1205 Statement",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/KgPBMvlz8_6kWVWCB5CJ8KTtf8X1D7aD2SRA5DImn1UnyfFZTI2Id6pRQKTpktFUDUo3evhQf28xYo9S0g1IvmDJrDJO-fhtqmH5LijcgBlQAhxb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1205"
   },
   {
     "appname": "Speed Camera Radar (PRO)",
