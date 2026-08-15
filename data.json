@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Gin Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_BvZCQdzN9jxpFVujP-hAs-4-p1T54kqk1uQl9t1tkp-oZvKSWnGPOxVUuNgQ_VQfo14holGjl0H7WWT-obR52nC3fhj5wSrUSEg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.gin"
+  },
+  {
+    "appname": "SamWatch Dashboard F",
+    "appdev": "Samtree",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/zWbRnXIl1hFr7FsJd-QyjgfqbdgFCiXYIPlNzzLW_1wCbvlBUk2ylmpueRFQSsiK_Rdm3fo8mMRc3kLaPHVqPWNh78sIYj7rnwhfZIrPl0NzKgb_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_dashboard_f"
+  },
+  {
     "appname": "Shout Screen - Big Text Screen",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -230,16 +250,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
   },
   {
-    "appname": "Word Search Games PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/MiW-E1D40lbzqTZxXGx4FFcr2nRwFoEFZwnBs0OGsDOFlt7XoT66KvFx_443YgVmEHnpS4Qq-p6YW6DDWvwrex_jAQWN8mYgdF8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchgames"
-  },
-  {
     "appname": "Speed Camera Radar (PRO)",
     "appdev": "Road Soft",
     "appprice": "$26.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
-  },
-  {
-    "appname": "Cubic Light - 3D Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/7MsW1qng0VOTyR1wzzxLATJS6KQtAKKUpUcIFO3UbaXp8uOg568awls8xdB9yz62w6BEUBE4g2DT1WiOmGh4TyagoC4qt3gfiajGRJkQ0mnmvwZz=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubiclight"
   }
 ]
