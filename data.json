@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Contact Organizer",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LJHXlyuOir57VIDaucPggsrk3uNK7KkxDfbl48IeyQhgxHlb8HLb6cTUpofd_TepSvp1YyJ4uGaIEq6x6XpS_F9yxiZ_nBebLsP2MHrpnncFFwmY2g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactorganizerpro"
+  },
+  {
+    "appname": "Brain teaser puzzles",
+    "appdev": "ExoPlay Interactive",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
+  },
+  {
+    "appname": "SamWatch Korea Taegeukgi",
+    "appdev": "Samtree",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/cMvsjQ032c8_AQp6cecrVrZqq_Fpif_AasHCBVGF4viuawdsxGUjlVwzcaTanJgcsuvm_jtaWVjldZRonz9VhNmRgTPpQLItvVm5beoIMkyt7Ns=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_korea_taegeukgi"
+  },
+  {
+    "appname": "SamWatch Scenery 2025 ROKorea",
+    "appdev": "Samtree",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/FkcPAs2S-7S2-2zToJmFv2g33_yBfMWP1iWsHm0p6DyHsPWSIqlLJ0irX02FtmU889TOECvGyMwQVae87s1-CffOFsGeIxHpRGarofsSbyik_36f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_scenery_2025_rokorea"
+  },
+  {
+    "appname": "Dual Tone: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/cKlzX4MHvd3Si4iQ3fIzEtae7YzXrAT6snB0fU0x1poYaZugK8Byh_nhoR7RMWKiB2b1rJ9gxKmQL7X58TSaOELhy0Rzx_dPuNegoObdxR16s3k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.dualtone"
+  },
+  {
     "appname": "Gin Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -10,16 +60,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.gin"
   },
   {
-    "appname": "SamWatch Dashboard F",
-    "appdev": "Samtree",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/zWbRnXIl1hFr7FsJd-QyjgfqbdgFCiXYIPlNzzLW_1wCbvlBUk2ylmpueRFQSsiK_Rdm3fo8mMRc3kLaPHVqPWNh78sIYj7rnwhfZIrPl0NzKgb_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_dashboard_f"
-  },
-  {
     "appname": "Shout Screen - Big Text Screen",
     "appdev": "Power Mind Apps",
     "appprice": "$0.99",
@@ -28,16 +68,6 @@
     "appurl": "https://lh3.googleusercontent.com/HsJJPRGQMnHOsjz_EBvFIPt3gObSek5PaA5MTeHoB9LYA9VsArV7tEac9pzMWNcFlzWQiquZJYmOlWfNPpTFlspqWsOz4bPLQCM2D2Q_p12mdCA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bigtextannouncements"
-  },
-  {
-    "appname": "HMKWatch Analog 169",
-    "appdev": "HMKWatch",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JaSW9_k_Y8JBNuZHwoL1sLWol3ZBfdAvXQ_v0KSMZgu1P36VtILSLem9oIrqDD8oM5EtSQHwmH0eDsH0GbAth-dG4tiLm32BTBpp55UUiNGCRzaBSA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_Analog_169"
   },
   {
     "appname": "Sort And Arrange - Thinking",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
-  },
-  {
-    "appname": "Dots Live Wallpaper - Battery",
-    "appdev": "JustNewDesigns",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/h7IgFKwWPRnXTc2HEHgeQlKnXA9S8LHGL3ntMuNFwu7nZU54qEI38emQXmDInwRyKRVcTkAmFl5p7gcZICtOMLsd89RmFNM99yjbroiEpED2jAJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jnd.nothing.live.wallpaper"
-  },
-  {
-    "appname": "Pixel Cubic 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/jTqwFlchDTpQodCxLO8GemquSGpN7kCjuNtCXIJknOvQ--5jD2xLJ-Q2XgFeRa2NhOFmjdcXcFKqOoEcy7yINjq0iGMz3dtypJ4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cubic"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
   }
 ]
