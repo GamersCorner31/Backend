@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Live or Die: Survival Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
+  },
+  {
+    "appname": "Simple Quote Widget",
+    "appdev": "Power Mind Apps",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/c9m_EMbQ3zwS-0y25VLNZvQ4B6LZvDSyeH6WGwR9V3F_hjVWVZidZ4VwrsTOPEXiPcULUZGAYLb-6fJzmCd-Q41OuGXHYR5vvsmL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
+  },
+  {
+    "appname": "Sirocco",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HkrQ_bEiD80gNp1bYK0guZbl6_W3y8QV-7J0q4lh_YAnkAcFph_dOlz__Ju0kNvgu5UD5muJ0WvcmfzwUpPevT63xLatZytcblc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.sirocco"
+  },
+  {
+    "appname": "Run Watch Face",
+    "appdev": "Galaxy Design Studio",
+    "appprice": "$1.99",
+    "apprating": "4.8",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/U95fh8C1H76kKQiZOa2Zfnz-zopCbVERCjyMBbH0DnxD3phc_tBjciacY92hMwG5z6_7-RUf62dedAbPG4oTWs12UNFkB8X-0IG0QUM-9hx_Hjw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.run2.galaxydesign"
+  },
+  {
     "appname": "Contact Organizer",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$1.49",
@@ -260,16 +300,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.inverted"
   },
   {
-    "appname": "Spelling Master PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$1.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
-  },
-  {
     "appname": "TripleFantasy Premium",
     "appdev": "Gameplete",
     "appprice": "$11.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
-  },
-  {
-    "appname": "Liturgia Horarum Premium",
-    "appdev": "Rafael Cereceda",
-    "appprice": "$9.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/SsWTHZ0-6vDL9ky0brUgoi2Pdgc7u6Xd080_yp6kfEdwd0JLSmffT1wreB9q89ldA_Pgja-vcCjhMgM505HWUeIbYnq_rq5bRw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=rcr.liturgiahorarum.premium"
-  },
-  {
-    "appname": "Number Puzzle - Sudoku Style",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iiOeTQsivF6QSIJM34gUYB3o7g4sjOPNq6syTTRGn8AXF00Dwpqmli-TJT4rU7x_denGZZXru5xyVbEd0UQVu0qjbUl8j5tjpny4vMSKT2w9YPFc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.number.puzzle"
-  },
-  {
-    "appname": "Quick Volume Control",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
   }
 ]
