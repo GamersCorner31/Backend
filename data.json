@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Strawberry - Pink Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RXYrSjaysrOEuN35qLyjiM6j0glwI7ISI94CZaAhW6_6vYySQrXZy0SvuGQTlmIe04pabPqwlmMcyL7ZKbHc238CvmuUxs5NM-3pd6Ei3BqTc3w1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkpink"
+  },
+  {
+    "appname": "Pinkdiant - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EmtgUYwv47r4GVToStDL-huopKj0IAIHxD4mMDII7jcOVaF5SalexwGhN1vZgM16ZVUVu2nc8UFaiwAEz4u1EOwraNrWYhB3vVb6E7HCmyOiItFD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpink"
+  },
+  {
+    "appname": "Red Yellow - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/AOJYYBjKoy8mOSZ-69kEAtW-jsgXsS9f-Rk1zxPbIJignsQcA3LSYNwb_c_u2T_7zrO6JsXqNc4s5AdbKnn6npxFJwSD53Z68bPHEoS3EJFVgts=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.red.yellow.icon.theme.pack"
+  },
+  {
     "appname": "Circle Dash",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
-  },
-  {
-    "appname": "Streamlined Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/bst08qn27uwxDf4gVxwGHQIxFJPownyolL-Saj6UTCyBnG4-IRiC58yiPMJGxWqy7Excc3_zRtzPAVF81vrMj0mNIiC-nycKp7ax8GcWDgHHCnOc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.streamlined"
-  },
-  {
-    "appname": "QuickPin - Fast Notes Reminder",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
-  },
-  {
-    "appname": "Ghost Speaker Spirit Box",
-    "appdev": "White Light EVP",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
   }
 ]
