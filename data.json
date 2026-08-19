@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Isurvivor Premium",
+    "appdev": "JoyUp",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tPcXA9sNQ-QyNFWy0dBH5YKrPP9Nzcm4mdEqcfgk_shUNKrwHpej2T2SOCGsaXwu5mTvIVMw74DPA5XA5ORkqWzdaCA_WPzftejDaS8IQQ-ugXhm=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.i.Survivor.Epic.SHMUP.premium"
+  },
+  {
     "appname": "HMKWatch Analog 107",
     "appdev": "HMKWatch",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LJHXlyuOir57VIDaucPggsrk3uNK7KkxDfbl48IeyQhgxHlb8HLb6cTUpofd_TepSvp1YyJ4uGaIEq6x6XpS_F9yxiZ_nBebLsP2MHrpnncFFwmY2g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactorganizerpro"
-  },
-  {
-    "appname": "Brain teaser puzzles",
-    "appdev": "ExoPlay Interactive",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
   }
 ]
