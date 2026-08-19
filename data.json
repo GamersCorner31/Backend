@@ -1,5 +1,15 @@
 [
   {
+    "appname": "HMKWatch Analog 107",
+    "appdev": "HMKWatch",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KXn-ek1yEVhgnprt_CJl2PZGa3QO0Y0eTMzcSu_i1m4vCONJaaySqK4CAKvQY60qHfAkcxpohSied0keZlI4IIZ7rQXUMqKdhpxW7WU9pCNbha0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hmk_analog_107"
+  },
+  {
     "appname": "Prismatic Icon Pack",
     "appdev": "Creativepixels",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
-  },
-  {
-    "appname": "Dual Tone: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/cKlzX4MHvd3Si4iQ3fIzEtae7YzXrAT6snB0fU0x1poYaZugK8Byh_nhoR7RMWKiB2b1rJ9gxKmQL7X58TSaOELhy0Rzx_dPuNegoObdxR16s3k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.dualtone"
   }
 ]
