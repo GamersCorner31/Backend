@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Coral",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.29",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/wO2P7mM_3tXjkcqFdva7kgilEP0k0sYgNcf1I9OEddzvwBBF55qJMQch8xG3284MXM58PZvTvWsr1E2IIrOnkoM_YQwhX0TcAtJy=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.coral"
+  },
+  {
+    "appname": "TC CARRERA",
+    "appdev": "SA11",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IM4jmrWeFTl6SCR-VoiGFxSbL3jnXOfCd_8DmSbaFCtonaWWxBATqIV2U9SZyYDz72oKvvIqeFWE5KMEP7nGxRQNG3p3ChjpMmdPZefsbMYLvCBZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.thcarrera"
+  },
+  {
     "appname": "Text Time Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
-  },
-  {
-    "appname": "Simple Quote Widget",
-    "appdev": "Power Mind Apps",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/c9m_EMbQ3zwS-0y25VLNZvQ4B6LZvDSyeH6WGwR9V3F_hjVWVZidZ4VwrsTOPEXiPcULUZGAYLb-6fJzmCd-Q41OuGXHYR5vvsmL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
-  },
-  {
-    "appname": "Run Watch Face",
-    "appdev": "Galaxy Design Studio",
-    "appprice": "$1.99",
-    "apprating": "4.8",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/U95fh8C1H76kKQiZOa2Zfnz-zopCbVERCjyMBbH0DnxD3phc_tBjciacY92hMwG5z6_7-RUf62dedAbPG4oTWs12UNFkB8X-0IG0QUM-9hx_Hjw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.run2.galaxydesign"
   }
 ]
