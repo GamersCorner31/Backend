@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.49",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
     "appname": "Isurvivor Premium",
     "appdev": "JoyUp",
     "appprice": "$0.99",
@@ -190,16 +200,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
   },
   {
-    "appname": "Spelling Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$3.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
-  },
-  {
     "appname": "Trivia Master - Quiz Games",
     "appdev": "Eggies",
     "appprice": "$4.49",
@@ -370,16 +370,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplequotewidget"
   },
   {
-    "appname": "Sirocco",
-    "appdev": "Atanu Sanyal",
-    "appprice": "$0.49",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HkrQ_bEiD80gNp1bYK0guZbl6_W3y8QV-7J0q4lh_YAnkAcFph_dOlz__Ju0kNvgu5UD5muJ0WvcmfzwUpPevT63xLatZytcblc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.sirocco"
-  },
-  {
     "appname": "Run Watch Face",
     "appdev": "Galaxy Design Studio",
     "appprice": "$1.99",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/LJHXlyuOir57VIDaucPggsrk3uNK7KkxDfbl48IeyQhgxHlb8HLb6cTUpofd_TepSvp1YyJ4uGaIEq6x6XpS_F9yxiZ_nBebLsP2MHrpnncFFwmY2g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactorganizerpro"
+  },
+  {
+    "appname": "Brain teaser puzzles",
+    "appdev": "ExoPlay Interactive",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
   }
 ]
