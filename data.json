@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Super Shortcut: Productivity",
+    "appdev": "Geeks Empire",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
+  },
+  {
     "appname": "SXZ Phantom Edge Watch Face",
     "appdev": "SXZ Universe",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IM4jmrWeFTl6SCR-VoiGFxSbL3jnXOfCd_8DmSbaFCtonaWWxBATqIV2U9SZyYDz72oKvvIqeFWE5KMEP7nGxRQNG3p3ChjpMmdPZefsbMYLvCBZ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.thcarrera"
-  },
-  {
-    "appname": "Text Time Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NprDnW9zdFcnBWlV7FA1Z5kbpHZr0YB6_Oc14peGLS5LZIMeKydVsDszS-kKIbBdSaeNn5vkUwbhoCdZTlfBnBSpdXr8GTKwrggqXxIFwRYPcCsC=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.textTime"
   }
 ]
