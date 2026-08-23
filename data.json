@@ -1,5 +1,15 @@
 [
   {
+    "appname": "SXZ Phantom Edge Watch Face",
+    "appdev": "SXZ Universe",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/WpzEMerObFRfB_C58dOnwIZ5SzEbTcOiqyt9VpNgX5DK-zP2N6Ts5hsvUetApr1lChkRKF8OqksucoomRenIJ_WRUpl5kU282a4aR0Zxd35Ob8sb=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.PhantomEdge"
+  },
+  {
     "appname": "Truth Or Dare Pro",
     "appdev": "TRYONI ARTS",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/NprDnW9zdFcnBWlV7FA1Z5kbpHZr0YB6_Oc14peGLS5LZIMeKydVsDszS-kKIbBdSaeNn5vkUwbhoCdZTlfBnBSpdXr8GTKwrggqXxIFwRYPcCsC=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.textTime"
-  },
-  {
-    "appname": "Bible Master – Quiz & Trivia",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
   }
 ]
