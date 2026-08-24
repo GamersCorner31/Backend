@@ -1,5 +1,45 @@
 [
   {
+    "appname": "DogTok - Dog Translator Pro",
+    "appdev": "Ai Apps SRL",
+    "appprice": "$2.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
+  },
+  {
+    "appname": "Summoners Era: Idle Strategy",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
+  },
+  {
+    "appname": "Tech Quiz Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
+  },
+  {
+    "appname": "Stickman Legends Offline Games",
+    "appdev": "Putaleng",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
+  },
+  {
     "appname": "Super Shortcut: Productivity",
     "appdev": "Geeks Empire",
     "appprice": "$0.99",
@@ -260,16 +300,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
   },
   {
-    "appname": "Railways - Train Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.49",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/_pLhVCcde-J-gsPmo2UxlnwoKlFkPLr6pIiHj_-wyoYaDtuowCRUmnCQz4QO413x4gmXPhM2eWRWdct93nCcvcLbPFWZ5EpSOFY8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.railways"
-  },
-  {
     "appname": "Word Connect - Fun Puzzle Game",
     "appdev": "otto games",
     "appprice": "$2.99",
@@ -330,16 +360,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.smartgames.word.puzzle.block.crush"
   },
   {
-    "appname": "Traffix: Traffic Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.49",
-    "apprating": "4.5",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
-  },
-  {
     "appname": "Colorzzle",
     "appdev": "Darong Studio",
     "appprice": "$1.29",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/M_fQKo7g3FyaY60sRtV4mhXTrW14kPjXmGyVlCR7rObnCP5CkHbLb0KGDS_kxB5Tl4m8gT9kXX1-9Rs3Tm33lhM1t2K8i76KauXQDQGvM6kEJYw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gimdeka.halfslice"
-  },
-  {
-    "appname": "Coral",
-    "appdev": "Atanu Sanyal",
-    "appprice": "$0.29",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/wO2P7mM_3tXjkcqFdva7kgilEP0k0sYgNcf1I9OEddzvwBBF55qJMQch8xG3284MXM58PZvTvWsr1E2IIrOnkoM_YQwhX0TcAtJy=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.coral"
-  },
-  {
-    "appname": "TC CARRERA",
-    "appdev": "SA11",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IM4jmrWeFTl6SCR-VoiGFxSbL3jnXOfCd_8DmSbaFCtonaWWxBATqIV2U9SZyYDz72oKvvIqeFWE5KMEP7nGxRQNG3p3ChjpMmdPZefsbMYLvCBZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.thcarrera"
   }
 ]
