@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Avalar: Raid of Shadow Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
+  },
+  {
     "appname": "DogTok - Dog Translator Pro",
     "appdev": "Ai Apps SRL",
     "appprice": "$2.99",
@@ -78,16 +88,6 @@
     "appurl": "https://lh3.googleusercontent.com/PNBt7BRXVMqGT2x5dAMHbNAbiUI7982y_Fith0e8Tl8ErwOKZXZfDp9cLX9VnQLVWxYRrgtgs-WFBrYVnrzI8IF5bHItyfHLJq7SZwM0oBOzS-pQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GiftBox.KidsPuzzleToddlersGame"
-  },
-  {
-    "appname": "Goldox Gold Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/mss-HDsTmfiL6bnsVD0C1vFaa0bigmfy0GnzqrTsvn0t4rGhKQA7j1jVRw9OSjM5TmuF60HCg8_y4CzzKlGJc0LilVHEtVDiric=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goldox"
   },
   {
     "appname": "Crosswords Word Fill PRO",
@@ -280,16 +280,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwhite"
   },
   {
-    "appname": "Slideshow Maker Pro",
-    "appdev": "CloudEx Inc.",
-    "appprice": "$2.99",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/EsBPbYQa_pyKReGdqMsBk_gSvGlvl3lSmFoydevENROOvocfD1IXheQ3uLr81uxrLvdQtib_-IYplYUXb_xx0mIqg_qKRgc901CX669Ww4bKHJ76=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snowlife01.slideshowmaker_pro"
-  },
-  {
     "appname": "Word Mania - Brainy Word Games",
     "appdev": "Eggies",
     "appprice": "$6.49",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/M_fQKo7g3FyaY60sRtV4mhXTrW14kPjXmGyVlCR7rObnCP5CkHbLb0KGDS_kxB5Tl4m8gT9kXX1-9Rs3Tm33lhM1t2K8i76KauXQDQGvM6kEJYw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gimdeka.halfslice"
+  },
+  {
+    "appname": "Coral",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.29",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/wO2P7mM_3tXjkcqFdva7kgilEP0k0sYgNcf1I9OEddzvwBBF55qJMQch8xG3284MXM58PZvTvWsr1E2IIrOnkoM_YQwhX0TcAtJy=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.coral"
   }
 ]
