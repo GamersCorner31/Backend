@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Square Doodle",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/0vub1f0n9bCcH54UX9J-Z4dHPtSo8SbvxCeVOBdU_QXU_U8FikzQva8jTPou_44YfttKnviraHcRuw2xNYjFh0TD_xjMm2QsofRkgMYOGmrE_UY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.squaredoodle"
+  },
+  {
+    "appname": "Marigold - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/zeXu_HYWnGP3BgaMJAj_ec5d6N3Nf4Iyb-Lqlq3OQwXkW5EGMO94UWBhxKdA1BP5LpvKD8pdxA7xeKMJ2iu4erKnvk4RZn5In_oX7hFRtKl6k3TT=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbmarigold"
+  },
+  {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appdev": "EA Publishing",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
+    "appname": "Sun Flower - Line Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tqo0j9R1c0R7yxiFCA6a7FxyPH3HqARAckuqxnUt1OVvvQJaJOM-SL7RB27eh3zdSb4kTlEDOmqsIO4flTLfg08DmJ7jFJOC5E96RIgYlehkIThS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbsunflower"
+  },
+  {
+    "appname": "Kathleen - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
+  },
+  {
+    "appname": "Viorange - Line Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iSwIEuzK73v98YThFls0RG3oCvE4WWUUqCgQ6EAFtEeUkpIiGWsBc1RUZCoRWGldwkkiSbFo6eXHjq4-755aq3WAQzLlmcy6d21EbSAUbz47M7z4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbviorange"
+  },
+  {
+    "appname": "Bubble Gum - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/OG2a09k3eWOYhwRraq79y-7OhFi7VqByC76hwMA2i-F1bQm1l4-V8Okow40eP23aCOwX7xwRXoXldAPjrk4LA3Henz0enozYg5EVTB1de9P2nHM3yg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbbubblegum"
+  },
+  {
     "appname": "Final Castle Defence:Idle RPG",
     "appdev": "DH GAME",
     "appprice": "$0.99",
@@ -120,16 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
   },
   {
-    "appname": "SXZ Phantom Edge Watch Face",
-    "appdev": "SXZ Universe",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WpzEMerObFRfB_C58dOnwIZ5SzEbTcOiqyt9VpNgX5DK-zP2N6Ts5hsvUetApr1lChkRKF8OqksucoomRenIJ_WRUpl5kU282a4aR0Zxd35Ob8sb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.PhantomEdge"
-  },
-  {
     "appname": "Truth Or Dare Pro",
     "appdev": "TRYONI ARTS",
     "appprice": "$0.99",
@@ -148,16 +208,6 @@
     "appurl": "https://lh3.googleusercontent.com/PNBt7BRXVMqGT2x5dAMHbNAbiUI7982y_Fith0e8Tl8ErwOKZXZfDp9cLX9VnQLVWxYRrgtgs-WFBrYVnrzI8IF5bHItyfHLJq7SZwM0oBOzS-pQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GiftBox.KidsPuzzleToddlersGame"
-  },
-  {
-    "appname": "Crosswords Word Fill PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
   },
   {
     "appname": "Game of Life Live Wallpaper",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/c4LqDAJKaw2op2RVooQjFHDkkVvju_6k1RSxJN0s41o5FOhLEiWl7Nr6hVVfZ0Rt8GCrJI9s4MRGsiIbvR_1UR5eJmLJXjQI3iV8nwi8WTbxunihVQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.wordmania"
-  },
-  {
-    "appname": "Word Connect - Fun Puzzle Game",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RMFm61k1B2yFw53mBrDU86CR-aBRRHIrLrOaxSgzPNvjyM9Elyyiax3zrYglObtMIW6RZaoz7sXSTL82GVbrWKYTXS8mqDwql4v3T6TNrC1NzzA_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.wordgame.words.connect.crossword.find.english"
-  },
-  {
-    "appname": "[365fun] Mountain Climbing",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FZo7fvaBoqf-DTUI6qOB5uPgVW9LqgrYQNKtCC5scMdefYxME1nOW68sBL9wahNxXZbjHG3XRGs4UQu_lUcJ_HoLAMV6r00kiaUARzvcC_qx8Nnq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mountain"
-  },
-  {
-    "appname": "[365fun] Matching Game2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/4CZretwuBr-V4EzCzivuqjJestH91vTA1ZRDb8M2GQg10QR8vadLPkgh0PnAaCVrxawX6wvG5NkcHkTnUrYYOwjvxyc_mwCSjGVXchU6irmYJnqTNQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.matchinggame2"
-  },
-  {
-    "appname": "[365fun] Stairway to Heaven",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/vcbq4MwJjQoTQm3BJHOo8HW4_y948xhmjieYtnsdYS7i2MnLLSm-uD5uV_hKJeJPxHjGZpzKBsqjolfiBvnCI3kkbekvMBli5-gFPtYmJ2UjhKsb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.stairwaytoheaven"
-  },
-  {
-    "appname": "Tokyo Debunker: Urban Legends",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
   }
 ]
