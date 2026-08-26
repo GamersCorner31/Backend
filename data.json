@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Undead Slayer: Offline Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
+  },
+  {
     "appname": "Offline Password Manager",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/rhsfnXU-9zvAuglg8TDJzvGwOq3TCrR80Kk1yOoaK02_0QMwMB748B8idvi8VUA1kRX9x3_MPnMBbREcYmwogOPD42yJgmsNhqoHzhlReOa_O3cZ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdpurple"
-  },
-  {
-    "appname": "Yaktin Orange - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GstCOr0_95J670R0mppkNxll2oMt3Pjeh0UhvK7XD4pDj0CAQVKLnRcmXEw9WR71LrJXQFaYwYOv28vduskcxA1hh_oI5QWpQCAWHjGZ_Ufd04Pt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.orangeblack"
   }
 ]
