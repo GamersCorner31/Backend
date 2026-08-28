@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Aeon e-BPM: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Y2nEq2rjYGQq55xWsxsaI6P5f_AwuHQjNiHnP6F8zZabYhlmUz1jzxgvEdtd-9PTzo5z5GZnt2QFwz9vI9SIGfVMY6G7c_HLBzOCt-JRjuuC6d4h=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfaeonbpm"
+  },
+  {
+    "appname": "Photo Editor Pro-Collage Maker",
+    "appdev": "CloudEx Inc.",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/T3eXuN9W5yg8YtE5WMZzVCK71W-LIpekI5lxlHT1NMtS3xZqNY655cueTj48KseFaMn8xL8P_3TTMDWKit0cWBtzPRGIMLQb4Hrz8YYBbqkkddlg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=jp.snowlife01.android.photo_editor_pro"
+  },
+  {
+    "appname": "Varwil Pink - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
+  },
+  {
+    "appname": "BlossomLine - Pink Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L_yb5PGMAEgY1WDMgVH9feqGOGfTCLlF_1OnP-dFneJ8Dp8XtBgqg96B4R19wndfDbtIsSYXx03gyzre0qdkVAMNT5gPhXqb6rf0OAMCXq3kXZf_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpink"
+  },
+  {
+    "appname": "Police Department Tycoon Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
+  },
+  {
+    "appname": "Empire Warrior: Tower Defense",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
+  },
+  {
+    "appname": "Goody Icon pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/kVyHwfn1EArwmwQb0h3qB8YSCJGJIS_ctVBfujGSUycedI_ZcV1YNUoWNqlSVa9AtCSmq2om7r_yrKM-nBZgVLYt854bfYhjh2E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.goody"
+  },
+  {
+    "appname": "One Swipe Notes - Quick Notes",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/PsE5inLF8S7xr6PjL_OBYgFvgg9kDpwZAW4OQDq88cSmc9ntQ1kS85LR1ZBGFSJsTRoUaSgGJ4zxvDoMuAaBRF9YHiS5TCnOGN_hPSUsupwMID-P=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.oneswipenotes"
+  },
+  {
+    "appname": "Add Frames to photos",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
+  },
+  {
+    "appname": "Countdown Widget - Time Until",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/f7THBYBR_IY8Ye7lCJ3qQmYcw7a9pyONUm9KbJVdwRNMn2DQn2CQgMvGbPebdbsrUB7wI8W8UbSJLZt8E1rSOrPxfn5qLWF65jSLQREpYVVE7m4f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.countdownwidgetpro"
+  },
+  {
     "appname": "[365fun] Perfect 3m",
     "appdev": "wind",
     "appprice": "$0.49",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
-  },
-  {
-    "appname": "Viorange - Line Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/iSwIEuzK73v98YThFls0RG3oCvE4WWUUqCgQ6EAFtEeUkpIiGWsBc1RUZCoRWGldwkkiSbFo6eXHjq4-755aq3WAQzLlmcy6d21EbSAUbz47M7z4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbviorange"
-  },
-  {
-    "appname": "Bubble Gum - Lines Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OG2a09k3eWOYhwRraq79y-7OhFi7VqByC76hwMA2i-F1bQm1l4-V8Okow40eP23aCOwX7xwRXoXldAPjrk4LA3Henz0enozYg5EVTB1de9P2nHM3yg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbbubblegum"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
-  },
-  {
-    "appname": "Image Resizer",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
-  },
-  {
-    "appname": "Yellowdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
-  },
-  {
-    "appname": "Star - Yellow Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ihFqVZwAPbksaG4f0WW8K8SDI5LBa8nMibr8DZJjB-k03XyLnwGjXfrCrK07iiVKemXzE3Lo3fzLTI2eqjzzVKuIR3V1m4FjoVhsxMpBLwBhzHcaDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
-  },
-  {
-    "appname": "Gradia - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WH_QJnWEoNCdg_MUe2cWf7X3lM7cAdCdalNzknUuttK1l1rZ_f8DXP879cEr8IP3ht9xydw8EKAOLlfFPuYG2FjBakbWXez2AiaMWD4HUo8Nx7T2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.theme.iconpack.gradia"
-  },
-  {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "DogTok - Dog Translator Pro",
-    "appdev": "Ai Apps SRL",
-    "appprice": "$2.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nZ6P9pTQ3uz2YBcmX4tlgBuKtEyzGx9jOudfzDhBiVrlHDP7YvUeQ_j7Y9ugAZtb4NrJQ6YIemnk0lQXFJxBfxAMRnuG-OGGZ1tlCJ_t0uf_Z_LjOA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=dog.translator.dogtok.human.pet.speak.app"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
   }
 ]
