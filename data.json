@@ -1,5 +1,95 @@
 [
   {
+    "appname": "[365fun] Perfect 3m",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
+  },
+  {
+    "appname": "[365fun] CatchBee",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
+  },
+  {
+    "appname": "[365fun] TouchTouchPangPang",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
+  },
+  {
+    "appname": "[365fun] Wood Block Travel",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
+  },
+  {
+    "appname": "[365fun] 2048BubbleShooter",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hu1uLEgFYM55UiKpYT_vmjWBtm-DcW6ledVMooPH5NKtzeifW21VdtkzSK3nWhK9B4zipbusErkbpMJqwqRW3eir4ucAnmC27EIx4-A2mUUTH9uv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.bubbleshooter2"
+  },
+  {
+    "appname": "[365fun] Color Match2",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
+  },
+  {
+    "appname": "Minka Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/QaCCEDzcs2kSC5eoOmYtH6Yk1GC7VEAM50AfkzV2MjRTQTt2-ZrhQUFUmja6Rtsd8HxBKn9NsMgDJe2XCvb-xFbXuXzFG9lprAI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkad"
+  },
+  {
+    "appname": "Belga Light - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
+  },
+  {
+    "appname": "Rogue Hearts",
+    "appdev": "Ninetail Games",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/KhHpi_fuy3iPYko_4tz8d4L8RzcEjU5wuRG_DuzsayqWzeIsgNbKZ2MKXFsjPyRYdn3Itw47xGIUuQGgAevv7Z189wa6Gdt1uV-b=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid"
+  },
+  {
     "appname": "Red",
     "appdev": "Atanu Sanyal",
     "appprice": "$0.29",
@@ -160,16 +250,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
   },
   {
-    "appname": "Word Search Ultimate PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nKUjsm-uV_WnugK9qpJdJaYxeFCxrsXdl-bNrKqgIsXGQIBJ_rp3EuRc_ft2G5utUSI0WSZRaAPIAiX1QLEquqMdw0NqRTCsXXQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchunlimited"
-  },
-  {
     "appname": "Square Doodle",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -280,16 +360,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
   },
   {
-    "appname": "AI CUTE D",
-    "appdev": "AIwatch",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GUdW6kJIe6GIw7M_YKzjYaiX0AZLZUFhDzUqcRzmvQjA8SrT30iu1wbZ3v1LeBlcgyH0IpcjxqHZVzJA8CnD9WqJKeaVeULrd7OUy_WBzDcPDK4d=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ai_cute_d"
-  },
-  {
     "appname": "Gradia - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
-  },
-  {
-    "appname": "Tech Quiz Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
-  },
-  {
-    "appname": "Stickman Legends Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Super Shortcut: Productivity",
-    "appdev": "Geeks Empire",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
-  },
-  {
-    "appname": "Truth Or Dare Pro",
-    "appdev": "TRYONI ARTS",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
-  },
-  {
-    "appname": "Kids' Puzzle: Toddlers Game 3+",
-    "appdev": "GiftBox Games",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/PNBt7BRXVMqGT2x5dAMHbNAbiUI7982y_Fith0e8Tl8ErwOKZXZfDp9cLX9VnQLVWxYRrgtgs-WFBrYVnrzI8IF5bHItyfHLJq7SZwM0oBOzS-pQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GiftBox.KidsPuzzleToddlersGame"
-  },
-  {
-    "appname": "Game of Life Live Wallpaper",
-    "appdev": "DotCode Apps",
-    "appprice": "$5.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/tYQaOtRm2UshxoHHhGj84d04v-zoOfdiAhK0wHMl2R1gfNMElOTpKCbf-dpeNMbglJyPn0kue2QH73PgsM9G9jSMMfjEoAQeDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=cdev.life"
-  },
-  {
-    "appname": "PIXEL SPORT PRO Watch Face",
-    "appdev": "LIBERTY WATCH FACES™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LcaBu628ZM88GRaxFZeQVX8T8KY8iPKuRBv0mRCJ3FQU0lWjLBbqST-6hDw69sqGbCvzVHXDUPdvshhYigKQdHH928g0jqPtD42_4hqOFgHIOiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pixelsportpro"
   }
 ]
