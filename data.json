@@ -1,5 +1,15 @@
 [
   {
+    "appname": "KGS Client",
+    "appdev": "United States Go Foundation",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/js9z4AE3RATj2gRve2yvwqfLM9sL76HFiUJy7KE8QiFrHBHj8oVjlGVpjufPb8s__QZK8drZURQ_bkaJ7kgVoIf63I8OHmAU9Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gokgs.client.android"
+  },
+  {
     "appname": "TimeFlow Watch Face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
-  },
-  {
-    "appname": "BlossomLine - Pink Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/L_yb5PGMAEgY1WDMgVH9feqGOGfTCLlF_1OnP-dFneJ8Dp8XtBgqg96B4R19wndfDbtIsSYXx03gyzre0qdkVAMNT5gPhXqb6rf0OAMCXq3kXZf_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpink"
   }
 ]
