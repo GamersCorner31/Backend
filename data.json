@@ -1,5 +1,15 @@
 [
   {
+    "appname": "TimeFlow Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/PjrcX0Io9vSdCVR1QosL_lm82mJGckn_iahPhrbqQP47em-AO-dFZqHzP58nOJ9qensrZJu0VZbIFoHx3SHAZtdduf2Jc8-9aqafG7tRhoR6QOI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeFlow"
+  },
+  {
     "appname": "OniOn watchface 009",
     "appdev": "Yangpa",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/L_yb5PGMAEgY1WDMgVH9feqGOGfTCLlF_1OnP-dFneJ8Dp8XtBgqg96B4R19wndfDbtIsSYXx03gyzre0qdkVAMNT5gPhXqb6rf0OAMCXq3kXZf_=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbpink"
-  },
-  {
-    "appname": "Police Department Tycoon Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
   }
 ]
