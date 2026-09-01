@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Backrooms",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/Iam5bk_jMwescB7O31Bz7NSdQy98k-6smKRa8eOxYsqKYPrcfJDfu08Ge1hfMAtmOXG2irv2SMFhHGRgpGYRKYJ3C4lUYgzv1WrIhqKPvc7TFIG7=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms"
+  },
+  {
+    "appname": "QR and Barcode Scanner PRO",
+    "appdev": "Apps360 Team",
+    "appprice": "$5.99",
+    "apprating": "4.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
+  },
+  {
+    "appname": "2D ANIMATION - DRAW & CREATE",
+    "appdev": "Global Apps and Games",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hNCiqre8Ljhm3Fo5-l5JLZOh43GksCsV5XKEJvN5j2NJSt3GeIm-8pO8cOXNn3WTUjcwi7WFpBW606qwfhWZDUql98f6ahP45cJbixR04u9m98dU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=draw.animation.flipbook.flipclip.animated.draw"
+  },
+  {
+    "appname": "Fire TV Remote Pro",
+    "appdev": "Global Apps and Games",
+    "appprice": "$4.49",
+    "apprating": "4.1",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sjoOVMqjtNao8kmOqYG6Evb1LMkTSFDGuNaAKVTHgnq9uS13onU5IWAXYiEKzwpH38UVEmu-Rge_no_Wd-AtMcRnmSvEzdajphGb1xzfYYNM1DU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.firepro"
+  },
+  {
+    "appname": "Monster Killer Pro - Shooter",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
+  },
+  {
     "appname": "KGS Client",
     "appdev": "United States Go Foundation",
     "appprice": "$4.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
-  },
-  {
-    "appname": "Soul Evolve: Epic Fantasy Hero",
-    "appdev": "MGIF",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "Pixel Blade M VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
-  },
-  {
-    "appname": "Aeon e-BPM: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "5.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Y2nEq2rjYGQq55xWsxsaI6P5f_AwuHQjNiHnP6F8zZabYhlmUz1jzxgvEdtd-9PTzo5z5GZnt2QFwz9vI9SIGfVMY6G7c_HLBzOCt-JRjuuC6d4h=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfaeonbpm"
-  },
-  {
-    "appname": "Varwil Pink - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
   }
 ]
