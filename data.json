@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Sprint Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Z3SqYTvQ6AP_cX-RDj3_qd-nQnklQbsBCeZt0bmtX3AAmCDCBLYhrXkKtEnlbZOtRWqxQbcUOah4Dcp8oYtcgztbc3opd75pQbxcVq8a7sPwZKwPdw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.sprint"
+  },
+  {
+    "appname": "SPL - Smarter Player Pro",
+    "appdev": "BRILIC MEDIA",
+    "appprice": "$4.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LZvVgEerPuSHlVCZ2pRkDLwuAPA1SoLgtCNIC1HVagbKAo35PHmd3lEqi5ozmH4xFXEOxAOOLi328Cst7yi2f-9wpIVgOaOBhiCPDXIGO_qvSrI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=extreme.player.iptv.smart.xciptv.xtream.m3u.live.tv.channels.app"
+  },
+  {
+    "appname": "Clear Wave - Water Eject Pro",
+    "appdev": "Appchi",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
+  },
+  {
     "appname": "Backrooms",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/O45SgJsNa863GmxKtzR4o66BP7iFoILWhjevGcNzE7k20sxVjYYR5EeyQ1HE-Aftf8bkfY9SWyEGoPwecWfc4QZZLi0VTmZAyrc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.fourthgrademultiplication028"
-  },
-  {
-    "appname": "Multiply and divide fractions",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/buR8tveFGZ5zI4hNUoDOpfMs5uAy0HQOvC_plff3K6GBlQDY1ojCkuq0lJSVJux80KF6nieeU6M3BnLs50Yh4seDemX3Y4LRCQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math39"
-  },
-  {
-    "appname": "Division 4th grade Math skills",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/kW8T32jcC4Eo9oIIHSR4wZVT7d28RIi_SBZozgvZUqgX7YbCDqJ-2_UW2yMYo-q603lC2ETgS5J4YX3StsJtq0ibCIrh2mooCkI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math34"
-  },
-  {
-    "appname": "Guardian War: Ultimate Edition",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
   }
 ]
