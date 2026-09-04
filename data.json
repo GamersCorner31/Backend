@@ -1,5 +1,65 @@
 [
   {
+    "appname": "[365fun] Cups and Balls",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TFYnqV8XaOi7xdrhYM3Lk10UMeXQJ2bqiOAHkfwiex1qB8NO_k6fcjO-MkQuf7WM3OFBeXFg2fC_XJEmHolXpzWBuLc28vleNF5PMiruP5LHvVlx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cupsandballs"
+  },
+  {
+    "appname": "[365fun] One Shot",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
+  },
+  {
+    "appname": "[365fun] SurvivalGame3",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
+  },
+  {
+    "appname": "[365fun] AirComando",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
+  },
+  {
+    "appname": "Orbitrack",
+    "appdev": "Southern Stars",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/wGLxndipwEb88SnLCLAIQZ7IkwwEwETp3KO6qhZxiBGFtwlwX5u37KhdYaRs5aNsHWUYxOBUkRK6ls-ITBjFatlUpxm5k28mTg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.southernstars.orbitrack"
+  },
+  {
+    "appname": "[365fun] Fishing",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
+  },
+  {
     "appname": "Minimal Watch Face 3",
     "appdev": "Galaxy Design Studio",
     "appprice": "$1.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/W6tD3G-aWYaAC_tV9Y8KZ2a4XZ7yINGTDgEDVO8JZkhJqrQV48JDfnavDO896_ZAhS7RqoOqa6zKs-jNuOAAqI2yuI_WOSlb2PJw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project011.full"
-  },
-  {
-    "appname": "Subtract Fractions Trainer",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/y-qHXWIWtRqk7_nDqS01u8a6y8TvpC7KjA5CWoKIrRgbMcYNynO2zbdHCshLlI5WM7QVwvE02INNPm6i_nOKjoL2ZyHpQH8Hi4fQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project013.full"
-  },
-  {
-    "appname": "Trick Shot Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/f1P1trmYMNEkggMfZdvesbiex9XCx07dllgXzr1LDUegas-asL8kcp7W7_tYtiCRkG7IsLG1Apqidyvq2o_fZKbdPeuTUtbqGvkR=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math045g"
-  },
-  {
-    "appname": "Adding Fractions Math Trainer",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/gtHk8T4Zw3t5fp1dqV3dgPzUR9Ht0L_u7coUMhI1hatvApcp1vLtc6z2t54ht0zl3-9LMn1OC0rYzQKsccucnK38kxKGM_nDea7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project002.full"
-  },
-  {
-    "appname": "Multiplication Tables 10x10",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/H_ZVIe7vLgWf7hHTJyZCMuz20FlalGFIjIqXUvbeAZ_BH1LBiPkczA45GOEscMyaWqTuenQ5C4fJNX59_P-1gGfmipoN6O-Jj9U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.daskleineeinmaleins"
-  },
-  {
-    "appname": "Fractions and mixed numbers",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TzvJb0c2DNnw9CZ-NErHuUxitOcj7YTqnfkBwRzHIlCSzg6d60PZYsT4WkWIczG6vM6W4jliUrG7oMvhj8qa9rmwCskT1mlbSdw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math41"
-  },
-  {
-    "appname": "Math up to 100",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/iSEzbE4Huf2sPIyzCqPmHpHnOV-eWvY5tQ6fIIzzct_TMvimyMQ2y2Me9hnz8jmNNnyClwblzbEnO7V3D5o9GnqKIvdgcGEHY40=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.rechnenbis100"
   }
 ]
