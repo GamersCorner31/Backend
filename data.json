@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Minimal Watch Face 3",
+    "appdev": "Galaxy Design Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NIoTsrAsixGVH3KrlPk8cAYDURC8PGeWyv2r-2ZlKuKP1LvWj0-ZkagDHET_EvHDuO8oOxIcpIHtCcZh0OWkMA9dnaI96SAObkx5mRwDm3J40JRf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outlineanalog.galaxydesign"
+  },
+  {
+    "appname": "Minimal Watch Face 2",
+    "appdev": "Galaxy Design Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/flW4kwI0uAgXOJq0N1A3gNeeR1v8ETrnhGpcMXq-tWy0fSWYNnSKc5HEd_yC-QvXUrd7-KFsvsKrJrTjZ651jqge07IHOrlg5XRfM9ny0lxhIpmt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outline.galaxydesign"
+  },
+  {
+    "appname": "Sniper 2d Fantasy",
+    "appdev": "Edenzyef",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/pqgcQGymmtMZGc0behmVf98ZJnWiqAT0y6pEcrkUTnhHG7OMYmAN6GUOUEb8uAFzAD2-SBxr80clvDMDhiX506JM7-XxN4Q1XFeF_TuSGtrwKZQD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.edenzyef.sniper2dfantasy"
+  },
+  {
     "appname": "AppLock PRO",
     "appdev": "Apps360 Team",
     "appprice": "$6.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/iSEzbE4Huf2sPIyzCqPmHpHnOV-eWvY5tQ6fIIzzct_TMvimyMQ2y2Me9hnz8jmNNnyClwblzbEnO7V3D5o9GnqKIvdgcGEHY40=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.rechnenbis100"
-  },
-  {
-    "appname": "Second grade Math - Addition",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/UAGQvIFX8Bk1xr_r9DX_FtHlq_0rc8Um3JJcy2blDS8GcOAn7stze1vcBA89a5IR0FeYBTJuGzXnSnq1KzK6TFjfneDOn8sssCGn86pXccKGw5I1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math020g"
-  },
-  {
-    "appname": "Math Shot",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/xC0py1Vbzd1Y09s-Asauc_fuJnAf2hmuQ3zj3wfGrYvuD2P7XQC6QCtmu9lmPLfkAMAppUnM3mwR3kPqPl-LXWT64oMCrgPEhjEQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.mathshot"
-  },
-  {
-    "appname": "Fractions - 4th grade Math",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sRI3Je31YXfaH_uFcew6610qkK5F9ZtXGITrKegdu-Lj1BkPVjWV2ZlfW3O8GEw2LtaP-v2lhGQvZ_Fw7b5H_lHjeGbcdDklCfU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math35"
   }
 ]
