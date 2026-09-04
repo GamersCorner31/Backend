@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Oscuro Dark Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/4TjEZ6fMdB5ansBSK1mwYZAbh93YL2CDT40sTLu3g9dQEf8l5Qxr2Abwf9B0zJfWBatYvZKf-UUaGZTPoNIXN0YnVvUjLWVv4M0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.oscuro"
+  },
+  {
     "appname": "[365fun] Cups and Balls",
     "appdev": "wind",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PEHtLQ1Bhw3_k2au7kSx_nALGwbgVbiVfMOqTXF-4UQqi8c95v4B0NrHU_xQ2XA_P9mLPGVTyL7OtOvFaEjrmLHFegHD5kBYZQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math36"
-  },
-  {
-    "appname": "Multiplying Fractions Trainer",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/W6tD3G-aWYaAC_tV9Y8KZ2a4XZ7yINGTDgEDVO8JZkhJqrQV48JDfnavDO896_ZAhS7RqoOqa6zKs-jNuOAAqI2yuI_WOSlb2PJw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.project011.full"
   }
 ]
