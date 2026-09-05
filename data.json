@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Grow Heroes VIP : Idle Rpg",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
+  },
+  {
     "appname": "B.efore midnight tonight",
     "appdev": "Singular Dials watchfaces",
     "appprice": "$1.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Htlx3rEdaJl1X6JnuXk3v5tzXYfMlsf7InHKekMmMnznKG1AQHreO19MM_BmkfC3tgsAkOZt_mvL_-pFZdLoUBV54Z_UV3yCE-X5zi1FDPAh5sqh=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math69"
-  },
-  {
-    "appname": "Mathe 2. Klasse",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/IobEqJ2YBJN3RjPmsjWZTbdmtwbX0jTRAby0LRDYuhFdbWPEuRgKqPEyKorw2PJmNvxRr0hDv0DFPtVD4fxmpHmXMMzJXktHzM7mNSHmpKVBouSq8g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math65"
   }
 ]
