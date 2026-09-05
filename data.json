@@ -1,5 +1,25 @@
 [
   {
+    "appname": "How much can I spend?",
+    "appdev": "Alexander Y. Ivanov",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
+  },
+  {
+    "appname": "OT | Big Numbers Digital 4",
+    "appdev": "Omnia Tempore Watch Faces",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/PBeT8cb6HmJQ4EHLBOGHv91CWZY_LAhFjAa_LRt1nw_w3gjdqanWt2qbmNNBtThSFuHpFG3rr3ipce33FodRwbZ5_aMu99Cq-rAPOW8DcAtQblIf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.otbignumbers4"
+  },
+  {
     "appname": "Grow Heroes VIP : Idle Rpg",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PzJIj6bpcDLfZhWCTeCdvPaykmjnv6i7yvB_wtNJFbDGUT2VL4jvEju9A_ZC_5NMFv3TuPgLDnzbHNERBjJFpFrqoZRTbxtVfBYzJzN19g5Bv1PKhw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.notchanimation"
-  },
-  {
-    "appname": "Simple Photo Widget",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/o9Ur-q-rdlbfwFwpmRTpadjim0DsHjsA2V3HAtP09R7njdgcEfFUr8Mdv6wjOUAGgda1XbYlAhXHkbyJF1J5NJ5wnAZZ11XSWg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simplephotowidget"
-  },
-  {
-    "appname": "Mathe 6. Klasse",
-    "appdev": "Sergey Malugin",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Htlx3rEdaJl1X6JnuXk3v5tzXYfMlsf7InHKekMmMnznKG1AQHreO19MM_BmkfC3tgsAkOZt_mvL_-pFZdLoUBV54Z_UV3yCE-X5zi1FDPAh5sqh=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.de.appsfuerkids.math69"
   }
 ]
