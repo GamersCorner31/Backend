@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Starry Night Widget ZKin Watch",
+    "appdev": "ZKin",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ZHIztEKlgSw987wfmyRt6okyuGoBbq_Knx8JAnI6BQ55qh1Re4RxpZ8n8Ur6E5mzkO9qAdGa4pIbGv4tktVbca_6l2Lvf9U9fV82aTZMFsMmjudN=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.StarryNightWidget"
+  },
+  {
     "appname": "Warriors' Market Mayhem VIP :",
     "appdev": "Cat Lab",
     "appprice": "$0.99",
@@ -180,16 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
   },
   {
-    "appname": "Orbitrack",
-    "appdev": "Southern Stars",
-    "appprice": "$4.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/wGLxndipwEb88SnLCLAIQZ7IkwwEwETp3KO6qhZxiBGFtwlwX5u37KhdYaRs5aNsHWUYxOBUkRK6ls-ITBjFatlUpxm5k28mTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.southernstars.orbitrack"
-  },
-  {
     "appname": "[365fun] Fishing",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -310,26 +310,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
   },
   {
-    "appname": "2D ANIMATION - DRAW & CREATE",
-    "appdev": "Global Apps and Games",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/hNCiqre8Ljhm3Fo5-l5JLZOh43GksCsV5XKEJvN5j2NJSt3GeIm-8pO8cOXNn3WTUjcwi7WFpBW606qwfhWZDUql98f6ahP45cJbixR04u9m98dU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=draw.animation.flipbook.flipclip.animated.draw"
-  },
-  {
-    "appname": "Fire TV Remote Pro",
-    "appdev": "Global Apps and Games",
-    "appprice": "$4.49",
-    "apprating": "4.1",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sjoOVMqjtNao8kmOqYG6Evb1LMkTSFDGuNaAKVTHgnq9uS13onU5IWAXYiEKzwpH38UVEmu-Rge_no_Wd-AtMcRnmSvEzdajphGb1xzfYYNM1DU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=tv.remote.control.firepro"
-  },
-  {
     "appname": "Monster Killer Pro - Shooter",
     "appdev": "Gem Jam",
     "appprice": "$0.99",
@@ -358,45 +338,5 @@
     "appurl": "https://lh3.googleusercontent.com/PjrcX0Io9vSdCVR1QosL_lm82mJGckn_iahPhrbqQP47em-AO-dFZqHzP58nOJ9qensrZJu0VZbIFoHx3SHAZtdduf2Jc8-9aqafG7tRhoR6QOI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeFlow"
-  },
-  {
-    "appname": "OniOn watchface 009",
-    "appdev": "Yangpa",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xG3TuICbd4X7z4-R0LJndmdNbDKyhGDoPyHYj6FTuyU7tQe0-xZNUGvE4I3GH1t6CxLj7yxd45oEf_37axY_4uPeCufNj9yQ-87_63APOPjpwxYD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.onion009"
-  },
-  {
-    "appname": "Blue - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Y_ISX_bh-VG3Y4nweNBZPcMYB5U1YSizyX6PNlxT0gkfYWBR5SqHwSPLLcTAEKtZ7HYDdfbjbsYMvF76UuTiIDNJfJGlAjWAzJRiyItL2Mrj2y2L=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blue"
-  },
-  {
-    "appname": "Material You Square Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/s14ABN-aiXjeJMoljN_0ID958te14HarRVFBeC9GsevK93RwPQxTh3VddpZKPqWdMdjXZ6TnYcxyblVz21WrKMM7RjrUz_6i1h4DMjNJjtr1GS3c=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.square.icon.pack.theme"
-  },
-  {
-    "appname": "Fledermaus - Square Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EgIgpvsUGp5M-ZqKp_Uec1yPEjfYEU-jsC29Whcki9ec_F7KDc4PiR2-mdCjmUrdDdFSobG2En1sdQDtbe7XzRjzS-BhJ9t6Lr4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.fledermaus"
   }
 ]
