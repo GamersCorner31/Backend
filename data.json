@@ -60,16 +60,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.blurvideo"
   },
   {
-    "appname": "VJ ALTAY 2 Digital Watch Face",
-    "appdev": "Vesterjil",
-    "appprice": "$1.99",
-    "apprating": "4.9",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/Vy7IPejAIeOnSQ4mPWsUSB_s75eDON_EpF47y1u0hLRGhzI0ZdMCbF2mf0ZrQrQ39AlSTKOG6F5RsTkopIfC7lKqhr23Rz0eev9VOn6BIUOr3ndHTw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vj.altay2"
-  },
-  {
     "appname": "Escape Alive",
     "appdev": "Dark Loop Studios+",
     "appprice": "$0.49",
@@ -98,16 +88,6 @@
     "appurl": "https://lh3.googleusercontent.com/NIkMXcjXB4dM4VlisgSTFmIAdHMxyrVg5JN9rpGkBQk-E0S6ekSSxxPimzMjy19kHexMr0eDx-lF5tTeGeOW8LW2wDLWvUw-25eKjmsT2y_O4Qg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.playtake.puzzle.match3"
-  },
-  {
-    "appname": "Spelling Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/SPO46l8Shb3BdkKVHgoE1vSz-O7L0yp_sTM2pZtPLb0HAVHmJGnr0UJEfAdi1hGyU4D1kCymLzyY4zp2z-rGfjduEfNDjVGl1yo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingchallenge"
   },
   {
     "appname": "Bricks Breaker Pro",
@@ -298,55 +278,5 @@
     "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
-  },
-  {
-    "appname": "Backrooms",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Iam5bk_jMwescB7O31Bz7NSdQy98k-6smKRa8eOxYsqKYPrcfJDfu08Ge1hfMAtmOXG2irv2SMFhHGRgpGYRKYJ3C4lUYgzv1WrIhqKPvc7TFIG7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.backrooms"
-  },
-  {
-    "appname": "QR and Barcode Scanner PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$5.99",
-    "apprating": "4.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
-  },
-  {
-    "appname": "Monster Killer Pro - Shooter",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
-  },
-  {
-    "appname": "KGS Client",
-    "appdev": "United States Go Foundation",
-    "appprice": "$4.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/js9z4AE3RATj2gRve2yvwqfLM9sL76HFiUJy7KE8QiFrHBHj8oVjlGVpjufPb8s__QZK8drZURQ_bkaJ7kgVoIf63I8OHmAU9Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gokgs.client.android"
-  },
-  {
-    "appname": "TimeFlow Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/PjrcX0Io9vSdCVR1QosL_lm82mJGckn_iahPhrbqQP47em-AO-dFZqHzP58nOJ9qensrZJu0VZbIFoHx3SHAZtdduf2Jc8-9aqafG7tRhoR6QOI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.timeFlow"
   }
 ]
