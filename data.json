@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Tag Connected watch face",
+    "appdev": "PiT Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_l7qY7-MIp50u3H2QdlXmsY83FVeg_UZjAtnmFd8-hdiWXfShQqRFJA2JvSybNDDWgfZjY0_ZzdN-aMbOaS1-sM0kWHAKX3YkTD5POhvy61HxMt_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.denewage"
+  },
+  {
+    "appname": "Tag Heuer Connected watch face",
+    "appdev": "PiT Watch Faces",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/lHfmeOupy5zaAQti0vbpcM8yZHauwOOkOaQAGPuUx4UiZ3WNZ20V9F77a6ROigAY3yebUG4XOQKdZZPwkIFEZYNzH-SlDCbDfLnhzyO_rQhGOUOp=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hercon2"
+  },
+  {
     "appname": "ML2U 102 Watch Face",
     "appdev": "ML2U",
     "appprice": "$1.49",
