@@ -1,5 +1,45 @@
 [
   {
+    "appname": "[365fun] Electric War",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/-fH8zA0Ki1dDYKAeDygADE3gGrLw5qvXxBDGiL0_XkbM6s8wY70cllOC7Q-i58eW8ZMYu0ltHzG4a8Tgi1ycD9Go9y_VKCakHl5W3dTj7f7jasN_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.electricwar"
+  },
+  {
+    "appname": "[365fun] Find the Differences2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
+  },
+  {
+    "appname": "Soul Huntress: RPG Premium",
+    "appdev": "PANTHERA GLOBAL",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KL-WIjlHLfYXtVB7dfHjCO4AnOi7vXVuyD3Z4ZAsLXH84F_JHS1UuqpmHxHr8cIpScNKu-uKX9bT7noDWXWMNA4Stg3iOeKsqg4JTnAM-fFQpuHPIw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium"
+  },
+  {
+    "appname": "Mini Crossword - Word Fun!",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
+  },
+  {
     "appname": "Transparent Screen Pro",
     "appdev": "CraftsApp Team",
     "appprice": "$1.99",
@@ -190,16 +230,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
   },
   {
-    "appname": "B.efore midnight tonight",
-    "appdev": "Singular Dials watchfaces",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/MNhSacaYqYWm5-6Mtycm7jYUgbXAxdBSxnjt03acKo6insZ-Al78T1oJniSacg3VtH5cy4iIpNznBCMh_8iQk4dIn6TIfctXxFqdgmes1c1UgJaQhw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.singulardials.beforemidnighttonight"
-  },
-  {
     "appname": "[365fun] Cups and Balls",
     "appdev": "wind",
     "appprice": "$0.49",
@@ -268,35 +298,5 @@
     "appurl": "https://lh3.googleusercontent.com/flW4kwI0uAgXOJq0N1A3gNeeR1v8ETrnhGpcMXq-tWy0fSWYNnSKc5HEd_yC-QvXUrd7-KFsvsKrJrTjZ651jqge07IHOrlg5XRfM9ny0lxhIpmt=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.outline.galaxydesign"
-  },
-  {
-    "appname": "Sniper 2d Fantasy",
-    "appdev": "Edenzyef",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/pqgcQGymmtMZGc0behmVf98ZJnWiqAT0y6pEcrkUTnhHG7OMYmAN6GUOUEb8uAFzAD2-SBxr80clvDMDhiX506JM7-XxN4Q1XFeF_TuSGtrwKZQD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.edenzyef.sniper2dfantasy"
-  },
-  {
-    "appname": "AppLock PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$6.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5S1wQPsYWKXVXUUx-QwcYP_T8iK9HL6_CRJiKARCycPqewGqUOLQHTK4fLXGl8t6Yi1Lt5kA3CXtExq_RCSbxLHLrrea8_kYNgZXd9uhsf23E-1W=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.app.protector.locker.pro"
-  },
-  {
-    "appname": "React: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/S3i7Xtco6g0Oj9Otl5Lp5jbncyIGgxisjsDzkdFz0Fbmz72V6_DTmVK_RYNQJDhIGPweWMZ9EFEiuxuW1DdvZSFCLNiekNiOL6DJz-FlzvYcUMzffA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.react"
   }
 ]
