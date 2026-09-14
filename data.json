@@ -190,16 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.busgo.trafficjam"
   },
   {
-    "appname": "h010 Cute Dog",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Qvp3pE0iXZkCJPc1w4dTF3X564WFvUhU_164lPW1J7e5Bvc1aPc1PaKMvkg20B0wMSFmvDG7-jwYScMOX10JBDOyTjD_WgYKM3klZZ-WtRJuYfVr=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h010"
-  },
-  {
     "appname": "Space Survival: Mars RPG Pro",
     "appdev": "Gem Jam",
     "appprice": "$0.49",
@@ -268,16 +258,6 @@
     "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
-  },
-  {
-    "appname": "Raya Black Line Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Ly3Fyw_p_Rd1ps8Re4EBHPdOgc5UptCvp64vLcCtnhVvIAGya7t5PpbADC680_TgQfhn68Zss68yq8YhIMTs9l0hCKH58wYC8A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.raya.black"
   },
   {
     "appname": "Sudoku Master Premium: Offline",
@@ -398,5 +378,25 @@
     "appurl": "https://lh3.googleusercontent.com/ZHIztEKlgSw987wfmyRt6okyuGoBbq_Knx8JAnI6BQ55qh1Re4RxpZ8n8Ur6E5mzkO9qAdGa4pIbGv4tktVbca_6l2Lvf9U9fV82aTZMFsMmjudN=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.StarryNightWidget"
+  },
+  {
+    "appname": "Warriors' Market Mayhem VIP :",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
+  },
+  {
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
   }
 ]
