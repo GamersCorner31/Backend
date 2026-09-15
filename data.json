@@ -1,5 +1,35 @@
 [
   {
+    "appname": "DJ Mixer Pro - DJ Music Mix",
+    "appdev": "KUCO Apps",
+    "appprice": "$9.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/bVGDYcnX_QIsxyQkSS1bL2vXhfWqq4egKydLwsdC8vx4g30venV2cISon_9PPkdvnz4B5BJSY31vZ_Y58Xw8eFSyNMzkEGtXW1TUndd9FnhkULQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.pro"
+  },
+  {
+    "appname": "DJ Mixer - DJ Music Remix Pro",
+    "appdev": "Nuts Mobile Inc.",
+    "appprice": "$9.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XJHSMGkoadFeqp_0zQ5gt1CmQopHCSCBi9QbH6HUOorurBx235aWZfR7Tz7XUDcvKosmSjyWXgQRUNLuWhED4Ln_wqQCpAGafMyDpdwytEkTW2k=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=dj.mixer.music.mixer.pro"
+  },
+  {
+    "appname": "Flat Desktop ZKin Watch",
+    "appdev": "ZKin",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Jay3IaLSGDUkEc-TgNJ8AQhA6FrQW-32UeVDgNzk1Ssl7m_aMFkaFISw4DNPN-AGKaNOTHBuPGLy6pC7uxhC1OucuPoyi1oF7z3YUdIMQ0l8iRFR=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.Flatdesktop"
+  },
+  {
     "appname": "CWF016 Raptor X Watch Face",
     "appdev": "Calkanos Watch Faces Studio",
     "appprice": "$1.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ckzx_-yd3u9zyNokotTxxEjZn4OiuIP_3-H8p-6KJnEfUDrbFY07kFLYHO8rJhD4P_oBmVrBQ7x6U0_983plBIzG8sN3NZuL5_IMWtj7TLFR6FGC=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.bubblepop"
-  },
-  {
-    "appname": "[365fun] Electric War",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-fH8zA0Ki1dDYKAeDygADE3gGrLw5qvXxBDGiL0_XkbM6s8wY70cllOC7Q-i58eW8ZMYu0ltHzG4a8Tgi1ycD9Go9y_VKCakHl5W3dTj7f7jasN_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.electricwar"
-  },
-  {
-    "appname": "[365fun] Find the Differences2",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
-  },
-  {
-    "appname": "Soul Huntress: RPG Premium",
-    "appdev": "PANTHERA GLOBAL",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KL-WIjlHLfYXtVB7dfHjCO4AnOi7vXVuyD3Z4ZAsLXH84F_JHS1UuqpmHxHr8cIpScNKu-uKX9bT7noDWXWMNA4Stg3iOeKsqg4JTnAM-fFQpuHPIw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium"
   }
 ]
