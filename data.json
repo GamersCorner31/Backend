@@ -1,5 +1,25 @@
 [
   {
+    "appname": "CWF016 Raptor X Watch Face",
+    "appdev": "Calkanos Watch Faces Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/h0DrMrpQi5w-cnCApPXKXp5rD8p9iSEH27SPRrlQ96pxWHBRrebE3J7z0OGycfVk_HyT3ejhJpPUMz6jurnI8_FR-fP-MUuiRl6enzMNC8d4wHO4ag=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.cwf016_raptor_x_watch_face"
+  },
+  {
+    "appname": "CWF014 Hybrid Watch Face",
+    "appdev": "Calkanos Watch Faces Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vGZvefFQk6WEblzNDJER6RimP5Pr6O7NZcYAa8LItJTC3QXjUFVstzPwH8zDGwVRHr8Amu8wzdNQglvxka0EKhh5c2SJxE9jj0Si60TmqnRfTzqL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.calkanosgames.cwf014_hybrid_watch_face"
+  },
+  {
     "appname": "Karaz Red - Icon Pack",
     "appdev": "Panoto Gomo",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KL-WIjlHLfYXtVB7dfHjCO4AnOi7vXVuyD3Z4ZAsLXH84F_JHS1UuqpmHxHr8cIpScNKu-uKX9bT7noDWXWMNA4Stg3iOeKsqg4JTnAM-fFQpuHPIw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium"
-  },
-  {
-    "appname": "Mini Crossword - Word Fun!",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
-  },
-  {
-    "appname": "Tag Connected watch face",
-    "appdev": "PiT Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/_l7qY7-MIp50u3H2QdlXmsY83FVeg_UZjAtnmFd8-hdiWXfShQqRFJA2JvSybNDDWgfZjY0_ZzdN-aMbOaS1-sM0kWHAKX3YkTD5POhvy61HxMt_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.denewage"
   }
 ]
