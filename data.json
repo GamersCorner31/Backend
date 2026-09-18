@@ -1,5 +1,15 @@
 [
   {
+    "appname": "IDPhoto & Passport Photo Maker",
+    "appdev": "Coocent",
+    "appprice": "$24.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/aPHE65vQUJgjXHZr6lJO1rvJFyf8_t3NYj8yHvX4dwlSspxe4VLg8Sb7JEEJEyH4WrAgAWAl6-N5UOJASHlmUoqli-dflnwxO11eEDkHMLGxD6lozQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=idphoto.ai.portrait.passport.pro"
+  },
+  {
     "appname": "[365fun] Match3D",
     "appdev": "wind",
     "appprice": "$1.10",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/8KywDbm-QnyICeGkLRTHiJIsV5WoJY1k6jqn-Uzpy_tt9CEPaEVFbCLk7ObEuoyG5YqIilz2R2cQP2q60v6ipYvfkO9z6vVojcP3-Qjc9ZqPUMT8Og=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.War1945.SkyShooter.ShootEmUp.Pro"
-  },
-  {
-    "appname": "InfoGraph Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/2pfRHA2TGkj0etF126Cc7oe5qY-zQL9g_IFgn8D-XwDSSvgCmCbiijzRH1mqNZ1v8L_EF64tbe9p-SYTV-NDVCCcuLLg8nr1T9wcqEF3fEJzrzg1Cg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfinfograph"
   }
 ]
