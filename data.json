@@ -1,5 +1,95 @@
 [
   {
+    "appname": "King of Defense 2: TD Premium",
+    "appdev": "JoyUp",
+    "appprice": "$2.89",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/g3PFjJ_VehoSfeoBY9Dua2GUhdd3hRmIgOQiRz-IV7ttlY7LxE4EV5MgaMv3ThTDwwd-6mGCz4B5CwIIUoGTuOt2yr9S15Vasi_V5rdOzLGcaOua=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium"
+  },
+  {
+    "appname": "Space Shooter: Galaxy Attack",
+    "appdev": "Unicorn Studio Official",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
+  },
+  {
+    "appname": "King of Defense Premium",
+    "appdev": "JoyUp",
+    "appprice": "$2.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/f1w9234A7IbkXzZsrbT5QBvDqTdRuqNo0qiCMIH7StQoUP92j-NrQYBywpOzUv1dwvWmD46BSybQDEyE-Aj0awwn8XGSbBNkIPPK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gcenter.kingofdefense.merge.tower.td"
+  },
+  {
+    "appname": "Grow Spaceship VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
+  },
+  {
+    "appname": "Epic King Heroes: Premium TD",
+    "appdev": "GCenter",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ftxoqGS4ROUQJZGEAGYPtC-yVW9KaHZ2vkPKFgu_Dazg3RrGFP-77ZiScRJZR0X0dClzVfrj9ItvsppfpAhAfU-BOMDBVf49dzDmnfncm9BlNa0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.epic.kingheroes.tower.defense.td.strategy.Pro"
+  },
+  {
+    "appname": "Star Blaster: Offline Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OLz8qxpy_jWca7aYS2lIiOah3xN4dmBkqWjp-YbEyf5WYif9kUzPvkQ0Qz9m1FheGQpfCnVIektg6-Z-ZjCyIZc8MA7FKSoy2SCWN4qVbYCsyFtd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.starblaster.athree.epl.gp"
+  },
+  {
+    "appname": "SciFi Survivor Premium",
+    "appdev": "JoyUp",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/VBLcyX0pehCAA9T657iDw2KOHqFxjAL4Gp-5vlOD1eLMjkOQjCbvFWplJ52X65llBFH-bfRU57N-NpJspMrOFmBeJWcAbmlYC2HtCNn1Im9UjXN-qg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium"
+  },
+  {
+    "appname": "Word Arcadia: Word Search Game",
+    "appdev": "PlayTake Studios",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/3I2hrZFAz12DT-N00Ui1Ix0R_gbHRY_nmeyXeJ68xIev5VQ_pbu1dD0yyH8zFyGqD5BbqAU0Bnq-JgH0ALSY9E-ewA6MQ67zgyX0zbSI8hzIaWLUjQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.playtake.games.word.puzzle.prime"
+  },
+  {
+    "appname": "[365fun] Fortress2",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
+  },
+  {
     "appname": "The Hearts PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.49",
@@ -160,16 +250,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.simpleclockwidget"
   },
   {
-    "appname": "Bright LED Flashlight Pro",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
-  },
-  {
     "appname": "Bubbles Charging animation",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/1pyFBn5dEsuMuWmj3BbBn8UA6V3QMpr-l3mCLI9KEU03bxtq-Et6TDfot-ycpO4GFvB0zD3eAsJhnhfuTWUgFLpCDy9tF00Zvv8scrnBpI_EitI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.JoyUp.Defense.Legend3.Premium"
-  },
-  {
-    "appname": "Cyberpunk 01 ZKin Watch",
-    "appdev": "ZKin",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/60UgnnIKlY5rRAzSoWVK3sPAV_C9xynhQzlHTCiMu_cM-TXGph855lz2VE5lHyanYj21qlXa-XVLy2HnlzWX_CRCn3YMqY6DbFuCQyPjkDgKxqI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.Cyberpunk1"
-  },
-  {
-    "appname": "Defense legend 4 HD: Sci-fi TD",
-    "appdev": "JoyUp",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
-  },
-  {
-    "appname": "Zombie Age 2 Premium: Shooter",
-    "appdev": "RedAntz",
-    "appprice": "$0.49",
-    "apprating": "4.2",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
-  },
-  {
-    "appname": "Shadow Knight: Ninja Fighting",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
-  },
-  {
-    "appname": "Stickman Warriors Dragon Hero",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
-  },
-  {
-    "appname": "Stick Warrior SuperHero Dragon",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
-  },
-  {
-    "appname": "Deep Space: First Contact™",
-    "appdev": "Infinity Devs",
-    "appprice": "$1.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/frNBOBAjCFChpfybdO715d4LslRbI5fnkGkWm2OIgJkqgOf0jkQ1NgZjC4qKx3lmafQCNFYcMKbff86R-ICzhUgeNErdXIJfyA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinitydevs.deepspaceprem"
-  },
-  {
-    "appname": "Sketch Me! Pro",
-    "appdev": "XnView",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/H5lv65tH4fPa4Lu2agpi1vyVwru5CY4qbjzqbdJIu2lJ2XqAH47cxQbfuNE2AzWaHCY8C0jijKngAgRe4CMW-ydJtWCxFCuJ2Bk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.xnview.XnSketchPro"
   }
 ]
