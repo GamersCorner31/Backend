@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Breezy Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GmvR0K5w8JctxKFzLAUB6Y2uMxahZWajFjEDMW-5YrHBf7cYMLAGjTTGy-ZByC1rDLPWDCOTmD7Jw6tUGV7zjUzxZ_SDbYzAeZKfcUlQXkV2MyU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.breezy"
+  },
+  {
+    "appname": "[VIP] Mr. Balcan Idle",
+    "appdev": "SUPERCLAY Inc",
+    "appprice": "$9.99",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
+  },
+  {
+    "appname": "Last Hero: Zombie Shooter Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/gfMXecCIiz-mufoYyylbeEMf8p3meoNj-S1-Rfe3pUtgtjGF1ZVF0Z0HgxcNnswOgnVA5GRXmFbcXo-Iz6gSmlovq_adIuKRwjC0VU-hraH_5Uev=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.hero.pro.top.down.zombie.waves.shooter.games.roguelike.apocalypse.archero"
+  },
+  {
+    "appname": "Sound Meter - Decibel Meter",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
+  },
+  {
+    "appname": "Elastic World",
+    "appdev": "Monkey I-Brow Studios",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/yUGBAdq9yBfTLlsbZK19Z6QlvIyR099RRQ29D1y-Gc43lDXXVwNSWO67yFYObZxNe6FXdhm5VsHHv1QK53EShCrmxcSMPeFt5Uw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elasticworld.full"
+  },
+  {
     "appname": "Dark screen filter",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -48,16 +98,6 @@
     "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
-  },
-  {
-    "appname": "h1103 World of Rainbow",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Y0BvbscSPn6cHem8Tsr-atqYJve51j3WUpHqWqoHQ3bZysf4xJ88O-yRhG-jz4Xk6gweInfbGZr3FVFyviz6lEL7caOfz5UsxXtoVXnTu6x2gVI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1103"
   },
   {
     "appname": "King of Defense 2: TD Premium",
@@ -150,16 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
   },
   {
-    "appname": "The Hearts PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/khJM2XukCeThB18U644NeC5VhIpKL7VAHS_Tn1_DVVi4fbTmCH_nCdOB_TthYyeVZSpKkh6mU5Vnz0Wvud8Fx0BQ2_SzCt2Ebw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.thehearts"
-  },
-  {
     "appname": "FASTAR VIP - Rhythm Game",
     "appdev": "NextDoors",
     "appprice": "$0.99",
@@ -168,26 +198,6 @@
     "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
-  },
-  {
-    "appname": "Shapy Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Px0XaQ85FuiPxkZoG6eC7Dkjk5eoZv4LukfY2uBtviw9Dh5I37BgPGMOg9XuPWbS-N2C3w2LHgXoPP6CmovrzILqcFjoOhLDcvk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.shapy"
-  },
-  {
-    "appname": "IDPhoto & Passport Photo Maker",
-    "appdev": "Coocent",
-    "appprice": "$24.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/aPHE65vQUJgjXHZr6lJO1rvJFyf8_t3NYj8yHvX4dwlSspxe4VLg8Sb7JEEJEyH4WrAgAWAl6-N5UOJASHlmUoqli-dflnwxO11eEDkHMLGxD6lozQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=idphoto.ai.portrait.passport.pro"
   },
   {
     "appname": "[365fun] Match3D",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Y0S5Lc24-1JJhm08cb-vv_OjMMwukT6kbgw_2_1DkouGO1KHRaYFD-R47NleAbBcEfMg2_DeSv6Wx2nL2WwaLYIa9NdsyUtz24M5LWCIioTy14xwEg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nambuladock"
-  },
-  {
-    "appname": "Avalar: Shadow War Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
   }
 ]
