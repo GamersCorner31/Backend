@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Word Crash PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/F09VjQxSAOweaesfOktVOaVDS72H2MJw1tjy0h01On0exHepLyjmu0usDdwEb7T-tuXXOs6RXJuozGSIzeYfFWDElKrMfNzBj-9F=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcrush"
+  },
+  {
     "appname": "Blast & Smash: pop joy cubes",
     "appdev": "GiftBox Games",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
-  },
-  {
-    "appname": "Lines Circle - White Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
   }
 ]
