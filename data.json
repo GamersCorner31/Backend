@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Full Battery Alarm",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
+  },
+  {
     "appname": "CircleDock 3D - Icon Pack",
     "appdev": "GomoTheGom",
     "appprice": "$1.49",
@@ -208,16 +218,6 @@
     "appurl": "https://lh3.googleusercontent.com/gfMXecCIiz-mufoYyylbeEMf8p3meoNj-S1-Rfe3pUtgtjGF1ZVF0Z0HgxcNnswOgnVA5GRXmFbcXo-Iz6gSmlovq_adIuKRwjC0VU-hraH_5Uev=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.hero.pro.top.down.zombie.waves.shooter.games.roguelike.apocalypse.archero"
-  },
-  {
-    "appname": "Sound Meter - Decibel Meter",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
   },
   {
     "appname": "Elastic World",
