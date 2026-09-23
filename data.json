@@ -1,5 +1,15 @@
 [
   {
+    "appname": "SamWatch Digital Final 6",
+    "appdev": "Samtree",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/3DYkDxMI_P-yJVQrZsxx-IkncSAi0xA_Q4FanJBTFHQoKToJeCkanC8CfQUEVYh1ccM3mYNQWciS68rOyJdgFD11MKol3iXESMg2PSA5E26waaQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_digital_final_6"
+  },
+  {
     "appname": "Live or Die: Survival Pro",
     "appdev": "Not Found Games",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
-  },
-  {
-    "appname": "[365fun] Match3D",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9leU7HHVFmG4RsfQrcWAuqy8oiRq_MnsRCH2FKreckBQ4h2z-NI82tR5pB1acuIndMI7IFptRL4dlQUXGxnfdfoCscKa326_JjgeXCNomMVKginD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.match3d"
   }
 ]
