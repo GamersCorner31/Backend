@@ -1,5 +1,15 @@
 [
   {
+    "appname": "h1402 Forecast Modern Space",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/oXL6lJo6CxAHOHkuY3qwz7le_iRDaaEocz7Oj0PGbaEo3I_RKL8Qjrewnv917kRZLcDuQIPWYn8Yq7nfvcGnz6X89TZilMPLD79UdpEZZc7Sc2_rnQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1402"
+  },
+  {
     "appname": "SamWatch Digital Final 6",
     "appdev": "Samtree",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
-  },
-  {
-    "appname": "FASTAR VIP - Rhythm Game",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
   }
 ]
