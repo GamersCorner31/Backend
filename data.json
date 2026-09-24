@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Chicken Road 2",
+    "appdev": "CanvasTime Studio",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mCt6Dq7wnlzG5GsT2t9p-tfzWSHvO6DD5QTQmqkqazHLK09gXCi-b6iwVZ4GCWEiu0I90CXfs4vm385n2EIir6xU_H4LGx5czDvsfl0WkE4S1dQj9g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.bratado_cts13"
+  },
+  {
     "appname": "Atmospheric Watch Face",
     "appdev": "Time Design LLC",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
-  },
-  {
-    "appname": "Epic King Heroes: Premium TD",
-    "appdev": "GCenter",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ftxoqGS4ROUQJZGEAGYPtC-yVW9KaHZ2vkPKFgu_Dazg3RrGFP-77ZiScRJZR0X0dClzVfrj9ItvsppfpAhAfU-BOMDBVf49dzDmnfncm9BlNa0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.epic.kingheroes.tower.defense.td.strategy.Pro"
   }
 ]
