@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Atmospheric Watch Face",
+    "appdev": "Time Design LLC",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/CFDwUSwdaE27io6kf58_NfMv-dzF7BYT6smbb0ydM5_ReuNz1E8xONPX28ZCo0xhHqZzpyOzrLb3sZKo8k1fAHtU11o823FgneVfzCEAhbvN2Drptg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.alexeymorozua.atmosphericwatch"
+  },
+  {
+    "appname": "Chicken Road 2",
+    "appdev": "CanvasTime Studio",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bjrFry3hQEOUTXUqspy7PgSHpTRmnzVOH67r8NFeWaKNz1n_cK7TkCYo1Sl6jMU5mtPV6_10WxEF3DIL506dRbnwss_uXbaAzkUwQwTeklShTNKv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.canvas_cts07"
+  },
+  {
     "appname": "Incredible Box - RollingPuzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$12.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ftxoqGS4ROUQJZGEAGYPtC-yVW9KaHZ2vkPKFgu_Dazg3RrGFP-77ZiScRJZR0X0dClzVfrj9ItvsppfpAhAfU-BOMDBVf49dzDmnfncm9BlNa0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.epic.kingheroes.tower.defense.td.strategy.Pro"
-  },
-  {
-    "appname": "Star Blaster: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OLz8qxpy_jWca7aYS2lIiOah3xN4dmBkqWjp-YbEyf5WYif9kUzPvkQ0Qz9m1FheGQpfCnVIektg6-Z-ZjCyIZc8MA7FKSoy2SCWN4qVbYCsyFtd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.starblaster.athree.epl.gp"
-  },
-  {
-    "appname": "SciFi Survivor Premium",
-    "appdev": "JoyUp",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/VBLcyX0pehCAA9T657iDw2KOHqFxjAL4Gp-5vlOD1eLMjkOQjCbvFWplJ52X65llBFH-bfRU57N-NpJspMrOFmBeJWcAbmlYC2HtCNn1Im9UjXN-qg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium"
   }
 ]
