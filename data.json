@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Incredible Box - RollingPuzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$12.99",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/vP8VKjOQTxPsNRTdEcHCVLqyB77fQ8KcIJ1EkiqOoMSd8sWwi1H2P1UxUZy8rTxBZ5rZ9kpPz4UOo4hrcfv4fa0aYGrJxp_eYxrbysAHkADpY6M=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownporjectx.cube.rolling.r"
+  },
+  {
+    "appname": "Water Sort - Color Puzzle Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
+  },
+  {
+    "appname": "Jewels Charm: Match 3 Game Pro",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$2.99",
+    "apprating": "4.9",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
+  },
+  {
+    "appname": "HD Wallpapers Gallery",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/KFO_fJgRmyriyrDNcRQwtBOY_ztyaNw_1smhKcjSNjgXjXxxtdLIMQQvgDERoUYha-dXrtY5d0Gtsr6sVtigTzHDuqSOYmsFKBq1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.wallpapergallery"
+  },
+  {
     "appname": "h1402 Forecast Modern Space",
     "appdev": "Happy Watch Faces",
     "appprice": "$4.49",
@@ -8,16 +48,6 @@
     "appurl": "https://lh3.googleusercontent.com/oXL6lJo6CxAHOHkuY3qwz7le_iRDaaEocz7Oj0PGbaEo3I_RKL8Qjrewnv917kRZLcDuQIPWYn8Yq7nfvcGnz6X89TZilMPLD79UdpEZZc7Sc2_rnQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1402"
-  },
-  {
-    "appname": "SamWatch Digital Final 6",
-    "appdev": "Samtree",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3DYkDxMI_P-yJVQrZsxx-IkncSAi0xA_Q4FanJBTFHQoKToJeCkanC8CfQUEVYh1ccM3mYNQWciS68rOyJdgFD11MKol3iXESMg2PSA5E26waaQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_digital_final_6"
   },
   {
     "appname": "Live or Die: Survival Pro",
@@ -200,16 +230,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
   },
   {
-    "appname": "Word Crash PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/F09VjQxSAOweaesfOktVOaVDS72H2MJw1tjy0h01On0exHepLyjmu0usDdwEb7T-tuXXOs6RXJuozGSIzeYfFWDElKrMfNzBj-9F=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.premium.games.wordcrush"
-  },
-  {
     "appname": "Blast & Smash: pop joy cubes",
     "appdev": "GiftBox Games",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/VBLcyX0pehCAA9T657iDw2KOHqFxjAL4Gp-5vlOD1eLMjkOQjCbvFWplJ52X65llBFH-bfRU57N-NpJspMrOFmBeJWcAbmlYC2HtCNn1Im9UjXN-qg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.SciFi.Survivor.io.Firenow.premium"
-  },
-  {
-    "appname": "Word Arcadia: Word Search Game",
-    "appdev": "PlayTake Studios",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/3I2hrZFAz12DT-N00Ui1Ix0R_gbHRY_nmeyXeJ68xIev5VQ_pbu1dD0yyH8zFyGqD5BbqAU0Bnq-JgH0ALSY9E-ewA6MQ67zgyX0zbSI8hzIaWLUjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.playtake.games.word.puzzle.prime"
-  },
-  {
-    "appname": "[365fun] Fortress2",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
   }
 ]
