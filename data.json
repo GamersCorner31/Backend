@@ -1,5 +1,155 @@
 [
   {
+    "appname": "Bulbs - A game of lights",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_eyqTLfUVC78XgGDkkqpFVreFXEKDFT0PBvCvbbt9Dzl2N7ltleZkTos-n7Qmc-B41ffZd52s2q_q0ysdx23lCeT5AC8f7nyi8sY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.simonsaysrememberandrepeat"
+  },
+  {
+    "appname": "Crazy Calculator Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Z6TW9flspip3PEYSU6O9fMdXH45o0tr7oXgpTI8wwITKKKF4JNb9D7tgzyKrhHXa8-TlXsCLgZw8QLI3QyXksw4_JMAOyywfr3Y6cgmBaz5PGb73=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.crazycalculator"
+  },
+  {
+    "appname": "Speed Math - Mini Math Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/H9Ok_Oi672NJbFjC78yie_LYsLWjTQU0VEdbFQcD9uf1SKnQz6jnFbxqD9-v55sXGP-qaOZ4lLTfDuPSs0FHljVCB9AMLqWAfQg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.speedmathpaid"
+  },
+  {
+    "appname": "Space Rush",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YyVYDBCr2Hdw9YRNq-lSv3uWf22HziLIj5nl2M9iqdy1Xqd7vI8peFWX4V6sAkFn6KwYeDckrW38P0YcTxaGdd2bixZnca6uzZ4USCoBzb6IavQp3w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spacerush"
+  },
+  {
+    "appname": "Traffix: Traffic Simulator",
+    "appdev": "Infinity Games, Lda",
+    "appprice": "$2.49",
+    "apprating": "4.6",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/B4gYqx3m3nwCPAWbPjhnTIRqzC1BAekKM6JBaL2YlDf0wb58mvkJiYWb6SWN58lrBkAVrKPmc4Oiee4DYYsQ6IkqRRlAeyDcFoGM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.traffix"
+  },
+  {
+    "appname": "Block Blast - A Retro Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
+  },
+  {
+    "appname": "Emoji Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/S7v3HXqSP-4mlrhQ5Bz27KPRPJ39dLOcQFW_SwCGmQmoJS5COHvzolerz6gR5Yfqq7U0RTqceG-DC8qtqvnwUuOYGDNqRD2gOjYEyKww57bqCAz0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.emojichallenge"
+  },
+  {
+    "appname": "Logo Guess Challenge",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
+  },
+  {
+    "appname": "Spelling Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$3.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/SqtuR7jx98Q6cLdpJN7YsSyYrgsrQEhVkdiCey94u-dMGGLNV3Bs_k5WzPmRjnWvr8hv2EMYsuElZir64D5le1BhWMbG3vVW93Ox7mxmG34DOjj7SA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.spellingmaster"
+  },
+  {
+    "appname": "Trivia Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$4.49",
+    "apprating": "3.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0xmVvTg4P7DGa1IOce83WMD1VO1gU9H74-tTiK14J8V68veIVePDWA50HhdfXvelm5g_3ZOuWe4pTdcMzORJ8ChiNZ_fL2A3DwNjhbe7gpDsmqgrwQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.triviamaster"
+  },
+  {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "DevVision Games",
+    "appprice": "$6.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
+    "appname": "Tap Rush - Reflex Game",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.2",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
+  },
+  {
+    "appname": "Conversations (Jabber / XMPP)",
+    "appdev": "Daniel Gultsch",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Auc8uO5A7i_Sy8hQq1aq6E6sROy8U5ynWpPYW1ZS_0Wm56DKRyiGsTumbg2_43jRoRfuc3JpHbkIVRmRiwDwlAP46LRHtPPpEAw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=eu.siacs.conversations"
+  },
+  {
+    "appname": "Image Cropper - Crop photos",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/xHJ190I82OPKH-zIVRgRVNQ1LORFXZ-iYbmH2InIpdhxyGxeaICJaDYIubP9_DT5ZfTOar_PoaN4QxsZH5m-i2RsivhPUedxTVagRgcn8-bbUVhZzw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
+  },
+  {
+    "appname": "Word Search Champion PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
+  },
+  {
     "appname": "Chicken Road 2",
     "appdev": "CanvasTime Studio",
     "appprice": "$0.99",
@@ -68,16 +218,6 @@
     "appurl": "https://lh3.googleusercontent.com/KFO_fJgRmyriyrDNcRQwtBOY_ztyaNw_1smhKcjSNjgXjXxxtdLIMQQvgDERoUYha-dXrtY5d0Gtsr6sVtigTzHDuqSOYmsFKBq1=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.wallpapergallery"
-  },
-  {
-    "appname": "h1402 Forecast Modern Space",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$4.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oXL6lJo6CxAHOHkuY3qwz7le_iRDaaEocz7Oj0PGbaEo3I_RKL8Qjrewnv917kRZLcDuQIPWYn8Yq7nfvcGnz6X89TZilMPLD79UdpEZZc7Sc2_rnQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h1402"
   },
   {
     "appname": "Live or Die: Survival Pro",
@@ -258,145 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
-  },
-  {
-    "appname": "Blast & Smash: pop joy cubes",
-    "appdev": "GiftBox Games",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/3Dj61j6wJqTNuZxbXvUwaCRwsiIM07TN13d_--QJelmZwR8f9svLIr4NsaGKSPtwXHr6A2Tl-lNRPiXe1Ubx55pjZMWhRP32TGUtCV3WDvt5lrk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.giftboxgames.blastandsmash"
-  },
-  {
-    "appname": "Breezy Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GmvR0K5w8JctxKFzLAUB6Y2uMxahZWajFjEDMW-5YrHBf7cYMLAGjTTGy-ZByC1rDLPWDCOTmD7Jw6tUGV7zjUzxZ_SDbYzAeZKfcUlQXkV2MyU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.breezy"
-  },
-  {
-    "appname": "[VIP] Mr. Balcan Idle",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/f90mLz6yonYrHYOH3ZvdLu-RIY8ESEVUcQfiPCZDHp_TgftkAFlwauti7KWMvqS7sxrvb_9Oo7x5ylO1giYDT4X1QLoAra9iP0FkgTbh2xutL1B2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.vipbalcan"
-  },
-  {
-    "appname": "Last Hero: Zombie Shooter Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/gfMXecCIiz-mufoYyylbeEMf8p3meoNj-S1-Rfe3pUtgtjGF1ZVF0Z0HgxcNnswOgnVA5GRXmFbcXo-Iz6gSmlovq_adIuKRwjC0VU-hraH_5Uev=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.hero.pro.top.down.zombie.waves.shooter.games.roguelike.apocalypse.archero"
-  },
-  {
-    "appname": "Elastic World",
-    "appdev": "Monkey I-Brow Studios",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/yUGBAdq9yBfTLlsbZK19Z6QlvIyR099RRQ29D1y-Gc43lDXXVwNSWO67yFYObZxNe6FXdhm5VsHHv1QK53EShCrmxcSMPeFt5Uw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.elasticworld.full"
-  },
-  {
-    "appname": "Dark screen filter",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/6pDLO2afuRRGdVp3SkyuOW9bCpiIKJt6Ctt6G-a9py2dTyU0YDb5Khg3dxT2oJwASliz3oPCX46k74WpuKMyxvzKHiHQMjTAw9Yt4Os1hThtY2vwfA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.darkscreenfilterpro"
-  },
-  {
-    "appname": "Tower Defense: Epic Turret Pro",
-    "appdev": "MAY STUDIO",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/9kboZ-Bj0Rb8UdrhOK95wNxtWvv7vexMFFgtqYM3ia_Z_8v-9eAPOo1BEJ2Wy_wrfr9huOTjbXSdqrj8AH6DBpBcDHtFt7WDnQlk4xLB8CgRgzYJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.may.TowerDefense.TD.EpicTurret.Pro"
-  },
-  {
-    "appname": "Traffic Jam Cars Puzzle Legend",
-    "appdev": "MobGame Pte. Ltd.",
-    "appprice": "$4.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
-  },
-  {
-    "appname": "Contact Edge side bar",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5FheGpOQzNyLBkbKupy-VbUoGYAORrEd9la0QjjXjWdx-dYmxrXziuaKKLjMSkTFvE2H6pCgQ9XsIdHH0kQnV8X34T_wvahoYdH9XmD6yvi38EYc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactsidebar"
-  },
-  {
-    "appname": "Survival Island: Ark Craft pro",
-    "appdev": "Not Found Games",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
-  },
-  {
-    "appname": "King of Defense 2: TD Premium",
-    "appdev": "JoyUp",
-    "appprice": "$2.89",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/g3PFjJ_VehoSfeoBY9Dua2GUhdd3hRmIgOQiRz-IV7ttlY7LxE4EV5MgaMv3ThTDwwd-6mGCz4B5CwIIUoGTuOt2yr9S15Vasi_V5rdOzLGcaOua=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.KingofDefense2.towerdefense.TD.premium"
-  },
-  {
-    "appname": "Space Shooter: Galaxy Attack",
-    "appdev": "Unicorn Studio Official",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
-  },
-  {
-    "appname": "King of Defense Premium",
-    "appdev": "JoyUp",
-    "appprice": "$2.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/f1w9234A7IbkXzZsrbT5QBvDqTdRuqNo0qiCMIH7StQoUP92j-NrQYBywpOzUv1dwvWmD46BSybQDEyE-Aj0awwn8XGSbBNkIPPK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gcenter.kingofdefense.merge.tower.td"
-  },
-  {
-    "appname": "Grow Spaceship VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
   }
 ]
