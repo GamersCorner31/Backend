@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Bible Master – Quiz & Trivia",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
+  },
+  {
+    "appname": "The Lonely Hacker",
+    "appdev": "The Lonely Developer Studios - Spain",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/erfP9QLf0-7zQSM2m1uCUcGJs2UL5Q1zcSbnShBeN1WtK3X0PsH4mc-wekIA8iyG1-QZCtTfTGYMhF71RRZeQsJEr0MyDseQIysK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.TheLonelyDeveloper.TheLonelyHacker"
+  },
+  {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
+    "appname": "n-Digital 2: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/T8PwZSO8a2QLHhthqtxRw-4mRO5GBEq2P5-_RMbCJnkwNcI49ZQFxN7fOM9A9C0HhYs-1SBKQXWkQ0fW0OVgu1KTyvU-qS04-c6rLtRWJ6dlSObg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfnewdigital2"
+  },
+  {
+    "appname": "Number to word convert offline",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/b15fQJTyaIp0proyIPYJ9137LhMkjnq1HuGNbD4hxAGLHMhv5RtHNrauvSVXuwcIVoBAjl1GkHaMQUXY3HEH98ZTTYTozo3Fzyk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.numbertoword"
+  },
+  {
+    "appname": "InsideVPN: Premium VPN Proxy",
+    "appdev": "Xylo Solution LLC",
+    "appprice": "$9.49",
+    "apprating": "3.8",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/WPkGUYkG_7OFQy3G1fAczifzm9n-gbuzuWdxRxHpyrqeS5fnujcpsbkovvEqo6xkYca0410fdXDF5aDapjC-jppU3r-YkA6_P7bPKmgaPjHx5vrf=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inside.vpn"
+  },
+  {
+    "appname": "Barcode Scanner Keyboard PRO",
+    "appdev": "Nikola Antonov",
+    "appprice": "$5.99",
+    "apprating": "3.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/S56UNh6GJtTgbo75mSkF83suhRPP_5B2m2GKbRHMp0VSoeHoAvFFeqevkVrBfqo-gFIooPZL1WoyYWTLygkEQXGYPP3fFh9zyqs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nikosoft.nikokeyboardpro"
+  },
+  {
     "appname": "TripleFantasy Premium",
     "appdev": "Gameplete",
     "appprice": "$11.99",
@@ -250,16 +320,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
   },
   {
-    "appname": "Word Search Champion PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/op2eVXPRCuV2Md5GRhzoV73iuecqz2jemsWH1gqCW2O4R27GNsllfjsio1djl0ONwzvyduFkGA4E_lfjEWZ8juCQvPFP61Lj_IA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchchampion"
-  },
-  {
     "appname": "Chicken Road 2",
     "appdev": "CanvasTime Studio",
     "appprice": "$0.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
-  },
-  {
-    "appname": "Full Battery Alarm",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
-  },
-  {
-    "appname": "CircleDock 3D - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/ZJp9KGKYENvrXqVsl3smJUm6cXT_Xe2qA5r6JDj36fQCnAFPgX3O93xvoC4euR7K3_irHQXdb9UKV2ol534t_MHfzUmesSa2vw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dockcircle"
-  },
-  {
-    "appname": "Hexanet White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/G5sffgDxmRgRtqzmNamFYJ_-OQFf6n5yFhCwdbM3HnfksM656Udy6eYZi4GkmtugheQG3MGgg7hEsSrRB3XG3jUURy0D5Ad2nL0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.hexanet"
-  },
-  {
-    "appname": "Hexa Crop - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kjk51FeRS7GY25ENnC7eOOT3tn3g_krD_eNfDMyevGbZZv2b2tWqIUqK1WPWODLnmEQ0IdurIMF7cfwAVl-pbyHqvvi-rBHzIhQP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticonh"
-  },
-  {
-    "appname": "Hexanet - Neon Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/SpBsvHruAavj1pFzFzdv_46Yctrk5f7QiIdPof6l2fyCHJoqxCnTdhuqGP6XjXKB42iD2_-lWxnqArgKSNrXvP43CiNhQ975fSv2aqowhF4dPi5C=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.hexanet"
-  },
-  {
-    "appname": "Sudus - Hexa Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/AYX722iw_8UiTNtVZVh8lZTycNLSu00Nd7tkkVf7m05KONqT-l2E32Ueq8fDNCuNtQeGNayra4JpTocTo8b6Qqk4s5eTFCU7QnQ1MCpqP0iOWmQu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.sudus.hexa.iconpack"
   }
 ]
