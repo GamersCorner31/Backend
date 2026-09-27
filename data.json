@@ -1,5 +1,25 @@
 [
   {
+    "appname": "PixiVisor",
+    "appdev": "Alexander Zolotov",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EO4flJjTbIWE8GiXzkWZgT_qOpFcyso-GMZ0-TjXZcRbJcTMhQyY5EbXwQugg5rOtoZhvX4573li9yHsVBXLD-n9s8ZpSEcBNOM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixivisor"
+  },
+  {
+    "appname": "Quantum VJ HD",
+    "appdev": "Alexander Zolotov",
+    "appprice": "$1.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Q-d12XMVuhueic3XmabZHGBcbH66Fm5nWKYWViqaBOVbnfAgvj7zTs0y8AQ7Ln-JE4FXQd0Jl_PIsWSC6x3-eehx0w8QvTkCvJ72=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.qvjhd"
+  },
+  {
     "appname": "Quick Age Calculator",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UdBhZEvgspfg5meoC-tXwZGztkGe9Y5HLXz_9MEttvDDgd3ZTCX2Xp-22NbdRXmjwDbkcEpk_4mrIkmC3UD8zeGPJj6aMip9NZSiWLs_qlR31J8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.IQPuzzlesGames.WaterSortColorPuzzlePro"
-  },
-  {
-    "appname": "Jewels Charm: Match 3 Game Pro",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$2.99",
-    "apprating": "4.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/-M2wuhmV1w67a1Z_j1CGpKHRaoGmOyQPHIOdAAPohRHhs63ECHE-ladKuN2aydsnNNMPQ8DqA7TdzIqgas8JOl_QAsfttvhr7xBou83dSg7qBR74=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.clockmaker.jewellegend.classic.match3.puzzle"
-  },
-  {
-    "appname": "HD Wallpapers Gallery",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/KFO_fJgRmyriyrDNcRQwtBOY_ztyaNw_1smhKcjSNjgXjXxxtdLIMQQvgDERoUYha-dXrtY5d0Gtsr6sVtigTzHDuqSOYmsFKBq1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.wallpapergallery"
   }
 ]
