@@ -1,5 +1,45 @@
 [
   {
+    "appname": "King Of Defense 5 Premium",
+    "appdev": "JoyUp",
+    "appprice": "$1.89",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/FRwcYpweIOFB3TWCwVn8ty6WMaw8fQMCi_BrP5acDqzPjnAWscLs82bdOuYDfrH-Vg48W2-sDSVxutQxuXEk5y3fR3a28YhI4i7ouAQy_1BoX0dY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.joyup.td.tower.defense.battle.kingofdefense.premium"
+  },
+  {
+    "appname": "Isurvivor Premium",
+    "appdev": "JoyUp",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tPcXA9sNQ-QyNFWy0dBH5YKrPP9Nzcm4mdEqcfgk_shUNKrwHpej2T2SOCGsaXwu5mTvIVMw74DPA5XA5ORkqWzdaCA_WPzftejDaS8IQQ-ugXhm=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.i.Survivor.Epic.SHMUP.premium"
+  },
+  {
+    "appname": "King Of Defense 3 Premium",
+    "appdev": "JoyUp",
+    "appprice": "$1.89",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/scLACMxdHucHSpKdfbHmO8w_ORqQNy4s3KhEjPedT9pyqLfck4uOoRXzCHSLNnlE-ZrYpm_6KQTQK6dwk_CzG7iA4jtkXCU3XS38FyIXVHPEbXc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.King.of.Defense3.Suvivor.TD.premium"
+  },
+  {
+    "appname": "Beautiful Line - Maths is fun",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/saOECQjq0E4d7yMp9bpVhG04pBTUYXXZYhmxVEvnDcAR4YndyrFqnqByPErK6Isem-ZwXpZ8Jb_UE_Kb5JPhF8AGOZyaYwW6WfLxcG5CCIw_isk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.drawingline.r"
+  },
+  {
     "appname": "[365fun] Mountain Climbing",
     "appdev": "wind",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
-  },
-  {
-    "appname": "InfoBlock Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/K_Za9GvovfnRBEqL7K_4VYOu-gVhuJdSCc-vF602J1oCpnpDmHbZBvkA7So2ArDLphLewY62517LbSHWjKks7-AcJmSOBSNkSWLhda3r76NU-ybmvg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.infoblock"
-  },
-  {
-    "appname": "Evertale",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/MV3yO8Pe03nI_K6_eDFj8wvJ3bUUDbJZxmKWhesAFoeywC9hQcm784lQAh-12TvVwTAd7Fa1zS05cVKu0TSsA-2ZuU_2f76rMQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.evertale"
-  },
-  {
-    "appname": "Truth Or Dare Pro",
-    "appdev": "TRYONI ARTS",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/DEgpu4Bm-WJ2j6qVFE9BGD4FxL3W5rvoYXzm118-QLu1HJE24cuiYm7T8O2zyODybGxHm7QfB_D7KZjf3BzXtEFI1WvYiFtniYtPb-N6JvbioCn_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.truthordare.noads"
-  },
-  {
-    "appname": "Tokyo Debunker: Urban Legends",
-    "appdev": "ZigZaGame Inc.",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
   }
 ]
