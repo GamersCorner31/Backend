@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Stony Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/wiGJBYeqmpCb_teQ-_YCtaPN81TlbbyAsthZwOPpuNFmBopuMzr3ciHnOGcy-aty1M3_uFN89loL2E0RNUmvcmu1uz4nJaWQvOM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.stony"
+  },
+  {
+    "appname": "Mohawk Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/d0jKYHwkRfSc9XLXp-xsbIAzGqEn91HuAs2Z8-ho37cYaU9gN0240staRYMYOA1nXlUWLNwkMP1Z1VjZWixqalgrDtTaGG76UQHQU8nY5Dyh6m97Sg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmohawk"
+  },
+  {
     "appname": "King Of Defense 5 Premium",
     "appdev": "JoyUp",
     "appprice": "$1.89",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/gp5L217bU7zmEgTNY98b9QvEr5dVbhiJZJaFw4xNb81m2xoqsEO4QcjGBHNo40LJK_Rp1g1L6WqsHK452V3HZAeaRyA713M6WgjZZ_pREudj8lOr=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.staxel.premium"
-  },
-  {
-    "appname": "Division calculator Premium",
-    "appdev": "Andrei Brusentsov",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/aM2wAeqBiQQ_dNTFy16CNhYrc2d6FYgWHSaKCaGcpyWzETaF_pAnSLFDQqO_ltBO1WxuJpPfqKVnFFWjgTdwsjSmLhXy16zwu-VvA2M1IMGTlzOWPQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=andrei.brusentcov.schoolcalculator.premium"
-  },
-  {
-    "appname": "Brain teaser puzzles",
-    "appdev": "ExoPlay Interactive",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/0gotxod71MmQ-zYgb23Eh2VZXlYZiL-1TvBDwYOuwNk6Y4-BAjz7uHPWosyID5quV98EuyXo124OhCeEGAwzy_t77bRAuB0dKejOuOBRoaQ3bHby=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GameZilla.brainteaserpuzzles"
   }
 ]
