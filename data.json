@@ -1,5 +1,25 @@
 [
   {
+    "appname": "White Room",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
+  },
+  {
+    "appname": "Shadow Hunter: Offline Premium",
+    "appdev": "EA Publishing",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
+  },
+  {
     "appname": "Box Head: Roguelike Premium",
     "appdev": "PANTHERA GLOBAL",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/GldT5GI2jNjHtiD_NnceBvOCr97UbGu64GS8gGA49XjuUiznIhE7cg-0lK54YC7rIfwEiOix4i3dEbEaEPalTWWnnZKDQt5GwRqks6R-JZqa-b0IDQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.agile.bridgecompanion.st"
-  },
-  {
-    "appname": "Sportive Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.99",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/d8RI3i72cG3BtAsVNwQlAfR-N-WMuXgFX5SjlmvBxHeh2Qsq6erlxipRQjUBcn9qgc1LfGfkeX30ILtgGcz6ZwXfxrkgOoFJd21nYXodn80Cd68r=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.sportive"
-  },
-  {
-    "appname": "ULTRA REALISTIC grass sim",
-    "appdev": "AhmetEmre",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/BATOPCLBfEGSXA9YGxQjmFkuV3Mmnek7CrZRz-vj6oPZdava-qf3v8HHiBOQ4wUl45aehI7PSBqenw2sB5iGKYOObbTI6EbM29gYXjRtuXXeEJdZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.basitce.otsim"
   }
 ]
