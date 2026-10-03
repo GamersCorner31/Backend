@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Box Head: Roguelike Premium",
+    "appdev": "PANTHERA GLOBAL",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/LfF2-WVxqGQoPN2QFkKjP37ehI4U6kIfPeqXTK5nqzlvHPWMg1A2wCIN2205fnW8bdmW8FIABRmxaY7C-Uu3mN4Wurrl1UZx3FqT4miqlH1yyVBZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium"
+  },
+  {
+    "appname": "Undead Slayer: Offline Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
+  },
+  {
+    "appname": "[VIP] Missile Dude RPG : idle",
+    "appdev": "Artifact Games",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
+  },
+  {
+    "appname": "Grow Zombie VIP : Merge Zombie",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
+  },
+  {
+    "appname": "PRADO X115 Digital Watch Face",
+    "appdev": "PRADO DESIGN ® Watch Faces",
+    "appprice": "$1.99",
+    "apprating": "5.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/FA0lZ7XyUMuCRNfDVSp--euzsQp0kOVcUAouQzExq0I9aJJReB8teEde1bNrX5Mv02NJdjzytzrar4bs6Hjb4Hqm-jOKBlusICGLigibqoJryBM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pradox115"
+  },
+  {
+    "appname": "Half Slice",
+    "appdev": "Gimdeka",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/M_fQKo7g3FyaY60sRtV4mhXTrW14kPjXmGyVlCR7rObnCP5CkHbLb0KGDS_kxB5Tl4m8gT9kXX1-9Rs3Tm33lhM1t2K8i76KauXQDQGvM6kEJYw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gimdeka.halfslice"
+  },
+  {
     "appname": "Stony Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -330,16 +390,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.sportive"
   },
   {
-    "appname": "Spelling Master PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
-  },
-  {
     "appname": "ULTRA REALISTIC grass sim",
     "appdev": "AhmetEmre",
     "appprice": "$0.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/BATOPCLBfEGSXA9YGxQjmFkuV3Mmnek7CrZRz-vj6oPZdava-qf3v8HHiBOQ4wUl45aehI7PSBqenw2sB5iGKYOObbTI6EbM29gYXjRtuXXeEJdZ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.basitce.otsim"
-  },
-  {
-    "appname": "1MB: 100 Games",
-    "appdev": "AhmetEmre",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/9SKPsNLXbNT0Bn187mbPZjU13iriarcSNIotzJJATbpsl2hzZ0bNrFoVXrxxQ9BDoiG6qDEaNlk_lqD-vQ7KCykipdnFNJ726qGGRGentn7D_VrE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.basitce.threemb"
-  },
-  {
-    "appname": "Tech Quiz Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
-  },
-  {
-    "appname": "Braincup - Brain Training",
-    "appdev": "Simon Schubert",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
-  },
-  {
-    "appname": "Health: Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/SnWvqnSlYlyLYLFnui6vyY45NOsupa69JG1M2cOfUu-5fu6vBm6DJ6pZNx8IhZJM8Gn7TwLF88JXX6Ms7B8YdKpWRne2KFTtpO7UWpERYDbziVFuHA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfhealthface"
-  },
-  {
-    "appname": "Staxel: Block Stack Puzzle",
-    "appdev": "Vortex Kai",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/gp5L217bU7zmEgTNY98b9QvEr5dVbhiJZJaFw4xNb81m2xoqsEO4QcjGBHNo40LJK_Rp1g1L6WqsHK452V3HZAeaRyA713M6WgjZZ_pREudj8lOr=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.staxel.premium"
   }
 ]
