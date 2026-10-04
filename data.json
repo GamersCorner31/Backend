@@ -1,5 +1,25 @@
 [
   {
+    "appname": "ML2U 282 Watch Face",
+    "appdev": "ML2U",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/FUsg-__gcDafvfFgi4iboH6FUpKJd4kOrYvgGV6_NRhe5_ueIHAWS_8Lfm7-5NxU24vU-Ob-UG8-wgN2I5gN_bVG5Ko26PMQI_1iWEU8MlUS-wm4cg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u282"
+  },
+  {
+    "appname": "TRON Dark: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/dr-TBoGGdlHAvbcxX961KAkpIrlXkCGEX1-yMQ5ECiqdQQfgy6HPNnqNo9cvBSGgmblPvmHArzvudokbs6w-QfcmcpuC-bYcF2vKd2FV3qyJFGns=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awftrondark"
+  },
+  {
     "appname": "Spelling Test & Practice PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$1.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PS_lh8cMbL4fdW6FtIeSbT1k6gGpRQUd_2ZR20-7m5WWQ75bP9qh1C8H8q6Ywi9MF445p8yqB6YFqrs-AMdp8UySEf9R2_XIlm6POPsFcZK79K8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.BurningSky.vip"
-  },
-  {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "ML2U 112",
-    "appdev": "ML2U",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/PqGvquJywmUjaz1OU8yRXvjuQb5rYO8heRn6EXbgWEa7_mUJMFodCrowzCO2U780MfIWf6vTCM8pA_WFbal83qLGnKaOEVG0WLGjsYYSVIM5YRo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u112"
   }
 ]
