@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Spelling Test & Practice PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/dJLc5ge_JIM29U_p2TCCAPUBqpl634_xjMjamfFMORnrt_NGq4qgZcg63csLsSglw8Q1SgFWMBYlxM1JtIxQsxKLPacPzQf_mVg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingtest"
+  },
+  {
     "appname": "White Room",
     "appdev": "Manja Studio",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/PqGvquJywmUjaz1OU8yRXvjuQb5rYO8heRn6EXbgWEa7_mUJMFodCrowzCO2U780MfIWf6vTCM8pA_WFbal83qLGnKaOEVG0WLGjsYYSVIM5YRo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u112"
-  },
-  {
-    "appname": "LCARS Bridge: Trek Companion",
-    "appdev": "Agile Conqueror",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/GldT5GI2jNjHtiD_NnceBvOCr97UbGu64GS8gGA49XjuUiznIhE7cg-0lK54YC7rIfwEiOix4i3dEbEaEPalTWWnnZKDQt5GwRqks6R-JZqa-b0IDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.agile.bridgecompanion.st"
   }
 ]
