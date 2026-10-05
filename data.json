@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Knight Runner",
+    "appdev": "Mak-IT e. U.",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/jPicNPIxYkhsjpc5Z5cBMvmk5Cbv_2E98LcYtdZC3x8D3LHhOSfLRTzLgFZAk9omWLvY8puqATeNw9SpX72DvbHnPiUAXNM5jfbkF9XcOZr48RLq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=at.makit.knightrunner"
+  },
+  {
     "appname": "Auto Auto-Rotate",
     "appdev": "juanitobananas",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/9jqXBWfZRqi-caKhWO1DO_-MSGEtavqt7edPGvN1avlCK-hvkX7J4lIvouSSjCBzN_4llzUb1vxD1dUgadekKOWxRl8whf4rN_h17D0CjMLo3kbS=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.nbtosca"
-  },
-  {
-    "appname": "ToscaLine - Turqoise Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
   }
 ]
