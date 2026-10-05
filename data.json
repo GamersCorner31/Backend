@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Auto Auto-Rotate",
+    "appdev": "juanitobananas",
+    "appprice": "$1.99",
+    "apprating": "4.1",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/nXm1L2WNISf9bmrqyo-BsQsn580edubq6TKFwK8nUwg3PUtxSyZWwjNzJBvjP_1YCDMXxs4wlvCxvhDzSx8BEWqWJZH6wO-44EE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jarsilio.android.autoautorotate"
+  },
+  {
     "appname": "Super Shortcut: Productivity",
     "appdev": "Geeks Empire",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/oK87oAHspltZ4eEnEpSsSYJWbfVedk0XIfo_zp3agmULUWgclK1sJBCtP_BP27iZGAQnN9IZCgT-I4gu-sUvTWoX4E_Aa8ZZLTxUOaetwGiiAH6S=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbtosca"
-  },
-  {
-    "appname": "Turqoise - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/KG8wMW4IjwOB9rqWG8pWnSiSTQ0nHetLYt5LUJ5MQOdH2HuaAYmgv9ofOhRJmw-Ywck_g0WT6DDDOMOPYGyZZINjJ6O7iloilIv5DJkaVilJM8W7GA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.tosca"
   }
 ]
