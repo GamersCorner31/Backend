@@ -1,5 +1,75 @@
 [
   {
+    "appname": "[365fun] Wood Block Travel",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YcxES-HVFA55jUGNifX_4vL6vHIQFGSDS8Nf9ltCmeVuhR6OSDuYztuNFk4KdSoYBJ6SdwLD8_9bkxQhrwM1jEeK0uqNW3oN5nKYUKR9XPpxNg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.woodblock"
+  },
+  {
+    "appname": "[365fun] Perfect 3m",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/5cXZDhVxgGy5u6b4JomKRUQi0AjHqpR6PEbUu6zc015JgW9t-B7DEwLaF7A6ybfCBDUeLpZOPO3mZU5rAHeZu_xVe5GMcx_7TNoyc6K3qu3SN0vLCg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.perfect3m"
+  },
+  {
+    "appname": "[365fun] CatchBee",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9NBotgneqw-ZFmbZafWnC-ax9QUXXLY7iCVImlii9ZuRhmATN0QkVn_N4OlcxKkx-oXBgpWWF0QK9WysYLv9QrzX3Qrzv8s7L-5VBYTsgKlseqJWEA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.catchbee"
+  },
+  {
+    "appname": "[365fun] Color Match2",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DUvRz1Y7R_qZ96Qs_eB9nTVUazO5KAXb96ebxVxuY9GLI7yJ1YcPTtEu7DLt05INdveQDtZ-Lqjb9suXORQJGpkPOXrdMvNq_khjhSjEtSxDle1U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.colormatch2"
+  },
+  {
+    "appname": "[365fun] 2048BubbleShooter",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/hu1uLEgFYM55UiKpYT_vmjWBtm-DcW6ledVMooPH5NKtzeifW21VdtkzSK3nWhK9B4zipbusErkbpMJqwqRW3eir4ucAnmC27EIx4-A2mUUTH9uv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.bubbleshooter2"
+  },
+  {
+    "appname": "Blackthorn Castle",
+    "appdev": "Syntaxity",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/uRHF4psy-8vfb9-kErvVJKmJvU_e9vONLu4eg4N_ShI0C74_CaSD5Qp6KcaZXfwePITHg-yCWcRGf7J4118vlURwXkhfalPSYros=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lonewolfgames.blackthorncastle"
+  },
+  {
+    "appname": "[365fun] TouchTouchPangPang",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/LikUmjYJsWlGCN5YD30z0MfXFvfpTL4rrQukbx3-pZWysnbn8iluqtz9eFBvICRnVkP4kxCbVWZcExMWchK02D_GxWyqkY7POS-bMrdxi-ln_BjA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.touchpang"
+  },
+  {
     "appname": "Notch Effects Notch Animations",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -108,16 +178,6 @@
     "appurl": "https://lh3.googleusercontent.com/i5YeltsFsSp0s-2Bq7Jeaj2B1meHfXkFEuZJQ76RrUs9K9YijwVCwZQYS9_5kupmZpjOWIxVSm57lNgdPWB_NDJvUa3fOxzKeg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=cdev.knots"
-  },
-  {
-    "appname": "Hidden Numbers PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/vtNW68R0mIyz9aRxk-EmrxpyZgUmtSMx-NCAql_3Ng3P3gLVRBdzHc3oTDoltCrEcLJVH0riqvObjBm_0i79k3O7w410xAFMCw8a=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.hiddennumberspro"
   },
   {
     "appname": "Summoners Era: Idle Strategy",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/HGdkQr4B7fls9OsF9bIs9JbTi9re4dkX0584gxzuufRSoyJ-fSs3wM2LlrVKKdb7mi1ehYsCGstQMcQnjN4xX9iW8UakKnUxpxpI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowZombiesVIP"
-  },
-  {
-    "appname": "PRADO X115 Digital Watch Face",
-    "appdev": "PRADO DESIGN ® Watch Faces",
-    "appprice": "$1.99",
-    "apprating": "5.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/FA0lZ7XyUMuCRNfDVSp--euzsQp0kOVcUAouQzExq0I9aJJReB8teEde1bNrX5Mv02NJdjzytzrar4bs6Hjb4Hqm-jOKBlusICGLigibqoJryBM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.pradox115"
-  },
-  {
-    "appname": "Half Slice",
-    "appdev": "Gimdeka",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/M_fQKo7g3FyaY60sRtV4mhXTrW14kPjXmGyVlCR7rObnCP5CkHbLb0KGDS_kxB5Tl4m8gT9kXX1-9Rs3Tm33lhM1t2K8i76KauXQDQGvM6kEJYw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gimdeka.halfslice"
-  },
-  {
-    "appname": "Mohawk Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/d0jKYHwkRfSc9XLXp-xsbIAzGqEn91HuAs2Z8-ho37cYaU9gN0240staRYMYOA1nXlUWLNwkMP1Z1VjZWixqalgrDtTaGG76UQHQU8nY5Dyh6m97Sg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmohawk"
-  },
-  {
-    "appname": "King Of Defense 5 Premium",
-    "appdev": "JoyUp",
-    "appprice": "$1.89",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FRwcYpweIOFB3TWCwVn8ty6WMaw8fQMCi_BrP5acDqzPjnAWscLs82bdOuYDfrH-Vg48W2-sDSVxutQxuXEk5y3fR3a28YhI4i7ouAQy_1BoX0dY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.joyup.td.tower.defense.battle.kingofdefense.premium"
-  },
-  {
-    "appname": "Isurvivor Premium",
-    "appdev": "JoyUp",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/tPcXA9sNQ-QyNFWy0dBH5YKrPP9Nzcm4mdEqcfgk_shUNKrwHpej2T2SOCGsaXwu5mTvIVMw74DPA5XA5ORkqWzdaCA_WPzftejDaS8IQQ-ugXhm=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.i.Survivor.Epic.SHMUP.premium"
-  },
-  {
-    "appname": "King Of Defense 3 Premium",
-    "appdev": "JoyUp",
-    "appprice": "$1.89",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/scLACMxdHucHSpKdfbHmO8w_ORqQNy4s3KhEjPedT9pyqLfck4uOoRXzCHSLNnlE-ZrYpm_6KQTQK6dwk_CzG7iA4jtkXCU3XS38FyIXVHPEbXc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.King.of.Defense3.Suvivor.TD.premium"
   }
 ]
