@@ -1,5 +1,35 @@
 [
   {
+    "appname": "S4U Ancient SE watch face",
+    "appdev": "styles4you",
+    "appprice": "$1.59",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/J6KbNGi4id0b3t09ZGXISLUpuBixvrVSRYJbDasI_Gj5EbOtY1fnbsowFW6L7EhsC564rkyKocL9VxxMfJzwNmoguhq032bwcFm0x4LmJ8hRAIaY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.s4uancientse"
+  },
+  {
+    "appname": "WhitArt Icon Pack",
+    "appdev": "OSheden Design",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/X3qYkUEMIEBdmBEa6r31UfPa2qM30REd6fAm-Foj1JvO_JNe8prYURlAKjFzLM8YEgnpuplYUXBOY5qDsFKiKPq4k6tl0W8CGgGEilD2UffAdkE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.whitart"
+  },
+  {
+    "appname": "QuickPin - Fast Notes Reminder",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
+  },
+  {
     "appname": "Crosswords Word Fill PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
-  },
-  {
-    "appname": "Box Head: Roguelike Premium",
-    "appdev": "PANTHERA GLOBAL",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/LfF2-WVxqGQoPN2QFkKjP37ehI4U6kIfPeqXTK5nqzlvHPWMg1A2wCIN2205fnW8bdmW8FIABRmxaY7C-Uu3mN4Wurrl1UZx3FqT4miqlH1yyVBZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium"
-  },
-  {
-    "appname": "Undead Slayer: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
-  },
-  {
-    "appname": "[VIP] Missile Dude RPG : idle",
-    "appdev": "Artifact Games",
-    "appprice": "$1.99",
-    "apprating": "4.7",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/ikAJ93s6sxRavUcNPgsCjVJ1PtbXrv0Mh8952GANFXeYmjNBbwf65Pe1oFdSx8LzGKLdcKbpCJMdPoYNuql5HNxqeupWwtKX2s8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dd.mk.vip"
   }
 ]
