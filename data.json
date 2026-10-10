@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Fluorescent - Icon Pack",
+    "appdev": "Atanu Sanyal",
+    "appprice": "$0.39",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/WfqfIrlRd7IpRz4sdrWY-8kmgWCxnRJ8KnJTHzBvhqqDfBkxVaWZjlHXyU7qf1ubBByZ6y8WyARcR0TMIaTKhzXdxnhABTUmXNEppwOeMfNKUKB3=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atanusanyal.fluorescent"
+  },
+  {
+    "appname": "SPL - Smarter Player Pro",
+    "appdev": "BRILIC MEDIA",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/LZvVgEerPuSHlVCZ2pRkDLwuAPA1SoLgtCNIC1HVagbKAo35PHmd3lEqi5ozmH4xFXEOxAOOLi328Cst7yi2f-9wpIVgOaOBhiCPDXIGO_qvSrI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=extreme.player.iptv.smart.xciptv.xtream.m3u.live.tv.channels.app"
+  },
+  {
+    "appname": "Soul Evolve: Epic Fantasy Hero",
+    "appdev": "MGIF",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
+  },
+  {
     "appname": "Pixel Blade M VIP",
     "appdev": "pixelstar",
     "appprice": "$1.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Z2pb5ZKft-qjvP2jarDK2Mj-jvV6eRk-oy45KcLPaPYtw3ck62tXzMQXk-hMvnu7zW-tjm5LW1jglARh50jNR2zfTyg4XHOCTIknpiUchMk-BazQjA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhavesh.nevertrust"
-  },
-  {
-    "appname": "Cricket Cards -Tiles Sort",
-    "appdev": "Gamezilla",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Q6ogOpYA-KnUtxKL97hxM-QnG0jxkytN5tJXN1LixqLBcnQfgnn685EFhoatpnSwAxart9RS80HXIexY_MK8jc_NqOeDwUgdxHR2ECaNl5d1l8PJLw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.cricketcards.tilesmania"
-  },
-  {
-    "appname": "Crazy Sand - Live Wallpaper",
-    "appdev": "DotCode Apps",
-    "appprice": "$5.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/6xuJMysd6kRian_7fG2BhVcFKoKUyhMAn8iS6RrPPdoUdjUEtjAF54PN2TGofFK8YUp_pE_GqH7se54IJXUeXpTpbeQ9urUL81tEYakUNsTuhcfY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=cdev.sand"
-  },
-  {
-    "appname": "ML2U 282 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FUsg-__gcDafvfFgi4iboH6FUpKJd4kOrYvgGV6_NRhe5_ueIHAWS_8Lfm7-5NxU24vU-Ob-UG8-wgN2I5gN_bVG5Ko26PMQI_1iWEU8MlUS-wm4cg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u282"
   }
 ]
