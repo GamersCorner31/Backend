@@ -1,5 +1,15 @@
 [
   {
+    "appname": "h601 Gradient Watch Face",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$3.99",
+    "apprating": "3.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/J1xCMOW6sf7sjhPNYI6ro1oHhb6qakD0urcwgDPiEbyoAwunuCbe1A4_NeVgjtqAGMDPYbM19qHcdStJh9c94dJA9ZminSHAzLJfFgmvUynz8H7drA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h601"
+  },
+  {
     "appname": "Fluorescent - Icon Pack",
     "appdev": "Atanu Sanyal",
     "appprice": "$0.39",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
-  },
-  {
-    "appname": "Level Come Again : Troll Game",
-    "appdev": "codeXtend",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Z2pb5ZKft-qjvP2jarDK2Mj-jvV6eRk-oy45KcLPaPYtw3ck62tXzMQXk-hMvnu7zW-tjm5LW1jglARh50jNR2zfTyg4XHOCTIknpiUchMk-BazQjA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhavesh.nevertrust"
   }
 ]
