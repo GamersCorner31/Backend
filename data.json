@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Pixel Blade M VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
+  },
+  {
+    "appname": "Clear Wave - Water Eject Pro",
+    "appdev": "Appchi",
+    "appprice": "$2.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/4K0xIzfCuaVz7uZ_kaQqdoqxMTlZH2ZXepdocikgf_WdKz0YPxGeIcLVFOGSzJgzQG9Yt--DVfRrt2d7acgJMGR0hzOhZRxAxE9P-s4sNkX4KGg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=speaker.cleaner.remove.water.eject.fix.sound"
+  },
+  {
+    "appname": "Resize Image - Resize Photos",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/MVSiBcreCcy8wYMC2ZJ7OPini8A98CREA-BGoyEzW5vk0eZHceNho3nkJ7HPebStguNbjuqY9Zrefi-nZFHvYiQb0yTHJ9PSXGryygzXBTnx-W4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.imageresizer"
+  },
+  {
+    "appname": "Rotation Control",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/0NtVKfd-lD7-H5a5ziXS_w2B3EdwVYIYm2PBqYgK1hfFOmOs9Wrh5lmcIfCFyIg0x4snG47V03-bU19BDznfd4HfRwtEWd3hnEw23V2xuPQQ-w1S=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
+  },
+  {
     "appname": "S4U Ancient SE watch face",
     "appdev": "styles4you",
     "appprice": "$1.59",
@@ -310,16 +350,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
   },
   {
-    "appname": "Spirits Wave EVP Scanner",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/hZZcnUMIB7rLgy49wDz7mlqjF0TTpfEM9WKiQY1cyxk6Rq37CTYUyH0OWO22KaX9oOtr3YgPbp-NfvMvpwur-tNjVw-KDUOVZYUiZ04h5j46Bc-D=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Wave_EVPScanner"
-  },
-  {
     "appname": "Gallery Slideshow",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/FUsg-__gcDafvfFgi4iboH6FUpKJd4kOrYvgGV6_NRhe5_ueIHAWS_8Lfm7-5NxU24vU-Ob-UG8-wgN2I5gN_bVG5Ko26PMQI_1iWEU8MlUS-wm4cg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u282"
-  },
-  {
-    "appname": "TRON Dark: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/dr-TBoGGdlHAvbcxX961KAkpIrlXkCGEX1-yMQ5ECiqdQQfgy6HPNnqNo9cvBSGgmblPvmHArzvudokbs6w-QfcmcpuC-bYcF2vKd2FV3qyJFGns=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awftrondark"
-  },
-  {
-    "appname": "White Room",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
-  },
-  {
-    "appname": "Shadow Hunter: Offline Premium",
-    "appdev": "EA Publishing",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/JbwZyvdw8Mtye9pEOu35Fl-eOGKlnHTNLBYTsoSYcgm9M4k-njlvJQZbO_ZcnFSvl1Lcs2EKs85c5AEM-32c-1Oun0Lx5KR2kK-HvjAY01-fnMpP=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eapublishing.dhsw.paid"
   }
 ]
