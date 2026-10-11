@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Shout Screen - Big Text Screen",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HsJJPRGQMnHOsjz_EBvFIPt3gObSek5PaA5MTeHoB9LYA9VsArV7tEac9pzMWNcFlzWQiquZJYmOlWfNPpTFlspqWsOz4bPLQCM2D2Q_p12mdCA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bigtextannouncements"
+  },
+  {
     "appname": "Empire Warrior: Tower Defense",
     "appdev": "Putaleng",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/nXm1L2WNISf9bmrqyo-BsQsn580edubq6TKFwK8nUwg3PUtxSyZWwjNzJBvjP_1YCDMXxs4wlvCxvhDzSx8BEWqWJZH6wO-44EE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.jarsilio.android.autoautorotate"
-  },
-  {
-    "appname": "Super Shortcut: Productivity",
-    "appdev": "Geeks Empire",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
   }
 ]
