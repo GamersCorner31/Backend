@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Empire Warrior: Tower Defense",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
+  },
+  {
+    "appname": "Cleric",
+    "appdev": "Michal Železný",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/-OEgAgrl1o0QmI-TRFpveM7mhrRvtDilx3SVww0taueMFutc6ZjI2ZgYfQoHnL3Qq-qoWYctu5OFg7m3q0PtqfaOfTyNLrtBK8CwE0YoXcpL9xw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.michalzelezny.cleric"
+  },
+  {
+    "appname": "Master Piece - Jigsaw Puzzles",
+    "appdev": "Gamezilla",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ly_Ii0Ua6d2ncwLXOSg0IMd2NAdOAkLgY7q1TnnnEj-Nh0DKSVOPgvQx-58zoe43EetUlJ8NavGj2p9ofUBBjeaf3uxR-8N-2UV2KM5gZi_e-NlL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.jigsawpuzzles"
+  },
+  {
+    "appname": "Battery Widget",
+    "appdev": "yuandroid",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/HNV5ZHe75ebBzY0ggc1iQ10oQRVCpdX3bmp8zt-MU2sJUEldSlhDzSxLoOYYG-zoe56fJfKgnCEd5nBeuKJOD5akgtlNVKZZiQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yuandroid.Battery.Widget"
+  },
+  {
     "appname": "h601 Gradient Watch Face",
     "appdev": "Happy Watch Faces",
     "appprice": "$3.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
-  },
-  {
-    "appname": "Contact Organizer",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/LJHXlyuOir57VIDaucPggsrk3uNK7KkxDfbl48IeyQhgxHlb8HLb6cTUpofd_TepSvp1YyJ4uGaIEq6x6XpS_F9yxiZ_nBebLsP2MHrpnncFFwmY2g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.contactorganizerpro"
-  },
-  {
-    "appname": "Car Racer Vr Pro",
-    "appdev": "VR GAMES",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/bJDPeS4wtB2wpEtLUiIiG66FWu9xqzxAAA5kuMA1IxHAcxushyZ5cVd-Y-pH1LfAVP7boP1JTdwsc34pZQcrnLMZzBh5u_FPg5KhNtkCUcYyEqd4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
-  },
-  {
-    "appname": "Solitaire Pro : Card Games",
-    "appdev": "VR GAMES",
-    "appprice": "$2.99",
-    "apprating": "5.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
-  },
-  {
-    "appname": "Gallery Slideshow",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_4PI8WqmBEH1Kckukht9STSflQ9XWUpj5VJBRANgY7Ssshlvm4szNohuBGeqCoqY4Ul0WButXf3iNkBgdX9xdkHjc2gvqQQSHY_An1f_k8l6czAX=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.galleryslideshow"
   }
 ]
