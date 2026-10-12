@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Monster Killer Pro - Shooter",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
+  },
+  {
+    "appname": "Police Department Tycoon Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "3.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
+  },
+  {
+    "appname": "Guardian War: Ultimate Edition",
+    "appdev": "Putaleng",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
+  },
+  {
+    "appname": "Word Search 1600+ PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/3PDpd3Ys2sGSai5ryDiu03QZIsVAJlJjUjb1t33u2hhNyi16Vzn8GW6R9qxO8K37ON90pEMADsunANq_6IxkfTvzbguQLnYb00s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearch400"
+  },
+  {
+    "appname": "PDF Reader & Editor (PRO)",
+    "appdev": "Apps360 Team",
+    "appprice": "$9.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
+  },
+  {
     "appname": "Shout Screen - Big Text Screen",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -38,26 +88,6 @@
     "appurl": "https://lh3.googleusercontent.com/ly_Ii0Ua6d2ncwLXOSg0IMd2NAdOAkLgY7q1TnnnEj-Nh0DKSVOPgvQx-58zoe43EetUlJ8NavGj2p9ofUBBjeaf3uxR-8N-2UV2KM5gZi_e-NlL=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.jigsawpuzzles"
-  },
-  {
-    "appname": "Battery Widget",
-    "appdev": "yuandroid",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/HNV5ZHe75ebBzY0ggc1iQ10oQRVCpdX3bmp8zt-MU2sJUEldSlhDzSxLoOYYG-zoe56fJfKgnCEd5nBeuKJOD5akgtlNVKZZiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.yuandroid.Battery.Widget"
-  },
-  {
-    "appname": "h601 Gradient Watch Face",
-    "appdev": "Happy Watch Faces",
-    "appprice": "$3.99",
-    "apprating": "3.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/J1xCMOW6sf7sjhPNYI6ro1oHhb6qakD0urcwgDPiEbyoAwunuCbe1A4_NeVgjtqAGMDPYbM19qHcdStJh9c94dJA9ZminSHAzLJfFgmvUynz8H7drA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h601"
   },
   {
     "appname": "Fluorescent - Icon Pack",
@@ -130,26 +160,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.rotationcontrol"
   },
   {
-    "appname": "S4U Ancient SE watch face",
-    "appdev": "styles4you",
-    "appprice": "$1.59",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/J6KbNGi4id0b3t09ZGXISLUpuBixvrVSRYJbDasI_Gj5EbOtY1fnbsowFW6L7EhsC564rkyKocL9VxxMfJzwNmoguhq032bwcFm0x4LmJ8hRAIaY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.s4uancientse"
-  },
-  {
-    "appname": "WhitArt Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/X3qYkUEMIEBdmBEa6r31UfPa2qM30REd6fAm-Foj1JvO_JNe8prYURlAKjFzLM8YEgnpuplYUXBOY5qDsFKiKPq4k6tl0W8CGgGEilD2UffAdkE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.whitart"
-  },
-  {
     "appname": "QuickPin - Fast Notes Reminder",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -158,16 +168,6 @@
     "appurl": "https://lh3.googleusercontent.com/IP21EPzhvSY4_NNe-yEV7mbq46i3De4k4rH4mpgB0iQo-Ab1faHqMvvl3h6WC3GFb-3PnbLkUvLgUNH8AmJ6oPCP1h4sjg-P_SQ59CE8nHfGGkg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.quickpin"
-  },
-  {
-    "appname": "Crosswords Word Fill PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/27JQeTA42HLsYIyVLoBpFl8DCZaba9YVy2hgCAiH6Fqm1jDScnVywC0FCPlD2WiPfZ8eZD8ONaxPBRm0AswqV0nAnPOLCXHwogA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.crosswordspro"
   },
   {
     "appname": "[365fun] Wood Block Travel",
