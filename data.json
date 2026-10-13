@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Falltopia Plus: Epic Space RPG",
+    "appdev": "Pusilung",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
+  },
+  {
     "appname": "Tech VPN Pro / Protect Privacy",
     "appdev": "Xylo Solution LLC",
     "appprice": "$10.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
-  },
-  {
-    "appname": "Knots Live Wallpaper",
-    "appdev": "DotCode Apps",
-    "appprice": "$5.49",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/i5YeltsFsSp0s-2Bq7Jeaj2B1meHfXkFEuZJQ76RrUs9K9YijwVCwZQYS9_5kupmZpjOWIxVSm57lNgdPWB_NDJvUa3fOxzKeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=cdev.knots"
   }
 ]
