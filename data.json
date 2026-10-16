@@ -1,5 +1,195 @@
 [
   {
+    "appname": "[365fun] AirComando",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
+  },
+  {
+    "appname": "[365fun] Fishing",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
+  },
+  {
+    "appname": "[365fun] Cups and Balls",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/TFYnqV8XaOi7xdrhYM3Lk10UMeXQJ2bqiOAHkfwiex1qB8NO_k6fcjO-MkQuf7WM3OFBeXFg2fC_XJEmHolXpzWBuLc28vleNF5PMiruP5LHvVlx=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cupsandballs"
+  },
+  {
+    "appname": "[365fun] SurvivalGame3",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
+  },
+  {
+    "appname": "Sun Flower - Line Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/tqo0j9R1c0R7yxiFCA6a7FxyPH3HqARAckuqxnUt1OVvvQJaJOM-SL7RB27eh3zdSb4kTlEDOmqsIO4flTLfg08DmJ7jFJOC5E96RIgYlehkIThS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbsunflower"
+  },
+  {
+    "appname": "Watermelon - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_0MQnsVjx8AAIt-spuJQoOeMwQBwFuW_LXomalyXPQLrYikSFdFPB3M-iboXxZNVReCQuRuswvt0ax2JtNU5z_xG9Gf0qvGQdDvMlFicCPh1Adw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbwatermelon"
+  },
+  {
+    "appname": "Red Carpet - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/bQbh6a-ApTJxfQVmbHEjOn-I3Itmwi5abVBdKHyL_oH92OADj6jMHy-QXWWSa3oDSNPKnN7LjvjmNVPl46KLOyqmvUsv88NF5jUBnPSyrHuA2CPpsg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbredcarpet"
+  },
+  {
+    "appname": "Marigold - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/zeXu_HYWnGP3BgaMJAj_ec5d6N3Nf4Iyb-Lqlq3OQwXkW5EGMO94UWBhxKdA1BP5LpvKD8pdxA7xeKMJ2iu4erKnvk4RZn5In_oX7hFRtKl6k3TT=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbmarigold"
+  },
+  {
+    "appname": "Z Town Chapter 4 The Messenger",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.19",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/v4SFptDWwJBiy5zs0stowGhmjaXC3hhMYduCUxuBAuUNaPVBUAoTNkvddFmA5_fQiQ5ccgFLmry8kFsk6RCf401iCjdwkyUauoEm5hkDBvihlKEN=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5themessenger"
+  },
+  {
+    "appname": "Kathleen - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ewGCmJuhbMfTezQezcgEGZY2bd-0F_M4D1tArQkoGPwAYVvHZXVj63fB5Q0yebMQ3HF9OxPbl8FcYQPvarLa-MGmZAq4wsdnRqNwVHrvwkYu9s6GVQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbkathleen"
+  },
+  {
+    "appname": "Earth - Lines Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/5-0-LHzmkTAKeuCzCAb6I-SsKZg5zumhJGFswU6IHGf8LgUJlBXTt1V4mJSXuI-BoZp4eNSEEOTUaO8MGJFQyXPkP0M7lKH50S_dUdf292dKaRI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbearth"
+  },
+  {
+    "appname": "[365fun] One Shot",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
+  },
+  {
+    "appname": "Z Town Chapter 5 The Reunion",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.19",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sJGwCFvcIOqMIjuCuPhutBdLgRuya_QEPYv6h6IPdLtnG05753RbH1_geYHyb9cqVKV-RWlg8780Ps3WDS9_-AshI1yPHnRZHZGfUmMchoq8fn54=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5thereunion"
+  },
+  {
+    "appname": "Z Town Chapter 8- Chaos Begins",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.19",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/NbifkKwctRO_pdIhmZUpyJwH2PRkWJ4E4xduSNaFAIk411WISCdzJeeVXA5ee3zZpviEt3W_qHVrYATAHCh_-j9TpXz7mJZvfFNztz_MhcSnPBdP-A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter8thechaosbegins"
+  },
+  {
+    "appname": "Z Town Chapter 6 The Rebellion",
+    "appdev": "Maxwell O'Connor",
+    "appprice": "$0.19",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/reuhz-6yNmIK8bDikXyMuxPcUs0Fx5A2S5YX4LCJQecB4XgDYNNe9hDuLl_wEd2CmxpKNIYrHkFN1V1JNpr9_xtnz5aGYcsPkeEntQ-ZUhP_Bk2I=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter6therebellion"
+  },
+  {
+    "appname": "iSlip: Notes That Auto Expire",
+    "appdev": "Dowble",
+    "appprice": "$1.89",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/hDEccE3lKjA1VRo7WaJXpwGfE9HljluE9uuZX_BMWyPQZQflVIbWbiF6v0Pm8ZBNje3RIC0wYPW8hULfuVpkF4XFbukPYb6_jgk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ram.chocolate.pamarthy"
+  },
+  {
+    "appname": "Parko: Automatic Parking Saver",
+    "appdev": "Dowble",
+    "appprice": "$2.89",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sUn9LIZWDKFSADfdzdh32NgKOOvrSlzHXjfImE7Ml4WdOGxXIUAgwoZ_ALF6_ncTxkPdrY8n4b3L_UZDknKyhQfObaGk25XGSKtE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ram.chocolate.funny"
+  },
+  {
+    "appname": "iSudo: Sudoko for kids",
+    "appdev": "Dowble",
+    "appprice": "$2.89",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/H3PiaHk2Cai9oPpEl10GIumETN6JFEXeyp_bE6tUYVEnb70vjuWYnkgxiTSEJQRNjKExadnPPkvJV1_wTu-_w5Mvuq4dqJ_ZvoU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ram.chocolate.div"
+  },
+  {
+    "appname": "NumGame: Kids Number Games",
+    "appdev": "Dowble",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/volt4Jywai4mK3u_yT40sA9sK5lDR06j1MpIS6Jk2aLc4fdKHa6ZKSl1i8VHmTqRG0JAnm8xLXdbOxNWQj560bbVdwVqPuuIX-3W-p72WgqSVcE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dowble.numgame"
+  },
+  {
     "appname": "Dash Analog Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$1.79",
@@ -208,195 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KmX4C9zY_SEZlLJJ4rv0xCp6iNL9ItydY5C7NPp59ZdJzGixNRd3VReJ_cLMJQvqj_D58XYzBP2pMLwej114l0Xn3Hz_a4BurbxolbAM1ZcrrtNW=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.anispwafa"
-  },
-  {
-    "appname": "Analog Sport Watch Face",
-    "appdev": "Comback Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/hrOxT4M4Jy3ecNr8DQ4ofjwDOlbdj7q-OTrGJvcTrGQrU080KMijZBkoTlN2gEQOiCs6Of_vQmuyh8dvuu8SXB02N64KgZFoqwYqtvRmZCM66bnu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.anogspwafa"
-  },
-  {
-    "appname": "Hybrid 2.0 Watch Face",
-    "appdev": "Comback Watch Faces",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ayO0fjeRvTvw__CyOtYuYkxTTOur32sPbjYtOwYfAcZLkZ2V5WOt7Rwh3F_e-CpSzUVKp2RFpcyo3eO-vb_MUMgrEP7Gyo40_UCNrdBgBwhuoGM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.hidvnowafa"
-  },
-  {
-    "appname": "Vagan Digital Watch Face",
-    "appdev": "Comback Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/E_ahC0RJHygv0PAb53dtvpgmECtsBXlSd5I9-0Ab3GhwOsgbhCziG4gTca3QyI7StuB4ENkmcjX9q3o0gld7Q7GktW0BF0Bqnd0EK7YRlLToVHU4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.vadiwafa"
-  },
-  {
-    "appname": "Silent Hybrid Watch Face",
-    "appdev": "Comback Watch Faces",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/c5APQ30cVWQ7eXbPPx0vcjvRetZe7Cc3bPREp6zz-6H031G0twfx33515LexQ8xeFelozM_xaggv7_OSMBbBnhqGl1DqYfsz1K7jnnXzC2jWDJO-=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.sihiwafa"
-  },
-  {
-    "appname": "Word Tower - Premium Puzzle",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/topjolAVY5xKSxBUPD1ehOgj5bfMIXxkpAC3k8GzxZYjxoYhaX4xioajH1Cs-t-kW5DOAKZ9IPGqfBL6ljHkNICozTwTR0VfmVrCL5BYO1ijbisaNg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.anogames.WordTowerPremiumPuzzle"
-  },
-  {
-    "appname": "Epic Heroes War Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
-  },
-  {
-    "appname": "Jewels Premium Match 3 Puzzles",
-    "appdev": "otto games",
-    "appprice": "$2.99",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/P-B-0XfYUwz33TCP2xmhNb05Eg4umhTuzXSzvcLjlJ9rfOIxk4SM61LlquSYvOeZ8bqpmsoAVIn1ImEzYd6-dhobChb0JpXpWacEqjb5Jg9N71k=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avapuzzlesgames.jewelstreasures.match3"
-  },
-  {
-    "appname": "Falltopia Plus: Epic Space RPG",
-    "appdev": "Pusilung",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/XTPsiDHGqbEfSPRmxNSr7egsNWsGgqI6Z_OlHHVsyY3RSGB7s7jqMmJxAPL34kQmsEn6-PWJ8zMrkcm94F95V2q5DeXr8JjkSCUrwXNr95sxRkl_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.thp013.idle.space.shooter.rpg"
-  },
-  {
-    "appname": "Tech VPN Pro / Protect Privacy",
-    "appdev": "Xylo Solution LLC",
-    "appprice": "$10.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/tQstyZ1D_PEcYT2GMyIC-5y6wYDJcIukDYxdgHAtTlN6UlG1MtxuPDVAv4fJeSB16cGJ1_wMKLCKaktyzJy0mHOEh8or7HWOV7A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tech.vpnpro"
-  },
-  {
-    "appname": "Zombie Age 3 Premium: Survival",
-    "appdev": "RedAntz",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/NOnL4-eW5vwyw61vwwyxgTYksUJXNX7lie1wNoW4QFVxuxU8geLmnauwNeswMoPvws3jpKY0s938asplc2Nc94B7NuraUCuzt0Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za3p"
-  },
-  {
-    "appname": "Memory 10",
-    "appdev": "profigame.net",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NEi-aGGqOHP1XnPFlReDkRZ-2RO6AkrnQd6EYSKeDzcoUQCmV5mywu6tdekYDamiLLrkZU4vqYAj06_ZRbLvuvFxpfVYUO8-Y6cudEiID8Njj5U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_profigamedeveloper.MemoAndroid"
-  },
-  {
-    "appname": "Multi Blocks",
-    "appdev": "profigame.net",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Fg9Q1qkstxfw_SryR1-6PsWk1oqTqm19A6t7LxMCjCVMylU_viBlpOgrVGZU4nagGgTi1wyH7BTEYapFpvcB583WtaFIERkqcKkRZP1zT-QXqwSM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.multiblocks.at"
-  },
-  {
-    "appname": "Monster Killer Pro - Shooter",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/-BKYD50JwPkN2HLOzbjOKn43mSrRPbLP1IemBqalaUTc24UXZoF3MXyiN8LLvxzR99vERw-kKCLuCF8rvD0eAYckm2_aAL2nJg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.bowmasters.rpg.shooting.monster"
-  },
-  {
-    "appname": "Police Department Tycoon Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
-  },
-  {
-    "appname": "Guardian War: Ultimate Edition",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/eoQ8wgoIxnh3OeiX5DtMRyC9GTNoOBmtvjuh_qBiIeIlEiB_e_1YknU_7GWMnhmCMqIsnWULfeZH4qbG5kc9DjkqJTbB8bEn48NXTS6_G5YnRLh7vA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.guardian.war.premium.action.rpg.adventure.games"
-  },
-  {
-    "appname": "PDF Reader & Editor (PRO)",
-    "appdev": "Apps360 Team",
-    "appprice": "$9.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/qKDsVgFEydvlNjYTCEfKHIyGlDiU2b1c7G97AcV2UBsrLosTnLjp8AAUR4fFtLVGA5gl3qKmEzkWIDowvhYXyG8pFHTblOAHXzXEebD1azRdaqw1=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pdf.reader.editor.viewer.pro"
-  },
-  {
-    "appname": "Shout Screen - Big Text Screen",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HsJJPRGQMnHOsjz_EBvFIPt3gObSek5PaA5MTeHoB9LYA9VsArV7tEac9pzMWNcFlzWQiquZJYmOlWfNPpTFlspqWsOz4bPLQCM2D2Q_p12mdCA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.bigtextannouncements"
-  },
-  {
-    "appname": "Empire Warrior: Tower Defense",
-    "appdev": "Putaleng",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/2rK2xSSCSiJLsqx66Fr1PpskSfIO0bTjN5wp2OROdgKJ63vB4_BYUdpbN1E8bIlZCrNHHHmXLSHBr0B6KkNaAcXACdOVZT0u-BOu=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.empire.warriors.td.tower.defense"
-  },
-  {
-    "appname": "Cleric",
-    "appdev": "Michal Železný",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-OEgAgrl1o0QmI-TRFpveM7mhrRvtDilx3SVww0taueMFutc6ZjI2ZgYfQoHnL3Qq-qoWYctu5OFg7m3q0PtqfaOfTyNLrtBK8CwE0YoXcpL9xw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.michalzelezny.cleric"
   }
 ]
