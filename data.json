@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Find Those Words PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
+  },
+  {
+    "appname": "Bird Quiz: Aves Europe",
+    "appdev": "Snakebunk",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/g7iR3yeyA_U6SS6XYA2dECLivgZTfk4CoL3t2KcAo9WWzEuc1dimU7U3coFcFF71wLYJIMrAKphR-39aWLd8mb1D2N6L_nl_rJ2iW4FvXYc_wlQw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snakebunk.birds"
+  },
+  {
     "appname": "Supernova Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
-  },
-  {
-    "appname": "Ringtone Scheduler",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/kL37ZK89Do-3Siv0t3wRfcQdLb1WH-DiatIoQcBybQmODg9zNwM9WsCF9YOHtwC-btTcKn9ZcrybW4WbE2u2zit9Xz1rD2AiGl-_uFE7WpvHynU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.ringtonescheduler"
-  },
-  {
-    "appname": "Lovely Puzzles",
-    "appdev": "profigame.net",
-    "appprice": "$1.09",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/CxvKGMvs_BZiHb_SWNP9P6X91SL1IV8D4KLpEqsHJlSTB9SPrmYbY22pDEQ3IP6nS00gjrk031Gj9ZTtdRbtI2u9PNlfzH7KngtPaRarTliStwCY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tpuzzle.at"
   }
 ]
