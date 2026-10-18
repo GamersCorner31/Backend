@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Mini Crossword - Word Fun!",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rOm_dx3jXht8DgE6ZTwVE7LBd-i7RWRSYZLT5FZ6swdGXtOW6fEMmdvv8JHERsj4-Ik4R34319-eUsvwXFiAEdvLTwVn2LvPPB1pRaPVTOwWFk4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.minicrossword"
+  },
+  {
     "appname": "Mahjong Tiles Sort",
     "appdev": "Gamezilla",
     "appprice": "$0.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
-  },
-  {
-    "appname": "Video Cutter & Status Splitter",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/jOaQgVu4dTbzrWOGw0I3i0hjja2pOpHZWNZuX79dkjn0TmwLlEO8fJgJdGubGvbI_NzEQFdw9NDW13DZMGhyOpJhgNqdrtkgl88z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.videosplitter"
   }
 ]
