@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Mahjong Tiles Sort",
+    "appdev": "Gamezilla",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/8Jef7qCY8CvOgsbqPESWkKw0nDcUj43IHScX1s6YbVSs_s7ushSgISsyK5OrYcMAGI_IacecdKcpvXELzCNvVisHmpHKGR84aI4UiPBr2YcBkPY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.mahjongtiles.sort"
+  },
+  {
     "appname": "Color Wheel",
     "appdev": "Roman Sevastianov",
     "appprice": "$1.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/jOaQgVu4dTbzrWOGw0I3i0hjja2pOpHZWNZuX79dkjn0TmwLlEO8fJgJdGubGvbI_NzEQFdw9NDW13DZMGhyOpJhgNqdrtkgl88z=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.videosplitter"
-  },
-  {
-    "appname": "Chrono Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/DL-FpBzUA5IvObpr2Vt4Fk_Bk9qPNAx_LphMvknst23z2p0JQtr0k7ey9l2Uk9r99L9P2SRwox9z6ui7SDIatlto5yLAZS2GgckQg9L7s3Mfw8W0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.chrono"
   }
 ]
