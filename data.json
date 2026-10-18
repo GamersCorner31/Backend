@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Color Wheel",
+    "appdev": "Roman Sevastianov",
+    "appprice": "$1.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jZ-EA2lUGJu7r6Jck1RUe3MyF218-4ZgeX0YPneDccQqSRQku7LtdRNMeBe4_88CLWCtuWm2DuD6cWgoBxgleqzqiKWCsgq_Pudj=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=io.github.utopiacosmica.color_wheel"
+  },
+  {
+    "appname": "Religion Inc. God Simulator",
+    "appdev": "GameFirst",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/vnr6MjUor3-6h8E6RfesuuJ7Ak7pB54JK7WSEiJae4oxQcJr5J8lxu-eD8ps1Kg2FsBU0zvqmHbTi6EKIBgi6FJa2PBrk_ukhAKo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamefirst.religioninc"
+  },
+  {
+    "appname": "Eco inc. Save the Earth",
+    "appdev": "GameFirst",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Q6MNLqIYy9E14t1b5yfKdtGGAYKuMHte95sCGdWfzDzaC7s5pGEKYw5MGwgil2TsMtahlyUvL3D_JoHbyT_We0C-w1vMtkxw37Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamefirst.savetheearth"
+  },
+  {
     "appname": "ML2U 141 Watch Face",
     "appdev": "ML2U",
     "appprice": "$1.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/DL-FpBzUA5IvObpr2Vt4Fk_Bk9qPNAx_LphMvknst23z2p0JQtr0k7ey9l2Uk9r99L9P2SRwox9z6ui7SDIatlto5yLAZS2GgckQg9L7s3Mfw8W0=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.chrono"
-  },
-  {
-    "appname": "QR Code & Barcode Scanner PRO",
-    "appdev": "Apps360 Team",
-    "appprice": "$9.99",
-    "apprating": "4.8",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/vzJ53FBti_khqnphL9oVtAgwEqfaFs_JFqM6AJev7F863ZX2jWQlpeCcX0f8LfkEavxS1uxTzzI2rpSIuXXhQLLJc_Wsmvcbljw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qrcode.barcode.scanner.reader.generator.pro"
-  },
-  {
-    "appname": "Live or Die 1: Survival Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
-  },
-  {
-    "appname": "Spirits Gate Ghost Box",
-    "appdev": "White Light EVP",
-    "appprice": "$1.49",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/qqSNfKDsYyQsBvxUwC0O60SD0F4cccZZWn82gilvVaiUbjo3bTBTZbY_w-pMpNxjVThO3UxSF8hBmSKVCu_zAqUMtDcj8GNvUg5DMr-5sPbIpNGD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.Spirits_Gate_EVPRecorder"
   }
 ]
