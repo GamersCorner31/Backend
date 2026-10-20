@@ -1,5 +1,175 @@
 [
   {
+    "appname": "Highway Game",
+    "appdev": "AK Studio Mobile",
+    "appprice": "$1.99",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
+  },
+  {
+    "appname": "Words Everywhere PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
+  },
+  {
+    "appname": "Image to PDF - PNG to PDF",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
+  },
+  {
+    "appname": "Words Search - Premium",
+    "appdev": "A.V.A - Smart Games",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bVnfSVdorufCA3RAidY9SE2c7s5bK8gmyuvF9JJ_tHQ8Y0b31tOjGC4dKijVdOfLaP_aVDAn9_hY9Gijow6YAFWVcpZQH23rqxbI9wsiTXkKbdQd=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordsSearchPremium"
+  },
+  {
+    "appname": "Exile: Wasteland Survival PRO",
+    "appdev": "Gem Jam",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/UqCoNCuIvJlZ_onvIxQS6iWCBsfSrpUEppKru1a1qtN9zw6yL4eRSQRrrhchjxSgPSnqiven61rLA1jfLH-2iHZEvjcw7s8WXYFF9ehxdRfy6rg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
+  },
+  {
+    "appname": "Dungeon Shooter : Dark Temple",
+    "appdev": "IMCrazy",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
+  },
+  {
+    "appname": "Ghost Speaker Spirit Box",
+    "appdev": "White Light EVP",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
+  },
+  {
+    "appname": "RW106 Luminaratrix",
+    "appdev": "rens watchfaces",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/2tTNtwtygs5CDEPXfQOezDuseSHJm9MKSDilFb4kdsMtwf0bFO2-vBs4Ipyi1hpVJP5KHhZ_-fyqkwr72gq8JsJqL_dxJE_Pps8RnLTfk7cmHC4U398gZ2f442NoRpE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rw_106"
+  },
+  {
+    "appname": "Passport Photo: ID Photo Print",
+    "appdev": "TAPUNIVERSE",
+    "appprice": "$4.99",
+    "apprating": "4.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/2s0D97Ox8OG91eIETbJlJi3YJyEBhKVSpR2JaOT_Iisi-_bInERNJBzg_Ar88uVyVAv5SBIpQsPGw_nzrwd3vDwTs4gNfcjkL98Zg-TF2yr4-5uUyg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.passportphoto"
+  },
+  {
+    "appname": "How much can I spend?",
+    "appdev": "Alexander Y. Ivanov",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
+  },
+  {
+    "appname": "NT Calculator",
+    "appdev": "Lê Trần Ngọc Thành (kineita)",
+    "appprice": "$2.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
+  },
+  {
+    "appname": "Modern Analog: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.79",
+    "apprating": "4.3",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/gaJrmgwcpUT-HFxqC0aXgK7wyuLghELy12IX5VQdV0aI7pIgMvcpMpoTHJAeNhWn2_BunJhctf1ehOxVKXWM5ONY0rEmuBAlCXusQYENMTA7wgxY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awflmoderna"
+  },
+  {
+    "appname": "Last Survivor: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/6nvFR0-0jIpO_YIhJxjFUYxMt01Vu4CCTA7n6_RcfjlccYQ0ZiHbS31fxCZbti8W3_PrlWG1PFBTCqM5MhaoRU_tIhe42yznibQkIpe4ZcmIuY_MxA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.survivor.zombie.survival.games.apocalypse.rpg.open.world.adventure.action.shooting.pro"
+  },
+  {
+    "appname": "Soul Huntress: RPG Premium",
+    "appdev": "PANTHERA GLOBAL",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/KL-WIjlHLfYXtVB7dfHjCO4AnOi7vXVuyD3Z4ZAsLXH84F_JHS1UuqpmHxHr8cIpScNKu-uKX9bT7noDWXWMNA4Stg3iOeKsqg4JTnAM-fFQpuHPIw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.soulhuntresspremium"
+  },
+  {
+    "appname": "Word Search Game: Offline",
+    "appdev": "otto games",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/ovvv8VSTWDtScLnG5jmm94eWWMHsp9V1b00x0gSx373F0Be0jL0C-7HCXjsvz0MyfI6wC4_FmPuP688ZbaAO0KZiTBBpa3KZJZdr6GL9-j-UUlpmng=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordscapesWordSearchGame"
+  },
+  {
+    "appname": "RUN 2: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/-fH1Me52uRitmQFnzRCOCQ2ExyVWN9zu88WtafXJrlNTu0T6OhojdTCNWEAmmRXBBRE6kelHwL7XZTh4Tbejx9k3kXbX-MB2gQTTZ-KXY2MZ8Go=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfrun2"
+  },
+  {
+    "appname": "Bird Guide: Aves Europe",
+    "appdev": "Snakebunk",
+    "appprice": "$3.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_FXf06BFtvm9igETdfHuAYbLSA1FkmpuTm1UHGi0mJbFERUWA30bRU-kCjjeKF_zNY4izStlqHTetLTc_PocvKJT45hx3aO64k4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snakebunk.guide.birds"
+  },
+  {
     "appname": "Mini Crossword - Word Fun!",
     "appdev": "Eggies",
     "appprice": "$2.49",
@@ -90,16 +260,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
   },
   {
-    "appname": "Find Those Words PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/K26CTjc40BRRwWIMdDVc1ExMvhCHTIGqzEwPVFjH1ft85NEEhcT5pMB_3lFggG28e667YIA_wIufsqF92sOn2UqWBlUJrty4zM0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.findthosewords"
-  },
-  {
     "appname": "Bird Quiz: Aves Europe",
     "appdev": "Snakebunk",
     "appprice": "$2.99",
@@ -108,16 +268,6 @@
     "appurl": "https://lh3.googleusercontent.com/g7iR3yeyA_U6SS6XYA2dECLivgZTfk4CoL3t2KcAo9WWzEuc1dimU7U3coFcFF71wLYJIMrAKphR-39aWLd8mb1D2N6L_nl_rJ2iW4FvXYc_wlQw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.snakebunk.birds"
-  },
-  {
-    "appname": "Supernova Icon Pack",
-    "appdev": "OSheden Design",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/xTEuOeGu5QkjKsHWP7lGXoaheQJJIw6cFeE9apaodDwbHmJcU4q9z_EU0tAqrGe4dUk5bqSGyXYVz1oUWt5ESqGqE2yKOqEj2WULHNYAD3TzObVAaw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.osheden.supernova"
   },
   {
     "appname": "[365fun] AirComando",
@@ -248,155 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/sJGwCFvcIOqMIjuCuPhutBdLgRuya_QEPYv6h6IPdLtnG05753RbH1_geYHyb9cqVKV-RWlg8780Ps3WDS9_-AshI1yPHnRZHZGfUmMchoq8fn54=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5thereunion"
-  },
-  {
-    "appname": "Z Town Chapter 8- Chaos Begins",
-    "appdev": "Maxwell O'Connor",
-    "appprice": "$0.19",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/NbifkKwctRO_pdIhmZUpyJwH2PRkWJ4E4xduSNaFAIk411WISCdzJeeVXA5ee3zZpviEt3W_qHVrYATAHCh_-j9TpXz7mJZvfFNztz_MhcSnPBdP-A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter8thechaosbegins"
-  },
-  {
-    "appname": "Z Town Chapter 6 The Rebellion",
-    "appdev": "Maxwell O'Connor",
-    "appprice": "$0.19",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/reuhz-6yNmIK8bDikXyMuxPcUs0Fx5A2S5YX4LCJQecB4XgDYNNe9hDuLl_wEd2CmxpKNIYrHkFN1V1JNpr9_xtnz5aGYcsPkeEntQ-ZUhP_Bk2I=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter6therebellion"
-  },
-  {
-    "appname": "iSlip: Notes That Auto Expire",
-    "appdev": "Dowble",
-    "appprice": "$1.89",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/hDEccE3lKjA1VRo7WaJXpwGfE9HljluE9uuZX_BMWyPQZQflVIbWbiF6v0Pm8ZBNje3RIC0wYPW8hULfuVpkF4XFbukPYb6_jgk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ram.chocolate.pamarthy"
-  },
-  {
-    "appname": "Parko: Automatic Parking Saver",
-    "appdev": "Dowble",
-    "appprice": "$2.89",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sUn9LIZWDKFSADfdzdh32NgKOOvrSlzHXjfImE7Ml4WdOGxXIUAgwoZ_ALF6_ncTxkPdrY8n4b3L_UZDknKyhQfObaGk25XGSKtE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ram.chocolate.funny"
-  },
-  {
-    "appname": "iSudo: Sudoko for kids",
-    "appdev": "Dowble",
-    "appprice": "$2.89",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/H3PiaHk2Cai9oPpEl10GIumETN6JFEXeyp_bE6tUYVEnb70vjuWYnkgxiTSEJQRNjKExadnPPkvJV1_wTu-_w5Mvuq4dqJ_ZvoU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ram.chocolate.div"
-  },
-  {
-    "appname": "NumGame: Kids Number Games",
-    "appdev": "Dowble",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/volt4Jywai4mK3u_yT40sA9sK5lDR06j1MpIS6Jk2aLc4fdKHa6ZKSl1i8VHmTqRG0JAnm8xLXdbOxNWQj560bbVdwVqPuuIX-3W-p72WgqSVcE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.dowble.numgame"
-  },
-  {
-    "appname": "Dash Analog Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/sBst1JNmVxTV_zcJV98MxUxu9Fy0F6H9FfvDn4mL7Trkyoyg76FMI7RIh7vv_u-qNiHUMgoG57WxPoTL7qogyLamk-gLWoVdlETMOYqssmKAr6IU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfdashanalog"
-  },
-  {
-    "appname": "Diamond - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/cyDpSzbv4yqbDNzlZEjKGhagOX4frs-Oy9ENZNziFQqKty2fl3qsCc1UggshH3SA0M7-MGj_pFSZTLNaDKASfoCOh4fPuehMYw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.diamond"
-  },
-  {
-    "appname": "Star - Yellow Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ihFqVZwAPbksaG4f0WW8K8SDI5LBa8nMibr8DZJjB-k03XyLnwGjXfrCrK07iiVKemXzE3Lo3fzLTI2eqjzzVKuIR3V1m4FjoVhsxMpBLwBhzHcaDQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.darkyellow"
-  },
-  {
-    "appname": "Squirrel - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/fAqahzI5JEyUpyrVz65SGJ1AWvOzBSVii8Dp9Z9Yr4hKAcichiOmcMIdbGoZeN_0DIUQX-pckwl_kceIDeNtWnQQ3GKGR37k_oA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.squirrel"
-  },
-  {
-    "appname": "Yellowdiant - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/1pWRfUEOFzeyuE1psmh4o5Le4a9pans_WzRvmqXdfUOlMvPzsMmJPDX0HkOxFqVsIPCgyoRQLk4QSXW6dHEBDGEzy_mrcUC_vWEeml5LjcZTkirSjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bdyellow"
-  },
-  {
-    "appname": "Gradia - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/WH_QJnWEoNCdg_MUe2cWf7X3lM7cAdCdalNzknUuttK1l1rZ_f8DXP879cEr8IP3ht9xydw8EKAOLlfFPuYG2FjBakbWXez2AiaMWD4HUo8Nx7T2=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.theme.iconpack.gradia"
-  },
-  {
-    "appname": "Kamsa Squircle - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/OprZ-xmGevp4VtkyglcAtUm_M-rpSpLwMo1Bw3kBVkXRsyuEtFYLgXXXHNLR5cZmbKk088MuE62geHHXsgXYtlwwasw96sRinSQBhxKvL33u3h4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkalsq"
-  },
-  {
-    "appname": "Rigoletto - Squircle Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/m6xFVw415-czA7csdgbbR0MegffKg3cXslIcdcHRXbdHb_zHQAoUkRf_2lmNQ2qH75gpN47O8E8LTv9MZ06GY2hiC2-DWSLK074=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.rigoletto"
-  },
-  {
-    "appname": "Belga Light - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/IEuJvx7AZU4KOJfAjD4daWLaZU0BhjEyrpX54yw1HCzuWi9Lj0MXjJeelf6BEBpITy24DH1g4RgmAgoQSQ1EkeniBrZTQ3fyiQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.minkal"
   }
 ]
