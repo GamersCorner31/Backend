@@ -1,5 +1,15 @@
 [
   {
+    "appname": "HopWatch for Reddit",
+    "appdev": "UgglyNoodle",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rgT5EBjDF6RLWqljSeUC-h8Z1KeT1fMpW6x2UbaVfkYWJbxQzvNtjHw5WMGG5A1VZ-PHDm3QutQG9PcCK0xvi7Gr9vTpBSZfiEnv=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch"
+  },
+  {
     "appname": "Highway Game",
     "appdev": "AK Studio Mobile",
     "appprice": "$1.99",
@@ -68,16 +78,6 @@
     "appurl": "https://lh3.googleusercontent.com/VV8AJVD8SNGaRMV7a_IN8-jz8tH6xtXg9YoYPb83DM8aL4m-R21ud128xejeMJTCyxLDELKrIw_LyfUUadeC_HjZIFjRNe-6eTpKFUhCd5gRUg8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=appinventor.ai_MAdelSelim.ghost_speaker_spiritbox"
-  },
-  {
-    "appname": "RW106 Luminaratrix",
-    "appdev": "rens watchfaces",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "100",
-    "appurl": "https://lh3.googleusercontent.com/2tTNtwtygs5CDEPXfQOezDuseSHJm9MKSDilFb4kdsMtwf0bFO2-vBs4Ipyi1hpVJP5KHhZ_-fyqkwr72gq8JsJqL_dxJE_Pps8RnLTfk7cmHC4U398gZ2f442NoRpE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.rw_106"
   },
   {
     "appname": "Passport Photo: ID Photo Print",
