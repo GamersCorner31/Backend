@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Scientific Calculator Scalar",
+    "appdev": "INFIMA",
+    "appprice": "$2.59",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/XdCDTj7hhSHOP26b_TGsq8lAUAdhP2LgbYyroNTp6suMFdxj3IBZCb6JnaYgFCjsiSHPtyJWMvuZzlsQnLmKhd_cPgRoAarjjq0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=org.mathparser.scalar.pro"
+  },
+  {
     "appname": "Add Frames to photos",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/5-0-LHzmkTAKeuCzCAb6I-SsKZg5zumhJGFswU6IHGf8LgUJlBXTt1V4mJSXuI-BoZp4eNSEEOTUaO8MGJFQyXPkP0M7lKH50S_dUdf292dKaRI=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lbearth"
-  },
-  {
-    "appname": "[365fun] One Shot",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
   }
 ]
