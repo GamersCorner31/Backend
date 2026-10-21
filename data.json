@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Add Frames to photos",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
+  },
+  {
     "appname": "HopWatch for Reddit",
     "appdev": "UgglyNoodle",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/-hCX2Py6hTuC8XYPpL3afkH7yQRXZ3W0gN2tj_MBv0vsQ9QKiN0rGgdbVON-3EgdTzOZsQMyqpgjpxWtOPpEhq3n4tnF04ggyqohF79DvIelOLDU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.oneshot"
-  },
-  {
-    "appname": "Z Town Chapter 5 The Reunion",
-    "appdev": "Maxwell O'Connor",
-    "appprice": "$0.19",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sJGwCFvcIOqMIjuCuPhutBdLgRuya_QEPYv6h6IPdLtnG05753RbH1_geYHyb9cqVKV-RWlg8780Ps3WDS9_-AshI1yPHnRZHZGfUmMchoq8fn54=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ztowndevs.ztownchapter5thereunion"
   }
 ]
