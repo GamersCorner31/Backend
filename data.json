@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Stickman Warriors Dragon Hero",
+    "appdev": "Super Dragon Legends PVP",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
+  },
+  {
+    "appname": "Pill Counter",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xXwD88EsQl9DmGFT__9mI_ol9aLDjt6WWkCTwf_f3GAb4qQzOsLpJ-mRlj0sXOUQxBnkm303RYC62haryh1oYa4YB8G5oJaJtGMvmUPGrKJdncr20A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pillcounter"
+  },
+  {
+    "appname": "Stick Warrior SuperHero Dragon",
+    "appdev": "Super Dragon Legends PVP",
+    "appprice": "$0.49",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
+  },
+  {
+    "appname": "Avalar: Shadow War Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
+  },
+  {
+    "appname": "[365fun] Electric War",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/-fH8zA0Ki1dDYKAeDygADE3gGrLw5qvXxBDGiL0_XkbM6s8wY70cllOC7Q-i58eW8ZMYu0ltHzG4a8Tgi1ycD9Go9y_VKCakHl5W3dTj7f7jasN_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.electricwar"
+  },
+  {
+    "appname": "[365fun] Bubble Pop",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ckzx_-yd3u9zyNokotTxxEjZn4OiuIP_3-H8p-6KJnEfUDrbFY07kFLYHO8rJhD4P_oBmVrBQ7x6U0_983plBIzG8sN3NZuL5_IMWtj7TLFR6FGC=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.bubblepop"
+  },
+  {
+    "appname": "Jewels Match 3 Puzzle: Offline",
+    "appdev": "PlayTake Studios",
+    "appprice": "$3.99",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/NIkMXcjXB4dM4VlisgSTFmIAdHMxyrVg5JN9rpGkBQk-E0S6ekSSxxPimzMjy19kHexMr0eDx-lF5tTeGeOW8LW2wDLWvUw-25eKjmsT2y_O4Qg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.playtake.puzzle.match3"
+  },
+  {
+    "appname": "[365fun] Find the Differences2",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ok88SjeBOpmWLnhlNd7lrVWRx7RXALdMjo_9ayAF7NEi3RLkp5iNXtI1VdUZ0JP0z7AXO6VflLCAMkdF02Rw522GHPY397UynCf97OgG6nt0d7U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.findthedifferences2"
+  },
+  {
     "appname": "Countdown Widget - Time Until",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -110,16 +190,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
   },
   {
-    "appname": "Words Everywhere PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/_ONUK7q27HQjdEyLduic3k6cv4hqMbg4fUYaHmR99js47MPEbfYpY3Krh-GoQKfzJDVeGIE3HvdYN3kmbWkQ-rNvnvzPJZkV2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordseverywhere"
-  },
-  {
     "appname": "Image to PDF - PNG to PDF",
     "appdev": "TAPUNIVERSE",
     "appprice": "$2.99",
@@ -188,16 +258,6 @@
     "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
-  },
-  {
-    "appname": "NT Calculator",
-    "appdev": "Lê Trần Ngọc Thành (kineita)",
-    "appprice": "$2.49",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/8fluIj76z49uCdP6d0f6AAc-09-HHaYB3P9iJKgVObQxvW0XIgoByySQFFp4PzMAa28tNNVIxDA16oS1Ox7dW-4u_IHQB4F-5g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=thanhletranngoc.calculator.pro"
   },
   {
     "appname": "Modern Analog: Watch face",
@@ -310,16 +370,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamefirst.savetheearth"
   },
   {
-    "appname": "ML2U 141 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/K3ikkenAuaOcdc9pDROb_TBFO2DAyuHpyK9QcB7BM5xjNejx6wInTYpf9a2KmPk7OzEefBJwyhWR92O0qNLlgUVAWuS1bsEMvfwIVF7c3OaLHRE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u141"
-  },
-  {
     "appname": "Image Converter - HEIC to JPG",
     "appdev": "TAPUNIVERSE",
     "appprice": "$1.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/oM54GcoxzgadiIJa4JATt0DBnWvA5loQy7zhgLWDS1Kx7r7z65kTp3saJzv_-soknvoFT7pVPOqA-IwORZKsinZFwlY95LNmmhvk=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowHerosVIP"
-  },
-  {
-    "appname": "Bird Quiz: Aves Europe",
-    "appdev": "Snakebunk",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/g7iR3yeyA_U6SS6XYA2dECLivgZTfk4CoL3t2KcAo9WWzEuc1dimU7U3coFcFF71wLYJIMrAKphR-39aWLd8mb1D2N6L_nl_rJ2iW4FvXYc_wlQw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snakebunk.birds"
-  },
-  {
-    "appname": "[365fun] AirComando",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ru0T1Dl-rJYxKH-2dwBRO7SRdcCqHy_pwxh4hSd8s8frBaxww2G3yI9D7wUw6jM_uM-Alps1pEf6T8uXInXuV9l0CK8JMA055Bx1RCIIym7kpBA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.aircomando"
-  },
-  {
-    "appname": "[365fun] Fishing",
-    "appdev": "wind",
-    "appprice": "$1.10",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TEpvObCYJ_QTha7J0RV1KqoijavtgmaBy8PyJ99HyqbkqgZwOGJBtK1Fvlru03PoMh1v7F6ohsyDggXgwXEIutXyxowiCw9Ds-yqH2fWNw5btp8f=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.fishing"
-  },
-  {
-    "appname": "[365fun] Cups and Balls",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/TFYnqV8XaOi7xdrhYM3Lk10UMeXQJ2bqiOAHkfwiex1qB8NO_k6fcjO-MkQuf7WM3OFBeXFg2fC_XJEmHolXpzWBuLc28vleNF5PMiruP5LHvVlx=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.cupsandballs"
-  },
-  {
-    "appname": "[365fun] SurvivalGame3",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xhbDV3-cGibyWeThYdlzKOeVWkNfaoJ9DCdX4QcBFlVT6haHKjkELLSusxCL1Ei2Qac4FuD4WY8H_Lr8KgXlQUsDADUVZxOofrE_JoiCzdnNkIUK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.survivalgame3"
   }
 ]
