@@ -1,5 +1,15 @@
 [
   {
+    "appname": "h803 Weather Station Watchface",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.79",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/u0ZIYIbkwTLJ4Sft_WFyQwiT-dXgqRriiN0nH-MFFTJU0w4zHbAo14aXXDKCHmhaHHZQ8ZHkpRQhFaCN1Spqi19nwkwfivHkXYvCnLXDy4DOG2c=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h803"
+  },
+  {
     "appname": "Ludo 3D - Aeroplane Chess",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/uP904G8obvWiNZ-n14JD4WkExGpfBg-f4-NvNWhqqBsm19Q6QNIZXEQvjXQcJ8j5SW3YyBudFwfzRf0xdURlDE1wTxdmktO0JQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=pravbeseda.spendcontrol.premium"
-  },
-  {
-    "appname": "Modern Analog: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.3",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/gaJrmgwcpUT-HFxqC0aXgK7wyuLghELy12IX5VQdV0aI7pIgMvcpMpoTHJAeNhWn2_BunJhctf1ehOxVKXWM5ONY0rEmuBAlCXusQYENMTA7wgxY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awflmoderna"
   }
 ]
