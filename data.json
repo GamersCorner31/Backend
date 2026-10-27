@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Shadow Knight: Ninja Fighting",
+    "appdev": "Fansipan Limited",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/MwQkzmDriOlrkqxU8E6cAxByKS-PAsuF5nOP3KdngxfPpKYSa2z6C29_3pDdMUfx5d_uJxVIPMT_tcTLZEe0P9J3No9r-myfxzU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.stickman.shadow.knights.fightinggames"
+  },
+  {
+    "appname": "TACT THREE: Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/0MQgri7VI84Z0BJ8LtUhuXeR3S8CXPnEjwC_Nj9jrSTkoEjy7AdSzVm2QuOq25i78UUEARJA8_uot9sL6wM0-howhAXHZGXP4ufydrUNeNZu1nXsnA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.tactthree"
+  },
+  {
+    "appname": "Circle Dash",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/UhJzq2mwZ0KSTGeCPIECePmnkt1BKEzcTDKFkUohBJCHWlmNzo_6dyLPOR5sFegtr5MJUoChB7qgdPHPdV5uleX0eirH0bsAGzCDlxJWOIlP4IQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.circledash"
+  },
+  {
+    "appname": "Defense legend 4 HD: Sci-fi TD",
+    "appdev": "JoyUp",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
+  },
+  {
+    "appname": "Zombie Age 2 Premium: Shooter",
+    "appdev": "RedAntz",
+    "appprice": "$0.49",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
+  },
+  {
+    "appname": "Space Shooter: Galaxy Attack",
+    "appdev": "Unicorn Studio Official",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5M",
+    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
+  },
+  {
     "appname": "Word Crash PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.49",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/rgT5EBjDF6RLWqljSeUC-h8Z1KeT1fMpW6x2UbaVfkYWJbxQzvNtjHw5WMGG5A1VZ-PHDm3QutQG9PcCK0xvi7Gr9vTpBSZfiEnv=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch"
-  },
-  {
-    "appname": "Highway Game",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Y7x04Udn-GxQ5xagBt4TQXic2Wj5zz1shQtI1lKlpPBfcx9SdzW3IbljK2riUriGEGhzTOIq1JM1cMFje9aNCjuq_-4asFQsqg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.HighwayGame"
-  },
-  {
-    "appname": "Image to PDF - PNG to PDF",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/I3NfTSQ3epIkYVrUHlfHH6DhasDt_lvHzLYJIZQsZ6n-KgdvE38tZ9e2Fg3ARO1IM3yHAoHuwA9A3tObraMDQ1Bbe2ra6LAdh68FdRjJLzrzRJJL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.phototopdf"
-  },
-  {
-    "appname": "Words Search - Premium",
-    "appdev": "A.V.A - Smart Games",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/bVnfSVdorufCA3RAidY9SE2c7s5bK8gmyuvF9JJ_tHQ8Y0b31tOjGC4dKijVdOfLaP_aVDAn9_hY9Gijow6YAFWVcpZQH23rqxbI9wsiTXkKbdQd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.WordsSearchPremium"
-  },
-  {
-    "appname": "Exile: Wasteland Survival PRO",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/UqCoNCuIvJlZ_onvIxQS6iWCBsfSrpUEppKru1a1qtN9zw6yL4eRSQRrrhchjxSgPSnqiven61rLA1jfLH-2iHZEvjcw7s8WXYFF9ehxdRfy6rg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert"
-  },
-  {
-    "appname": "Dungeon Shooter : Dark Temple",
-    "appdev": "IMCrazy",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/pGZEDwkI_Z5VLqnXhFfAVpo-kAkspifxehkuFevGCMjs1TAmU4G6qBhMLlJqq9G2IuXIvhTxcJHNxorNSLGKun0z0Jt_ktr5NdE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.imcrazy.ds2"
-  },
-  {
-    "appname": "Passport Photo: ID Photo Print",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$4.99",
-    "apprating": "4.9",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/2s0D97Ox8OG91eIETbJlJi3YJyEBhKVSpR2JaOT_Iisi-_bInERNJBzg_Ar88uVyVAv5SBIpQsPGw_nzrwd3vDwTs4gNfcjkL98Zg-TF2yr4-5uUyg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.passportphoto"
   }
 ]
