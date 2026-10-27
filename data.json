@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Fit Dashboard Watch face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/YAHNNZHfctkmOmfJr2uQk_4eLa6IkkLVuJ46Td7QAOYmq5HDN2kRDYdt5C8R2XjyNogmCNcFzsV2XiMZjcWePRjItR9VeBfrQFNidl00sL7LDDY9AQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfdashboard"
+  },
+  {
+    "appname": "Chain the Color Block",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
+  },
+  {
+    "appname": "Survival Island: Ark Craft pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ye9TY0fGDFX2p4S0qQTg_mEAr5I5WJJY5Egl7ZmKJBo8EgpBdHN0ByYi9fbJIjFjyfjRL3pLuM8hYpKYVJ0eu_C6ifCuaaGR_A=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.reeltoreal.survivor_adventure_pro"
+  },
+  {
+    "appname": "h802 Color Digital Watch Face",
+    "appdev": "Happy Watch Faces",
+    "appprice": "$4.89",
+    "apprating": "4.4",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_E5VwZeJ1i2LQaZ7q2NeFxitTAOz5hmGD5C4ENWdD5jwkhs7RfkxyvS5jgpO4NKrWP1HnNXB_xzvK9IEQXRIlbnNoGCAAMVq0IgBmarncX2l3hLe=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AAA.h802"
+  },
+  {
     "appname": "Shadow Knight: Ninja Fighting",
     "appdev": "Fansipan Limited",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/XhZU-B9noDLmgmVzODx_Axuf_AJUzPaSSniJpbTkGR2zBjwgIl8C3Nmofm_W4cL5kru_5KZS4e6RU3GmHBmzwjcrRuFtFX7BvZN60WlEZnYdUWnY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.livezen.retroshooting.vip"
-  },
-  {
-    "appname": "Video Compressor & Resizer PRO",
-    "appdev": "Detective Studio",
-    "appprice": "$5.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/PKok313llvAoJ-mD8Dhp5m-bRH0ksUpRULqbZEy3tfWKtr6GOSfcMhjmFYI5YfPwmkqc4d-FHS556LAZf2I87T2-rwOWHwn0Gg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=video.compress.optimizasyonpro"
-  },
-  {
-    "appname": "Scientific Calculator Scalar",
-    "appdev": "INFIMA",
-    "appprice": "$2.59",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/XdCDTj7hhSHOP26b_TGsq8lAUAdhP2LgbYyroNTp6suMFdxj3IBZCb6JnaYgFCjsiSHPtyJWMvuZzlsQnLmKhd_cPgRoAarjjq0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=org.mathparser.scalar.pro"
-  },
-  {
-    "appname": "Add Frames to photos",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Pu28vR4fRh_7ayZg_SKR6Eaw3yEELxVQhXTVQPXBXJYk3SIcBknh_G3lJuGeL6PbVKS3dDw1rBdz8ohmyy92qYNYKtCjXEfIK53GrxZTuZVF5aw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.frames"
-  },
-  {
-    "appname": "HopWatch for Reddit",
-    "appdev": "UgglyNoodle",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/rgT5EBjDF6RLWqljSeUC-h8Z1KeT1fMpW6x2UbaVfkYWJbxQzvNtjHw5WMGG5A1VZ-PHDm3QutQG9PcCK0xvi7Gr9vTpBSZfiEnv=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ugglynoodle.hopwatch"
   }
 ]
