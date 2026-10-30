@@ -1,5 +1,245 @@
 [
   {
+    "appname": "[365fun] Fortress2",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
+  },
+  {
+    "appname": "FASTAR VIP - Rhythm Game",
+    "appdev": "NextDoors",
+    "appprice": "$0.99",
+    "apprating": "3.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
+  },
+  {
+    "appname": "Who Uses My WiFi Pro",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
+  },
+  {
+    "appname": "Net Signal Pro:WiFi & 5G Meter",
+    "appdev": "Phuongpn",
+    "appprice": "$0.49",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
+  },
+  {
+    "appname": "S4U Ancient Winter SE",
+    "appdev": "styles4you",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/03jeWA88TEHdIDvTFjKxij_MUi4HvbqzLcz5bGT6CKIXTOngzKYJMm6na2ND1aHiIKLGGWLCIgS5Q3EtBcYLncsC2PAq6FXpsegyO9t3bsmXBlVBNw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.s4uancientwinterse"
+  },
+  {
+    "appname": "Samak Blue - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ncUZTxlIDQ0NkYdfLnfsgWpeEgCu3JU4fvZR6iPhnckvBOkgb9nhDsKMX06zFzT71SujDomu4MwSG0mwnpvAKanp4hsKojhnby_0nKVNPh14pp43=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blueblack"
+  },
+  {
+    "appname": "Sakura Pink - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/txa539vO11DPynXLRwHjSZejF3XYaen0MlnviCv7pREzKYt_avDio9oFoTVVYBpOuyQtVpt9N7uyrJhsA0AZr_zBNYS_lr4C0AdDYu89-C9iFW8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinktr"
+  },
+  {
+    "appname": "Blueberry - icon pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "5.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/BwyDmN7FQuqnbh5QtjIgvkjzLXj9MXLBa5GSEGThLuGYoCzBJlW1J9167BMkj5gj7mVjlqPK9IiDWFDnF3BKzDXzneMl-6M2sh0Gugc4eTQ_V2vCMg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyblue"
+  },
+  {
+    "appname": "Varwil Pink - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
+  },
+  {
+    "appname": "Blue - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Y_ISX_bh-VG3Y4nweNBZPcMYB5U1YSizyX6PNlxT0gkfYWBR5SqHwSPLLcTAEKtZ7HYDdfbjbsYMvF76UuTiIDNJfJGlAjWAzJRiyItL2Mrj2y2L=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blue"
+  },
+  {
+    "appname": "Gem Shoot",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rf5bwtyPMmvN6L4HnIc6RZoAF2w6RrHZwDhj8LmWclYKQ6PCxjQqHchsYN9NW5l5jPPknNouTqei2pkv91bCpC0a6PDdizUU73VmxP6zybaTO4o9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.gemshoot.r"
+  },
+  {
+    "appname": "[365fun] Spinning Attack",
+    "appdev": "wind",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/HCfa6d9pqTvlil7h13y8A_OAsgLUDUq94M3OSWYCDb2Wx1PH7kWQtXsd2tEuelo8-tsCsL666up6Td9NNjBahwdCJ9aIQ1JkNBUovAW64y_AuOlA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.spinningattack"
+  },
+  {
+    "appname": "[365fun] Hamburger King",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/_wX3rNlDe7iHmj-SyJpVXOdwvvyH3-2kuuNwTjQqsRLu6eQU1wyKvr5q9wuHpC-D0no6JfMAL5JWZG-5kyYKlXyuFp22Do82D8oerVFFZ5THW2abfQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.hamburgerking"
+  },
+  {
+    "appname": "[365fun] 3Point Shot",
+    "appdev": "wind",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/vEh7GBsq9MVCeiSnXAYYYK-8DzNXkjs_Fpj-s1nyxn7EJxyVrpQAuviR0E_eIZx3MO5K8CkExEHnG3shoU6dJ5WUHBj1ZOdMoLZXGVDRL8bt4uWR=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.threepointshot"
+  },
+  {
+    "appname": "[365fun] DinoRun4",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/p_MKL9T4SwMGY0I3LvUdsV2C5PjbbTyn-KO7wU_Bc3okv2MFCBTcBjQ1w7UpCX4P3DvEcvEA0DatBp3l2KOJ5uqUjyep2lOen4P7kiJD6YrshNvI1Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.dinorun4"
+  },
+  {
+    "appname": "Pixel Ring Drop - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/09lodLQL4jTqkCagKFWkPrpbvVhDSTAe9MEM2n_jf6W-gxsgz4WKDghOYGtzeSwZDbXJwxzC1wmgYFf1KdSZ-3M4kcZElu33bQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pdrop"
+  },
+  {
+    "appname": "PasteLina - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/uOgOqALR8QwJGxAWCiKMffTsDA3OnWt3sQcZFo_RA98PiePGIxDxn6vaKTcSfp27lpDIcYdc9IGuG_V1Lj-S2b2p3x0q5Rk0dxPuGk3OxddiKQs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.pastel.lina.iconpack"
+  },
+  {
+    "appname": "Bubble - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.8",
+    "appdownloads": "500",
+    "appurl": "https://lh3.googleusercontent.com/Fp8cQv22ixxtR49nwiQ1HblI1WFimAfQWgBNwncAMAmmj1Xladh3QtFXEVu9Baj1_1sHyqEvnc6mWl4ddJt_YS84modopZqSfrGXCcHiC4Q6lXshlA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.bubble"
+  },
+  {
+    "appname": "Material You Square Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/s14ABN-aiXjeJMoljN_0ID958te14HarRVFBeC9GsevK93RwPQxTh3VddpZKPqWdMdjXZ6TnYcxyblVz21WrKMM7RjrUz_6i1h4DMjNJjtr1GS3c=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.square.icon.pack.theme"
+  },
+  {
+    "appname": "Drop Dark - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/SVll8_GGUgoT5_cYl-mtZ74nnUTI4CCJ2OyyNmKcmmKQxPXsi8GBuqJt4DcJryeqmvkOWW6YTOlE5ZEkHSWEQxXzk2wShjynftdgfYQZzrlAm74x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.dropdark"
+  },
+  {
+    "appname": "Dropicon Cut - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/oTRq5tt9wcu5UKH0CRIywYlQrirFdRHuHBXjZ8PSR4J7PS5ckfN6qt5mASahtHgYMltDG-9iffzLH7y1R0v_kTexnxqoY_3PaQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.cuticond"
+  },
+  {
+    "appname": "WordMix Pro",
+    "appdev": "Sascha Hlusiak",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/n6Qjm5A1V157mFc-5Idw7blhSCYMM2LRD0-uk5Xk_LA5nXVfjhG7v6iCkoROkcSIk7CgYvYHT0ObnJzQpU_Ux-lg-PmkTYMRkQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.wordmixpro"
+  },
+  {
+    "appname": "[365fun] Match3D",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/9leU7HHVFmG4RsfQrcWAuqy8oiRq_MnsRCH2FKreckBQ4h2z-NI82tR5pB1acuIndMI7IFptRL4dlQUXGxnfdfoCscKa326_JjgeXCNomMVKginD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.match3d"
+  },
+  {
+    "appname": "Infinity Tank Battle - 8 bit",
+    "appdev": "UnknownProjectX",
+    "appprice": "$9.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/rEeO8XcC5DYOOYDP-eb0N6SchEn1tcBk6UtWmdYms79z-m1cFyTP2tM_giKvYObr00qm4Ug_N6SDZ96I4xPJimWdpA9tSTXcgD17dWSgyer8ZWM8=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankbattle2.r"
+  },
+  {
     "appname": "Balloons Pop PRO",
     "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
     "appprice": "$0.49",
@@ -158,245 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/UhJzq2mwZ0KSTGeCPIECePmnkt1BKEzcTDKFkUohBJCHWlmNzo_6dyLPOR5sFegtr5MJUoChB7qgdPHPdV5uleX0eirH0bsAGzCDlxJWOIlP4IQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.circledash"
-  },
-  {
-    "appname": "Defense legend 4 HD: Sci-fi TD",
-    "appdev": "JoyUp",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/9UNWdpSuU-gEBCrt6X3rWhtEs0zSvCCIql9CAKGpUYdHpAQ-zmen3uyTbj_MQK_s7JwnoO6kjTiXAqplN9bktUAjWUT7B9SvcKyH_B981tWJ-T7p-A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.Defenselegend4.HD.TowerDefense.TD"
-  },
-  {
-    "appname": "Zombie Age 2 Premium: Shooter",
-    "appdev": "RedAntz",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/K5J2bbxK0rUFrAA_xhT_Ahw5aZ1CJUT5uRwrmSwl_Bbln83yP0AFMFszxT__mKrChQYd_NQor4gGje3N4-3HsO4miwZCQ38uF4ge=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.redantz.game.za2p"
-  },
-  {
-    "appname": "Space Shooter: Galaxy Attack",
-    "appdev": "Unicorn Studio Official",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5M",
-    "appurl": "https://lh3.googleusercontent.com/iKSdczeRNAGkzpJmqP3GOxs_xfhBofVUPijIfKLB5HVzGEt0FCLal0i3-cym_HuAH9csu7Iqz-FQtmEW9Zb3uGHXC-aGxvaKPnKZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.space.shooter.alien.galaxyattack"
-  },
-  {
-    "appname": "Stack 2048",
-    "appdev": "AK Studio Mobile",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/OMDBpHljoJZioGP8aMm1sm8HxWe0CgVborRsC61-EOAGBpSzvlRIpNqjaM3dDj38DIjmVov90JqDrd2xOi_lyxsEzHbP3XhQf693ZPm6OK-MXGk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.AKStudio.Stack"
-  },
-  {
-    "appname": "Star Blaster: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OLz8qxpy_jWca7aYS2lIiOah3xN4dmBkqWjp-YbEyf5WYif9kUzPvkQ0Qz9m1FheGQpfCnVIektg6-Z-ZjCyIZc8MA7FKSoy2SCWN4qVbYCsyFtd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.starblaster.athree.epl.gp"
-  },
-  {
-    "appname": "Heroes Infinity Premium",
-    "appdev": "DIVMOB",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/yZYd0q1rBAk_daYntcK_5kVUEIr-0aL7TQOoRBS9HZ5qHeX8hZw6oQSf4DAXP5ZXnWbYp9Pg_CgFyk3KINT8H0YEOsRRz-Yi_3rs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity"
-  },
-  {
-    "appname": "Bus Go - Traffic Jam",
-    "appdev": "Gamezilla",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/cKSBIN8QfkH-0tsl0dbvnbddK4uoWLCsJPwy1jZQueTrciSFdR0taWSZln8a6J-Rla8ynu4BWUYc174MYrpR4Dfac2TxNUUj5tthb0vQtT8XQDpy=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.busgo.trafficjam"
-  },
-  {
-    "appname": "Ludo 3D - Aeroplane Chess",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3cifOM9cR14de4grXh5lA8E9UH53Lc8X_aAWhwwlv2ZFWGYcCyCJVo592TOx_AGrVqYo1uqaqjBZte5gp1ax1-Yu9Oab8O5jHr-rmbcmNzeeQDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.waterpower.ludo3d.r"
-  },
-  {
-    "appname": "Grow Dungeon Hero VIP",
-    "appdev": "pixelstar",
-    "appprice": "$1.99",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/kxDu6V6pzSQWSJqzINMhQKf37B14LLI9RwjzjzDZnQuKJfA_xYJt-utSEbbFYg2tdgVuEpLiV42HQYr7msnzXZfeB3YfRGNu8mo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.DNPHVIP"
-  },
-  {
-    "appname": "Universe Invader 2: Premium",
-    "appdev": "GCenter",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/YGYUjjvJYGzoF6hgOzD8yfpRhCex04Jg5AWamOGs0e3qVTIY9N_FRKQGn6iGhw0ktPR4Q0hD7xepy8gwIL-BJWyjIn96enH2ol8soocxkSgpJAcs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.universe.invaders.alien.war.attack.V2.Pro"
-  },
-  {
-    "appname": "Quick Volume Control",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/kIootZOOW4IXAXAmKTQejFEZdkkO2oNUIY_cNmIH7EoBjS8vw-6kRwNUV92frPkSgFzcG07cpD_y_g0Mio2rPZrdiGZ9iDMGdwM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.volumecontrolnotificationbar"
-  },
-  {
-    "appname": "Polar Event: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/i8wktW80GsFM_3OnvkyIPFfx6GgIqaTeFJZ6Onw9Ost4rxp6oOnCYHZJZwCY8DgIVmb7WHc5uO7Dd3YlQitR37-rsUippZRLXGhNTOv7VfFqzDo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpolarevent"
-  },
-  {
-    "appname": "Progress Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/7-gnPknRPabPN3GnvbDkZjL2YAq8LjHAmCp76lSRkowTj6WI1TrrjRW_STBEoAJZB1kLniQsWkmN3keqr3Daur95rDP6SpuGj4vU8ycHhYBTLiI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.progress"
-  },
-  {
-    "appname": "Analogue Watch Face CRC082",
-    "appdev": "Creation Cue",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/3h9h5y4HhCNHwmer9xgF0jcS82OqDSZJB3FTuiUS7Wxi_3rbg2kfpsd6tIyLW2uyWeb_iv5UFho1T9MQUluWTkTs27c3GogpsYfqOoQRC8sG2T7-_FaNYhWK3zwWUJ4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creationcue.crc082watchface"
-  },
-  {
-    "appname": "Digital Simpul Watch face",
-    "appdev": "CERBER WATCH FACE",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Zm72hyDiZxupw47OG3q4RmURxaKyC_LELBPolvhYOUKBW6HKbuhocm-ZRX9JvagHXtPKLGXvNOlKkhV-4NcqZlEKzOBliiJ_FeeG6b0ObElXizATXgh5ZUBjttD9MA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.lumip"
-  },
-  {
-    "appname": "Offline Password Manager",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/6KUdHcIoUjViPoVhGlFBDDIZEImpfEZg-is68nQFkF16VQTZ8DyaipPbUs4zk7Y86ui_U5CHoan2I9eexNnYhWtKUUSXLmnZG7OmcJOm5Hx0GbHd=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.passwordmanager"
-  },
-  {
-    "appname": "Stabilize Video: Stable Video",
-    "appdev": "TAPUNIVERSE",
-    "appprice": "$2.99",
-    "apprating": "4.3",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/UiDHeJ_9wjOj_V4-adZD-w7jS-wkRwlpntBr69CByKH9vTdSq-vId3Y7b8STmRHp5YdUUuGac1Ykj2bY_kk3GuAVZkSXzP_Id8jinotaVs87G2Sc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.videostabilizer"
-  },
-  {
-    "appname": "The Weapon King VIP",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/UmGpW_tjlNX__8O2rVAXqNiiXjT_MselxPmunPg2eTCquPcnbowvVPq_UrztCbnHZNlO9nAs-w7sGB7DlJeRt66bdRZVXpj2KQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.WKvip"
-  },
-  {
-    "appname": "Stickman Warriors Dragon Hero",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/DyG8BG2efeUfxCXG58DpBp5DCU7qEqY99v-i9ZP9p12alXxnTfVMmwa34k7CDXoitGOSdY0_nylAh6SnH0TD6i-BBiZWndarFSM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.dragon"
-  },
-  {
-    "appname": "Pill Counter",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xXwD88EsQl9DmGFT__9mI_ol9aLDjt6WWkCTwf_f3GAb4qQzOsLpJ-mRlj0sXOUQxBnkm303RYC62haryh1oYa4YB8G5oJaJtGMvmUPGrKJdncr20A=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pillcounter"
-  },
-  {
-    "appname": "Stick Warrior SuperHero Dragon",
-    "appdev": "Super Dragon Legends PVP",
-    "appprice": "$0.49",
-    "apprating": "3.8",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/BPxsqn_Cwy5COmAwhSvSmGt_zYRWCE_M6uwUj4Ug9s1pft4uGDAOHuvTvKu6cV7RoHokMA7FXpJxiNkfFHqpxzLvHWTEw-xSXRbX8LsXQyFcBd5b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.superhero.fight"
-  },
-  {
-    "appname": "Avalar: Shadow War Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/XV7iX5gyCx8JO45RY4fTd31IhvRrAG_OKUVhG83yei8GIDQi1ty7KSFigBbPoNMJNWDqoRG8G9hQkCXRO7IEvSn37HhO-aTRIkB4r7W8FUc2cFS0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.avalar.athree.epl.gp"
-  },
-  {
-    "appname": "[365fun] Electric War",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/-fH8zA0Ki1dDYKAeDygADE3gGrLw5qvXxBDGiL0_XkbM6s8wY70cllOC7Q-i58eW8ZMYu0ltHzG4a8Tgi1ycD9Go9y_VKCakHl5W3dTj7f7jasN_=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.electricwar"
-  },
-  {
-    "appname": "[365fun] Bubble Pop",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ckzx_-yd3u9zyNokotTxxEjZn4OiuIP_3-H8p-6KJnEfUDrbFY07kFLYHO8rJhD4P_oBmVrBQ7x6U0_983plBIzG8sN3NZuL5_IMWtj7TLFR6FGC=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.bubblepop"
   }
 ]
