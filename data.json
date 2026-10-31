@@ -1,5 +1,105 @@
 [
   {
+    "appname": "Dungeon Princess 3",
+    "appdev": "Ssicosm",
+    "appprice": "$0.19",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/KSouO9U9mrxhdefKiKXMjuB_aCrEuUptq5D-OmFw1uqkkz-vIysSKLWc7xrYEriypsPUam5NkzZi-uzMUhzhUzNUPOh6geZcfmDCIJq9dKghgI3npg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_3_pay"
+  },
+  {
+    "appname": "TVV Christmas 2 Watch Face",
+    "appdev": "TVVisuals",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/v0EJMCSpKTMvXmepw9rs8u-E-pdowAj__VPgyHoZMgfRMCkdXgkGj3gygATJuIUbJS_fJMoYc-fQ4BEzEvJKlOZzrr0-FaiFLYxSNwwGPyuoaltp=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tvisuals.tvvchristmas2"
+  },
+  {
+    "appname": "Dungeon Princess : RPG",
+    "appdev": "Ssicosm",
+    "appprice": "$0.19",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/NovrLZ--DS8vJuSbLEuk2dEZVkcGZC_tnN2d5lErKqeUB_HJ1K1YPMyj5aRdgBcsc1OSLeoUxPUkYv6MSW3M5V0QWVelYu8JXMU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess"
+  },
+  {
+    "appname": "TVV Christmas Sweater",
+    "appdev": "ThemeVerse Visuals",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/ou8rhSl186bXNvFyX-SFWCehzuJJocE4BpOk4REvCqOhw_OmjR520VfSwhXrL-VWbG-Z2iFZEfDcQD7qgM3hC--6Ta2WD8JL1egl423wCyfJlNXX=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.tvisuals.tvvchristmassweater"
+  },
+  {
+    "appname": "Live or Die: Survival Pro",
+    "appdev": "Not Found Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/n6CRx6XZjzzTBoaaO5KqR8enKz7qh_aIvVPpaMk_w40gckvljXoKUABQfcJktbL_v6oQOYlKpzOUNLNXlQpZ5MdgEv7l8gIlj60=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pgstudio.survivalpro"
+  },
+  {
+    "appname": "Sudoku Master Premium: Offline",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/V7JtONReJP6eBOuibjjeQalqJ8eDAUErzdAEeF5EGzXuxG-lMH9IawoqgAbAHGLkXU81UDlWhLrz9REnmzGRDD_4bQ6be6g6J2nNvIxgugAUMF0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ANOOGAMES.SudokuMasterPremiumOffline"
+  },
+  {
+    "appname": "Water Sort Puzzle - Premium",
+    "appdev": "otto games",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nPsCcAmEoIVXZkbDcPhyt4aJD8cHKjxDjVZENzmSZxbdsYzn5Id7-Ft3rSbqy-ZHtXRCehgswUWHQdxMvLmIgpetRETDrnYPqN7xxSNc1RCIzRAW=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.water.sort.color.puzzle.game.relax"
+  },
+  {
+    "appname": "Chicken Tournament",
+    "appdev": "Sascha Hlusiak",
+    "appprice": "$1.49",
+    "apprating": "4.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/M6LCiGTrW-07rgIWDKMDU87orgp4fd_guv3-MycwNynWfuOG57P2q2kduZe_Oq94TfqseBYQAwdxtrGqynokgvANcc98D0-F4w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.ct"
+  },
+  {
+    "appname": "Grow Spaceship VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
+  },
+  {
+    "appname": "Dungeon Princess 2 : RPG",
+    "appdev": "Ssicosm",
+    "appprice": "$0.19",
+    "apprating": "4.0",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/1JfGwn2IVc-RLQHkyPOTxviUwAHaHTqB6VyvQ9z4YtwAD9deheM3_qd7wmYI3vG61nmOTyklQ_px1_jANceGBhl19I4dm6JUy_6M5eVkNOZTDCE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_2"
+  },
+  {
     "appname": "Level Come Again : Troll Game",
     "appdev": "codeXtend",
     "appprice": "$0.49",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
-  },
-  {
-    "appname": "IPTV Smart Player Pro",
-    "appdev": "Dmitri Iasibas",
-    "appprice": "$9.49",
-    "apprating": "3.9",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
-  },
-  {
-    "appname": "Garage Ringtones Pro",
-    "appdev": "Appflow Software",
-    "appprice": "$2.49",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/iiCoRpF-7COXpyY9f9SEKi4WCHRH-0068IgDIm3igTZqBeQ0lIZQZxd3BWTFh1l0V4odQd3iEnml-SXhNSHtBBuxLzF8m06t1mhnhESRa4Y0OVhAAQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=garage.ringtone.maker.audio.mp3.converter.pro"
-  },
-  {
-    "appname": "Last Hero: Zombie Shooter Pro",
-    "appdev": "Gem Jam",
-    "appprice": "$0.49",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/gfMXecCIiz-mufoYyylbeEMf8p3meoNj-S1-Rfe3pUtgtjGF1ZVF0Z0HgxcNnswOgnVA5GRXmFbcXo-Iz6gSmlovq_adIuKRwjC0VU-hraH_5Uev=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.last.hero.pro.top.down.zombie.waves.shooter.games.roguelike.apocalypse.archero"
-  },
-  {
-    "appname": "Cast Menu Widget Pro",
-    "appdev": "TechRCS",
-    "appprice": "$0.99",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/C7kJieHfp82RFJqETWkMI0_Hosg9URU4PDKJZZa8PasGbXcVgR3oLDXpBYpffK7oiZ6Wmu0b-WNA25l-SPd9-y1fSyBHwajuqmk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.techrcs.castwidgetpro"
-  },
-  {
-    "appname": "Epic King Heroes: Premium TD",
-    "appdev": "GCenter",
-    "appprice": "$0.49",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/ftxoqGS4ROUQJZGEAGYPtC-yVW9KaHZ2vkPKFgu_Dazg3RrGFP-77ZiScRJZR0X0dClzVfrj9ItvsppfpAhAfU-BOMDBVf49dzDmnfncm9BlNa0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.GCenter.epic.kingheroes.tower.defense.td.strategy.Pro"
-  },
-  {
-    "appname": "mAh Battery Pro",
-    "appdev": "TechRCS",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/4X0TiUoq5no9lZg0G1uIe77YaiDs96KLPm1OtNgICWOxwfyQ4FUvQ8XWAqP-uAqRcENLxer5v64jpU_pQlfZ4SfIkEpv4s2FfME=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.techrcs.mahbatterypro"
-  },
-  {
-    "appname": "Tower Defense: Epic Turret Pro",
-    "appdev": "MAY STUDIO",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/9kboZ-Bj0Rb8UdrhOK95wNxtWvv7vexMFFgtqYM3ia_Z_8v-9eAPOo1BEJ2Wy_wrfr9huOTjbXSdqrj8AH6DBpBcDHtFt7WDnQlk4xLB8CgRgzYJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.may.TowerDefense.TD.EpicTurret.Pro"
-  },
-  {
-    "appname": "Pace 2: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.79",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/S4wKLW6ilIhW4XnU5y2YROX9jfQmGSHVme7P21720rOByReqTYaQkCLjNwy9-KuL1o9F8hSn_UoXgAHEmQnW5dWPl5YrY0BIy3e8tACL9IQI1Xf7=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfpace2"
-  },
-  {
-    "appname": "Fit Dashboard Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/YAHNNZHfctkmOmfJr2uQk_4eLa6IkkLVuJ46Td7QAOYmq5HDN2kRDYdt5C8R2XjyNogmCNcFzsV2XiMZjcWePRjItR9VeBfrQFNidl00sL7LDDY9AQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfdashboard"
-  },
-  {
-    "appname": "Chain the Color Block",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/YtsvYM4DO7s0DJ7KIi5QBGoNoBE3smEvQ2eN-_mK5nmQJhBQdoLcsiE39n7cTHbGyJxa00qFzCFPVnZ0QbREneA_LWWmg0z0ZATMAVruVvfhwUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.color.block.r"
   }
 ]
