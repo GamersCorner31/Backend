@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Word Search Challenge PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "4.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
+  },
+  {
     "appname": "PicPu - Cat Picture Puzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$8.99",
@@ -168,26 +178,6 @@
     "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
-  },
-  {
-    "appname": "Who Uses My WiFi Pro",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/63rYU4K_rPvPk3Xwhv1kFoLFliyFSklubUNW8ayiTbcAc-u3thjbIKgkQ7UqDaHfuZUT8LtF63nlkrCfa0tF8bw686VUXH_EFSw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.whousemywifi.networkscanner.pro"
-  },
-  {
-    "appname": "Net Signal Pro:WiFi & 5G Meter",
-    "appdev": "Phuongpn",
-    "appprice": "$0.49",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Yvbea84LvUigqIV1K0joUsZDGKv7qfl3InHm5GYqk3EIhBgAh6Cxf7P1lann8hHXsypj_hqv7vo1sDdEAB3HYqHPqCwLwpNN0pZS=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.phuongpn.wifisignalstrengthmeterpro"
   },
   {
     "appname": "S4U Ancient Winter SE",
@@ -390,13 +380,23 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tankbattle2.r"
   },
   {
-    "appname": "Balloons Pop PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/EuN4GgwdIhz72aTng6s0F3UK7lmycXKc1OC2iVzWAFBo87smdFUCGTBOf6Tt6IIjhkrZt-HDGitAHXGeI3VJNKQ8BjDev4eyOhk=s200-rp-e7",
+    "appname": "Traffic Jam Cars Puzzle Legend",
+    "appdev": "MobGame Pte. Ltd.",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ibvBzt1eOrnZhxYc8gNA7QLeQLSGpAjENq6UB8w4E_p-Mm-YGPwPYCOaK87jxmnxqSCsYzsqYK6aoW7gzER8dhp8F9gLkz6ITJBUIPUyOT-5dL4=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.balloonspop"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gtm.trafficpuzzlepremium"
+  },
+  {
+    "appname": "IPTV Smart Player Pro",
+    "appdev": "Dmitri Iasibas",
+    "appprice": "$9.49",
+    "apprating": "3.9",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/iuhEeEzB93BWOYisor3dpFyrASCHAI1DhFdDdRxihSe7jddIn-Je8eeVN3AdLhbytdHEYnDHBgffYo3RP2113zG6mx88gYcpCuC_4tbEAtu7G2TD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.iptv.smart.smarters.player.stream.tv.live.watch.streaming.chromecast"
   }
 ]
