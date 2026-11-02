@@ -1,5 +1,15 @@
 [
   {
+    "appname": "The Cinder Crusade",
+    "appdev": "Coast Solutions OÜ",
+    "appprice": "$3.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/UJoWjD9kLYu6OOym8A5gkEb7fVuqfc8Of5GipqHo1QpcfJk684yuum2pLAKULvWrgTgFpR6MFd6ZI5GMY4ohQaCIKW79N0VEAFArWuVVZvT-ceKsnA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=ee.coastsolutions.tile_army"
+  },
+  {
     "appname": "Block Blast - A Retro Game",
     "appdev": "Eggies",
     "appprice": "$2.49",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
-  },
-  {
-    "appname": "Blue - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Y_ISX_bh-VG3Y4nweNBZPcMYB5U1YSizyX6PNlxT0gkfYWBR5SqHwSPLLcTAEKtZ7HYDdfbjbsYMvF76UuTiIDNJfJGlAjWAzJRiyItL2Mrj2y2L=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blue"
   }
 ]
