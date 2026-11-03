@@ -1,5 +1,25 @@
 [
   {
+    "appname": "PixiVisor",
+    "appdev": "Alexander Zolotov",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/EO4flJjTbIWE8GiXzkWZgT_qOpFcyso-GMZ0-TjXZcRbJcTMhQyY5EbXwQugg5rOtoZhvX4573li9yHsVBXLD-n9s8ZpSEcBNOM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixivisor"
+  },
+  {
+    "appname": "Quantum VJ HD",
+    "appdev": "Alexander Zolotov",
+    "appprice": "$1.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/Q-d12XMVuhueic3XmabZHGBcbH66Fm5nWKYWViqaBOVbnfAgvj7zTs0y8AQ7Ln-JE4FXQd0Jl_PIsWSC6x3-eehx0w8QvTkCvJ72=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.qvjhd"
+  },
+  {
     "appname": "The Cinder Crusade",
     "appdev": "Coast Solutions OÜ",
     "appprice": "$3.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/txa539vO11DPynXLRwHjSZejF3XYaen0MlnviCv7pREzKYt_avDio9oFoTVVYBpOuyQtVpt9N7uyrJhsA0AZr_zBNYS_lr4C0AdDYu89-C9iFW8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinktr"
-  },
-  {
-    "appname": "Blueberry - icon pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "5.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/BwyDmN7FQuqnbh5QtjIgvkjzLXj9MXLBa5GSEGThLuGYoCzBJlW1J9167BMkj5gj7mVjlqPK9IiDWFDnF3BKzDXzneMl-6M2sh0Gugc4eTQ_V2vCMg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.olyblue"
-  },
-  {
-    "appname": "Varwil Pink - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/h3jk9_cjchUUyDfZ8hGgz6UGw8r_Ds99GkkvpczBTmp9meRzsccZkXZYPxa0knEmUeZjZ0oPM0q-B0lSUuYbDRJhz_26yN8VY06Llf1IBUoB2xc=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinkblack"
   }
 ]
