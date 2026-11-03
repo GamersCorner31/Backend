@@ -1,5 +1,45 @@
 [
   {
+    "appname": "PixiTracker",
+    "appdev": "Alexander Zolotov",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/wOGoJ2lNYlj68LoqiXdx3e3P-du6_TXOxsmy1Z4_Tbz2dJ7OXIPol1t3ty9lUgf0IrKuVEKSv9gi_Yef9fKL1KhNr_Cs3tLUVKoC=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixitracker"
+  },
+  {
+    "appname": "PixiTracker 1Bit",
+    "appdev": "Alexander Zolotov",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/1qtVn3zg0R4XED9OY28sjrcSnj-e7IyZ7l9bBkiKDn9bU5n7Q4-IClfGcdYwz6FPzjaVGOjCQAcG5iQD-aH0vOMTTAp7xFHjFSNZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixitracker1bit"
+  },
+  {
+    "appname": "The Room Stalker",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Y7Q2DRvRxtRCn8ux89dM37duI8_0sHoogbHLvb8gfjDOXjU0Y8GfYdzfZ1RcVZtfVg2K36T8RGQJeD1tGOCvEtu_olqtpSdVN25Uu3RLj0jYg1L8jw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.manjastudio.theroomstalker"
+  },
+  {
+    "appname": "Accumulator PDF creator",
+    "appdev": "Salemo Lines",
+    "appprice": "$28.99",
+    "apprating": "4.5",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/hycL0J7F078fbpgo391WTDsif-eEgxdRO4u8J-4v4D2B-kk-F4VfDqCFmdFOFQ5FWC0Umsj5QJQxeY9aFAX45ZvF2mKcVMJcw9tR=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdfcreator"
+  },
+  {
     "appname": "PixiVisor",
     "appdev": "Alexander Zolotov",
     "appprice": "$2.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
-  },
-  {
-    "appname": "[365fun] Fortress2",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/S1pTaU8_Yj1W_B3sX4LDOd6sNCkDk1T7I3thA4yFUBspTnDycXvHC6W16QvQSWX9lUPCEdUAuNmh5nFOWmIohlN0RBmO5CatnhKUXXzLwynChPPh6g=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.Fortress2"
-  },
-  {
-    "appname": "FASTAR VIP - Rhythm Game",
-    "appdev": "NextDoors",
-    "appprice": "$0.99",
-    "apprating": "3.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/cCj89g7agAt5yPiHLQp0hh9UU2nvZ-24SSRuuAC5cz3OrJOcwpVJ4giYk9378KfDWDxLhdfEudxuOQB_g9lK0kbDb4igQfrwOw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=me.nextdoors.fastarvip"
-  },
-  {
-    "appname": "Samak Blue - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/ncUZTxlIDQ0NkYdfLnfsgWpeEgCu3JU4fvZR6iPhnckvBOkgb9nhDsKMX06zFzT71SujDomu4MwSG0mwnpvAKanp4hsKojhnby_0nKVNPh14pp43=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.blueblack"
-  },
-  {
-    "appname": "Sakura Pink - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "500",
-    "appurl": "https://lh3.googleusercontent.com/txa539vO11DPynXLRwHjSZejF3XYaen0MlnviCv7pREzKYt_avDio9oFoTVVYBpOuyQtVpt9N7uyrJhsA0AZr_zBNYS_lr4C0AdDYu89-C9iFW8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.pinktr"
   }
 ]
