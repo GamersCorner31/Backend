@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Forgotten Memories",
+    "appdev": "Psychose Interactive Inc.",
+    "appprice": "$4.99",
+    "apprating": "4.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/vz1MxrE1gbmoc0_c8oJJywk2I6v_jCTkWT1bKG7XwpVeoKAVoeDStIruG3ZPaIJrwHdkDo3f2uZErJdZI682tazehOuOYoWEpw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.psychoseinteractive.forgottenmemories"
+  },
+  {
     "appname": "RUN 4: Watch face",
     "appdev": "amoledwatchfaces™",
     "appprice": "$0.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/nPsCcAmEoIVXZkbDcPhyt4aJD8cHKjxDjVZENzmSZxbdsYzn5Id7-Ft3rSbqy-ZHtXRCehgswUWHQdxMvLmIgpetRETDrnYPqN7xxSNc1RCIzRAW=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.otto.water.sort.color.puzzle.game.relax"
-  },
-  {
-    "appname": "Chicken Tournament",
-    "appdev": "Sascha Hlusiak",
-    "appprice": "$1.49",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/M6LCiGTrW-07rgIWDKMDU87orgp4fd_guv3-MycwNynWfuOG57P2q2kduZe_Oq94TfqseBYQAwdxtrGqynokgvANcc98D0-F4w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=de.saschahlusiak.ct"
   }
 ]
