@@ -1,5 +1,55 @@
 [
   {
+    "appname": "Slime Legends - Survivor",
+    "appdev": "Fori Studio",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
+  },
+  {
+    "appname": "Lucid Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$1.49",
+    "apprating": "4.5",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/nYForukk3BCePw4RuwXx3RyrKJIVkANWWbn4yUBN72t1ZRRv7FbVoRn34KqkS6iXmvgMlFsG06G_y1jYmCEoCmYwQ-8NLWzOxZpzlF210CNRPrsQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.lucid"
+  },
+  {
+    "appname": "Bible Master – Quiz & Trivia",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
+  },
+  {
+    "appname": "Image Cropper - Crop photos",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/xHJ190I82OPKH-zIVRgRVNQ1LORFXZ-iYbmH2InIpdhxyGxeaICJaDYIubP9_DT5ZfTOar_PoaN4QxsZH5m-i2RsivhPUedxTVagRgcn8-bbUVhZzw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
+  },
+  {
+    "appname": "Synonyms PRO",
+    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
+    "appprice": "$0.49",
+    "apprating": "4.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Nsgzn54S99pYyXizATIGiUxH9eBXu2n5lYvwIwPxCUlqmcAWr_MgpAvMhcStOkHP4G4n-XGXeYUufjkV7A-mv-1JTOyCQBfJU3Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.synonymspro"
+  },
+  {
     "appname": "PixiTracker",
     "appdev": "Alexander Zolotov",
     "appprice": "$2.99",
@@ -250,16 +300,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.rushe"
   },
   {
-    "appname": "Word Search Challenge PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/HAHFRl5uEjbyLg95FaCNF9KGH1BnSDazVyQ9lcGdGe6a_m3afraH2nC9gbC0CrZZhC2i2dPLJn5rI6lkwL7lrtaOFh0NZouhphUThmNWxS8GPG8rpg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.pro.wordsearhchallenge"
-  },
-  {
     "appname": "PicPu - Cat Picture Puzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$8.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/w7rn2_NoVGQ0RFQxNIOsw4ZAs7m24x01D_MG1McpPzubBeWds8LmkeWuqeSnCb9udEee_YoErV_PgsFsHGQb-bHGzpIOWQf1eG4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.GrowSpaceshipVIP"
-  },
-  {
-    "appname": "Dungeon Princess 2 : RPG",
-    "appdev": "Ssicosm",
-    "appprice": "$0.19",
-    "apprating": "4.0",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/1JfGwn2IVc-RLQHkyPOTxviUwAHaHTqB6VyvQ9z4YtwAD9deheM3_qd7wmYI3vG61nmOTyklQ_px1_jANceGBhl19I4dm6JUy_6M5eVkNOZTDCE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ssicosm.dungeon_princess_2"
-  },
-  {
-    "appname": "Level Come Again : Troll Game",
-    "appdev": "codeXtend",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Z2pb5ZKft-qjvP2jarDK2Mj-jvV6eRk-oy45KcLPaPYtw3ck62tXzMQXk-hMvnu7zW-tjm5LW1jglARh50jNR2zfTyg4XHOCTIknpiUchMk-BazQjA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhavesh.nevertrust"
-  },
-  {
-    "appname": "Screen On - Keep Screen awake - Keep Screen ON",
-    "appdev": "Yogesh Dama",
-    "appprice": "$0.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/oHV_uoXjsXpXYL06QihrKdpV002EwU7SNWE84SSR8YckOvsNqnUFLT-7GAugafr65FY3Rp-qMckdjXyZe8FXUCJMJdWtYHsRog=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.screenonmanager"
-  },
-  {
-    "appname": "Bookmark Manager - URL manager",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.9",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/fdsZ5NsI7jHrdvwf-G6X7e9iWlIyxs0McrfIJpo4epwRuT8sRj8JmpKm-Z2dJRR0doyuLtHHlIaVZMB7EEQik8TIhVA2TFAwjw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.simplebookmarkmanager"
   }
 ]
