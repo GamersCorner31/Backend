@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Word Seeker Minimal",
+    "appdev": "JVN Consultancy",
+    "appprice": "$2.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mwT8_yrBGhXFBho-dCCw05o-iZYDip5azbijsLG4eCie-Ttw6TB2SMX3kNC2upfkk9g0QGLRAMi8lFW71QIJVgY5DTr_AGRTSXjYUclINcpXqT2Y=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jvnconsultancy.wordseekerminimal"
+  },
+  {
+    "appname": "Word Search Ultimate PRO",
+    "appdev": "Michal Šajban",
+    "appprice": "$0.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/nKUjsm-uV_WnugK9qpJdJaYxeFCxrsXdl-bNrKqgIsXGQIBJ_rp3EuRc_ft2G5utUSI0WSZRaAPIAiX1QLEquqMdw0NqRTCsXXQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchunlimited"
+  },
+  {
+    "appname": "Tung Sahur Void Runner",
+    "appdev": "Quantic Bit",
+    "appprice": "$0.05",
+    "apprating": "4.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/sUrz0GFVgIpmTu_P0_FH8_fMVRzOnCyUICe_3I3i9xTp7rMFt4Ct3l2V3l6em05sEMX29VYYz0wD3zPK8HVXBZoM8GGRhVSilSIPSXBx8gbZn2BU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.TungSahurVoidRunner"
+  },
+  {
     "appname": "1945 Sky Shooter: Premium",
     "appdev": "GCenter",
     "appprice": "$0.49",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Y7Q2DRvRxtRCn8ux89dM37duI8_0sHoogbHLvb8gfjDOXjU0Y8GfYdzfZ1RcVZtfVg2K36T8RGQJeD1tGOCvEtu_olqtpSdVN25Uu3RLj0jYg1L8jw=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.manjastudio.theroomstalker"
-  },
-  {
-    "appname": "Accumulator PDF creator",
-    "appdev": "Salemo Lines",
-    "appprice": "$28.99",
-    "apprating": "4.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/hycL0J7F078fbpgo391WTDsif-eEgxdRO4u8J-4v4D2B-kk-F4VfDqCFmdFOFQ5FWC0Umsj5QJQxeY9aFAX45ZvF2mKcVMJcw9tR=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.org.jvp7.accumulator_pdfcreator"
-  },
-  {
-    "appname": "PixiVisor",
-    "appdev": "Alexander Zolotov",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/EO4flJjTbIWE8GiXzkWZgT_qOpFcyso-GMZ0-TjXZcRbJcTMhQyY5EbXwQugg5rOtoZhvX4573li9yHsVBXLD-n9s8ZpSEcBNOM=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixivisor"
-  },
-  {
-    "appname": "Quantum VJ HD",
-    "appdev": "Alexander Zolotov",
-    "appprice": "$1.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/Q-d12XMVuhueic3XmabZHGBcbH66Fm5nWKYWViqaBOVbnfAgvj7zTs0y8AQ7Ln-JE4FXQd0Jl_PIsWSC6x3-eehx0w8QvTkCvJ72=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.qvjhd"
   }
 ]
