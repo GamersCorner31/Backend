@@ -1,5 +1,55 @@
 [
   {
+    "appname": "1945 Sky Shooter: Premium",
+    "appdev": "GCenter",
+    "appprice": "$0.49",
+    "apprating": "4.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/8KywDbm-QnyICeGkLRTHiJIsV5WoJY1k6jqn-Uzpy_tt9CEPaEVFbCLk7ObEuoyG5YqIilz2R2cQP2q60v6ipYvfkO9z6vVojcP3-Qjc9ZqPUMT8Og=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.War1945.SkyShooter.ShootEmUp.Pro"
+  },
+  {
+    "appname": "Tech Quiz Master - Quiz Games",
+    "appdev": "Eggies",
+    "appprice": "$2.49",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
+  },
+  {
+    "appname": "Quick Age Calculator",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/HZ-3nudjz_HvaALroDlsI773U8pPiwKKjQQe7onI0crZH1y3Ke8X3xggLB_5gNnS66sEOdxs_7yKqvNsBXBQjvjjdFG-WVciI4IWYz-K9DEz15EJ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.agecalculator"
+  },
+  {
+    "appname": "2 Player Quiz Pro: Trivia",
+    "appdev": "Simon Schubert",
+    "appprice": "$1.99",
+    "apprating": "3.9",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/0aAIUwDgKrADdUovj4FfTnuBswn3xL1rpeStOkwTUq8sN5beBjA91ybbbvmh-zZ_zzBWN4zDIgfkFfHLpxD7Ac5zlioIUsd0bbo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.twoplayerquizultimate"
+  },
+  {
+    "appname": "Ailem Olur Musun PREMIUM",
+    "appdev": "Trash Men Studios",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/lVNeuxFvHRxvsmrzj1va2_I0EPGNZwrM70MI5QtV3FhN2TI9BZu6QDQqaS8aScmGT3914dlpn6Nd5ED0aZA-eML6kr3EL8Afr59T9IaryEhvjHDTww=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.atikadam.ailem"
+  },
+  {
     "appname": "Ciclo Circle Icon Pack",
     "appdev": "OSheden Design",
     "appprice": "$0.99",
@@ -290,16 +340,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
   },
   {
-    "appname": "Synonyms PRO",
-    "appdev": "LittleBigPlay - Word, Educational & Puzzle Games",
-    "appprice": "$0.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Nsgzn54S99pYyXizATIGiUxH9eBXu2n5lYvwIwPxCUlqmcAWr_MgpAvMhcStOkHP4G4n-XGXeYUufjkV7A-mv-1JTOyCQBfJU3Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.synonymspro"
-  },
-  {
     "appname": "PixiTracker",
     "appdev": "Alexander Zolotov",
     "appprice": "$2.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/Q-d12XMVuhueic3XmabZHGBcbH66Fm5nWKYWViqaBOVbnfAgvj7zTs0y8AQ7Ln-JE4FXQd0Jl_PIsWSC6x3-eehx0w8QvTkCvJ72=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.qvjhd"
-  },
-  {
-    "appname": "The Cinder Crusade",
-    "appdev": "Coast Solutions OÜ",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/UJoWjD9kLYu6OOym8A5gkEb7fVuqfc8Of5GipqHo1QpcfJk684yuum2pLAKULvWrgTgFpR6MFd6ZI5GMY4ohQaCIKW79N0VEAFArWuVVZvT-ceKsnA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=ee.coastsolutions.tile_army"
-  },
-  {
-    "appname": "Block Blast - A Retro Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/LSmD3drM5t0YQgNJmTphl7CnOr1liYbqoES2vAiEok5XZGPOJQCSe2AYzq5Cg-LcjV8aGJjv-1UxVDrp7gc5Cn1rhTfMESWiy9F15vrgyYDBhbw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.blockblast"
-  },
-  {
-    "appname": "Tap Rush - Reflex Game",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "4.2",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xELOFUARyp48W6IEoPJ3JJgCy1MqfmS7oUzN5ziMfmnJj1OC2p-34iKffCtCBDEw0ZMeth9RNoMpgOPhzyqamIzReKKv62qRhXT__Mpv8ONsIOzeTA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.taprush"
-  },
-  {
-    "appname": "Logo Guess Challenge",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5VRifs3g5eTgG7D86dWNY33RkNyQRlEqrsrW6hN-u7h5694X_7zZTkVFbfRP13_yc3DbDM0uYPTpMzbjEzIYupLj3CY2rgvrwoqWKwV-aDQzX-w3=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.logoguesschallenge"
   }
 ]
