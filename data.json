@@ -1,5 +1,95 @@
 [
   {
+    "appname": "Image Resizer",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
+    "apprating": "4.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
+  },
+  {
+    "appname": "Fake call screen - Prank call",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
+  },
+  {
+    "appname": "Gems Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.49",
+    "apprating": "4.8",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/rLYYycsX33pyiVPdtR2jrlaMedHBbFmmn4bhwXM_5ooegtfdzn1GRNLAGtGUJXv0KN2V3eGUg-Laj3Cu-El4Dlse7sd0Gk3uyOrnXMcnR_CEQurD=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.gems.iconpack.app"
+  },
+  {
+    "appname": "Prismatic Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.49",
+    "apprating": "4.5",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/YTO-4ckxNCa6A4Jdlpz2DuEx5t9e1N2Zy_ZJM1eN3Yd0iDsYac1--y6gVeieTkVVaZGUvZBDHZU36zp4DeK5QISzPPZZ90vAxJuDJaQWWngJr4W9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Prismatic.Iconpack"
+  },
+  {
+    "appname": "Firefly Neon Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.7",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/A2LMTNUeeIx4bch52blhtTbC6MQl-7PlWyXV0v2moiDnF5pUF725NOJhnSsPodv31DFATE21MZYwK-VuqofzXKX7mrXARFki5j6C1VQo22enfg0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.fireflyneon.iconpack.app"
+  },
+  {
+    "appname": "Project Icon Pack",
+    "appdev": "Creativepixels",
+    "appprice": "$0.99",
+    "apprating": "4.6",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/dSczG9JN9chAttGXx8L2q5Hw9AkyhfFrBV65F-jty0YVdRg40nYp2Z-UojzYsDPi5uVIPM2LekSXPK--gdHLJD2Efk-KJ8IFzyTa_esWguwvJLtn=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.project.iconpack.app"
+  },
+  {
+    "appname": "Agenda 26 pro",
+    "appdev": "ilpesceweb",
+    "appprice": "$3.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/JJnq9z1cCQXAVJKlgaKo174KVLEv56mYjMn_ZPq-UviKyWQ2Jpgv4qWuO71_Ss4IaYG4WjlM-Zak8VR6DPQYOyO6kCRcF3Q9UwpeBPeqj-mFTVoG=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=ilpesce.web.agenda_2026_pro"
+  },
+  {
+    "appname": "[VIP] Black Shadow : Idle RPG",
+    "appdev": "SUPERCLAY Inc",
+    "appprice": "$9.99",
+    "apprating": "4.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/ztnmeVtAt5pf6sOsc1TS7XD18DHhZqXdVYY2_QKsWGxmF2-r3xUomEljI2u8r96BGAQ4e4BQuZkBys5kupOciR9MuT_YVQV1uqI-w1JlycHorI4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.superknightvip"
+  },
+  {
+    "appname": "Avalar: Raid of Shadow Premium",
+    "appdev": "Enigma Publishing Limited",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
+  },
+  {
     "appname": "Word Seeker Minimal",
     "appdev": "JVN Consultancy",
     "appprice": "$2.99",
@@ -308,95 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/zchVyTNMBFJ4eDYSJOvNM1K-Z1MCk7hhq-ghmmciixb60kyVB8MUc5pjgUGMBv88dqya-1yFfDrbWLNoRXBgPRyWWtWMvt0JRAR6HxT3rFHG2Fc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.zigzagame.tokyodebunkerpremium"
-  },
-  {
-    "appname": "Forgotten Memories",
-    "appdev": "Psychose Interactive Inc.",
-    "appprice": "$4.99",
-    "apprating": "4.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/vz1MxrE1gbmoc0_c8oJJywk2I6v_jCTkWT1bKG7XwpVeoKAVoeDStIruG3ZPaIJrwHdkDo3f2uZErJdZI682tazehOuOYoWEpw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.psychoseinteractive.forgottenmemories"
-  },
-  {
-    "appname": "RUN 4: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/E9D4abSOPXSHb5xuxwIR7fzUUksNf32aCcwMsn535_MH-64xjnRWIKMF1pxXyJ9I8L7U6s7uYTf1P97BDIVTIXNUcnjwZKnVKTN89R-cpvE2PRQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.run4"
-  },
-  {
-    "appname": "Slime Legends - Survivor",
-    "appdev": "Fori Studio",
-    "appprice": "$0.49",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ACG73vk8MxhJ6xb6RE21-4oZy6JnpLfqiT-0bZZ-5k3M3XNcorq_Xb7X8ueRZDd78nfbweCXolcBc1jiieKzmrMXiXzav-Epc-tsY3BKDeZscLQE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fori.slimelegends"
-  },
-  {
-    "appname": "Lucid Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.5",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/nYForukk3BCePw4RuwXx3RyrKJIVkANWWbn4yUBN72t1ZRRv7FbVoRn34KqkS6iXmvgMlFsG06G_y1jYmCEoCmYwQ-8NLWzOxZpzlF210CNRPrsQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.lucid"
-  },
-  {
-    "appname": "Bible Master – Quiz & Trivia",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/S9SXgarQcBJs_biEa66TRmLDQPpvMhvqM4imsnl6DLb1VOMsjHCWLOEFZVCokeUR_w4f4qBTqr-CMM_4JL356pjzOq9VzEKmFURxyTuDh5NSydhY=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.biblemaster"
-  },
-  {
-    "appname": "Image Cropper - Crop photos",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.5",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/xHJ190I82OPKH-zIVRgRVNQ1LORFXZ-iYbmH2InIpdhxyGxeaICJaDYIubP9_DT5ZfTOar_PoaN4QxsZH5m-i2RsivhPUedxTVagRgcn8-bbUVhZzw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.imagecropper"
-  },
-  {
-    "appname": "PixiTracker",
-    "appdev": "Alexander Zolotov",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/wOGoJ2lNYlj68LoqiXdx3e3P-du6_TXOxsmy1Z4_Tbz2dJ7OXIPol1t3ty9lUgf0IrKuVEKSv9gi_Yef9fKL1KhNr_Cs3tLUVKoC=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixitracker"
-  },
-  {
-    "appname": "PixiTracker 1Bit",
-    "appdev": "Alexander Zolotov",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/1qtVn3zg0R4XED9OY28sjrcSnj-e7IyZ7l9bBkiKDn9bU5n7Q4-IClfGcdYwz6FPzjaVGOjCQAcG5iQD-aH0vOMTTAp7xFHjFSNZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=nightradio.pixitracker1bit"
-  },
-  {
-    "appname": "The Room Stalker",
-    "appdev": "Manja Studio",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/Y7Q2DRvRxtRCn8ux89dM37duI8_0sHoogbHLvb8gfjDOXjU0Y8GfYdzfZ1RcVZtfVg2K36T8RGQJeD1tGOCvEtu_olqtpSdVN25Uu3RLj0jYg1L8jw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.manjastudio.theroomstalker"
   }
 ]
