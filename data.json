@@ -270,16 +270,6 @@
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.jvnconsultancy.wordseekerminimal"
   },
   {
-    "appname": "Word Search Ultimate PRO",
-    "appdev": "Michal Šajban",
-    "appprice": "$0.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/nKUjsm-uV_WnugK9qpJdJaYxeFCxrsXdl-bNrKqgIsXGQIBJ_rp3EuRc_ft2G5utUSI0WSZRaAPIAiX1QLEquqMdw0NqRTCsXXQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.wordsearchunlimited"
-  },
-  {
     "appname": "Tung Sahur Void Runner",
     "appdev": "Quantic Bit",
     "appprice": "$0.05",
@@ -398,5 +388,15 @@
     "appurl": "https://lh3.googleusercontent.com/fx3kDNyIT8VcZThOunEhJkWP-Fi-UTQigtAsXv1fQXwPxu1Qg42EEGrlUtlEWsUW8Vkhl0P99gbZqHiy5EBUB2XNgg-r9g3OSPY=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tryoniarts.brickbreakerplus.noads"
+  },
+  {
+    "appname": "[365fun] Jewel Match",
+    "appdev": "wind",
+    "appprice": "$1.10",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/L8sV0S7rO4Oo7MzoNJ8d-EPn7rErGrYezXvlZO86OkfR6grzZB4tPKmbMZ62GVUMbkTdIDYOmIdWdLPqPzbnpY4-hzvHaRK1q-clD27XFA1Bnfv5gw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.jewelmatch"
   }
 ]
