@@ -1,5 +1,15 @@
 [
   {
+    "appname": "SamWatch AD Hephaistos",
+    "appdev": "Samtree",
+    "appprice": "$2.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/RFcnmvcedhlSuhPqLxt95tYVn1Qh2DvFB0wjRWRPFSGRttFhBL6BV7XUs5WhsDOOUe3Ei_jQ6LqtgwdQh-bc6KkFt05j9yWl8uHFpDou0kaais8s=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_analog_digital_hephaistos"
+  },
+  {
     "appname": "Long Jelly-Chain",
     "appdev": "UnknownProjectX",
     "appprice": "$5.99",
@@ -388,15 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/mwT8_yrBGhXFBho-dCCw05o-iZYDip5azbijsLG4eCie-Ttw6TB2SMX3kNC2upfkk9g0QGLRAMi8lFW71QIJVgY5DTr_AGRTSXjYUclINcpXqT2Y=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.jvnconsultancy.wordseekerminimal"
-  },
-  {
-    "appname": "Tung Sahur Void Runner",
-    "appdev": "Quantic Bit",
-    "appprice": "$0.05",
-    "apprating": "4.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sUrz0GFVgIpmTu_P0_FH8_fMVRzOnCyUICe_3I3i9xTp7rMFt4Ct3l2V3l6em05sEMX29VYYz0wD3zPK8HVXBZoM8GGRhVSilSIPSXBx8gbZn2BU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.TungSahurVoidRunner"
   }
 ]
