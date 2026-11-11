@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Long Jelly-Chain",
+    "appdev": "UnknownProjectX",
+    "appprice": "$5.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/GlWYKtbhCqxmboOkDgHRA90-kzx0saMIM28KEH5PloXBVCRiReSUJTuOTFZldEKfXUAD4I3pP3iPLUFoa5a6DC8qBuYmYzI5igpGOPLLuBexm36Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.longjelly.chain"
+  },
+  {
+    "appname": "Full Battery Alarm",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "3.5",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/rxbz01xzKufAueVjFvHFAsFmOj42brP1BzG1P4XbHmW33W_O4am8FZCekcGsnq8NCtdPwRSio_-ufstIjwaLno24Bj0cjbs_MIc6LRIatG7Kzesh=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.lightstar.batteryalarmpro"
+  },
+  {
+    "appname": "White Room",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "3.6",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/fYGJ0vUgHXRVn3JTD0QAizPAVaCvn_M3gcQqbbVzSfUdWuba-4W0i_kKzqypVwIrw_U6p5Fm7hHTCbYcPQqneYo_65q3wbHX75vSdXgn5muub5h5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.sarangkoding.whiteroom"
+  },
+  {
+    "appname": "Box Head: Roguelike Premium",
+    "appdev": "PANTHERA GLOBAL",
+    "appprice": "$0.99",
+    "apprating": "4.5",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/LfF2-WVxqGQoPN2QFkKjP37ehI4U6kIfPeqXTK5nqzlvHPWMg1A2wCIN2205fnW8bdmW8FIABRmxaY7C-Uu3mN4Wurrl1UZx3FqT4miqlH1yyVBZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pantheraplay.boxheadpremium"
+  },
+  {
     "appname": "Shadow Hunter: Offline Premium",
     "appdev": "EA Publishing",
     "appprice": "$0.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/sUrz0GFVgIpmTu_P0_FH8_fMVRzOnCyUICe_3I3i9xTp7rMFt4Ct3l2V3l6em05sEMX29VYYz0wD3zPK8HVXBZoM8GGRhVSilSIPSXBx8gbZn2BU=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.QuanticBit.TungSahurVoidRunner"
-  },
-  {
-    "appname": "1945 Sky Shooter: Premium",
-    "appdev": "GCenter",
-    "appprice": "$0.49",
-    "apprating": "4.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/8KywDbm-QnyICeGkLRTHiJIsV5WoJY1k6jqn-Uzpy_tt9CEPaEVFbCLk7ObEuoyG5YqIilz2R2cQP2q60v6ipYvfkO9z6vVojcP3-Qjc9ZqPUMT8Og=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.War1945.SkyShooter.ShootEmUp.Pro"
-  },
-  {
-    "appname": "Tech Quiz Master - Quiz Games",
-    "appdev": "Eggies",
-    "appprice": "$2.49",
-    "apprating": "3.9",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/858JKSEnUm71o_8GCRJY6NPwfAgakKkkUnZuxKZ1jJ0bZDJRHacxs19jOL0VEuzjwki3zz8B5bYvpSLWW7bsHI7EjdMLNcpHDMbBm5y3c115zQQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.eggies.techquizmaster"
-  },
-  {
-    "appname": "Quick Age Calculator",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/HZ-3nudjz_HvaALroDlsI773U8pPiwKKjQQe7onI0crZH1y3Ke8X3xggLB_5gNnS66sEOdxs_7yKqvNsBXBQjvjjdFG-WVciI4IWYz-K9DEz15EJ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.greatapps.agecalculator"
-  },
-  {
-    "appname": "2 Player Quiz Pro: Trivia",
-    "appdev": "Simon Schubert",
-    "appprice": "$1.99",
-    "apprating": "3.9",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/0aAIUwDgKrADdUovj4FfTnuBswn3xL1rpeStOkwTUq8sN5beBjA91ybbbvmh-zZ_zzBWN4zDIgfkFfHLpxD7Ac5zlioIUsd0bbo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.twoplayerquizultimate"
   }
 ]
