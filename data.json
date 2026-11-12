@@ -1,13 +1,113 @@
 [
   {
-    "appname": "SamWatch AD Hephaistos",
-    "appdev": "Samtree",
-    "appprice": "$2.49",
+    "appname": "Bright LED Flashlight Pro",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
+  },
+  {
+    "appname": "Equalizer - Bass Booster pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.5",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/gwF6c-Yk5h6Jey-TsgCO00TszbE1REarA13VAkg2mDue5w5V7y-rZqwS_pQhPe8SDQpLZe8Z-7AhiNL4NcFHcSYei5OsTteKykpt=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.volume.pro"
+  },
+  {
+    "appname": "Equalizer Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/RkDzn1O-_TZ4l_SPLdHNUGAhKYAKytoOeByqv9tHbrvnZtgOrKns_Jx9Gp4_aAzHOdS1denQ16KKQ5Iuoeuf2CjdQ7mxAwbgADo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bass.booster.equalizer.pro"
+  },
+  {
+    "appname": "Equalizer - Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/bqfL-k2yhXdEj3fnF08vCZhAZpR1RPb5VRiG9fVBVWxPakwxnhDQhoQTsBHLNwk6p6YYHRiPhGFxd6CbhI8ZTHK2TdeuzS5gzXk=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.eq.music.player.equalizer.pro"
+  },
+  {
+    "appname": "Volume Booster Max Pro",
+    "appdev": "WetcRun",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/c1AGGrQE9q4dvfxnhlsJYIhm2VWM505o6Nnm2kfXoVGwka0I5emYFQaKoN1CNe5TMqSlffHig1jn2HnZtZfksX-J9OzQfaeBjCdjTanr-omWR6U=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=volumebooster.volume.booster.pro"
+  },
+  {
+    "appname": "Equalizer & Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/mzkaNeuSAiBxuyf-qE3q9RFYdXMyrXKB5ZjvlQEhyVWfm9225KgsJL1xqwLLrFMfDLNyAlSB0p2q8P741JnGK96qxCq5uSvcvPHE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=musicplayer.bassbooster.equalizer.pro"
+  },
+  {
+    "appname": "Push Up Counter",
+    "appdev": "SwiperyLab",
+    "appprice": "$2.99",
     "apprating": "0.0",
     "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/RFcnmvcedhlSuhPqLxt95tYVn1Qh2DvFB0wjRWRPFSGRttFhBL6BV7XUs5WhsDOOUe3Ei_jQ6LqtgwdQh-bc6KkFt05j9yWl8uHFpDou0kaais8s=s200-rp-e7",
+    "appurl": "https://lh3.googleusercontent.com/D4_U9IjwtNSEYjJyWVhz7xNPxzxho6U_M7g7KvQvEUY4p3hUkHnOtwjbuyuujIH8wbYAzIMpahEuPRpQMq17TAQ-NRPMSHkhooE8jdw6yoKWi8jL=s200-rp-e7",
     "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_analog_digital_hephaistos"
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pushupcounter"
+  },
+  {
+    "appname": "Equalizer Bass Booster Pro",
+    "appdev": "WetcRun",
+    "appprice": "$1.99",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/IX7jt_3F69ETYf3lsmZFocubJCP8wn3UpUjyyDF8fvY7g4QjVW8Xl16Ke_wpuzXFFEkEmtKtgpJFUShF6qUTyRHoNElLp9swsiA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.music.pro"
+  },
+  {
+    "appname": "Equalizer FX Pro",
+    "appdev": "WetcRun",
+    "appprice": "$2.99",
+    "apprating": "4.2",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/sGVbin5yC3GQt0O396oEwYPSl3VdWVJIzpPFCqCvZL6WrwgOpkEyjZqza9MIL_4D_Zc8E8MnS74tdcx8Bw3qJgUUZpi4TD6Q8eg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.bassbooster.musicplayer.theme.pro"
+  },
+  {
+    "appname": "Cricket Cards -Tiles Sort",
+    "appdev": "Gamezilla",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Q6ogOpYA-KnUtxKL97hxM-QnG0jxkytN5tJXN1LixqLBcnQfgnn685EFhoatpnSwAxart9RS80HXIexY_MK8jc_NqOeDwUgdxHR2ECaNl5d1l8PJLw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.cricketcards.tilesmania"
+  },
+  {
+    "appname": "Sweet Treat Tiles",
+    "appdev": "Gamezilla",
+    "appprice": "$0.79",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/iPw7a78MBhWFqWM-CCa8NLm18Hc-SMLZYeUrKzGehGMpCRkH5pH0QXb6xf7Iq6Jy65we81OVI036DdcRnoBMFXfGwndy8gIdNp1_vpYo0WDd9y_V=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.sweettreats.tilesortgame"
   },
   {
     "appname": "Long Jelly-Chain",
@@ -298,105 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/FiM2Ye4WawWW2u1XlLX4CHE0HRbOHPH982zPTF3rzFC0GAGBkQeOJG0rdDn4vCOdLt_GkVf8zDtn6LRw9MIEJA5Lesr9OzrY4HzhbWsSSO8i8Tc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sortandarrange.r"
-  },
-  {
-    "appname": "Image Resizer",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "4.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/aaj3XFmbCifKa4UdbDpFa5NAkFdoluyU9wUyhdXtfzstvUPduy0vUbdlBkAkcsS52ONfhMxp6Wl3FiyhBLIw6bcZ_t16Ni_PANcUy6yQXHlvMOI=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.resizephotos"
-  },
-  {
-    "appname": "Fake call screen - Prank call",
-    "appdev": "Neelam Govind Bhanushali",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/3G-6n3O5_Xtn1XfHxf0vxIYFvARL6HaIYpKNy6kD5heJl9vbDTzqcuWyjvd2CODeE0he_G9x3hBtxYhOS40RMG1UwSHwl_JTR6XIS1CZaJio7eJo2Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.fakecall"
-  },
-  {
-    "appname": "Gems Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.49",
-    "apprating": "4.8",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/rLYYycsX33pyiVPdtR2jrlaMedHBbFmmn4bhwXM_5ooegtfdzn1GRNLAGtGUJXv0KN2V3eGUg-Laj3Cu-El4Dlse7sd0Gk3uyOrnXMcnR_CEQurD=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.gems.iconpack.app"
-  },
-  {
-    "appname": "Prismatic Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.49",
-    "apprating": "4.5",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/YTO-4ckxNCa6A4Jdlpz2DuEx5t9e1N2Zy_ZJM1eN3Yd0iDsYac1--y6gVeieTkVVaZGUvZBDHZU36zp4DeK5QISzPPZZ90vAxJuDJaQWWngJr4W9=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Prismatic.Iconpack"
-  },
-  {
-    "appname": "Firefly Neon Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.7",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/A2LMTNUeeIx4bch52blhtTbC6MQl-7PlWyXV0v2moiDnF5pUF725NOJhnSsPodv31DFATE21MZYwK-VuqofzXKX7mrXARFki5j6C1VQo22enfg0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.fireflyneon.iconpack.app"
-  },
-  {
-    "appname": "Project Icon Pack",
-    "appdev": "Creativepixels",
-    "appprice": "$0.99",
-    "apprating": "4.6",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/dSczG9JN9chAttGXx8L2q5Hw9AkyhfFrBV65F-jty0YVdRg40nYp2Z-UojzYsDPi5uVIPM2LekSXPK--gdHLJD2Efk-KJ8IFzyTa_esWguwvJLtn=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.creativepixels.project.iconpack.app"
-  },
-  {
-    "appname": "Agenda 26 pro",
-    "appdev": "ilpesceweb",
-    "appprice": "$3.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/JJnq9z1cCQXAVJKlgaKo174KVLEv56mYjMn_ZPq-UviKyWQ2Jpgv4qWuO71_Ss4IaYG4WjlM-Zak8VR6DPQYOyO6kCRcF3Q9UwpeBPeqj-mFTVoG=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=ilpesce.web.agenda_2026_pro"
-  },
-  {
-    "appname": "[VIP] Black Shadow : Idle RPG",
-    "appdev": "SUPERCLAY Inc",
-    "appprice": "$9.99",
-    "apprating": "4.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/ztnmeVtAt5pf6sOsc1TS7XD18DHhZqXdVYY2_QKsWGxmF2-r3xUomEljI2u8r96BGAQ4e4BQuZkBys5kupOciR9MuT_YVQV1uqI-w1JlycHorI4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.superclay.superknightvip"
-  },
-  {
-    "appname": "Avalar: Raid of Shadow Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/EZM7HYAoCCYdh1Tm11VBpZHPnzwg-mLj4likJEQ_qHIjUGes4Ist-QZYhQZ8x-JNYyTPDUhnR3_2q6yR0YEL4bhqnJsnRoY147UfbdYGcr32uzT6=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.vtwo.athree.epl.gp"
-  },
-  {
-    "appname": "Word Seeker Minimal",
-    "appdev": "JVN Consultancy",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/mwT8_yrBGhXFBho-dCCw05o-iZYDip5azbijsLG4eCie-Ttw6TB2SMX3kNC2upfkk9g0QGLRAMi8lFW71QIJVgY5DTr_AGRTSXjYUclINcpXqT2Y=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.jvnconsultancy.wordseekerminimal"
   }
 ]
