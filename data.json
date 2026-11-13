@@ -1,5 +1,45 @@
 [
   {
+    "appname": "Sound Meter & Noise Detector",
+    "appdev": "Tools Dev",
+    "appprice": "$2.99",
+    "apprating": "4.6",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/QwJtplBYQ13mxB5hBEcyoHYeoEV7X-sWhb5li-qzfqthNVe0NavRdLWQgt13-nVdyjlup8VjPLvx8Od289VcY0Uz1kNM9E0nenuVDaNcLjjCueM=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.soundmeter.noisedetector.pro"
+  },
+  {
+    "appname": "Red - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "4.9",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/KxLCpCpjBxKPtKC_AJd0us5z-PjH94UZwfvhTXNQrENV49Af4w8f-QWswC5g5ERWSPYIZlH6wNMG4zxd4aIUaIcH2e7YyVxRGMT8Fhtw1P_wjXS4=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.red"
+  },
+  {
+    "appname": "PicPu - Dog Picture Puzzle",
+    "appdev": "UnknownProjectX",
+    "appprice": "$8.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/xUi302jryG5j-laQHaqOuVFTPrx6dPzrRoW58EE6o1AECo9fVVd9QbulrpLWLi3ezbBeDLLHDOuF80cShzM8p9M3wW4x5RyU9bjsR4PNzSdwx-ct=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.dog.r"
+  },
+  {
+    "appname": "Memorize Prime Numbers",
+    "appdev": "UnknownProjectX",
+    "appprice": "$4.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/FwLupjbf8WgrE_Bz6ncK07Ode-s53LgJL3WuzYiqJy6zuMk5V5DZn32v57-YdY-Eou40KYpOof-RKjAUjad2H038zq5nd6lE4TlnONB6fJjGJA24=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.prime.number.r"
+  },
+  {
     "appname": "Dot - Aline Same Color Dots",
     "appdev": "UnknownProjectX",
     "appprice": "$4.99",
@@ -358,45 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/AOdLakzl6giTt6COoilt3ifMEp0MEzPqqfCMq159kEKylGj0f2w3yxxwGZGeMdLjCbnWC7H88o6gKVUPyIwd7D6w-BDLKKrIw5yyA2JGFDoGBFvc=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.tapuniverse.printphoto"
-  },
-  {
-    "appname": "Undead Slayer: Offline Premium",
-    "appdev": "Enigma Publishing Limited",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ofmfdI_GCRn0M5Dd-J4vsxrOcmHWmcr4Gj-ZO7Y9E_UiCew3iSdW20zetdkSECYmxzz8LPu_S82xYI3m-AhnMUC0YhbxT4g6EKEQizVNzLLDVh8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.undeadslayer.afour.epl.gp"
-  },
-  {
-    "appname": "MNML Glow: Watch face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$1.49",
-    "apprating": "4.6",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/x8OUuOlhhyU_yY-W3KI62nP0LErGTJ9nYvSwcOM9vw8s5omC1_kQqwyaf_iw1wGNzGaQ1HHuFriECg2hiD7t9GnLOK0cZNhOsBNTqUdyJVphPrtk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.awfmnmlglow"
-  },
-  {
-    "appname": "TripleFantasy Premium",
-    "appdev": "Gameplete",
-    "appprice": "$11.99",
-    "apprating": "3.5",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/op77AvjQ_8fpjNRGU50p1ci7VluYpa0I9b-98H-zjmZK8pujktcymGdxdPVjNN-k2dk1i_p4arS-oK4K6N0DlUYBl7_3WzoSzWA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gameplete.CardFantasyPremium"
-  },
-  {
-    "appname": "Final Castle Defence:Idle RPG",
-    "appdev": "DH GAME",
-    "appprice": "$0.99",
-    "apprating": "3.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/5ty42S30R11HEsYaQX4ldbjZ-G-qQMkopAxhi5hBuKL0pOF02qObixqovP6luU66duoUl5vVBrL1r6T-puyiu3r1H1lGl3VSXTg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gdx.dh.game.sdefence"
   }
 ]
