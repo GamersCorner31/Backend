@@ -1,5 +1,35 @@
 [
   {
+    "appname": "AppLock PRO – Lock Apps",
+    "appdev": "Apps360 Team",
+    "appprice": "$9.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/5S1wQPsYWKXVXUUx-QwcYP_T8iK9HL6_CRJiKARCycPqewGqUOLQHTK4fLXGl8t6Yi1Lt5kA3CXtExq_RCSbxLHLrrea8_kYNgZXd9uhsf23E-1W=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.app.protector.locker.pro"
+  },
+  {
+    "appname": "Braincup - Brain Training",
+    "appdev": "Simon Schubert",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/71UHstNHzcXNmrLVtTMkSWnKaX075xUGqjp7X-aVzkhs7t-B5BUOhWoRPJ9rL1sYllkgP28M2NjPrSdXAYTGfXG9OJ2PKUPNqdl9=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.inspiredandroid.braincup"
+  },
+  {
+    "appname": "Expenso - Money Manager",
+    "appdev": "OneSolutions",
+    "appprice": "$4.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/SWvHTyFyNZKQYySuO9jYYtTY3amyrlMYd_5nnudT4_T-LrVCXBu6wLnxMv8I0lPp-x_r-cYSWn4l3g-UUAqmgZJcffVASu56looAaUt68ppNvL48NQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.expensoapp"
+  },
+  {
     "appname": "Video Speed Editor",
     "appdev": "SwiperyLab",
     "appprice": "$4.99",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/c1AGGrQE9q4dvfxnhlsJYIhm2VWM505o6Nnm2kfXoVGwka0I5emYFQaKoN1CNe5TMqSlffHig1jn2HnZtZfksX-J9OzQfaeBjCdjTanr-omWR6U=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=volumebooster.volume.booster.pro"
-  },
-  {
-    "appname": "Equalizer & Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/mzkaNeuSAiBxuyf-qE3q9RFYdXMyrXKB5ZjvlQEhyVWfm9225KgsJL1xqwLLrFMfDLNyAlSB0p2q8P741JnGK96qxCq5uSvcvPHE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=musicplayer.bassbooster.equalizer.pro"
-  },
-  {
-    "appname": "Push Up Counter",
-    "appdev": "SwiperyLab",
-    "appprice": "$2.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/D4_U9IjwtNSEYjJyWVhz7xNPxzxho6U_M7g7KvQvEUY4p3hUkHnOtwjbuyuujIH8wbYAzIMpahEuPRpQMq17TAQ-NRPMSHkhooE8jdw6yoKWi8jL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.pushupcounter"
-  },
-  {
-    "appname": "Equalizer Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.6",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/IX7jt_3F69ETYf3lsmZFocubJCP8wn3UpUjyyDF8fvY7g4QjVW8Xl16Ke_wpuzXFFEkEmtKtgpJFUShF6qUTyRHoNElLp9swsiA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.music.pro"
   }
 ]
