@@ -1,5 +1,55 @@
 [
   {
+    "appname": "SnagID - Snagging & Inspection",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "3.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/WEjV4Y6moirnWh4mmT8A2L4FJsn6Ltt79UXinrGzX8a_-NGR2uvWuDP8CXrSkcI6JPuDadbefaMIOk9ihfvQzmoUZuUgFKZ_Qg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.appculus.android.apps.snag.snaglist.snagid"
+  },
+  {
+    "appname": "Checklist Inspector - Auditing",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/qw8ynXQdy6TvJIW8KfzV0cxI3rr70AOVOjYQZxpnfO_pKbIGxKGt0GMOwZQVxR1ThxlKxt5n-sq6PjZNbsmysfr5uwLykaiWp7w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.auditbricks.onsitechecklist"
+  },
+  {
+    "appname": "SnagBricks - Site Auditing",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "4.3",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/JIRvMq07z3ZNX2EUQll7SH0F_G_am8WNwVCKKGFZT3gLWRLsyUUZulcf3w_enuvj_GRJC93VpCZQGo50O-sBhbnRpuWhqSyCIT0=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snagbricks"
+  },
+  {
+    "appname": "AuditBricks: Site Inspection",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/wvOa6p17v0NBOGWUtP25nun5MRlscmpGrcom3IGhSjEmxkVAQahoNG11aUWVhX6tE9pAHxZ0lHErzucrg4paMj9z0nzwnN7Kf7E=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.auditbricks"
+  },
+  {
+    "appname": "BuildReport Pro - Snag & Audit",
+    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
+    "appprice": "$4.99",
+    "apprating": "4.1",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/fRb5RTsm2FyNvPQpcFqR-_ij7CB0K84QnjBYUnsFnCTQvDKIUsj8t1lduJDInG1wCQsMCfLBrqdvF8zGulKsGLkPcl9vfVqWIFQCH5B0ZvmJY0ZD2w=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.appculus.sitereportpro"
+  },
+  {
     "appname": "AppLock PRO – Lock Apps",
     "appdev": "Apps360 Team",
     "appprice": "$9.99",
@@ -348,55 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/2W8tFnK5Ub4mdApeTwgmB6eDsNEf2ZgzK0QzYTr4CDQuQsusnCv5ttHnvY_PBElMu5-TJ0I96HGvI5DmPq8TM2yFN842-2UDpRRa-GmHxuGn4W1lgg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sandnwater.r"
-  },
-  {
-    "appname": "Bright LED Flashlight Pro",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/OJPLMHn77goC7l1UBi-Bhj9N1sJxAh8RtQlNULSNPM7UiRaOWgSuRK_wCZptaHv4fnYi37bOhoHJDplol2ZmtJzPsx9jKGM9apSsrMBF8KIAxQ6Z=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=coocent.app.tools.light.flashlight.pro"
-  },
-  {
-    "appname": "Equalizer - Bass Booster pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.5",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/gwF6c-Yk5h6Jey-TsgCO00TszbE1REarA13VAkg2mDue5w5V7y-rZqwS_pQhPe8SDQpLZe8Z-7AhiNL4NcFHcSYei5OsTteKykpt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bassbooster.volume.pro"
-  },
-  {
-    "appname": "Equalizer Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/RkDzn1O-_TZ4l_SPLdHNUGAhKYAKytoOeByqv9tHbrvnZtgOrKns_Jx9Gp4_aAzHOdS1denQ16KKQ5Iuoeuf2CjdQ7mxAwbgADo=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=equalizer.eq.bass.booster.equalizer.pro"
-  },
-  {
-    "appname": "Equalizer - Bass Booster Pro",
-    "appdev": "WetcRun",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/bqfL-k2yhXdEj3fnF08vCZhAZpR1RPb5VRiG9fVBVWxPakwxnhDQhoQTsBHLNwk6p6YYHRiPhGFxd6CbhI8ZTHK2TdeuzS5gzXk=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=bass.eq.music.player.equalizer.pro"
-  },
-  {
-    "appname": "Volume Booster Max Pro",
-    "appdev": "WetcRun",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/c1AGGrQE9q4dvfxnhlsJYIhm2VWM505o6Nnm2kfXoVGwka0I5emYFQaKoN1CNe5TMqSlffHig1jn2HnZtZfksX-J9OzQfaeBjCdjTanr-omWR6U=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=volumebooster.volume.booster.pro"
   }
 ]
