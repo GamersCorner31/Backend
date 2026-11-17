@@ -1,5 +1,15 @@
 [
   {
+    "appname": "Chrono Watch Face",
+    "appdev": "Galaxy Design Studio",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/DDprX4pK1-bUOr6rFRvD873iFoWpCdFpdHgHw1paKJqf_5qfPMQAttsaymqB1YWNQh3Xymm79N2TqSP-98M1jLKzCqs0Ntix3IJyv9EZGwHfvZjy=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.chronodash.galaxydesign"
+  },
+  {
     "appname": "Blocks Falling - Puzzle",
     "appdev": "UnknownProjectX",
     "appprice": "$1.99",
@@ -68,56 +78,6 @@
     "appurl": "https://lh3.googleusercontent.com/tPcXA9sNQ-QyNFWy0dBH5YKrPP9Nzcm4mdEqcfgk_shUNKrwHpej2T2SOCGsaXwu5mTvIVMw74DPA5XA5ORkqWzdaCA_WPzftejDaS8IQQ-ugXhm=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.Gcenter.i.Survivor.Epic.SHMUP.premium"
-  },
-  {
-    "appname": "SnagID - Snagging & Inspection",
-    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
-    "appprice": "$4.99",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/WEjV4Y6moirnWh4mmT8A2L4FJsn6Ltt79UXinrGzX8a_-NGR2uvWuDP8CXrSkcI6JPuDadbefaMIOk9ihfvQzmoUZuUgFKZ_Qg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.appculus.android.apps.snag.snaglist.snagid"
-  },
-  {
-    "appname": "Checklist Inspector - Auditing",
-    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
-    "appprice": "$4.99",
-    "apprating": "4.0",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/qw8ynXQdy6TvJIW8KfzV0cxI3rr70AOVOjYQZxpnfO_pKbIGxKGt0GMOwZQVxR1ThxlKxt5n-sq6PjZNbsmysfr5uwLykaiWp7w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.auditbricks.onsitechecklist"
-  },
-  {
-    "appname": "SnagBricks - Site Auditing",
-    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
-    "appprice": "$4.99",
-    "apprating": "4.3",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/JIRvMq07z3ZNX2EUQll7SH0F_G_am8WNwVCKKGFZT3gLWRLsyUUZulcf3w_enuvj_GRJC93VpCZQGo50O-sBhbnRpuWhqSyCIT0=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.snagbricks"
-  },
-  {
-    "appname": "AuditBricks: Site Inspection",
-    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
-    "appprice": "$4.99",
-    "apprating": "4.2",
-    "appdownloads": "50K",
-    "appurl": "https://lh3.googleusercontent.com/wvOa6p17v0NBOGWUtP25nun5MRlscmpGrcom3IGhSjEmxkVAQahoNG11aUWVhX6tE9pAHxZ0lHErzucrg4paMj9z0nzwnN7Kf7E=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.auditbricks"
-  },
-  {
-    "appname": "BuildReport Pro - Snag & Audit",
-    "appdev": "Appculus – Audit, Inspection, Checklists & Utility",
-    "appprice": "$4.99",
-    "apprating": "4.1",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/fRb5RTsm2FyNvPQpcFqR-_ij7CB0K84QnjBYUnsFnCTQvDKIUsj8t1lduJDInG1wCQsMCfLBrqdvF8zGulKsGLkPcl9vfVqWIFQCH5B0ZvmJY0ZD2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.appculus.sitereportpro"
   },
   {
     "appname": "AppLock PRO – Lock Apps",
@@ -398,5 +358,45 @@
     "appurl": "https://lh3.googleusercontent.com/bJDPeS4wtB2wpEtLUiIiG66FWu9xqzxAAA5kuMA1IxHAcxushyZ5cVd-Y-pH1LfAVP7boP1JTdwsc34pZQcrnLMZzBh5u_FPg5KhNtkCUcYyEqd4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
+  },
+  {
+    "appname": "Meteoroid - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.2",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
+  },
+  {
+    "appname": "You-R Circle Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.9",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
+  },
+  {
+    "appname": "Rogue Hearts",
+    "appdev": "Ninetail Games",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/KhHpi_fuy3iPYko_4tz8d4L8RzcEjU5wuRG_DuzsayqWzeIsgNbKZ2MKXFsjPyRYdn3Itw47xGIUuQGgAevv7Z189wa6Gdt1uV-b=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid"
+  },
+  {
+    "appname": "Solitaire Pro : Card Games",
+    "appdev": "VR GAMES",
+    "appprice": "$2.99",
+    "apprating": "4.7",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
   }
 ]
