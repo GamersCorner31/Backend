@@ -1,5 +1,85 @@
 [
   {
+    "appname": "Bubble Level PRO",
+    "appdev": "1 Bit",
+    "appprice": "$2.99",
+    "apprating": "4.4",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/YYVXMR4wKkU3Bc-AYY3RRZrM6TqIW1fw-oeC7EsnFf5wJz2JEMTh6b7lP58uFnU-XesKIMfebTIjr3Li-CLeGFIDRYIk0Ih0LLqYue05XkaCJhWu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=bubble.level.ruler.pro"
+  },
+  {
+    "appname": "Mawaz Yellow - Icon Pack",
+    "appdev": "Panoto Gomo",
+    "appprice": "$0.99",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/skj05l2DdXpn-gupoy81oQgguyWWqtDqwrrxQPDNmadbmJpHGaficOVg19SXwI9C3HeM7O7Xcwfv1Zdc3dHFGPadbyHZ7oLniUNAfPpUFMeiDg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowblack"
+  },
+  {
+    "appname": "Super Shortcut: Productivity",
+    "appdev": "Geeks Empire",
+    "appprice": "$0.99",
+    "apprating": "3.8",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
+  },
+  {
+    "appname": "Lines Circle - Neon Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/d28eTJX7AjB8YrHnxlbqYBoKag5S5glTZtrSiNi_wv6iTXqWzWDq1FvbmlBdF3pwrZSfXIgj6XmOLsligBFj7COevcr7sBuwNnp1XncmmU5QeiXVPA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circlelines"
+  },
+  {
+    "appname": "Lines Circle - White Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
+  },
+  {
+    "appname": "Circle Net White - Icon Pack",
+    "appdev": "GomoTheGom",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/bja-4nCZ89PE6832-57wPPQ3XgOFi-ZPPKOtkqoI31dSRCRvQ9e4a-vzeiu3GrkFpaxzVem4RzSxhx1MReiM-pLa2lNjSGszHg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
+  },
+  {
+    "appname": "Material You Watch Face",
+    "appdev": "amoledwatchfaces™",
+    "appprice": "$0.99",
+    "apprating": "4.4",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/iY6Co_cbdFaxUGbcWZAWCMWa4oJ9zaBvH3DqH4X1c1GCERhZce0jYVhG39ZX_7vWQExl11vlIWZpr6rq2lWSAdwStqd__8R9MSk8EM7-mPMjW8PE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou"
+  },
+  {
+    "appname": "Dead God Land - Light Survival",
+    "appdev": "DevVision Games",
+    "appprice": "$6.99",
+    "apprating": "4.3",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
+  },
+  {
     "appname": "Chrono Watch Face",
     "appdev": "Galaxy Design Studio",
     "appprice": "$1.99",
@@ -318,85 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ag0jYrlT8iiDCgLHIBXBm73qwp4XSioNrRFWZMF41QYf0jh0vvXYR8mncyLXNTFSOUaN9nQKbByDTtIBwm1oR8JfI1TUbI-OuFpK1OeLE-FMhX11vA=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.runningman"
-  },
-  {
-    "appname": "[365fun] Mini Fighter",
-    "appdev": "wind",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/m2Cj0R3j7_YlW1Gx7uA9tYjpHJlpymMXHD2MhMsWNOjUy5PEDkcco2E6HG0eT29YktXd0uuFRmfHDNgKOo0PBmyy5e_Xa7No9wH7KJEfEV4Vx727=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.minifighter"
-  },
-  {
-    "appname": "BRINDAMRUTAM",
-    "appdev": "Sri Sathya Sai Publications Society",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/2PwH1b_Yx5nztpot5noFwT-YCYQvqDB5A9f8axAlTLqyVokCby_tC9CSl0n4-0co9VFhjWoQO8C7AAGff7wOSDn6E_b7ty0FCc076XcIPF-ObI0DZQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhajanabrinda.brindamrutam"
-  },
-  {
-    "appname": "Vr Theater Pro - Big Screen",
-    "appdev": "VR GAMES",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/sq3vi9GvtirfPZKFXwCw7RUStzG8PmVdsagms4o_7BSLdz8AW7gws-1UvT8_lSWArAJ_qhSRXyl2WnA2q8qgoItcVoyeScojCqsvLsy9tO6wePFL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=vr.theater.video"
-  },
-  {
-    "appname": "Car Racer Vr Pro",
-    "appdev": "VR GAMES",
-    "appprice": "$0.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/bJDPeS4wtB2wpEtLUiIiG66FWu9xqzxAAA5kuMA1IxHAcxushyZ5cVd-Y-pH1LfAVP7boP1JTdwsc34pZQcrnLMZzBh5u_FPg5KhNtkCUcYyEqd4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=car.racer.vr"
-  },
-  {
-    "appname": "Meteoroid - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.2",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/Hn9CGR_we_CJ1a5Jqylmdjk2h-rAwb8tk4bbmS5Lgtad6ubMryo2mF2_AbmEtOuf6VxWmKip_QIfeCSNTcPv_pXBCH9jVgyTirJ0FqZzTx9kWViZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.icon.pack.meteoroid.theme"
-  },
-  {
-    "appname": "You-R Circle Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.9",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/LzhUtMyIR1COOvnoOEW834Jhk2C72ctSwkogG4pFx-2Q1Aeoq_NrDveW_zFYyJYUQCDHyM_hdo1IE7WsUGwTPFox8-bU1t0tvo26x-yu2cbTaEmu0Q=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.gmg.you.r.circle.icon.pack.theme"
-  },
-  {
-    "appname": "Rogue Hearts",
-    "appdev": "Ninetail Games",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/KhHpi_fuy3iPYko_4tz8d4L8RzcEjU5wuRG_DuzsayqWzeIsgNbKZ2MKXFsjPyRYdn3Itw47xGIUuQGgAevv7Z189wa6Gdt1uV-b=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid"
-  },
-  {
-    "appname": "Solitaire Pro : Card Games",
-    "appdev": "VR GAMES",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/lLitM0BPQT1nKn3btgqb6_6q7AYOgE7KXtlxKj9lUtXwlGZDkoUJpagVX9jPQLJCCX3S5d8T2EdBsJ-EDqHpw66by_lWwF4LW031sSXItEeyINs=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=solitaire.classic.cardgames"
   }
 ]
