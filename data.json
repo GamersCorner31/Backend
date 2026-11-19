@@ -1,5 +1,55 @@
 [
   {
+    "appname": "ML2U 280 Watch Face",
+    "appdev": "ML2U",
+    "appprice": "$1.59",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/P00HmuTmidAQ3epV-OydWhR9nMwsyTGAfTIuHPgQTOM-OFgDj7H_dmXyEvfhZBhHosHmdVjHnsaTRBaOufDu_yRZJLNiZbu75HBzhzKlgcGj4Wnb=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u280"
+  },
+  {
+    "appname": "Dungeon Merge!",
+    "appdev": "Brilbox",
+    "appprice": "$0.39",
+    "apprating": "4.4",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/tAu-_DAh87MYg4dBtWt7xfCTtsBQ3jBx-Wq6RvJrkadEevFv1zs-a5o4_oz0aEGdYoKGxF-GlsVzHSQPkBslYuvBjQ_7-pwr1r6vIVQsEtTXpFOW=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.brilbox.dungeonmerge"
+  },
+  {
+    "appname": "Cleric",
+    "appdev": "Michal Železný",
+    "appprice": "$1.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/-OEgAgrl1o0QmI-TRFpveM7mhrRvtDilx3SVww0taueMFutc6ZjI2ZgYfQoHnL3Qq-qoWYctu5OFg7m3q0PtqfaOfTyNLrtBK8CwE0YoXcpL9xw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.michalzelezny.cleric"
+  },
+  {
+    "appname": "Stickman Legends Offline Games",
+    "appdev": "Putaleng",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "10M",
+    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
+  },
+  {
+    "appname": "Soul Evolve: Epic Fantasy Hero",
+    "appdev": "MGIF",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
+  },
+  {
     "appname": "Pixel Camo Health",
     "appdev": "QuBit Time™",
     "appprice": "$0.99",
@@ -8,16 +58,6 @@
     "appurl": "https://lh3.googleusercontent.com/gJX96ioCCkljRSLGKDs_9hxUPFz5v6RRhgGz_x0dhnmChbZabdbF1R8TxjvfKvPWandP62HnvYF0CEid-Frlkd578NPnxA1TE0OCTJret8BNE1az=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.qubittime.qpc"
-  },
-  {
-    "appname": "SamWatch Digital Harmony I",
-    "appdev": "Samtree",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/k25Fv6yS7l4Eo2ZCMjqO5WOOLbmkCZnksF29zvQHwVglBxRxjRb2MZE0U1Voz6coBSsNuQwAf11HoeNUB9Yr8feev1AypUFtRXTKWB_zdWVqReVU=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.samwatch_digital_harmony_1"
   },
   {
     "appname": "Clear Wave - Water Eject Pro",
@@ -148,26 +188,6 @@
     "appurl": "https://lh3.googleusercontent.com/ryYhGnvV_zMQ0AuE1AZls2ttPQP9UIOsya4T_cyLiYBZKDwnvO5nfGpq1llnKfMfawAXHArA_7zlLhbiuwobwvubAz2C2hJFivkisIi91Cwaa8pf=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.blockfalling"
-  },
-  {
-    "appname": "Spelling Master PRO",
-    "appdev": "LittleBigPlay",
-    "appprice": "$0.49",
-    "apprating": "3.7",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/5Za45eXD6uBFZ-Boopmdh4Xkx8z-byuDcjARlCsId4JfavHULwR236QQQ8ikvMJBuFcL0h5kcL2DEYbvOgAMv0ZqTinKn6Iggvdt=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.spellingmaster"
-  },
-  {
-    "appname": "Sound Meter - Decibel Meter",
-    "appdev": "Tools Dev",
-    "appprice": "$2.99",
-    "apprating": "4.7",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/p0sDMYtxHEKvoG-W1ormN2K680ptFj_SQuGq8XmMLSef6ealdln1k2lOqWllKL7LdxDtrUWXeH6uGee9ITJbxtn1gocDnY0gjC_HswFOIICC18I=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=app.tools.soundmeter.decibel.noisedetector.pro"
   },
   {
     "appname": "PhotoApp: AI Photo Editor, Art",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/KxLCpCpjBxKPtKC_AJd0us5z-PjH94UZwfvhTXNQrENV49Af4w8f-QWswC5g5ERWSPYIZlH6wNMG4zxd4aIUaIcH2e7YyVxRGMT8Fhtw1P_wjXS4=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.red"
-  },
-  {
-    "appname": "PicPu - Dog Picture Puzzle",
-    "appdev": "UnknownProjectX",
-    "appprice": "$8.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/xUi302jryG5j-laQHaqOuVFTPrx6dPzrRoW58EE6o1AECo9fVVd9QbulrpLWLi3ezbBeDLLHDOuF80cShzM8p9M3wW4x5RyU9bjsR4PNzSdwx-ct=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.picpu.dog.r"
-  },
-  {
-    "appname": "Memorize Prime Numbers",
-    "appdev": "UnknownProjectX",
-    "appprice": "$4.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FwLupjbf8WgrE_Bz6ncK07Ode-s53LgJL3WuzYiqJy6zuMk5V5DZn32v57-YdY-Eou40KYpOof-RKjAUjad2H038zq5nd6lE4TlnONB6fJjGJA24=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.prime.number.r"
   }
 ]
