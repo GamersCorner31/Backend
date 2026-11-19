@@ -1,5 +1,35 @@
 [
   {
+    "appname": "Super Tank Battle - myCityArmy",
+    "appdev": "UnknownProjectX",
+    "appprice": "$14.99",
+    "apprating": "0.0",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/Mbk8TYqWh1LgkzgQRDBUV5dTzsF6CRQleN0erRavAZLoeK712vtZhpKFDWj_LgsZ78ALm26OLXgbTK2T3hm0y1dqF4UsP6HGgbLntHmchsn-6SuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.tank.free.r"
+  },
+  {
+    "appname": "Photos Charging Slideshow",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/Obh7ZvasFGK-SD-XhvwULuLjf39ojix_fpTLrbCpIu9A3lkRJc7eBj9VotbwfyOIs6e-Nr-RByR9NnV1NbEzrl307BIl1Zc3pw=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.batterychargingslideshow"
+  },
+  {
+    "appname": "Sudoku Classic",
+    "appdev": "Manja Studio",
+    "appprice": "$0.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/I0AYbRm-uTHP2cicSvehuiCp4y0UKEs9qeKQe4TISZvBQP0OV_Tu59DWmIdFTdg0UHNBxNklhNQvZ10-pWBlJowM7MJJMo688IUvvpZPjMXabchzsg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.sudokuclassic"
+  },
+  {
     "appname": "ML2U 280 Watch Face",
     "appdev": "ML2U",
     "appprice": "$1.59",
@@ -368,35 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/JU7YDQVMUWVTQpF6T7Sv-f5YwVScAD2nC-sYYPQnZq4OkEStU5zQ2e8a4Ks1j1MT3Pl5BWXjQjiR-9soeJ0P__Jz_le_MOs_7KRpoDz5CP0NWr8=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.unknownprojectx.sudoku.org.r"
-  },
-  {
-    "appname": "PRADO 60 Digital Watch Face",
-    "appdev": "PRADO DESIGN ® Watch Faces",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/aEkuyitR5-fN9hZb9xmXnFP64iG1ffF2eiAP2cMfRMqYRZJNhFcwdEav-s3mChzGcOsoNnUzuxBg_T9rK9Do962aVcMNU4v6k3TzYQaf_Ru_NYWi=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.prado60"
-  },
-  {
-    "appname": "[365fun] Mountain Climbing",
-    "appdev": "wind",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/FZo7fvaBoqf-DTUI6qOB5uPgVW9LqgrYQNKtCC5scMdefYxME1nOW68sBL9wahNxXZbjHG3XRGs4UQu_lUcJ_HoLAMV6r00kiaUARzvcC_qx8Nnq=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.whitewind.mountain"
-  },
-  {
-    "appname": "Red - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "4.9",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/KxLCpCpjBxKPtKC_AJd0us5z-PjH94UZwfvhTXNQrENV49Af4w8f-QWswC5g5ERWSPYIZlH6wNMG4zxd4aIUaIcH2e7YyVxRGMT8Fhtw1P_wjXS4=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.red"
   }
 ]
