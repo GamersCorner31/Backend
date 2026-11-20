@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Shortcuts widget - Apps Folder",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/NXb0l301epohW5-Q83bosABWGssJGNHNs2aa1kvq9mLzdGgvo040TeGeH_dzzgQlYTTdBgAdebD3iiPyc46GOdSPbcvO3hC-AXc=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.light.shortcutswidget"
+  },
+  {
+    "appname": "CFS155 Sport Digital WatchFace",
+    "appdev": "CFS Creative Face Studio",
+    "appprice": "$1.49",
+    "apprating": "5.0",
+    "appdownloads": "100",
+    "appurl": "https://lh3.googleusercontent.com/6XkVe8nwon4b3aGgrXqwIlotjmi4zHiLs-IyYy9kTTIihUYaOeLqsdzBmyVtqqkVV_nJjFuiAV_8nDlDawZ8nAagplPNX0WrvOfjiYVCCMZEkHPLuA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.cfs155sportdigitalwf"
+  },
+  {
     "appname": "[365fun] TouchTouchPangPang",
     "appdev": "wind",
     "appprice": "$0.49",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/iY6Co_cbdFaxUGbcWZAWCMWa4oJ9zaBvH3DqH4X1c1GCERhZce0jYVhG39ZX_7vWQExl11vlIWZpr6rq2lWSAdwStqd__8R9MSk8EM7-mPMjW8PE=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou"
-  },
-  {
-    "appname": "Dead God Land - Light Survival",
-    "appdev": "DevVision Games",
-    "appprice": "$6.99",
-    "apprating": "4.3",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/ZbVOtDnNUlGK7L1ZW8BmCPf9yL67opE0OgmRsrXDNqfKx6uNHjEXfi4TQvQviMkoolT8yjfgkuaK8CO4-Tw0H8WfpYYKD0qSCl3x2W4XkgpBMvxK=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.devvisiongames.dglandlight.survival"
-  },
-  {
-    "appname": "Chrono Watch Face",
-    "appdev": "Galaxy Design Studio",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/DDprX4pK1-bUOr6rFRvD873iFoWpCdFpdHgHw1paKJqf_5qfPMQAttsaymqB1YWNQh3Xymm79N2TqSP-98M1jLKzCqs0Ntix3IJyv9EZGwHfvZjy=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.chronodash.galaxydesign"
   }
 ]
