@@ -1,5 +1,75 @@
 [
   {
+    "appname": "Certificate Maker Pro",
+    "appdev": "Global Apps and Games",
+    "appprice": "$4.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/cxnFHIBRe0dBUJ8FTAxV4Khlm-RgXbLEHLvP2z53CUDG1HYVScVeCfUXfGSkuJEX307upC621LRcHJPVnAnyt-_OkSDi2x4WmDbG7_23tMjqvPQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.certificatemaker.certificatecreatorpro"
+  },
+  {
+    "appname": "Merge City Premium -Home decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "3.8",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/udXqpiPyKBr5b-MlK4dD1aFOe-4riSOJhSpsFVN5Fl__FaA8YwE4-9SERVvbZiKc6Qjn5FSmx7y19UZkcsKp23TVk3k9ukxS6qUmE2FkaqWzI3FL=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.city.premium"
+  },
+  {
+    "appname": "Merge Cafe Premium -Home Decor",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$4.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/v-MluzrSdaKT2uW5OFhtkJgLlbWOk2bhRuMi6DXT4W3ejrHjIn4WwZyDKaUF0DL_t5oMWzWZXga0hs6Z7pcDBas_1-nSfLvHKdqpYQY2jX-Sw1lo=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.merge.cafe.premium"
+  },
+  {
+    "appname": "Digital Basic 5b Wear OS 5+",
+    "appdev": "OQ Watchfaces",
+    "appprice": "$0.69",
+    "apprating": "4.7",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/bvz4QybZ2IJPCAY-_x-FoHWIBKTZhcvs_M1uTHad9Ub3p5TnjbCcm2nYrQZjqs95cAsBaXmNng_5lskqLVLlfkDvQyiLIAAw8FqxALlqBx3LXjHlRQ=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.digitalbasic524"
+  },
+  {
+    "appname": "Cooking Kawaii - cooking games",
+    "appdev": "CSCMobi Studios",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Zz34jg_SkUuGJ707WUAkFBYDRJv70Ry0choF-wsVQpjxxqhkO3XTxA5-9os6s8vv-dov_jgh17OpX77_TwG5kqyMe0rda2AGAa8f-tf-qKzKqWc5=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.cscmobi.cooking.love"
+  },
+  {
+    "appname": "Pixel Blade M VIP",
+    "appdev": "pixelstar",
+    "appprice": "$1.99",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/e_Cfcvwf9Ezcc0yg-JKLbBHq-hAW6MFaAD2ATQ8RMeif7LqKAGpEWKrTggLDDjPNCz7_tBK2P44OJX3T1QUcIED1AR0yQ7tUitA=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.pixelstar.PixelFBladeVIP"
+  },
+  {
+    "appname": "Epic Heroes War Premium",
+    "appdev": "DIVMOB",
+    "appprice": "$0.49",
+    "apprating": "4.4",
+    "appdownloads": "1M",
+    "appurl": "https://lh3.googleusercontent.com/Vi0VNO-SbOg0E6JqXKTFFnWK3KSEE3JtXNIk36WTNS7fdhY7MW1cy0FrPy8CN5iI7mq0eNG5P5iWLYGmXyOdhNQ1Pxbl9Bjfeg=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.divmob.epicheroeswar.en.freemium"
+  },
+  {
     "appname": "Shortcuts widget - Apps Folder",
     "appdev": "Neelam Govind Bhanushali",
     "appprice": "$0.99",
@@ -328,75 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/ly_Ii0Ua6d2ncwLXOSg0IMd2NAdOAkLgY7q1TnnnEj-Nh0DKSVOPgvQx-58zoe43EetUlJ8NavGj2p9ofUBBjeaf3uxR-8N-2UV2KM5gZi_e-NlL=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gamezilla.jigsawpuzzles"
-  },
-  {
-    "appname": "World Of Chess 3D (Pro)",
-    "appdev": "SkyIsland Games",
-    "appprice": "$1.99",
-    "apprating": "3.5",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/M5LRKWujhggd4J3etms-PY58VvNmDKBDRzjqtCSBDU27QEW58rHh2PvVwmi23C64CPDXtdC4U4Ef7VwX52rRCLEfZQhkjqvdjQ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.skyisland.game.chess3d"
-  },
-  {
-    "appname": "Mawaz Yellow - Icon Pack",
-    "appdev": "Panoto Gomo",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/skj05l2DdXpn-gupoy81oQgguyWWqtDqwrrxQPDNmadbmJpHGaficOVg19SXwI9C3HeM7O7Xcwfv1Zdc3dHFGPadbyHZ7oLniUNAfPpUFMeiDg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.yellowblack"
-  },
-  {
-    "appname": "Super Shortcut: Productivity",
-    "appdev": "Geeks Empire",
-    "appprice": "$0.99",
-    "apprating": "3.8",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/-VZQM7t-UdpS82damGqBu5wTzaxAZh7hxPa5LYE1vpReHS1yAJUgn0htDVF7n8pF57Hn3Kh1BlwbEkHE4eVQ520JQJmUMns56WwZ=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=net.geekstools.supershortcuts.PRO"
-  },
-  {
-    "appname": "Lines Circle - Neon Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "4.7",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/d28eTJX7AjB8YrHnxlbqYBoKag5S5glTZtrSiNi_wv6iTXqWzWDq1FvbmlBdF3pwrZSfXIgj6XmOLsligBFj7COevcr7sBuwNnp1XncmmU5QeiXVPA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.circlelines"
-  },
-  {
-    "appname": "Lines Circle - White Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/eNzCQmo5Q1z-5shKO2jcQ7yW02LLDhqiN6YrOscz0iU3kwkdeLZ9R-kUpfntB5ZGhBRT_L2ECUDgZZXEvE5c_rH-R_9bmzVziWdUaPXXtjjRkFhLgA=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.lwcircle"
-  },
-  {
-    "appname": "Circle Net White - Icon Pack",
-    "appdev": "GomoTheGom",
-    "appprice": "$1.49",
-    "apprating": "0.0",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/bja-4nCZ89PE6832-57wPPQ3XgOFi-ZPPKOtkqoI31dSRCRvQ9e4a-vzeiu3GrkFpaxzVem4RzSxhx1MReiM-pLa2lNjSGszHg=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.panotogomo.iconpack.net.white"
-  },
-  {
-    "appname": "Material You Watch Face",
-    "appdev": "amoledwatchfaces™",
-    "appprice": "$0.99",
-    "apprating": "4.4",
-    "appdownloads": "10K",
-    "appurl": "https://lh3.googleusercontent.com/iY6Co_cbdFaxUGbcWZAWCMWa4oJ9zaBvH3DqH4X1c1GCERhZce0jYVhG39ZX_7vWQExl11vlIWZpr6rq2lWSAdwStqd__8R9MSk8EM7-mPMjW8PE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou"
   }
 ]
