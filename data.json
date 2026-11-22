@@ -1,5 +1,65 @@
 [
   {
+    "appname": "Live or Die 1: Survival Pro",
+    "appdev": "Gem Jam",
+    "appprice": "$0.99",
+    "apprating": "4.0",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/Wr9f4_hrUerbR5XBvMPk_26ZvoKkh45HJsOW6Mf90q5tg-Q6HpEbdB42n06degF3zvZuIVUXi9YLAEjKJzWTSwvku6YQmhYO4xT8WT-ShxEGefg_=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.nfg.zombie.survival.games.apocalypse.rpg.open.world.adventure.shooting.action.survivor.pro"
+  },
+  {
+    "appname": "Blur Video",
+    "appdev": "SwiperyLab",
+    "appprice": "$4.99",
+    "apprating": "4.3",
+    "appdownloads": "5K",
+    "appurl": "https://lh3.googleusercontent.com/mpCieudvYXBQXVu8EA5Kv2GPeXE54m9t8Dq-nucQRBsWSIkeKxHGhFy4SZ6jWQeAyk0kqYOIP5gMqDI0znin8EtZ8tv8n3kObRauoNBtsUP151q2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.swiperylab.blurvideo"
+  },
+  {
+    "appname": "Hybrid Warrior VIP",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.9",
+    "appdownloads": "10K",
+    "appurl": "https://lh3.googleusercontent.com/HI8-lWVHrexb4QHFl3JHLlVCTlPvlYlWae6rueArV64tL2B-LGHxeLI_-nTkry6LwgCnvvu1xlt7FFFnnFgBnU43mHDq8C1qBNzeVur7xUsAyqgu=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.hybridglobalvip"
+  },
+  {
+    "appname": "Warriors' Market Mayhem VIP :",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "3.6",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/cQpD7PgVVjXi8S_X8vQ2P9zzeKrqGyzp6JmIef5odsAXJkHiW-zgACf_ryxjyGWJLPYpS0nyNyo96TjyfYPHJsGI7CqcUWvA4sU=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.blacksmithvip"
+  },
+  {
+    "appname": "Watch face M18",
+    "appdev": "VG Faces",
+    "appprice": "$1.49",
+    "apprating": "0.0",
+    "appdownloads": "1K",
+    "appurl": "https://lh3.googleusercontent.com/mkUkyD1eLq5lnJe9ID2Hzr-gBGjIe2G4Nd2pr2n2Fw4h7-Uh4xZQEovtujKcrmCi7EDrXS0k-Te5daF0H2EIhsLiR8HsYGL224HsUNK7O3L9qym2=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.m18"
+  },
+  {
+    "appname": "Cooking Quest VIP : Food Wagon",
+    "appdev": "Cat Lab",
+    "appprice": "$0.99",
+    "apprating": "4.1",
+    "appdownloads": "100K",
+    "appurl": "https://lh3.googleusercontent.com/_Qw3EniSAsFRTd5Iq3cVl3f7595biVy0Usc0CggNHhiRZJJZg_aEToBreNJGcMtZJn8Pl_rnFa1PgdADSXGPmIP1Xm080bBY8uTq=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.catlab.cookglobalvip"
+  },
+  {
     "appname": "Business Card Maker: Logo Card",
     "appdev": "TAPUNIVERSE",
     "appprice": "$4.99",
@@ -338,65 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/I0AYbRm-uTHP2cicSvehuiCp4y0UKEs9qeKQe4TISZvBQP0OV_Tu59DWmIdFTdg0UHNBxNklhNQvZ10-pWBlJowM7MJJMo688IUvvpZPjMXabchzsg=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=studio.manja.sudokuclassic"
-  },
-  {
-    "appname": "ML2U 280 Watch Face",
-    "appdev": "ML2U",
-    "appprice": "$1.59",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/P00HmuTmidAQ3epV-OydWhR9nMwsyTGAfTIuHPgQTOM-OFgDj7H_dmXyEvfhZBhHosHmdVjHnsaTRBaOufDu_yRZJLNiZbu75HBzhzKlgcGj4Wnb=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.watchfacestudio.ml2u280"
-  },
-  {
-    "appname": "Dungeon Merge!",
-    "appdev": "Brilbox",
-    "appprice": "$0.39",
-    "apprating": "4.4",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/tAu-_DAh87MYg4dBtWt7xfCTtsBQ3jBx-Wq6RvJrkadEevFv1zs-a5o4_oz0aEGdYoKGxF-GlsVzHSQPkBslYuvBjQ_7-pwr1r6vIVQsEtTXpFOW=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.brilbox.dungeonmerge"
-  },
-  {
-    "appname": "Cleric",
-    "appdev": "Michal Železný",
-    "appprice": "$1.99",
-    "apprating": "0.0",
-    "appdownloads": "5K",
-    "appurl": "https://lh3.googleusercontent.com/-OEgAgrl1o0QmI-TRFpveM7mhrRvtDilx3SVww0taueMFutc6ZjI2ZgYfQoHnL3Qq-qoWYctu5OFg7m3q0PtqfaOfTyNLrtBK8CwE0YoXcpL9xw=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.michalzelezny.cleric"
-  },
-  {
-    "appname": "Stickman Legends Offline Games",
-    "appdev": "Putaleng",
-    "appprice": "$1.99",
-    "apprating": "4.4",
-    "appdownloads": "10M",
-    "appurl": "https://lh3.googleusercontent.com/hCJvFjO03zuF7QtmRQrlZmnsJvA6NdTj4Zvp_7u9RQ6QeU8FhinXFkMBPuFMMhTS12lTSfD3MZ6_7M998Mypzy9cI_F-xrX2obIL=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends.shadow.wars"
-  },
-  {
-    "appname": "Soul Evolve: Epic Fantasy Hero",
-    "appdev": "MGIF",
-    "appprice": "$0.99",
-    "apprating": "4.2",
-    "appdownloads": "100K",
-    "appurl": "https://lh3.googleusercontent.com/Tz48GBDzIiFjNT507Pf_Pi1Y5b8hP2LlR_8dLqYCDOS4BqFz0GWWKQ8qJWbUnIHH6EijPe77hBqJHGFoMNCaUKvbJCK52Gr9vUE=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.mgif.heroeslegend.idlebattle.action.rpg.premium"
-  },
-  {
-    "appname": "Pixel Camo Health",
-    "appdev": "QuBit Time™",
-    "appprice": "$0.99",
-    "apprating": "0.0",
-    "appdownloads": "1K",
-    "appurl": "https://lh3.googleusercontent.com/gJX96ioCCkljRSLGKDs_9hxUPFz5v6RRhgGz_x0dhnmChbZabdbF1R8TxjvfKvPWandP62HnvYF0CEid-Frlkd578NPnxA1TE0OCTJret8BNE1az=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.qubittime.qpc"
   }
 ]
