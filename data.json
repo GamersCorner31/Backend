@@ -1,5 +1,25 @@
 [
   {
+    "appname": "Video Cutter & Status Splitter",
+    "appdev": "Neelam Govind Bhanushali",
+    "appprice": "$0.99",
+    "apprating": "4.2",
+    "appdownloads": "50K",
+    "appurl": "https://lh3.googleusercontent.com/jOaQgVu4dTbzrWOGw0I3i0hjja2pOpHZWNZuX79dkjn0TmwLlEO8fJgJdGubGvbI_NzEQFdw9NDW13DZMGhyOpJhgNqdrtkgl88z=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bhanu.videosplitter"
+  },
+  {
+    "appname": "Extreme Job Hero's Manager VIP",
+    "appdev": "Bigshot Games",
+    "appprice": "$0.99",
+    "apprating": "4.3",
+    "appdownloads": "500K",
+    "appurl": "https://lh3.googleusercontent.com/fvzUFpeB5Sc7yHve3NxWTEMBJfNa8zS9iv2svuEWGiHkkotnvfu1fFduGLukAIy5wI4FVJSuUmSVpv60qu6FkF-tuK1POk81gx-x=s200-rp-e7",
+    "appPlatform": "Playstore",
+    "appredirecturl": "https://play.google.com/store/apps/details?id=com.bigshotgames.hero_managervip"
+  },
+  {
     "appname": "Eye Charts",
     "appdev": "Fonlow",
     "appprice": "$2.99",
@@ -378,25 +398,5 @@
     "appurl": "https://lh3.googleusercontent.com/vgCbHhaF46sI94NcNOh6WgBmKc1hOarKJf1kt9Cl_opVza13A6dSYCJiaGw0BeEmJAn-VFIGEq1ucSNtYvBN5bq2EtVEvoPda2owmR8l9sjHPUUokQ=s200-rp-e7",
     "appPlatform": "Playstore",
     "appredirecturl": "https://play.google.com/store/apps/details?id=com.gemjam.police.department.tycoon.pro.idle.prison.cops.station.officer.simulator.games"
-  },
-  {
-    "appname": "Railways - Train Simulator",
-    "appdev": "Infinity Games, Lda",
-    "appprice": "$2.19",
-    "apprating": "3.7",
-    "appdownloads": "500K",
-    "appurl": "https://lh3.googleusercontent.com/_pLhVCcde-J-gsPmo2UxlnwoKlFkPLr6pIiHj_-wyoYaDtuowCRUmnCQz4QO413x4gmXPhM2eWRWdct93nCcvcLbPFWZ5EpSOFY8=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.infinity.railways"
-  },
-  {
-    "appname": "Summoners Era: Idle Strategy",
-    "appdev": "Fansipan Limited",
-    "appprice": "$0.99",
-    "apprating": "4.1",
-    "appdownloads": "1M",
-    "appurl": "https://lh3.googleusercontent.com/Z32CB8W2Oi-L4BYWnmcU-NT0ysc2M2D_2AYcA57XNDyvr-K9-mEjs3Q6Soqrael0yIN2EQ4hq9A18xftM3mNQ1guzYrR8fV-ZxZHor0Kp_gsPYM-2w=s200-rp-e7",
-    "appPlatform": "Playstore",
-    "appredirecturl": "https://play.google.com/store/apps/details?id=com.fansipan.idle.summoners.era.heroes.afk"
   }
 ]
